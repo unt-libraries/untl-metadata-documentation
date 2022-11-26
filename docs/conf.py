@@ -1,3 +1,5 @@
+import sys
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -35,3 +37,16 @@ html_static_path = ['_static']
 html_css_files = [
     'css/custom.css',
 ]
+
+# Spelling check needs an additional module that is not installed by default.
+# Add it only if spelling check is requested so docs can be generated without it.
+if "spelling" in sys.argv:
+    extensions.append("sphinxcontrib.spelling")
+
+# Spelling language.
+spelling_lang = "en_US"
+
+# Location of word list.
+spelling_word_list_filename = "spelling_wordlist"
+
+spelling_warning = True

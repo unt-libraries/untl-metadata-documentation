@@ -40,7 +40,9 @@ Title
 What Do You Need to Know About Title?
 =====================================
 
-.. note:: This field is required.
+.. note:: 
+   
+   This field is **required**.
 
 * The title is what people usually see first, identifying the item
 * Every item must have a "Main Title"
@@ -81,3 +83,128 @@ Additional Information
 * To see additional examples, see Other Examples
 * For a glossary of title types, see the Comments section
 * For a list of useful links for titles, see the Resources section
+
+====
+
+*******
+Creator
+*******
+
+What Do You Need to Know About Creator?
+=======================================
+
+.. note:: 
+
+   This field is **optional** -- if the creator is unknown, leave it blank.
+
+* The creator field describes "who made this item"
+* There is no limit on the number of creators (but they should have an equal level of responsibility)
+* Each creator can only be listed once and may not also be a contributor
+* Creators have two required labels: type & role
+* Roles should explain "what the creator did" to make the item
+* Each role term is defined in the controlled vocabulary (linked in Resources); before assigning a new kind of role, it may help to review this
+
+Formatting Information
+======================
+
+* Only specific individuals or organizations should be included as creators
+* Include as many creators as you need to, in order of importance (or the order that they appear in on the item)
+* Personal names should be inverted (Last, First Middle)
+  * Suffixes (Jr., Sr., etc.) can be added at the end but titles (Dr., Rev., Mr., etc.) should be left off 
+  unless it is required to accurately represent the person
+* Organization names should be written out as they appear
+* Hierarchical organizations and government agencies should be written from the highest level to the lowest
+* Choose a type (person or organization) and a role from the drop-down menus for each creator
+* Optionally, you can include alternate names or information about the creator that is directly related to the item in the “Information” text field
+
+Examples:
+=========
+
++--------------------------------------+---------------------------------------+
+| **Personal name**                    | Blackburn, J. K. P.                   |
++--------------------------------------+---------------------------------------+
+| **Personal name requiring a title**  | Morris, Mrs. Harry Joseph             |
++--------------------------------------+---------------------------------------+
+| **Personal name with a suffix**      | Roberts, Frank H. H., Jr.             |
++--------------------------------------+---------------------------------------+
+| **Organization name**                | R\. L. Polk & Co.                     |
++--------------------------------------+---------------------------------------+
+| **Government agency**                | Texas. Adjutant General's Office.     |
++--------------------------------------+---------------------------------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for creators, see the :doc:`Creator </fields/creator>` page
+* For more information about where to find creator(s) on an object, see Where Can the Creator Information be Found?
+* For additional guidelines regarding creator names, roles, and information, see How Should the Creator be Filled in?
+* To see additional examples, see Other Examples
+* For a list of useful links for creators, see the Resources section
+* For more information about when to use the Creator or Contributor field, see our definition page
+
+====
+
+***********
+Contributor
+***********
+
+What Do You Need to Know About Contributor?
+===========================================
+
+.. note::
+
+   This field is **optional** -- if there are no contributors or the contributors are unknown, leave it blank.
+  
+* Contributors assist with creating part of the item, or have a tangential relationship to the item (e.g., donor of archival materials)
+* There is no limit on the number of contributors
+* Each contributor can only be listed once and may not also be a creator
+* Contributors have two required labels: type & role
+* Roles should explain "how the contributor helped" to make the item or the contributor's relationship to it
+* Each role term is defined in the controlled vocabulary (linked in Resources); before assigning a new kind of role, it may help to review this
+
+Formatting Information
+======================
+
+* Only specific individuals or organizations should be included as contributors
+* Include as many contributors as you need to, in order of importance (or the order that they appear in on the item)
+* Personal names should be inverted (Last, First Middle)
+  * Suffixes (Jr., Sr., etc.) can be added at the end but titles (Dr., Rev., Mr., etc.) 
+  should be left off unless it is required to accurately represent the person
+* Organization names should be written out as they appear
+* Hierarchical organizations and government agencies should be written from the highest level to the lowest
+* Choose a type (person or organization) and a role from the drop-down menus for each contributor
+* Optionally, you can include alternate names or information about the contributor that is directly related to the item in the “Information” text field
+
+
+Examples:
+=========
+
++--------------------------------------+----------------------------------------------------------------+
+| **Personal name**                    | Sonneck, Oscar George Theodore                                 |
++--------------------------------------+----------------------------------------------------------------+
+| **Personal name requiring a title**  | Bower, Mrs. Orren J.                                           |
++--------------------------------------+----------------------------------------------------------------+
+| **Personal name with a suffix**      | Boyles, C. S., Jr.                                             |
++--------------------------------------+----------------------------------------------------------------+
+| **Organization name**                | Bendix Field Engineering Corporation                           |
++--------------------------------------+----------------------------------------------------------------+
+| **Government agency**                | United States. Navy. Training Division. Bureau of Aeronautics. |
++--------------------------------------+----------------------------------------------------------------+
+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for contributors, see the Contributor page
+* For more information about where to find contributor(s) on an object, see Where Can the Contributor Information be Found?
+* For additional guidelines regarding contributor names, roles, and information, see How Should the Contributor be Filled in?
+* To see additional examples, see Other Examples
+* For a list of useful links for contributors, see the Resources section
+* For more information about when to use the Creator or Contributor field, see our definition page
+
+
+
+
+
+
+
