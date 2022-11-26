@@ -1,3 +1,83 @@
 ###############################
 UNTL Metadata Quick Start Guide
 ###############################
+
+************
+Introduction
+************
+
+If you’re new to metadata or to the UNT Libraries (UNTL) system, this document gives a brief overview of the guidelines for records in the UNT Libraries’ Digital Collections. 
+This introduction covers only the most basic information about formatting while the full guidelines give in-depth instructions and examples to cover any names, places, etc. that do not fit the general rules. To see the full guidelines, click :doc:`here </input-guidelines-descriptive>`. Additionally, links within the overview connect to more specific portions of the guidelines.
+
+
+Overview
+========
+
+The primary goal when we create metadata in the Digital Collections is to help users find items that they will find interesting or useful. 
+We do this by:
+
+* Describing an item as accurately as possible (e.g., not describing a clipping as a whole newspaper, or using a title that only applies to part of the content)
+* Including any information that is relevant to explain what the item is
+* Limiting duplication of information, unless it serves a purpose
+* Following formatting and usage guidelines so that information matches across items
+
+
+Questions or Issues
+===================
+
+If you are working on metadata and discover that you have questions or come across a different kind of item than you have described before, you have a few options to find more information:
+
+* **For formatting or usage questions** (e.g., how to enter an unusual name or whether you should include certain information), use the “Help” link on the field in the editing system – or the links on this page – to see suggestions, guidelines, and examples for different kinds of situations
+* **If you find an unusual item**, it may be helpful to search in the Digital Collections for similar items to see how they have been described before or check to see if there are project-specific guidelines
+* **To get more context about an item**, you may be able to find other records or information online by looking in the library catalog or WorldCat (for formally published books, reports, pamphlets, etc.), by searching finding aids or similar documentation (for archival materials), or by using a search engine (if you want contextual information about an artist, personal collector, etc.)
+
+====
+
+*****
+Title
+*****
+
+What Do You Need to Know About Title?
+=====================================
+
+.. note:: This field is required.
+
+* The title is what people usually see first, identifying the item
+* Every item must have a "Main Title"
+* The "Main Title" qualifier cannot be repeated: only 1 title entry can be labeled "Main Title"
+* It may help to look at the glossary (in the Comments section) if you want to know more about other types of titles
+
+Formatting Information
+======================
+
+* Write out the title as it appears on the item or in accompanying information
+* If the item does not have a title, create a short, descriptive title in square brackets
+* It is preferred that titles are more descriptive than just a proper name
+* To make titles unique, we sometimes add numbers to when there is not another way to distinguish content (e.g., near-identical photos)
+
+
+Examples:
+=========
+
++------------------------+-----------------------------------------------------+
+| **Book**               | Reminiscences of the Terry Rangers                  |
++------------------------+-----------------------------------------------------+
+| **Photograph**         | [Portrait of Bernice P. Lewis]                      |
++------------------------+-----------------------------------------------------+
+| **Newspaper clipping** | [Clipping: State Group Supports Memorial]           |
++------------------------+-----------------------------------------------------+
+| **Traced copy of map** | Map of Horton & Williams Subdivision of Lot 5,      |
+|                        | Block 23 of Harris Addition to the City of Abilene, |
+|                        | Texas [#3]"                                         |
++------------------------+-----------------------------------------------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for titles, see the :doc:`Title </fields/title>` page
+* For more information about where to find the title on an object, see Where Can the Title Information be Found?
+* For additional guidelines regarding basic titles, see General Title Rules
+* For information about other kinds of titles and whether or not they should be used for an item, see Special Titles
+* To see additional examples, see Other Examples
+* For a glossary of title types, see the Comments section
+* For a list of useful links for titles, see the Resources section
