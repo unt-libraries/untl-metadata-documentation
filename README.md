@@ -24,11 +24,15 @@ If you executed these instructions correctly, you should have the Sphinx command
  
 We will need the `Read the Docs` theme for our documentation.
 
-`python -m pip install sphinx-rtd-theme`
+```
+python -m pip install sphinx-rtd-theme
+```
 
 Next you will clone the git repository. 
 
-`git clone https://github.com/unt-libraries/untl-metadata-documentation.git`
+```
+git clone https://github.com/unt-libraries/untl-metadata-documentation.git
+```
 
 To build the documentation you will navigate to the docs folder in this repository and execute the `make` command. 
 
