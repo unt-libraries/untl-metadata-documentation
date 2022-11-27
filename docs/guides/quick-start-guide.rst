@@ -923,3 +923,34 @@ Additional Information
 * If you want to see the full guidelines for notes, see the Note page
 * For additional guidelines regarding notes, see How Should the Note be Filled in?
 * To see additional examples, see Other Examples
+
+####
+
+******************
+Degree Information
+******************
+
+What Do You Need to Know About Degree?
+======================================
+
+.. note::
+
+   This field is **optional** — these fields should be used for products of the UNT community, only
+   
+* Projects that use the Degree field include: UNT Electronic Theses and Dissertations (ETDs), materials in the UNT Scholarly Works collection, and other items created by the UNT community
+* Some information can be used to filter search results if users are looking for research in a particular academic field
+
+Formatting Information
+======================
+
+* If you are working on items created at UNT, read the full guidelines for this field on the Degree Information page.
+
+####
+
+*********
+Resources
+*********
+
+* Input Guidelines for Descriptive Metadata
+* Explanation of Required Fields
+* Additional Documentation and Project-Specific Guides
