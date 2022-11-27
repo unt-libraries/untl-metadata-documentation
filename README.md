@@ -20,7 +20,9 @@ python -m pip install sphinx
 
 If you executed these instructions correctly, you should have the Sphinx command line tools available. You can do a basic verification running this command: 
 
-`sphinx-build --version`
+```
+sphinx-build --version
+```
  
 We will need the `Read the Docs` theme for our documentation.
 
