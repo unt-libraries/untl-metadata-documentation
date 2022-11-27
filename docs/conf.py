@@ -16,9 +16,6 @@ release = '0.1'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-# The suffix of source filenames.
-source_suffix = ".txt"
-
 extensions = []
 
 templates_path = ['_templates']
