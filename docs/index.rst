@@ -30,6 +30,13 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    :caption: Project-Specific Guidelines
 
    /guides/trail
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Other Documentation
+
+   /minimally-viable-records
+   /primary-sources-definition
 
 Indices and tables
 ==================
