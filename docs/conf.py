@@ -47,3 +47,5 @@ spelling_lang = "en_US"
 spelling_word_list_filename = "spelling_wordlist"
 
 spelling_warning = True
+
+html_favicon = "_static/images/favicon-32x32.png"

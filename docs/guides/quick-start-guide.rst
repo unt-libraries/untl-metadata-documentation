@@ -691,11 +691,235 @@ Additional Information
 * For a list of useful links for source, see the Resources section
 * For more information about citing textual source items, see the Citation page
 
+####
+
+********
+Relation
+********
+
+What Do You Need to Know About Relation?
+========================================
+
+.. note:
+
+  This field is **optional** - if there is no relation or the relation is unknown, leave it blank.
+  
+* Relation is used to link together two or more items in the Digital Collections when they are versions of the same content, such as formats (e.g., a negative and a print made from it) or different languages (e.g., a letter in German and a translation in English)
+* Related items display in the public record so that users can see how they are connected
+* Most of the time relationships should be reciprocal so that one item "has version" and the other "is version of"
+
+Formatting Information
+======================
+
+* Generally, an object will have relation(s) that point to every related object (a map that has 4 additional copies would have 4 relation fields, each pointing to a different copy)
+* Include the title, identifier (optional), and ARK of the related item
+
+Examples
+========
+
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Index to a series of volumes**       | (References): Experiment Station Record Volume 1,                                     | 
+|                                        | `ark:/67531/metadc5053 <https://digital.library.unt.edu/ark:/67531/metadc5053/>`_     |
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Volume that has a separate index**   | (Is referenced by): U.S. Experiment Station Record General Index to Volumes 1-12,     |
+|                                        | `ark:/67531/metadc5060 <https://digital.library.unt.edu/ark:/67531/metadc5060/>`_     | 
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Map blueprint that has a             | (Has format): Map of North Park Addition to Abilene, Texas [#2], OKHPB_0470,          |
+| non-blueprint copy**                   | `ark:/67531/metapth77939 <https://texashistory.unt.edu/ark:/67531/metapth77939/>`_    |
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Map that is a copy of a blueprint**  | (Is format of): Map of North Park Addition to Abilene, Texas [#1], OKHPB_0468,        |
+|                                        | `ark:/67531/metapth77936 <https://texashistory.unt.edu/ark:/67531/metapth77936/>`_    | 
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Report from a soil survey**          | (Has part): Soil map, Texas, Wilson County,                                           |
+|                                        | `ark:/67531/metapth19658 <https://texashistory.unt.edu/ark:/67531/metapth19658/>`_    | 
++----------------------------------------+---------------------------------------------------------------------------------------+
+| **Map that accompanies a soil survey** | (Is part of): Soil survey of Wilson County, Texas,                                    |
+|                                        | `ark:/67531/metapth19820 <https://texashistory.unt.edu/ark:/67531/metapth19820/>`_    |
++----------------------------------------+---------------------------------------------------------------------------------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for relation, see the Relation page
+* For more information about where to find relation information on an object, see Where Can the Relation Information be Found?
+* For additional guidelines regarding relation (including additional kinds of relationships), see How Should the Relation be Filled in?
+* To see additional examples, see Other Examples
+* For a list of useful links for relation, see the Resources section
+
+####
+
+**************************
+Institution and Collection
+**************************
+
+What Do You Need to Know About Institution and Collection?
+==========================================================
+
+.. note::
+
+   These fields are **required**.
+
+* Institution and collection should generally be edited only by administrators
+* Some items will have more than one collection but each item can have only one institution
+* These fields collocate large groups of items based on the partner that owns the materials or various topics
+* Users can view descriptive pages that provide more information based on these fields, or use them to filter search results
+
+Formatting Information
+======================
+
+* If it is appropriate to change this information, be sure to choose the correct institution and collection(s) from the drop-down menus based on the information you are given about the project
+
+Examples
+========
+
++-------------------+-----------------------------------------------+
+| **Institution**   | ACRM - Amon Carter Museum                     |
++-------------------+-----------------------------------------------+
+| **Collection**    | HSUY - Hardin-Simmons University Yearbooks    |
++-------------------+-----------------------------------------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for institution, see the Institution page
+* To see additional institution examples, see Other Examples
+* If you want to see the full guidelines for collection, see the Collection page
+* To see additional collection examples, see Other Examples
+
+####
+
+************************
+Resource Type and Format
+************************
+
+What Do You Need to Know About Resource Type and Format?
+========================================================
+
+.. note::
+
+   These fields are **required**.
+
+* Resource type helps users "browse" or filter results by kinds of materials, such as images versus text
+* Format makes records more shareable when our metadata is searched externally
+
+Formatting Information
+======================
+
+* Choose the most specific resource type that is relevant from the UNT Libraries list, based on the glossary (in the Comments section)
+* For "format”, choose the corresponding, more generic form of the resource type from the format list
+
+Examples
+========
+
++-------------------+-----------------------------------------------+
+| **Photograph**    | | *Resource type*: image_photo - Photograph   |
+|                   | | *Format*: image                             |
++-------------------+-----------------------------------------------+
+| **Map**           | | *Resource type*: image_map - Map            |
+|                   | | *Format*: image                             |
++-------------------+-----------------------------------------------+
+| **Letter**        | | *Resource type*: text_letter                |
+|                   | | *Format*: text                              |
++-------------------+-----------------------------------------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for resource types, see the Resource Type page
+* To see additional resource type examples, see Other Examples
+* To see the full list of resource types, see the Comments section
+* If you want to see the full guidelines for formats, see the Format page
+* To see additional format examples, see Other Examples
+* To see the full list of formats, see the Comments section
+
+####
+
+**********
+Identifier
+**********
+
+What Do You Need to Know About Identifier?
+==========================================
+
+.. note::
+
+   This field is **optional** - if there is no identifier or if the identifier is unknown, leave it blank.
+   
+* These are numbers, URLs, or alphanumeric codes that have been assigned to an item
+* Identifiers may serve various purposes such as
+  * identifying a specific item (e.g., a report number or ISBN)
+  * pointing to more context (e.g., a catalog record)
+  * connecting digital and physical items (e.g., call numbers or accession numbers)
+  
+Formatting Information
+======================
+
+* Include as many identifiers as are relevant (they may be written on the item or come from a catalog record)
+* Some identifiers are assigned by the institution that owns the objects (accession or local control number); some may be found in related records (call numbers, OCLC accession numbers, Library of Congress Control Number, etc.); and some can be found on the item (report numbers, ISBN, etc.)
+* For accession numbers assigned by the holding institution, the institution code may be added to the front (e.g., OKHPB_0185)
+
+Examples
+========
+
++----------------------------------------+----------------+
+| **Call number**                        | M1500.G68 A4   |
++----------------------------------------+----------------+
+| **OCLC number**                        | 50684665       |
++----------------------------------------+----------------+
+| **Library of Congress Control Number** | sn86088968     |
++----------------------------------------+----------------+
+| **Local control number**               | ELPL_B650      |
++----------------------------------------+----------------+
+
+Additional Information
+======================
+
+* If you want to see the full guidelines for identifiers, see the Identifier page
+* For more information about where to find identifiers on an object, see Where Can the Identifier Information be Found?
+* For additional guidelines regarding identifiers, see How Should the Identifier be Filled in?
+* To see additional examples, see Other Examples
+* To see a glossary of identifier types, see the Comments section
+* For a list of useful links for identifiers, see the Resources section
+
+####
+
+****
+Note
+****
+
+What Do You Need to Know About Note?
+====================================
+
+.. note::
+
+   This field is **optional** -- if there are no notes, leave it blank.
+   
+* Notes can be used to document any additional information about the item for users (Display Note) or administrators (Non-Display Note)
+* Display notes are searchable and visible to the public but non-display notes are not
+
+Formatting Information
+======================
+
+* This is a free-text field, so information should be formatted in any way that is clear for users
+* Put information taken directly from the item in quotation marks, and include a citation (e.g., page number) if appropriate
+
+Examples
+========
+
++----------------------------------------+------------------------------------------+
+| **Display note containing information  |                                          |
+| from a title page**                    | "Issued May 11, 1918."                   |
++----------------------------------------+------------------------------------------+
+| **Display note for pagination issues** | Missing pages 15 and 16.                 |
++----------------------------------------+------------------------------------------+
+| **Non-display note about internal      | Shortened title was chosen for official  |
+| metadata decisions**                   | title to facilitate discovery.           |
++----------------------------------------+------------------------------------------+
 
 
+Additional Information
+======================
 
-
-
-
-
-
+* If you want to see the full guidelines for notes, see the Note page
+* For additional guidelines regarding notes, see How Should the Note be Filled in?
+* To see additional examples, see Other Examples
