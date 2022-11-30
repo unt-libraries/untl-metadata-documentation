@@ -24,6 +24,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /input-guidelines-descriptive
    /fields/title
    /fields/creator
+   /fields/date
    
 .. toctree::
    :maxdepth: 1

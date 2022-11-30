@@ -58,6 +58,9 @@ In some cases the date may come from accompanying or supplementary information.
 How Date Works in the Metadata Form
 ***********************************
 
+.. image:: /_static/images/edit-date.png
+   :alt: Screenshot of date element in metadata editing system.
+
 Parts:
 	Date qualifier -- drop-down menu
 	Date -- text field
