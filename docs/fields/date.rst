@@ -90,7 +90,8 @@ General Date Rules
 |sections with a single hyphen                  |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
 |Include partial dates when only the year or    |YYYY                   |2006                       |
-|only month and year are known                  |YYYY-MM                |1865-05                    |
+|only month and year are known                  |                       |                           |
+|                                               |YYYY-MM                |1865-05                    |
 +-----------------------------------------------+-----------------------+---------------------------+
 
 -	Unless specifically noted, other date types can be any level of specificity (year, month, day), but patterns and examples will not reflect all possible combinations
@@ -107,10 +108,11 @@ General Date Rules
 |can be replaced with a double-dot to designate |                       |                           |
 |an "open" range                                |../YYYY-MM-DD          |../1914-06                 |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*One of a Set:* Specific unknown date during a known time period (e.g, sometime between 1900 and   |
+|*One of a Set:* Specific unknown date during a known time period (e.g, sometime between 1900 and   | 
 |1905) or amonng several options (e.g., July 1980 or 1981)                                          |
 +-----------------------------------------------+-----------------------+---------------------------+
 |Dates are enclosed in [square brackets]        |[YYYY,YYYY,YYYY]       |[1909,1919,1929]           |
+|                                               |                       |                           |
 |                                               |[YYYY-MM,YYYY-MM]      |[1980-07,1981-07]          |
 |                                               |                       |                           |
 |Separate dates with commas for a list of       |[YYYY..YYYY]           |[1939..1945]               |
@@ -121,24 +123,27 @@ General Date Rules
 |dates:                                         |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
 |    Between 1897 and 1901                      |[YYYY..YYYY]           |[1897..1901]               |
+|                                               |                       |                           |
 |    Before or during 1897                      |[..YYYY]               |[..1897]                   |
+|                                               |                       |                           |
 |    During or after 1901                       |[YYYY..]               |[1901..]                   |
 +-----------------------------------------------+-----------------------+---------------------------+
 |Please note: since [square brackets] are used  |                       |                           |
 |for this notation, they cannot be used to      |                       |                           |
 |represent dates added from a source other than |                       |                           |
-|the item (see Comments for more information)   |                       |                           |
+|the item (see Comments for more information)   |                       |                           |   
 +-----------------------------------------------+-----------------------+---------------------------+
 |*Multiple Dates:* Inclusive, separate dates that are not a single range (e.g., 4th of July 1850 and|
 |1851)                                                                                              |
 +-----------------------------------------------+-----------------------+---------------------------+
 |Dates are enclosed in {curly brackets}         |{YYYY,YYYY,YYYY}       |{1970,1980,1990}           |
+|                                               |                       |                           |
 |                                               |{YYYY-MM,YYYY-MM}      |{1850-07-04,1851-07-04}    |
 |                                               |                       |                           |
 |Separate dates with commas for a list or a     |[YYYY..YYYY,YYYY]      |{1939..1945, 2001}         |
 |double-dot for a range (same as one of a set)  |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Uncertain Dates:* Partially-known or approximate dates                                            |
+|*Uncertain Dates:* Partially-known or approximate dates                                            | 
 +-----------------------------------------------+-----------------------+---------------------------+
 |For a single, uncertain date, add a question   |YYYY-MM-DD?            |1958-09?                   |
 |mark at the end                                |                       |                           |
@@ -153,24 +158,27 @@ General Date Rules
 |Dates with unknown digits cannot also be       |                       |                           |
 |approximate                                    |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Seasons:* For seasonal dates (such as quarterly publications)                                     |
+|*Seasons:* For seasonal dates (such as quarterly publications)                                     | 
 +-----------------------------------------------+-----------------------+---------------------------+
 |In place of a month, use the season code:      |YYYY-SS                |                           |
 |                                               |                       |                           |
 |    21 -- Spring                               |                       |1926-21                    |
+|                                               |                       |                           |
 |    22 -- Summer                               |                       |                           |
+|                                               |                       |                           |
 |    23 -- Autumn                               |                       |1991-23                    |
+|                                               |                       |                           |
 |    24 -- Winter                               |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Dates with Timestamps:* Dates with time precision (requires a specific day)                       |
+|*Dates with Timestamps:* Dates with time precision (requires a specific day)                       | 
 +-----------------------------------------------+-----------------------+---------------------------+
 |Separate the date and time with "T"            |YYYY-MM-DDThh:mm:ss    |2008-05-02T15:07:51        |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*B. C. Dates:* Prehistoric dates (will be year only)                                               |
+|*B. C. Dates:* Prehistoric dates (will be year only)                                               | 
 +-----------------------------------------------+-----------------------+---------------------------+
 |Add a hyphen at the front of the date          |-YYYY                  |-0601                      |
 |                                               |                       |                           |
-|Years must have at least 4 digits              |-YYYYY                 |-50000                     |
+|Years must have at least 4 digits              |-YYYYY                 |-50000                     |           
 +-----------------------------------------------+-----------------------+---------------------------+
    
 \*For more information about implementation of the date standard, see
