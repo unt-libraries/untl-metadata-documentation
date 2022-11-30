@@ -362,7 +362,7 @@ Comments
 Resources
 *********
 
--   UNT Date Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/date-qualifiers/>`
--   Library of Congress `Extended Date/Time Format <http://www.loc.gov/standards/datetime/edtf.html>`
--   UNT Extended Date/Time Format `Validation Service <https://digital2.library.unt.edu/edtf/>`
+-   UNT Date Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/date-qualifiers/>`_
+-   Library of Congress `Extended Date/Time Format <http://www.loc.gov/standards/datetime/edtf.html>`_
+-   UNT Extended Date/Time Format `Validation Service <https://digital2.library.unt.edu/edtf/>`_
 
