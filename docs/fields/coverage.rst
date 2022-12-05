@@ -597,7 +597,7 @@ Resources
 
 **Places**
 
-- `GeoNames Database < http://www.geonames.org/>`_
+- `GeoNames Database <http://www.geonames.org/>`_
 - `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/>`_
 - `CIA World Factbook <https://www.cia.gov/the-world-factbook/countries/world>`_
 - `Member Countries of the European Union <http://europa.eu/about-eu/countries/member-countries/index_en.htm>`_
