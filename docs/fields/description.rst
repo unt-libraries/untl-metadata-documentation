@@ -610,7 +610,7 @@ Motion pictures and videorecordings
 |dimensions = physical size                                                                                                   |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 | - for videodiscs: give diameter of discs in inches (in.)                      |; standard 8 mm.                             |
-| - for motion pictures: give the gauge (width) of film in millimeters (mm.),    |                                             |
+| - for motion pictures: give the gauge (width) of film in millimeters (mm.),   |                                             |
 |   and for 8 mm. state: single, standard, super, or Maurer                     |; 1/2 in.                                    |
 | - for born-digital recordings use "digital" and, optionally, other information|                                             |
 |   in parentheses                                                              |; 8 in.                                      |
@@ -767,7 +767,7 @@ Comments
 ********
 
 -   For format (text, image, etc.), use the [Format][] element.
--   Since the physical description element corresponds to the \[300\]
+-   Since the physical description element corresponds to the [300]
     field in the MARC records used by many library catalogs, it is
     recommended to follow AACR2 rules, when possible/applicable.
 -   For our purposes, **standard photograph sizes** refer to the
