@@ -107,7 +107,7 @@ Place Name(s)
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
 |Include any places relevant to the content of the item                         |United States                                   |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |France                                          |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |Note that most locations will already have an established form that should be  |                                                |
@@ -119,19 +119,19 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*General Format*                                                                                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|Separate elements of the hierarchy with a space followed by a hyphen and then  |Canada - Ontario Province                       |
-|another space ([text] - [text])                                                |                                                |
+|-  Separate elements of the hierarchy with a space followed by a hyphen and    |Canada - Ontario Province                       |
+|   then another space ([text] - [text])                                        +------------------------------------------------+
 |                                                                               |England - Brighton and Hove Unitary Authority - |
-|Begin with the largest ("country" level) and proceed to the smallest relevant  |Brighton                                        |
-|geographical unit                                                              |                                                |
+|-  Begin with the largest ("country" level) and proceed to the smallest        |Brighton                                        |
+|   relevant geographical unit                                                  +------------------------------------------------+
 |                                                                               |Poland - Lower Silesia Province -               |
 |                                                                               |Lubin County - Lubin Gmina - Lubin              |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |Write out "County", "Parish", "Province", and other relevant descriptors (*not*|Italy - Latium Region - Rome Province - Rome    |
-|"State")                                                                       |                                                |
+|"State")                                                                       +------------------------------------------------+
 |                                                                               |United States - Louisiana - Caddo Parish -      |
 |For most places in the United States, this form should be used:                |Shreveport                                      |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |United States - [state] - [county] County - [city]                             |United States - Illinois - Cook County -        |
 |                                                                               |Chicago                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
@@ -141,7 +141,7 @@ Place Name(s)
 |not include the parent nation in the hierarchy                                 |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |When item content covers continents rather than countries (e.g., maps), use    |North America                                   |
-|continent names based on the `CIA World Factbook                               |                                                |
+|continent names based on the `CIA World Factbook                               +------------------------------------------------+
 |<https://www.cia.gov/the-world-factbook/countries/world>`_ (also listed in the)|Central America and Caribbean                   |
 |[Comments][] section                                                           |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
@@ -149,11 +149,11 @@ Place Name(s)
 |countries, use the "nation" name                                               |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |Do not include political groups (e.g., the European Union, United Nations,     |France                                          |
-|etc.); instead list the relevant member countries based on the content/time of |                                                |
+|etc.); instead list the relevant member countries based on the content/time of +------------------------------------------------+
 |publication                                                                    |England                                         |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |Germany                                         |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |etc.                                            |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |For bodies of water (lakes, rivers, oceans, etc.) and geographic landmarks     |*Coverage Place:* United States - Texas         |
@@ -184,9 +184,9 @@ Place Name(s)
 |                                                                               |                                                |
 |                                                                               |*Keyword:* Camp Barkeley                        |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|A colonia or "Census Designated Place" (CDP) is treated the same as a city     |*Coverage Place:* United States - Webb County - |
+|-   A colonia or "Census Designated Place" (CDP) is treated the same as a city |*Coverage Place:* United States - Webb County - |
 |                                                                               |Ranchitos Las Lomas                             |
-|Other forms of the name (e.g., with the CDP note) can be added as keywords     |                                                |
+|-   Other forms of the name (e.g., with the CDP note) can be added as keywords |                                                |
 |                                                                               |*Coverage Place:* United States - Webb County - |
 |                                                                               |Village East Colonia                            |
 |*Note: A CDP is defined according the `U.S. Census Bureau                      |                                                |
@@ -194,11 +194,11 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Name Changes*                                                                                                                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|If the region being described has changed names or restructured, use the       |*Coverage Place:* Puerto Rico                   |
-|current name                                                                   |                                                |
+|-   If the region being described has changed names or restructured, use the   |*Coverage Place:* Puerto Rico                   |
+|    current name                                                               |                                                |
 |                                                                               |*Keyword:* Porto Rico                           |
-|Variant names may be included as [keywords][] and may be used in other text    +------------------------------------------------+
-|fields when describing the item/content                                        |*Coverage Place:* Vietnam - Ho Chi Minh         |
+|-   Variant names may be included as [keywords][] and may be used in other text+------------------------------------------------+
+|    fields when describing the item/content                                    |*Coverage Place:* Vietnam - Ho Chi Minh         |
 |                                                                               |Municipality - Ho Chi Mihn City                 |
 |If the previous hierarchy or version of a place name is important, it may also |                                                |
 |be added as a [historic place name][]                                          |*Historic Place Name:* Vietnam - Saigon         |
@@ -250,16 +250,16 @@ Historic Place Name
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
-|Add the historic name of the location                                          |Yugoslavia - Brod                               |
-|                                                                               |                                                |
-|If known, use a hierarchical format to provide context                         |United States - Indian Territory - Canadian     |
+|-   Add the historic name of the location                                      |Yugoslavia - Brod                               |
+|                                                                               +------------------------------------------------+
+|-   If known, use a hierarchical format to provide context                     |United States - Indian Territory - Canadian     |
 |                                                                               |County - El Reno                                |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |U.S.S.R.                                        |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |France - Alsace Region - Bas-Rhin Department -  |
 |                                                                               |Herrlisheim                                     |
-|                                                                               |                                                |
+|                                                                               +------------------------------------------------+
 |                                                                               |New Spain                                       |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
@@ -267,7 +267,6 @@ Historic Place Name
 
 Geocoordinates
 ---------------
-
 
 -   Place point and place box are used to represent specific coordinates
     when available information is more specific than a place name (e.g.,
@@ -285,6 +284,8 @@ Geocoordinates
 -   Geocoordinate options are repeatable, but multiple point(s) or box(es)
     should be used sparingly, and only when this level of specificity
     is appropriate
+-	Since these represent different/more specific information, geocoordinate
+	entries should only be use along with the appropriate place name(s)
 
 Place Point
 ^^^^^^^^^^^
@@ -355,16 +356,16 @@ Dates
 |hyphen                                                                         |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |Include partial dates if content discusses a whole year (YYYY) or month (YYYY- |A calendar of events for August 2001            |2001-08           |
-|MM), or if that is the most specific date that can be determined               |                                                |                  |
+|MM), or if that is the most specific date that can be determined               +------------------------------------------------+------------------+
 |                                                                               |An annual report for calendar year 1972         |1972              |
-|                                                                               |                                                |                  |
+|                                                                               +------------------------------------------------+------------------+
 |                                                                               |A letter written sometime in 1852               |1852              |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |*Uncertain Dates**                                                                                                                                 |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |If a date is uncertain, use a question mark at the end                         |A map documenting a survey, believed to have    |1720?             |
 |                                                                               |occurred in 1720                                |                  |
-|It the specific year is unknown (e.g., a decade), the last digit can be        |                                                |                  |
+|It the specific year is unknown (e.g., a decade), the last digit can be        +------------------------------------------------+------------------+
 |replaced by "X"                                                                |A book discussing trends of the 1970s           |197X              |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |Approximate ("circa") dates are represented with a tilde at the end            |A letter written mid-May 1862, discussing       |1862-05~          |
@@ -377,10 +378,10 @@ Dates
 |*Date Ranges*                                                                                                                                      |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |For a single, inclusive date range, use the interval notation                  |A journal with article content ranging 1908-1928|1908/1928         |
-|                                                                               |                                                |                  |
+|                                                                               +------------------------------------------------+------------------+
 |                                                                               |An interview discussing events from roughly 2013|2013~/2018        |
 |                                                                               |until 2018, when it was recorded                |                  |
-|                                                                               |                                                |                  |
+|                                                                               +------------------------------------------------+------------------+
 |                                                                               |Annual financial report for fiscal year 2003    |2002-09-01/2003-  |
 |                                                                               |                                                |08-31             |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
@@ -390,7 +391,7 @@ Dates
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |For multiple (inclusive) dates or date ranges that are *not consecutive*, use  |Report documenting data collected in  1900,     |{1900,1950,2000}  |
 |multiple date notation with {curly brackets}                                   |1950, and 2000                                  |                  |
-|                                                                               |                                                |                  |
+|                                                                               +------------------------------------------------+------------------+
 |                                                                               |Thesis comparing various aspects of WWI and WWII|{1914-07..1918-11,|
 |                                                                               |                                                |1939-09..1945-09} |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+

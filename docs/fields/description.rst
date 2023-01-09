@@ -37,7 +37,7 @@ Element Name: Content Description
 
 
 Where Can the Content Description Information be Found?
--------------------------------------------------------
+=======================================================
 
 In some cases a content description may come from accompanying or supplementary information; however, generally, the item must be read/examined to describe the content, such as:
 
@@ -81,7 +81,7 @@ In some cases a content description may come from accompanying or supplementary 
 
 
 How Should the Content Description be Filled in?
-------------------------------------------------
+================================================
 
 -   Describe the subject matter of the item
 -   Use complete sentences with proper grammar and punctuation
@@ -99,52 +99,71 @@ How Should the Content Description be Filled in?
 |Be descriptive, include details that would be helpful to users, and focus on   |                                                                   |
 |what the *item* is about, rather than context:                                 |                                                                   |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For photographs, artwork, and other images, provide a description of any       |Photograph of a cowboy riding a brown bull in an arena.  A rodeo   |
-|important elements that are visible in the image (e.g., people, buildings,     |clown is standing on the right side of the image, and behind him,  |
-|foreground/background, etc.)                                                   |spectators are watching from the other side of a red fence.        |
+|For photographs, artwork, and other images                                                                                                         |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For text, give a brief overview of the topic and what information is included  |Biography of Alexander Gregg, including background information     |
+|Provide a description of any important elements that are visible in the image  |Photograph of a cowboy riding a brown bull in an arena.  A rodeo   |
+|(e.g., people, buildings, foreground/background, etc.)                         |clown is standing on the right side of the image, and behind him,  |
+|                                                                               |spectators are watching from the other side of a red fence.        |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|For general text                                                                                                                                   |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|Give a brief overview of the topic and what information is included            |Biography of Alexander Gregg, including background information     |
 |                                                                               |about his family sa well as a sketch of his life and involvement in|
 |                                                                               |the church throughout his career until his death in 1893.          |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For letters, be shure to state who the letter is to and from, giving a brief   |Letter from James E. Sutherlin to his family describing his plans  |
-|overview of the content                                                        |for saving money to buy a new car once he gets home.               |
+|For letters                                                                                                                                        |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For postcards, describe them as photographs/images if there is nothing written |Postcard depicting tents of the New Hampshire camp at Ft. McIntosh |
+|Be sure to state who the letter is to and from, giving a brief overview of the |Letter from James E. Sutherlin to his family describing his plans  |
+|content                                                                        |for saving money to buy a new car once he gets home.               |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|For postcards                                                                                                                                      |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|Describe them as photographs/images if there is nothing written on the back    |Postcard depicting tents of the New Hampshire camp at Ft. McIntosh |
 |on the back                                                                    |in Laredo, Texas.                                                  |
-|                                                                               |                                                                   |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |If the postcard has a message on the back, describe the image and the          |Postcard of the Custom House building in Nuevo Laredo, Mexico.  A  |
 |correspondence                                                                 |handwritten thank-you note on the back is addressed to Capt. Elmer |
-|                                                                               |C. Croom from L. R. de la Pe&ntilde;a.                             |
+|                                                                               |C. Croom from L. R. de la Peña.                                    |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For serials, a generic description of the kind of content can be used in every |Quarterly publication containing genealogical information about    |
-|record, but may include themes for specific volumes, references to indexes,    |families in East Texas including fifth generation charts, family   |
-|special issue topics, etc.                                                     |histories, and lists of records (births, deaths, etc.)             |
-|                                                                               |                                                                   |
+|For serials (newsletters, journals, annual reports, yearbooks, etc.)                                                                               |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|A generic description of the kind of content can be used in every record, but  |Quarterly publication containing genealogical information about    |
+|may include themes for specific volumes, references to indexes, special issue  |families in East Texas including fifth generation charts, family   |
+|topics, etc.                                                                   |histories, and lists of records (births, deaths, etc.)             |
+|                                                                               +-------------------------------------------------------------------+
 |                                                                               |Journal [...]. This issue focuses on "Dallas Goes to War: Life on  |
 |                                                                               |the Homefront."                                                    |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|For maps, state the region depicted as well as: important features noted on the|Map of the western hemisphere including North and South America    |
-|map, shading or color that has significance, insets, relief or elevations, and |with the surrounding areas.  Bodies of water and geographic        |
+|For maps                                                                                                                                           |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|State the region depicted as well as: important features noted on the map,     |Map of the western hemisphere including North and South America    |
+|shading or color that has significance, insets, relief or elevations, and      |with the surrounding areas.  Bodies of water and geographic        |
 |other relevant details                                                         |features are marked pictorially.  There are illustrations of ships |
 |                                                                               |in various places around the map.                                  |
-|When applicable, the scale of the map can be included at the end of the        |                                                                   |
-|of the description (as a proportion of inches).  If the scale is known but not |Map of [...]. Scale 1:24,000.                                      |
-|stated on the map, it can be included in [brackets]; approximate scale can be  |                                                                   |
-|included as "Scale ca. 1:#"                                                    |Map showing parts of North America including most of New Britain   |
-|                                                                               |(Canada), the United States, and the northern portion of Mexico.   |
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|When applicable, the scale of the map can be included at the end of the        |Map of [...]. Scale 1:24,000.                                      |
+|of the description (as a proportion of inches).  If the scale is known but not +-------------------------------------------------------------------+
+|stated on the map, it can be included in [brackets]; approximate scale can be  |Map showing parts of North America including most of New Britain   |
+|included as "Scale ca. 1:#"                                                    |(Canada), the United States, and the northern portion of Mexico.   |
 |                                                                               |U.S. states and territories are shaded in various colors and       |
 |                                                                               |labeled. Some major cities, bodies of water, and geographic        |
 |                                                                               |features are marked (with relief shown by hachures). Scale [ca.    |
 |                                                                               |1:19,008,000].                                                     |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+
+
+Other suggestions:
+
++-------------------------------------------------------------------------------+-------------------------------------------------------------------+
+|**Guidelines**                                                                 |**Examples**                                                       |
++===============================================================================+===================================================================+
 |Cite any statements taken directly from the item(s) to use in the description  |"Official publication of the Parks and Wildlife Department,        |
 |                                                                               |dedicated to protecting and conserving natural resources; to       |
 |                                                                               |providing and maintaining an excellent park system; and to         |
 |                                                                               |improving hunting and fishing in Texas" (p. 2).                    |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |If the text has an index, include a statement at the end of the description    |Index starts on page 254.                                          |
-|                                                                               |                                                                   |
+|                                                                               +-------------------------------------------------------------------+
 |                                                                               |Index starts after page 18.                                        |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |When referring to a company, organization, school, military installation, etc.,|Photograph of the central stairs inside the North Texas State      |
@@ -158,10 +177,10 @@ How Should the Content Description be Filled in?
 |Regarding contextual information (e.g., about a person or place in an image):  |*Description:* Portrait of Elwin L, Skiles, who was president of   |
 |                                                                               |Hardin-Simmons University from 1966 to 1977.  He is visible from   |
 | - Brief amounts of information may be incorporated into the description,      |from the shoulders up and is wearing a dark-colored suit with a    |
-|   particularly if they are relevant to the specific image/item and if the     |tie that has diagonal stripes.                                     |
+|   particularly if it si relevant to the specific image/item and if the        |tie that has diagonal stripes.                                     |
 |   description is not already lengthy                                          +-------------------------------------------------------------------+
 | - Generally, add contextual statements(e.g., biographies, history of building |*Display Note:* Additional biographical description from           |
-|   owndership, name or location changes, event details, etc.) in a [display    |accompanying information: Ida Loving Turner was a chosen delegate  |
+|   ownership, name or location changes, event details, etc.) in a [display     |accompanying information: Ida Loving Turner was a chosen delegate  |
 |   note][] instead of the description                                          |from Texas to represent the Board of Lady Managers at the 1893     |
 |                                                                               |World's Columbian Exposition in Chicago.  She served as            |
 |                                                                               |Postmistress in Fort Worth; one of the founders of of Fort Worth   |
@@ -174,17 +193,17 @@ How Should the Content Description be Filled in?
 |                                                                               |industrial and private exhibitors that participated in HemisFair,  |
 |                                                                               |held in San Antonio, Texas, from April to October 1968.            |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|It is not necessary to research the item unless outside information is required|*Display Note:* The chautauqua movement was a "popular U.S.        |
-|to understand or locate the item                                               |movement in adult education that flourished during the late 19th   |
-|                                                                               |and early 20th centuries...At first entirely religious in nature,  |
-|Put information from research in a [display note][] instead of the description |the program was gradually broadened to include general education,  |
-|if it is important to understand the item and cite the source                  |recreation, and popular entertainment" - from Encyclopedia         |
+|-  It is not necessary to research the item unless outside information is      |*Display Note:* The chautauqua movement was a "popular U.S.        |
+|   required to understand or locate the item                                   |movement in adult education that flourished during the late 19th   |
+|-  Put information from research in a [display note][] instead of the          |and early 20th centuries...At first entirely religious in nature,  |
+|   description if it is important to understand the item                       |the program was gradually broadened to include general education,  |
+|-  Cite any source that you reference                                          |recreation, and popular entertainment" - from Encyclopedia         |
 |                                                                               |Britannica                                                         |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 
 
 Other Content Description Examples
-----------------------------------
+==================================
 
 Directory of the City of Fort Worth 1905-06.
     *Content Description:* Directory to the city of Fort Worth, Texas
@@ -253,12 +272,12 @@ Color slide: [Sydney Harbour and Opera House]
     of Sydney, Australia are visible in the background behind the opera
     house.
 
-
+**********************************
 Element Name: Physical Description
-==================================
+**********************************
 
 Where Can the Physical Description Information be Found?
---------------------------------------------------------
+========================================================
 -   Physical description comes from physically examining the item
     including:
     
@@ -269,7 +288,7 @@ Where Can the Physical Description Information be Found?
 
 
 How Should the Physical Description be Filled in?
--------------------------------------------------
+=================================================
 
 -   Enter physical descriptions including: dimensions, extent,
     pagination, and related physical and process details
@@ -285,7 +304,7 @@ How Should the Physical Description be Filled in?
 
 
 Books, pamphlets, and printed sheets
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -345,7 +364,7 @@ Also see [Other Examples][].
 
 
 Photographs and other "graphic" materials
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -391,7 +410,7 @@ Photographs and other "graphic" materials
 |   use ".0" for numbers that are not fractions, or decimals for any other sizes|; 17 x 22 cm., in frame 21 x 26 cm.          |
 | - for born-digital images only, provide the size in pixels (px.) when known   |                                             |
 |                                                                               |                                             |
-|**Note:* For photos/images on individual scrapbook pages, use # scrapbook      |                                             |
+|**Note:** For photos/images on individual scrapbook pages, use # scrapbook     |                                             |
 |page(s) ; h x w of whole page in cm.                                           |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
@@ -413,7 +432,7 @@ Also see [Other Examples][].
 
 
 Maps and other cartographic materials
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -462,7 +481,7 @@ Maps and other cartographic materials
 Also see [Other Examples][1].
 
 Manuscripts (maps, musical scores, and other documents that are handwritten)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------------------------
 
 -   Formatting is essentially the same as for books and other texts:
 
@@ -503,7 +522,7 @@ Manuscripts (maps, musical scores, and other documents that are handwritten)
 Also see [Other Examples][1].
 
 Music
-^^^^^
+-----
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -536,7 +555,7 @@ Music
 Also see [Other Examples][1].
 
 Sound recordings
-^^^^^^^^^^^^^^^^
+----------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -580,7 +599,7 @@ Sound recordings
 Also see [Other Examples][1].
 
 Motion pictures and videorecordings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -629,7 +648,7 @@ Motion pictures and videorecordings
 Also see [Other Examples][1].
 
 Three-dimensional objects
-^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
@@ -682,7 +701,7 @@ Three-dimensional objects
 Also see [Other Examples][1].
 
 Accompanying material
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 -   Accompanying material only refers to multiple pieces included within
     the same digital object
@@ -704,7 +723,7 @@ Accompanying material
 
 
 Other Physical Description Examples
------------------------------------
+===================================
 
 Directory of the City of Fort Worth 1905-06.
    *Physical Description:* 550, vi, 5-38 p. : ill. ; 24 cm.

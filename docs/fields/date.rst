@@ -143,7 +143,7 @@ General Date Rules
 |                                               |                       |                           |
 |                                               |{YYYY-MM,YYYY-MM}      |{1850-07-04,1851-07-04}    |
 |                                               |                       |                           |
-|Separate dates with commas for a list or a     |[YYYY..YYYY,YYYY]      |{1939..1945, 2001}         |
+|Separate dates with commas for a list or a     |{YYYY..YYYY,YYYY}      |{1939..1945, 2001}         |
 |double-dot for a range (same as one of a set)  |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
 |*Uncertain Dates:* Partially-known or approximate dates                                            | 
