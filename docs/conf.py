@@ -33,6 +33,7 @@ html_static_path = ['_static']
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/custom.css',
+    'css/untl.css',
 ]
 
 # Spelling check needs an additional module that is not installed by default.

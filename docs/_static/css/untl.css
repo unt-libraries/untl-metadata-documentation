@@ -1,0 +1,34 @@
+body {
+
+}
+
+a {
+    color: #00853e;
+}
+
+a:hover,
+a:visited {
+    color: #00391a;
+}
+
+.wy-side-nav-search {
+    background-color: #006a31;
+}
+
+.wy-menu-vertical p.caption {
+    color: #006a31;
+}
+
+.wy-menu-vertical a,
+.wy-menu-vertical a:hover,
+.wy-menu-vertical a:visited {
+    color: white;
+}
+
+.rst-content .note .admonition-title {
+    background: #17a2b8 linear-gradient(180deg,#3ab0c3,#17a2b8) repeat-x;
+}
+
+.rst-content .note {
+    background: rgba(22, 162, 184, 0.25);
+}
