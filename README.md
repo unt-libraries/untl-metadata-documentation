@@ -10,7 +10,7 @@ mkdir untl-metadata
 cd untl-metadata
 ````
 
-Create a virutal enviornment. 
+Create a virtual environment. 
 
 ```
 python -m venv .venv
