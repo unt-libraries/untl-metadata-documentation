@@ -43,13 +43,6 @@ How Should the Institution be Filled in?
 -   For items created in the UNT community, the Institution will be the
     name of the College that contains the discipline or department
 
-    -   The specific department will be added as an [Academic
-        Department][]
-    -   In cases where items are created by UNT community members from
-        different disciplines, the primary creator (or the person listed
-        first on the item) will be used to determine the appropriate
-        College
-
 -   It is **important** that the correct institution name be entered for
     the item
 
