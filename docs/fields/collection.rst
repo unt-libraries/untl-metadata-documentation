@@ -27,8 +27,7 @@ Parts:
    1. Collection name -- drop-down menu
 
 Repeatable?
-:   Yes - to include multiple collections, click 'Add' to repeat the
-    field
+:   Yes - to include multiple collections, click 'Add' to repeat the field
 
 Required?
 :   Yes ([more information][])

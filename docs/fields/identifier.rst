@@ -34,9 +34,9 @@ Identifier information can be found in several places including:
 
 
 
-***************************************
+*****************************************
 How Identifier Works in the Metadata Form
-***************************************
+*****************************************
 
 .. image:: ../_static/images/edit-identifier.png
    :alt: Screenshot of identifier element in metadata editing system.

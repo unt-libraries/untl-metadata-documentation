@@ -249,7 +249,7 @@ Named Persons (named_person)
 |                                                           |*Keyword:* Buffalo Bill                |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If an authorized name (from the `Library of Congress    |*Named Person:* Austin, Stephen F.     |
-|   <https://id.loc.gov/>`_.) is known, it may be used in   |(Stephen Fuller), 1793-1836            |
+|   <https://id.loc.gov/>`_ ) is known, it may be used in   |(Stephen Fuller), 1793-1836            |
 |   the named person entry                                  +---------------------------------------+
 |-  Alternately, if the authorized version does not include |*LCSH:* Johnson, Lady Bird, 1912-2007  |
 |   information (such as "Jr.") that could be helpful, it   +---------------------------------------+
@@ -308,8 +308,8 @@ UNT Libraries Browse Subjects (UNTL-BS)
 |dash and spaces (Term - Term)                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  For subject strings that have several levels, do not    |Social Life and Customs - Customs -    |
-|include each part separately -- only use the most specific |Weddings                               |
-|or relevant string(s)                                      |                                       |
+|   include each part separately -- only use the most       |Weddings                               |
+|   specific or relevant string(s)                          |                                       |
 |                                                           |                                       |
 |-  For example, not:                                       |                                       |
 |                                                           |                                       |
@@ -511,7 +511,7 @@ Comments
         its creator, place the creator's name in both the
         subject/keyword element and the [Creator][] element.
     -   Although geographic terms are normally handled by the
-      [Coverage][] (Place Name) element, subject fields could include
+        [Coverage][] (Place Name) element, subject fields could include
         geographic terms as well if the location is significant to the
         content.
 
@@ -535,36 +535,36 @@ Resources for Selected Vocabularies:
 |Controlled Vocabulary              |UNTL Code      |Links to Resources                                                                     |
 +===================================+===============+=======================================================================================+
 |University of North Texas Libraries|UNTL-BS        |`University of North Texas Libraries Browse Subjects                                   |
-|Browse Subjects                    |               |<https://digital2.library.unt.edu/subjects/>`_.                                        |
+|Browse Subjects                    |               |<https://digital2.library.unt.edu/subjects/>`_                                         |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |Art and Architecture Thesaurus     |AAT            |`Art and Architecture Thesaurus                                                        |
-|(Getty)                            |               |<https://www.getty.edu/research/tools/vocabularies/aat/>`_.                            |
+|(Getty)                            |               |<https://www.getty.edu/research/tools/vocabularies/aat/>`_                             |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
-|Library of Congress (LC)           |               |`Thesauri and Controlled Vocabularies <https://id.loc.gov/>`_.                         |
+|Library of Congress (LC)           |               |`Thesauri and Controlled Vocabularies <https://id.loc.gov/>`_                          |
 |                                   |               +---------------------------------------------------------------------------------------+
 |                                   |               |`Classification Web                                                                    |
-|                                   |               |<https://libproxy.library.unt.edu/login?url=https://classificationweb.net/Auto/>`_.    |
-|                                   |               |  (Accessible to UNT staff/students)                                                   |
+|                                   |               |<https://libproxy.library.unt.edu/login?url=https://classificationweb.net/Auto/>`_     |
+|                                   |               |(Accessible to UNT staff/students)                                                     |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  Legislative Subject Terms       |LST            |`Legislative Subject Terms                                                             |
-|                                   |               |<https://www.congress.gov/help/field-values/legislative-subject-terms>`_.              |
+|                                   |               |<https://www.congress.gov/help/field-values/legislative-subject-terms>`_               |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
-|-  Library of Congress Subject     |LCSH           |`Library of Congress Authorities <https://authorities.loc.gov>`_.                      |
+|-  Library of Congress Subject     |LCSH           |`Library of Congress Authorities <https://authorities.loc.gov>`_                       |
 |   Headings                        |               +---------------------------------------------------------------------------------------+
 |                                   |               |`Library of Congress Subject Headings                                                  |
-|                                   |               |<https://id.loc.gov/authorities/subjects.html>`_.                                      |
+|                                   |               |<https://id.loc.gov/authorities/subjects.html>`_                                       |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  LC Genre/Form Terms             |LCGFT          |`Library of Congress Genre/Form Terms                                                  |
-|                                   |               |<https://id.loc.gov/authorities/genreForms.html>`_.                                    |
+|                                   |               |<https://id.loc.gov/authorities/genreForms.html>`_                                     |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  LC Medium of Performance        |LCMPT          |`Library of Congress Medium of Performance Thesaurus                                   |
-|   Thesaurus                       |               |<https://id.loc.gov/authorities/performanceMediums.html>`_.                            |
+|   Thesaurus                       |               |<https://id.loc.gov/authorities/performanceMediums.html>`_                             |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  LC Thesaurus for Graphic        |TGM            |`Thesaurus for Graphic Materials I: Subject Terms                                      |
-|   Materials                       |               |<https://www.loc.gov/rr/print/tgm1/>`_.                                                |
+|   Materials                       |               |<https://www.loc.gov/rr/print/tgm1/>`_                                                 |
 |                                   |               +---------------------------------------------------------------------------------------+
 |                                   |               |`Thesaurus for Graphic Materials                                                       |
-|                                   |               |<https://id.loc.gov/vocabulary/graphicMaterials.html>`_.                               |
+|                                   |               |<https://id.loc.gov/vocabulary/graphicMaterials.html>`_                                |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 
 
