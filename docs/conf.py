@@ -9,7 +9,7 @@ import sys
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'UNTL Metadata Documentation'
-copyright = '2022, UNT Libraries'
+copyright = '2022, University of North Texas. This work is licensed under Creative Commons Attribution 4.0 International'
 author = 'UNT Libraries'
 release = '0.1'
 
@@ -28,6 +28,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_title = "University Libraries - UNT"
+html_baseurl = "https://library.unt.edu/metadata/"
+html_favicon = "_static/images/favicon-32x32.png"
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
@@ -48,4 +51,8 @@ spelling_word_list_filename = "spelling_wordlist"
 
 spelling_warning = True
 
-html_favicon = "_static/images/favicon-32x32.png"
+# Options for RTD Theme
+html_theme_options = {
+    'style_nav_header_background': '#006a31',
+
+}

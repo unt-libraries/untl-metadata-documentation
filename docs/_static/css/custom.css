@@ -21,3 +21,41 @@ a.icon.icon-home::before {
 /* .wy-plain-list-disc,.rst-content .section ul,.rst-content .toctree-wrapper ul,article ul {
 	margin-bottom:0px !important;
 } */
+
+
+/* Styling for better consistency with UNT Libraries site */
+a {
+    color: #00853e;
+}
+
+a:hover,
+a:visited {
+    color: #00391a;
+}
+
+.wy-side-nav-search a,
+.wy-side-nav-search a:hover,
+.wy-side-nav-search a:visited,
+.wy-nav-top a,
+.wy-nav-top a:hover,
+.wy-nav-top a:visited {
+    color: #FFFFFF;
+}
+
+.wy-menu-vertical p.caption {
+    color: #7AC143;
+}
+
+.wy-menu-vertical a,
+.wy-menu-vertical a:hover,
+.wy-menu-vertical a:visited {
+    color: #FFFFFF;
+}
+
+.rst-content .note .admonition-title {
+    background: #17a2b8 linear-gradient(180deg,#3ab0c3,#17a2b8) repeat-x;
+}
+
+.rst-content .note {
+    background: rgba(22, 162, 184, 0.25);
+}

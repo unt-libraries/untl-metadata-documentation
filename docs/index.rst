@@ -3,9 +3,9 @@ UNTL Metadata Documentation
 ###########################
 
 
-The UNT Libraries Digital Projects Unit actively promotes metadata-based digital resource management, monitoring national and international standards-related activities and conducting research into the theoretical and practical applications of metadata.
+The UNT Libraries actively promotes metadata-based digital resource management, monitoring national and international standards-related activities and conducting research into the theoretical and practical applications of metadata.
 Our goal is to provide optimum searching, discovery, and retrieval of information by users of our digital collections, while ensuring long-term preservation and viability of the digital objects in our systems. 
-We employ a system of metadata developed in-house and based on qualified Dublin Core metadata elements.
+We employ a system of metadata developed in-house and based on qualified Dublin Core metadata elements that is called UNTL Metadata.
 
 .. note::
 
