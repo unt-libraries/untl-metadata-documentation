@@ -297,8 +297,8 @@ UNT Libraries Browse Subjects (UNTL-BS)
 -   UNTL-BS terms are used for records in The Portal to Texas History
 -   For records about Portal objects, include at least one subject
     (preferably more) from the UNT Libraries Browse Structure
--   Choose as many appropriate terms as necessary from the [UNTL-BS
-    list][]
+-   Choose as many appropriate terms as necessary from the `UNTL-BS
+    list <https://digital2.library.unt.edu/subjects/>`_
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -348,7 +348,7 @@ Subjects from Other Established Thesauri or Controlled Vocabularies
     term
 -   Do not use terms that duplicate resource types, e.g., "Photographs"
 -   If the name of the controlled vocabulary is not in the list, choose
-    "other" and notify the [metadata administrators][]
+    "other" and notify the `metadata administrators <https://library.unt.edu/digital-projects-unit/contacts/>`_
 
 Library of Congress Subject Headings (LCSH)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -527,7 +527,7 @@ Comments
 Resources
 *********
 
--   UNT Subject Qualifier [Controlled Vocabulary][]
+-   UNT Subject Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/subject-qualifiers/>`_
 
 Resources for Selected Vocabularies:
 
@@ -543,7 +543,7 @@ Resources for Selected Vocabularies:
 |Library of Congress (LC)           |               |`Thesauri and Controlled Vocabularies <https://id.loc.gov/>`_                          |
 |                                   |               +---------------------------------------------------------------------------------------+
 |                                   |               |`Classification Web                                                                    |
-|                                   |               |<https://libproxy.library.unt.edu/login?url=https://classificationweb.net/Auto/>`_     |
+|                                   |               |<https://discover.library.unt.edu/catalog/b2659614>`_                                  |
 |                                   |               |(Accessible to UNT staff/students)                                                     |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  Legislative Subject Terms       |LST            |`Legislative Subject Terms                                                             |
@@ -572,17 +572,13 @@ Resources for Selected Vocabularies:
 
 More Guidelines:
 
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
+-    [Quick-Start Metadata Guide][]
+-    [Input Guidelines for Descriptive Metadata][]
+-    `Metadata Home <https://library.unt.edu/metadata/>`_
 
 [more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[controlled vocabulary]: https://digital2.library.unt.edu/vocabularies/subject-qualifiers/
-[UNTL-BS list]: https://digital2.library.unt.edu/subjects/?formId=main&amp;fieldId=subject
-[metadata administrators]: https://library.unt.edu/digital-projects-unit/contacts/
 [Resource Type]: https://library.unt.edu/digital-projects-unit/metadata/fields/resource-type/
 [Creator]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/
 [Coverage]: https://library.unt.edu/digital-projects-unit/metadata/fields/coverage/
 [Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
 [Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
