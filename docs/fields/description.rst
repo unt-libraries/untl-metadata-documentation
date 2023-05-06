@@ -2,12 +2,15 @@
 Description
 ===========
 
+.. _description-definition:
+
 **********************
 Description Definition
 **********************
 
 Description of the content attributes of the resource (content description) or physical attributes of the resource (physical description).
 
+.. _description-form:
 
 **************************************************
 How Content Description Works in the Metadata Form
@@ -24,17 +27,19 @@ Repeatable?
     Yes - clicking 'Add' repeats all field parts; there should only be two description fields (one for content and one for physical description)
 
 Required?
-    Yes - a content description is required; a physical description is highly recommended.  Also see [more information][] about required fields
+    Yes - a content description is required; a physical description is highly recommended.  Also see :doc:`more information </minimally-viable-records>` about required fields
 
 
 
-*Note:* Given the significant differences for entering description information, guidance sections are repeated separately for [content descriptions][] and [physical descriptions][] below.
+*Note:* Given the significant differences for entering description information, guidance sections are repeated separately for `content descriptions <description-content>` and `physical descriptions <description-physical>` below.
 
+.. _description-content:
 
 *********************************
 Element Name: Content Description
 *********************************
 
+.. _description-csources:
 
 Where Can the Content Description Information be Found?
 =======================================================
@@ -79,6 +84,7 @@ In some cases a content description may come from accompanying or supplementary 
 +-------------------------------------------+---------------------------------------------+
 
 
+.. _description-cfill:
 
 How Should the Content Description be Filled in?
 ================================================
@@ -201,6 +207,7 @@ Other suggestions:
 |                                                                               |Britannica                                                         |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 
+.. _description-cexamples:
 
 Other Content Description Examples
 ==================================
@@ -272,9 +279,13 @@ Color slide: [Sydney Harbour and Opera House]
     of Sydney, Australia are visible in the background behind the opera
     house.
 
+.. _description-physical:
+
 **********************************
 Element Name: Physical Description
 **********************************
+
+.. _description-psources:
 
 Where Can the Physical Description Information be Found?
 ========================================================
@@ -286,6 +297,7 @@ Where Can the Physical Description Information be Found?
     -   printing methods or process (tintype, daguerrotype, woodcut, etc.)
 
 
+.. _description-pfill:
 
 How Should the Physical Description be Filled in?
 =================================================
@@ -302,6 +314,7 @@ How Should the Physical Description be Filled in?
     be omitted if not available
 -   Physical description rules are explained by item type:
 
+.. _description-books:
 
 Books, pamphlets, and printed sheets
 ------------------------------------
@@ -360,8 +373,9 @@ Books, pamphlets, and printed sheets
 (If the text is not illustrated and the dimensions are unknown, only the number of pages will be in the description.)
 
 
-Also see [Other Examples][].
+Also see `Other Examples <description-pexamples>`.
 
+.. _description-photos:
 
 Photographs and other "graphic" materials
 -----------------------------------------
@@ -428,8 +442,9 @@ Photographs and other "graphic" materials
 (In some cases, particularly with born-digital photographs, the dimensions may not be known.)
 
 
-Also see [Other Examples][].
+Also see `Other Examples <description-pexamples>`.
 
+.. _description-maps:
 
 Maps and other cartographic materials
 -------------------------------------
@@ -478,7 +493,9 @@ Maps and other cartographic materials
 - 1 atlas (30 p.) : some col. ; 52 cm.
 
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+.. _description-manuscripts:
 
 Manuscripts (maps, musical scores, and other documents that are handwritten)
 ----------------------------------------------------------------------------
@@ -519,7 +536,10 @@ Manuscripts (maps, musical scores, and other documents that are handwritten)
 - 60 p. ; 26 cm.
 - [3] p. : parchment ; 29 cm., folded to 12 x 22 cm.
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+
+.. _description-music:
 
 Music
 -----
@@ -552,7 +572,10 @@ Music
 - 1 vocal part (3 p.) ; 28 cm.
 - 1 score : ill. ; 41 cm.
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+
+.. _description-sound:
 
 Sound recordings
 ----------------
@@ -596,7 +619,10 @@ Sound recordings
 - 1 recording (1 hr., 3 min., 50 sec.) : digital
 
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+
+.. _description-video:
 
 Motion pictures and videorecordings
 -----------------------------------
@@ -645,7 +671,9 @@ Motion pictures and videorecordings
 - 1 recording (30 min., 9 sec.) : sd., col. ; digital
 
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+.. _description-3d:
 
 Three-dimensional objects
 -------------------------
@@ -698,7 +726,9 @@ Three-dimensional objects
 - ca. 64 marbles : ceramic
 
 
-Also see [Other Examples][1].
+Also see `Other Examples <description-pexamples>`.
+
+.. _description-accompany:
 
 Accompanying material
 ---------------------
@@ -721,6 +751,7 @@ Accompanying material
 - 1 score (47 p.) : ill. ; 32 cm. + 2 parts (30 p. each ; 32 cm.)
 - [1] p. ; 28 cm. + 1 envelope (10 x 17 cm.)
 
+.. _description-pexamples:
 
 Other Physical Description Examples
 ===================================
@@ -780,6 +811,7 @@ Digital video
 Brochure: Coleto Creek Park and Reservoir
    *Physical Description:* 1 pamphlet : col. ill. ; 23 x 41 cm., folded to 23 x 10 cm.
 
+.. _description-comments:
 
 ********
 Comments
@@ -829,16 +861,15 @@ Comments
 
 ([Back][] to photograph physical description rules.)
 
+.. _description-resources:
+
 *********
 Resources
 *********
 
-More Guidelines:
-
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
-
+**More Guidelines:**
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_
 
 [more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
 [Other Examples]: #other-physical-description-examples

@@ -2,11 +2,15 @@
 Note
 ####
 
+.. _note-definition:
+
 **********
 Definition
 **********
 
 A "catch-all" field for additional information that cannot be entered or does not fit well in other elements.
+
+.. _note-sources:
 
 ****************************************
 Where Can the Note Information be Found?
@@ -23,6 +27,8 @@ from any part of the item including:
     numbers)
 -   supplementary or accompanying information
 
+.. _note-form:
+
 ***********************************
 How Note Works in the Metadata Form
 ***********************************
@@ -37,9 +43,16 @@ Parts:
 Repeatable?
 :   Yes - clicking 'Add' repeats all field parts
 
+Required?
+	 No (:doc:`more information </minimally-viable-records>`)
+
+.. _note-fill:
+
 *********************************
 How Should the Note be Filled in?
 *********************************
+
+.. _note-display:
 
 General (Display) Note
 ======================
@@ -87,6 +100,7 @@ General (Display) Note
 |                                                                               |cut illustrations.                              |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
+.. _note-nondisplay:
 
 Metadata (Non-Displaying) Note
 ==============================
@@ -110,6 +124,7 @@ Metadata (Non-Displaying) Note
 |       -       administrative or digitization information                      |per imdb.                                       |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
+.. _note-examples:
 
 **************
 Other Examples
@@ -140,15 +155,12 @@ Non-Displaying Notes
 -   Unverified creator due to conflicting information on duplicate copies.
 -   This does not appear to actually be a photo of the Livingston-Hess House, though it is similar.
 
+.. _note-resources:
 
 *********
 Resources
 *********
 
 **More Guidelines:**
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
-
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_

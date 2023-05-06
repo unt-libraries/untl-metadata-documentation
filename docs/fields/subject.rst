@@ -70,7 +70,7 @@ Repeatable?
 	Yes - to include multiple subjects, click 'Add' to repeat all field parts
 
 Required?
-	 Yes - two subject terms are required (:doc:`more information <minimally-viable-records>`)
+	 Yes - two subject terms are required (:doc:`more information </minimally-viable-records>`)
 
 .. _subject-fill:
 
@@ -599,5 +599,5 @@ Resources for Selected Vocabularies:
 
 More Guidelines:
 
--   :doc:`Quick-Start Metadata Guide <quick-start-guide>`
--   `Metadata Home <https://library.unt.edu/metadata/>`_:doc
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_

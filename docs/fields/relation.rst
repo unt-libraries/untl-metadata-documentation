@@ -338,4 +338,4 @@ Resources
 **More Guidelines:**
 
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
--   `Metadata Home <https://library.unt.edu/metadata/>`_:doc
+-   `Metadata Home <https://library.unt.edu/metadata/>`_
