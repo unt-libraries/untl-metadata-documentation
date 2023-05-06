@@ -39,7 +39,7 @@ Repeatable?
 	Yes - to include multiple relationships, click 'Add' to repeat all field parts
 
 Required?
-	 No (:doc: `more information <minimally-viable-records>`)
+	 No (:doc:`more information <minimally-viable-records>`)
 
 
 .. _relation-fill:
@@ -51,7 +51,7 @@ How Should the Relation be Filled in?
 -   Enter information about known relationships in the records for both items
 -   It is not necessary to do research to find related resources
 -   If the relationship is unclear, uncertain, or otherwise
-    questionable, the information may be entered into a :doc: `note <note>` instead
+    questionable, the information may be entered into a :doc:`note <note>` instead
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -90,8 +90,8 @@ How Should the Relation be Filled in?
     left blank, but consider whether the information might be more
     appropriate in another field such as:
     
-    - :doc: `Description <description>`
-    - :doc: `Display note <note>`
+    - :doc:`Description <description>`
+    - :doc:`Display note <note>`
     - [Source][]
 
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
@@ -304,7 +304,7 @@ Comments
 -   Items may also have other content-based connections that are not
     represented best by a formal "Relation." For example, materials may
     have topical, geographic, or temporal relationships represented in
-    the :doc: `Date <date>`, :doc: `Coverage <coverage>`, :doc: `Subject <subject>`, or other appropriate
+    the :doc:`Date <date>`, :doc:`Coverage <coverage>`, :doc:`Subject <subject>`, or other appropriate
     fields.
 -   Relationships are drawn primarily from Dublin Core Metadata
     Initiative (DCMI) standards (a full list of fields and controlled
@@ -337,5 +337,5 @@ Resources
 
 **More Guidelines:**
 
--   :doc: `Quick-Start Metadata Guide <quick-start-guide>`
--   `Metadata Home <https://library.unt.edu/metadata/>`_
+-   :doc:`Quick-Start Metadata Guide <quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_:doc
