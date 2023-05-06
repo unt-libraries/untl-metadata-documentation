@@ -1,19 +1,18 @@
-#######
-Creator
-#######
+###########
+Contributor
+###########
 
 **********
 Definition
 **********
 
-A person, agency, or organization primarily responsible for creating the intellectual content of the resource.
+A person, agency, or organization that has played an important but secondary role in creating the content of the resource and is not specified in the creator element.
 
+***********************************************
+Where Can the Contributor Information be Found?
+***********************************************
 
-*******************************************
-Where Can the Creator Information be Found?
-*******************************************
-
-In some cases, creators may come from accompanying or supplementary information, but they may also be found on:
+In some cases, contributors may come from accompanying or supplementary information, but they may also be found on:
 
 +---------------------------------------+-------------------------------------------------------+
 |**Item Types**                         |**Information Sources**                                |
@@ -47,38 +46,38 @@ In some cases, creators may come from accompanying or supplementary information,
 
 
 
-**************************************
-How Creator Works in the Metadata Form
-**************************************
+******************************************
+How Contributor Works in the Metadata Form
+******************************************
 
-.. image:: ../_static/images/edit-creator.png
-   :alt: Screenshot of creator element in metadata editing system.
+.. image:: ../_static/images/edit-contributor.png
+   :alt: Screenshot of contributor element in metadata editing system.
 
 Parts:
-    Creator name -- text field
-    Creator type -- drop-down menu
-    Creator role -- drop-down menu
-    Creator information -- text field
+    Contributor name -- text field
+    Contributor type -- drop-down menu
+    Contributor role -- drop-down menu
+    Contributor information -- text field
 
 Repeatable?
-	Yes - to include multiple creators, click 'Add' to repeat all field parts
+	Yes - to include multiple contributors, click 'Add' to repeat all field parts
 
 Required?
 	 No ([more information][])
 
 
-************************************
-How Should the Creator be Filled in?
-************************************
+****************************************
+How Should the Contributor be Filled in?
+****************************************
 
-General Creator Rules
-=====================
+General Contributor Rules
+=========================
 
--   If no creator information is readily available, leave the field blank
--   Only include individuals/organizations who were primarily
-    responsible for the creation of the item
+-   If no contributor information is readily available, leave the field blank
+-   Only include individuals/organizations who had secondary
+    responsibility for the item, or who were only responsible for a portion of the work
     
-    -   Secondary "creators" (e.g., agents responsible for only a portion of the work) should be entered as [contributors][] instead
+    -   Primary "contributors" should be entered as [creators][] instead
         
         -   A name should never be entered as both a creator and a
             contributor; if an agent acts in multiple capacities, see
@@ -87,26 +86,23 @@ General Creator Rules
             creator or a contributor, see our [definition page][]
             
     -   An entity **must** have a direct relationship to the item that
-        can be explicated in order to be included as a creator (or
-        contributor)
+        can be explicated in order to be included as a contributor
         
         -   If there is information about a person/organization that
             cannot be expressed as a role, it may be appropriate to add
             it elsewhere, such as a [Note][] or [Info][] in relation to
-            an established creator
+            an established contributor
             
--   Include as many creators as are readily available
+-   Include as many contributors as are readily available
 
     -   Place them in order of importance
-    -   If creators are equally important, list them in the order that they appear
-    -   If a document lists individuals as "et al." include names of
-        every individual author that is known for the item
+    -   If contributors are equally important, list them in the order that they appear
     -   If a document has an excessively large number of creators or
         authors (e.g., several hundred researchers) include the parent
         organizations as creators and the individual persons as
         contributors
         
--   For each creator the name, type, and role are **required**
+-   For each contributor the name, type, and role are **required**
 -   If possible, consult an authority file to find the correct form of
     the name, such as:
     
@@ -122,8 +118,8 @@ General Creator Rules
     specific person
     
     
-Creator Names
--------------
+Contributor Names
+-----------------
 
 Personal Names
 ^^^^^^^^^^^^^^
@@ -131,32 +127,32 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  If known, use the authorized form of the name from the  |Kittrell, Norman G. (Norman Goree),    |
-|   `Library of Congress Authorities <https://id.loc.gov/>`_|1849-1927                              |
+|-  If known, use the authorized form of the name from the  |Agapkin, Vasiliĭ Ivanovich, 1884-1964  |
+|   `Library of Congress Authorities <https://id.loc.gov/>`_|                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If no authorized version is available, enter the most   |                                       |
 |   complete version of the name that is known using proper |                                       |
 |   formatting:                                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Invert names (Last, First, Middle)                  |Hébert, Rachel Bluntzer                |
+|   -   Invert names (Last, First, Middle)                  |McCaleb, Walter Flavius                |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Use initials if the full name(s) are not known      |Reid, Samuel C.                        |
+|   -   Use initials if the full name(s) are not known      |Henderson, Charles V.                  |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Do not change the order of names                    |Davis, J. Mark                         |
+|   -   Do not change the order of names                    |Mitchell, A. Cameron                   |
 +-----------------------------------------------------------+---------------------------------------+
 |   -   Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Separate hyphenated first names with a hyphenated   |Hsieh, P.-C.                           |
+|   -   Separate hyphenated first names with a hyphenated   |Fang, H.-C.                            |
 |       first names with a hyphen instead of a space if only|                                       |
 |       initials are known                                  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Put additional middle names after the first name    |Briscoe, Mary Jane Harris              |
+|   -   Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Keep hyphenated "last names" and compound surnames  |Donahue-Smith, James A.                |
+|   -   Keep hyphenated "last names" and compound surnames  |Ala'i-Rosales, Shahla S.               |
 |       together                                            +---------------------------------------+
-|                                                           |Hasanul Basher, A. M.                  |
+|                                                           |Martinez Fischer, Ferdinand Frank      |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
+|   -   Consider multiple parts (von, de la, etc.) as part  |de Almeida Lobo, Adriana               |
 |       of the last name                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If it is unclear which part of the name is the surname, |                                       |
@@ -164,30 +160,30 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |-  Use appropriate abbreviations:                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Only include known titles (Dr., Rev., Capt., etc.)  |Morris, Mrs. Harry Joseph              |
+|   -   Only include known titles (Dr., Rev., Capt., etc.)  |Hastings, Mrs. F. S.                   |
 |       before the first name if:                           +---------------------------------------+
-|                                                           |Ross, Lieutenant                       |
+|                                                           |Jones, Dr.                             |
 |       -   The title is necessary for clarification of the |                                       |
 |           name (e.g., if the given name for a married     |                                       |
 |           woman is unknown)                               |                                       |
 |       -   The title is the only part of the name known    |                                       |
 |           (aside from a surname)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Include suffixes that are a part of the name (Jr.,  |Roberts, Frank H. H., Jr.              |
+|   -   Include suffixes that are a part of the name (Jr.,  |Williams, J. F. C., Jr.                |
 |       Sr., etc.) at the end of the name after a second    |                                       |
 |       comma                                               |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Do not include:                                         |*Name:* Parera, Mahendra               |
+|-  Do not include:                                         |*Name:* Alwin, Lawrence F.             |
 |                                                           +---------------------------------------+
-|   -   nicknames                                           |*Info:* M.B.B.S., Ph.D., M.D.,         |
-|   -   abbreviations                                       |MRCPsych, FRANZCP; Albert Road Clinic, |
-|   -   titles that do not fit the criteria above           |Melbourne, Australia                   |
+|   -   nicknames                                           |*Info:* CPA; State Auditor             |
+|   -   abbreviations                                       |                                       |
+|   -   titles that do not fit the criteria above           |                                       |
 |   -   job or educational qualifiers (C.E., D.D.S., Ph.D., +---------------------------------------+
 |       etc.)                                               |                                       |
 |                                                           +---------------------------------------+
-|-  Some common historical personal name abbreviations:     |*Name:* James, Thomas Leroy            |
+|-  Some common historical personal name abbreviations:     |*Name:* Dunlap, George P.              |
 |                                                           +---------------------------------------+
-|   -   Chas. = Charles                                     |*Info:* Thos. L. James                 |
+|   -   Chas. = Charles                                     |*Info:* Geo. P. Dunlap                 |
 |   -   Geo. = George                                       |                                       |
 |   -   Jas. = James                                        |                                       |
 |   -   Jno. = John                                         |                                       |
@@ -212,12 +208,12 @@ Personal Names
 |                                                           |                                       |
 |-  When in doubt, enter the name as it appears on the item |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Only include the names of specific persons (or          |*Name:* Texas. Department of           |
-|   organizations)                                          |Transportation.                        |
+|-  Only include the names of specific persons (or          |*Name:* Associated Press               |
+|   organizations)                                          |                                        |
 |-  In cases where the name is not known (e.g., "Staff      +---------------------------------------+
 |   Photographer"), either:                                 |*Info:* Staff Photographer             |
 |                                                           |                                       |
-|   -   Leave the creator field blank                       |                                       |
+|   -   Leave the contributor field blank                   |                                       |
 |   -   Include the name of the parent organization and add |                                       |
 |       details in the "info" section                       |                                       |
 +-----------------------------------------------------------+---------------------------------------+
@@ -235,32 +231,36 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |For non-government or single-level bodies:                                                         |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Use the name as it appears in the item                  |Dallas Heritage Village                |
+|-  Use the name as it appears in the item                  |Camp Wolters Public Relations Branch   |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Do not invert personal names that are parts of          |R. L. Polk & Co.                       |
+|-  Do not invert personal names that are parts of          |Julis Bien & Co.                       |
 |   organizational names                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Write out names rather than using acronyms              |Monsoon Asia Integrated Regional Study |
+|-  Write out names rather than using acronyms              |*Name:* New York University            |
+|                                                           +---------------------------------------+
+|                                                           |*Info:* NYU
 +-----------------------------------------------------------+---------------------------------------+
 |For hierarchical agencies or entities:                                                             |
 +-----------------------------------------------------------+---------------------------------------+
-|-  List agency or body parts in hierarchical order,        |Texas State College for Women. College |
-|   starting at the highest level and ending with the most  |of Industrial Arts.                    |
+|-  List agency or body parts in hierarchical order,        |University of Texas. Bureau of Research|
+|   starting at the highest level and ending with the most  |in the Social Sciences.                |
 |   specific                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Separate the elements of the hierarchy with periods     |Dallas (Tex.). Police Department.      |
+|-  Separate the elements of the hierarchy with periods     |Osk Ridge National Laboratory. Chemical|
+|                                                           |Technology Division.                   |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Preface the name of government agencies with the name of|Washington (State). State Building Code|
-|   the country or state                                    |Advisory Council. Energy Code          |
-|                                                           |Committee.                             |
+|-  Preface the name of government agencies with the name of|Martin County (Fla.). Board of         |
+|   the country or state                                    |Commissioners.                         |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If a hierarchy is unclear, record the name as it appears|                                       |
 |   on the item                                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |For United States agencies:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Spell out "United States" unless there is an authorized |United States. Bureau of Mines.        |
-|   version that abbreviates it                             |                                       |
+|-  Spell out "United States" unless there is an authorized |United States. Navy. Training Division.|
+|   version that abbreviates it                             |Bureau of Aeronautics.                 |
+|                                                           +---------------------------------------+
+|                                                           |U.S. Coast and Geodetic Survey         |
 +-----------------------------------------------------------+---------------------------------------+
 |-  In the case of a long (well-known) name, it may be      |United States. Central Intelligence    |
 |   shortened by eliminating unnecessary parts              |Agency.                                |
@@ -272,33 +272,35 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |For non-U.S. agencies:                                                                             |
 +-----------------------------------------------------------+---------------------------------------+
-|-  When using an authorized form of the name, it may be    |*Name:* Han'guk Kwahak Kisurwŏn        |
-|   appropriate to add notes to the "info" section:         +---------------------------------------+
-|                                                           |*Info:* Korea Advanced Institute of    |
-|   -   If the name is written in a language other than     |Science and Technology                 |
+|-  When using an authorized form of the name, it may be    |*Name:* Han'guk Kich'o Kwahak Chiwŏn   |
+|   appropriate to add notes to the "info" section:         |Yŏn'guwŏn                              |
+|                                                           +---------------------------------------+
+|                                                           |*Info:* Korea Basic Science Institute; |
+|   -   If the name is written in a language other than     |Taejon, Republic of Korea              |
 |       English, add the English translation (if known)     +---------------------------------------+
-|   -   If the name is written in English, additional forms |China (Republic : 1949- ). Huan jing   |
-|       from the item may be added                          |bao hu shu.                            |
+|   -   If the name is written in English, additional forms |Instituto de Investigaciones Geológicas|
+|       from the item may be added                          |(Chile)                                |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If there is no authorized form, follow general          |                                       |
-|   formatting rules                                        |                                       |
+|-  If there is no authorized form, follow general          |Mexico. Secretaría de la Economia      |
+|   formatting rules                                        |Nacional Direccion General de Minas y  |
+|                                                           |Petoleo.                               |
 +-----------------------------------------------------------+---------------------------------------+
 
 
-Creator Type
-------------
+Contributor Type
+----------------
 
--   Choose the appropriate creator type:
+-   Choose the appropriate contributor type:
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|If the creator is an individual                            |Personal                               |
+|If the contributor is an individual                        |Personal                               |
 +-----------------------------------------------------------+---------------------------------------+
-|If the creator is a company, organization, association,    |Organization                           |
+|If the contributor is a company, organization, association,|Organization                           |
 |agency, or other institution                               |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|If it is unclear whether the creator name belongs to an    |                                       |
+|If it is unclear whether the contributor name belongs to an|                                       |
 |individual or an organization, use "Personal" and format   |                                       |
 |the name appropriately                                     |                                       |
 |                                                           |                                       |
@@ -312,19 +314,19 @@ Creator Type
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|If the creator is a conference or other event that produces|Event                                  |
-|papers and materials (as an entity rather than named       |                                       |
-|individual participants or a hosting organization)         |                                       |
+|If the contributor is a conference or other event that     |Event                                  |
+|produces papers and materials (as an entity rather than    |                                       |
+|named individual participants or a hosting organization)   |                                       |
 |                                                           |                                       |
 |   -   For example: a statement drafted by all members of a|                                       |
 |       symposium or conference as part of the activities of|                                       |
 |       the meeting                                         |                                       |
 |   -   There are other ways to represent an event related  |                                       |
 |       to the creation of an item, such as Source, when the|                                       |
-|       event *itself* is not the creator                   |                                       |
+|       event *itself* is not the contributor               |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|If the creator is a computer program that generates data or|Software                               |
-|files independently                                        |                                       |
+|If the contributor is a computer program that generates    |Software                               |
+|data or files independently                                |                                       |
 |                                                           |                                       |
 |   -   E.g.: an automatically-generated file created while |                                       |
 |       a computer program was running                      |                                       |
@@ -332,33 +334,32 @@ Creator Type
 
 
 
-Creator Role
-------------
+Contributor Role
+----------------
 
 Entering Roles
 ^^^^^^^^^^^^^^
 
--   Choose the appropriate creator role from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
+-   Choose the appropriate contributor role from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
 |If the role is not listed:                                                                         |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Choose "Other"                                          |*Name:* Phillips, Nelson               |
+|-  Choose "Other"                                          |*Name:* Caffey, Wiley L.               |
 |-  Include Clarification in the "Info" section             +---------------------------------------+
 |                                                           |*Role:* Other                          |
 |                                                           +---------------------------------------+
-|                                                           |*Info:* Speaker; Associate Justice of  |
-|                                                           |the Supreme Court                      |
+|                                                           |*Info:* Business Manager               |
 +-----------------------------------------------------------+---------------------------------------+
-|If more than one role applies to the creator:                                                      |
+|If more than one role applies to the contributor:                                                  |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Choose the primary or most encompassing role (or the one|*Name:* Harden, Leland                 |
+|-  Choose the primary or most encompassing role (or the one|*Name:* Etter, Amanda Perez            |
 |   listed first                                            +---------------------------------------+
-|-   Explain the details in the info section                |*Role:* Editor                         |
+|-  Explain the details in the info section                 |*Role:* Editor                         |
 |                                                           +---------------------------------------+
-|                                                           |*Info:* Executive Editor; Sponsor      |
+|                                                           |*Info:* Managing Editor; Sponsor       |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -372,7 +373,7 @@ Assigning Roles
         introduction, etc.; witness; consultant; expert
     -   Agents who had an indirect relationship, e.g., funder, sponsor,
         former owner, donor
-    -   Additional explanation is on our creator and contributor [definition page][]
+    -   Additional explanation is on our contributor and contributor [definition page][]
     
 -   The role should describe the action that the agent took in creating
     the item and it may not align with job titles or credentials, for
@@ -446,10 +447,10 @@ Assigning Roles
 
 
 
-Creator Info
-------------
--   Info is not required as part of the creator entry
--   This field is only for information about the creator listed in or
+Contributor Info
+----------------
+-   Info is not required as part of the contributor entry
+-   This field is only for information about the contributor listed in or
     directly related to the object
 -   The info field is not intended for biographies or lengthy descriptions of the agent
 -   It is not necessary to do research to find information; this field
@@ -459,37 +460,40 @@ Creator Info
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  Include information that clarifies the role of the      |Co-Editor                              |
-|   creator                                                 |                                       |
+|-  Include information that clarifies the role of the      |Consulting Engineer                    |
+|   contributor, e.g.:                                      +---------------------------------------+
+|                                                           |Trio for Piano, Violin and Cello in C  |
+|   -   For composers, the name of the piece(s)             |Major, K. 548 (1788)                   |
+|   -   For journals or compiled documents, the title(s) of +---------------------------------------+
+|       pieces authored by the contributor                  |Baby Lore: The Why and Wherefore of It |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Include other relevant information known about the      |Geo. S. Anderson                       |
-|   creator that relates to the object, such as:            +---------------------------------------+
-|                                                           |1906-2005                              |
-|   -   Additional forms of the creator's name              +---------------------------------------+
-|   -   Addresses                                           |Ph.D.; Texas A &amp; M University Real |
-|   -   Birth and death dates (not part of an authorized    |Estate Center                          |
+|-  Include other relevant information known about the      |Judge Sam'l A. Roberts                 |
+|   contributor that relates to the object, such as:        |                                       |
+|                                                           |                                       |
+|   -   Additional forms of the contributor's name          +---------------------------------------+
+|   -   Addresses                                           |LMSW; Manager, Purchased Health        |
+|   -   Birth and death dates (not part of an authorized    |Services Unit                          |
 |       name)                                               +---------------------------------------+
-|   -   Organizational affiliations                         |"By his son, the late Wilson Gregg" (d.|
-|   -   Other information associated with the name          |1899)                                  |
+|   -   Organizational affiliations                         |Houston, Texas                         |
+|   -   Other information associated with the name          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  For an agency, the info may include:                    |LLNL                                   |
+|-  For an agency, the info may include:                    |CEA                                    |
 |                                                           |                                       |
 |   -   Persons associated with the organization who did not+---------------------------------------+
-|       have another role (e.g., directors)                 |U.S. Department of Agriculture, Office |
-|   -   Acronyms, abbreviations, or alternative name forms  |of Experiment Stations; W. O. Atwater, |
-|   -   Additional omitted hierarchical components (e.g.,   |Director                               |
+|       have another role (e.g., directors)                 |U.S. Department of the Interior, Bureau|
+|   -   Acronyms, abbreviations, or alternative name forms  |of Mines                               |
+|   -   Additional omitted hierarchical components (e.g.,   |                                       |
 |       for some federal agencies)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  There are no strict formatting requirements for info,   |California Univ., Berkeley, CA (United |
-|   but here are some suggestions:                          |States). Dept. of Geology and          |
-|                                                           |Geophysics Lawrence Berkeley Lab., CA  |
-|   -   List each name, fact, or statement individually and |(United States)                        |
+|-  There are no strict formatting requirements for info,   |Rev. R. G. Mood, M.A., D.D. ; Secretary|
+|   but here are some suggestions:                          |and Editor of the North Texas          |
+|                                                           |Conference                             |
+|   -   List each name, fact, or statement individually and |                                       |
 |       separate them with semicolons or periods            +---------------------------------------+
-|   -   Use sentence form when relevant, or when taken      |Freegift Vandervoort, of Carrizo       |
-|       directly from the item                              |Springs, Texas ; F. Vandervoort        |
-|   -   Quotation marks may be used when quoting information+---------------------------------------+
-|       directly from the item                              |"Member of the Association of American |
-|                                                           |Directory Publishers"                  |
+|   -   Use sentence form when relevant, or when taken      |"Under Four Flags on Texas Soil, By A. |
+|       directly from the item                              |Garland Adair, Editor, The Mexia Daily |
+|   -   Quotation marks may be used when quoting information|News"                                  |
+|       directly from the item                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -499,138 +503,141 @@ Other Examples:
 
 Book
 
-    *Name:* Farrar, R. M.
-    *Type:* Person
-    *Role:* Author
+    *Name:* Ben C. Jones & Co.
+    *Type:* Organization
+    *Role:* Printer
+    *Information:* "Printers, Electrotypers and Binders, Austin."
 
 Yearbook
 
-    *Name:* North Texas Laboratory School
-    *Type:* Organization
-    *Role:* Author
-    
-    *Name:* Mays, Sharon
+    *Name:* Richards, Olan
     *Type:* Person
     *Role:* Editor
-    *Information:* Co-Editor
-    
-    *Name:* Wyss, Margaret
-    *Type:* Person
-    *Role:* Editor
-    *Information:* Co-Editor
+    *Information:* Art Editor
 
-Genealogical newsletter
-
-    *Name:* Texas State Genealogical Society
+    *Name:* American Beauty Cover Company
     *Type:* Organization
-    *Role:* Author
-    
-    *Name:* Pryor, Frances
-    *Type:* Person
-    *Role:* Editor
-
-Atlas
-
-    *Name:* Geological Survey (U.S.)
-    *Type:* Organization
-    *Role:* Author
-    *Information:* U.S. Department of the Interior, Geological Survey; J. W. Powell, Director
-    
-    *Name:* Dutton, Clarence E.
-    *Type:* Person
-    *Role:* Author
-    *Information:* Capt. Clarence E. Dutton U.S.A. - Author of "Tertiary History of the Grand Canon District"
-
-Collection of legal papers
-
-    *Name:* Blades, J. R.
-    *Type:* Person
-    *Role:* Compiler
-    *Information:* Clerk, District Court, Henderson County
-
-Painting
-
-    *Name:* Seurat, Georges, 1859-1891
-    *Type:* Person
     *Role:* Artist
-    *Information:* French
+
+    *Name:* Abilene Printing and Stationery Company
+    *Type:* Organization
+    *Role:* Printer
+
+    *Name:* Thurman's Studio
+    *Type:* Organization
+    *Role:* Photographer
+
+    *Name:* Southwest Engraving Company
+    *Type:* Organization
+    *Role:* Engraver
+
+Journal issue
+
+    *Name:* Baldwin, Dan
+    *Type:* Person
+    *Role:* Editor
+    *Information:* Assistant Editor
+
+    *Name:* Riddle, Peggy
+    *Type:* Person
+    *Role:* Editor
+    *Information:* Assistant Editor
 
 Research report
 
-    *Name:* Moris, Marlene C.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* McMurdie, Howard F.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Evans, Eloise H.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Paretzkin, Boris
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Parker, Harry S.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Panagiotopoulos, Nicholas C.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Hubbard, Camden R.
-    *Type:* Person
-    *Role:* Author
-    *Information:* National Measurement Laboratory, National Bureau of Standards, Washington D.C.
+    *Name:* Texas Water Development Board
+    *Type:* Organization
+    *Role:* Sponsor
+
+    *Name:* Guadalupe-Blanco River Authority (Tex.)
+    *Type:* Organization
+    *Role:* Funder
+
+    *Name:* Upper Guadalupe River Authority
+    *Type:* Organization
+    *Role:* Funder
+
+    *Name:* Headwaters Groundswater Conservation District
+    *Type:* Organization
+    *Role:* Consultant
+
+    *Name:* Cow Creek Groundwater Conservation District
+    *Type:* Organization
+    *Role:* Consultant
+
+    *Name:* Kendall County Water Control and Improvement District \#1
+    *Type:* Organization
+    *Role:* Consultant
+
+    *Name:* Kerr County (Tex.)
+    *Type:* Organization
+    *Role:* Consultant
+
+    *Name:* Kendall County (Tex.)
+    *Type:* Organization
+    *Role:* Consultant
 
 Map
 
-    *Name:* Hill, Robert Thomas, 1858-1941
+    *Name:* United States. Bureau of Naval Personnel. Educational Services Section.
+    *Type:* Organization
+    *Role:* Distributor
+    *Information:* [United States.] Navy Dept. BuPers. Educational Services Section.; Navy distribution. Washington, D. C.
+
+    *Name:* Harrison, Richard Edes
     *Type:* Person
     *Role:* Cartographer
-    *Information:* "By Robert T. Hill"
+    *Information:* Base map for "Pacific War in the Air" drawn by Richard Edes Harrison. Copyright, Fortune.
+
+    *Name:* United States. Office of Strategic Services.
+    *Type:* Organization
+    *Role:* Cartographer
+    *Information:* Map of South Burma and Thailand "prepared in the R and A Branch, O.S.S."
+
+
+Legal estate transfer
+
+    *Name:* Sayles, Mary E.
+    *Type:* Person
+    *Role:* Other
+    *Information:* Transferee
+
+    *Name:* Turnee, Sam
+    *Type:* Person
+    *Role:* Author
+    *Information:* Notary Public
+
+    *Name:* Collins, E. H.
+    *Type:* Person
+    *Role:* Witness
+
+Dissertation
+
+    *Name:* Wilhelm, Ronald
+    *Type:* Person
+    *Role:* Chair or Major Professor
+    *Information:* Major Professor
+
+    *Name:* Ausbrooks, Carrie Y.
+    *Type:* Person
+    *Role:* Committee member
+    *Information:* Minor Professor
+
+    *Name:* Cowart, Melinda
+    *Type:* Person
+    *Role:* Committee member
+
 
 Opera score
 
-    *Name:* Smith, Julia, 1905-1989
+    *Name:* Harding, Bertita
     *Type:* Person
-    *Role:* Composer
-    *Information:* Music by Julia Smith
+    *Role:* Librettist
 
-Laws of Texas
-
-    *Name:* Texas (Republic). Secretary of State.
-    *Type:* Organization
-    *Role:* Compiler
-
-City directory
-
-    *Name:* Morrison & Fourmy Directory Co.
-    *Type:* Organization
-    *Role:* Compiler
-    *Information:* Compilers, Publishers and Proprietors
-
-Committee report
-
-    *Name:* Texas. Legislature. House of Representatives. Committee on Business and Industry.
-    *Type:* Organization
-    *Role:* Author
-
-Photograph
-
-    *Name:* Dallas (Tex.). Police Department.
-    *Type:* Organization
-    *Role:* Photographer
-    *Information:* Staff photographer
+    *Name:* Ballenger, Kenneth L.
+    *Type:* Person
+    *Role:* Author of introduction, etc.
+    *Information:* Prof. Kenneth L. Ballenger; Author of synopsis (page ii).
 
 
 ********
@@ -640,17 +647,16 @@ Comments
 -   Name fields are connected to the `UNT Name App <https://digital2.library.unt.edu/name/>`_, which will try to
     match text against local authority files. Editors should always
     choose an authorized form from the list if it is available.
--   The creator field is not constrained by the AACR2 practice of
-    limiting creators to three or fewer names. Include as many creators
+-   The contributor field is not constrained by the AACR2 practice of
+    limiting contributors to three or fewer names. Include as many contributors
     as are readily available.
--   If the creator and the publisher are the same, repeat the name in
+-   If the contributor and the publisher are the same, repeat the name in
     the [Publisher][] element.
--   Individuals or organizations with lesser responsibility for creation
+-   Individuals or organizations with greater or complete responsibility for creation
     of the intellectual content of the resource should be recorded in
-    the [Contributor][] element instead of the creator
-    element. Some examples of contributors are collector, donor,
-    section editor, etc.
--   The creator roles come primarily from MARC `relator codes <http://www.loc.gov/marc/relators/relators.html>`_; not
+    the [Creator][] element instead of the contributor
+    element. Some examples of creators are author, editor, compiler, etc. (when applicable to the whole item)
+-   The contributor roles come primarily from MARC `relator codes <http://www.loc.gov/marc/relators/relators.html>`_; not
     all of the Library of Congress roles are included in the UNT system
     and several local codes have been added to the UNT list.
 
@@ -661,8 +667,8 @@ Resources
 *********
 
 
--   UNT Creator Role `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
--   [Creator and Contributor Definitions][definition page] (how to choose which one to use)
+-   UNT Contributor Role `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
+-   [Contributor and Contributor Definitions][definition page] (how to choose which one to use)
 -   `UNT Name App <https://digital2.library.unt.edu/name/>`_
 -   Library of Congress
 
@@ -689,4 +695,3 @@ Resources
 [Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
 [Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
 [Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
-
