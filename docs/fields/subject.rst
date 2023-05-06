@@ -2,12 +2,16 @@
 Subject
 #######
 
+.. _subject-definition:
+
 **********
 Definition
 **********
 
 The subjects or topics that succinctly describe the content of the resource.
 
+
+.. _subject-sources:
 
 *******************************************
 Where Can the Subject Information be Found?
@@ -49,6 +53,8 @@ In some cases, subjects may come from accompanying or supplementary information;
 +---------------------------------------+-------------------------------------------------------+
 
 
+.. _subject-form:
+
 **************************************
 How Subject Works in the Metadata Form
 **************************************
@@ -64,12 +70,15 @@ Repeatable?
 	Yes - to include multiple subjects, click 'Add' to repeat all field parts
 
 Required?
-	 Yes - two subject terms are required ([more information][])
+	 Yes - two subject terms are required (:doc:`more information <minimally-viable-records>`)
 
+.. _subject-fill:
 
 ************************************
 How Should the Subject be Filled in?
 ************************************
+
+.. _subject-general:
 
 General Subject/Keyword Rules
 =============================
@@ -88,11 +97,14 @@ General Subject/Keyword Rules
 
     -   Use appropriate capitalization, punctuation, etc. depending on the type of subject
     -   Terms from controlled vocabularies must use the exact formatting prescribed by the source
-    -   Choose the appropriate subject type from the [controlled vocabulary][]
+    -   Choose the appropriate subject type from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/subject-qualifiers/>`_
     
+.. _subject-keywords:
     
 Keywords and Phrases (KWD)
 --------------------------
+
+.. _subject-kwdformat:
 
 Formatting Keywords
 ^^^^^^^^^^^^^^^^^^^
@@ -137,6 +149,7 @@ Formatting Keywords
 |                                                           |*Keyword:* quarterly reports           |
 +-----------------------------------------------------------+---------------------------------------+
 
+.. _subject-kwdassign:
 
 Assigning Keywords
 ^^^^^^^^^^^^^^^^^^
@@ -189,6 +202,7 @@ Assigning Keywords
 |                                                           |                                          |agricultural processing         |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
 
+.. _subject-animal:
 
 Named Animals (namedAnimal)
 ---------------------------
@@ -206,6 +220,7 @@ Named Animals (namedAnimal)
 |                                                           |Bit O'Man                              |
 +-----------------------------------------------------------+---------------------------------------+
 
+.. _subject-person:
 
 Named Persons (named_person)
 ----------------------------
@@ -290,6 +305,7 @@ Should someone be a 'named person'?
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------+
 
 
+.. _subject-untlbs:
 
 UNT Libraries Browse Subjects (UNTL-BS)
 ---------------------------------------
@@ -335,6 +351,8 @@ enough items to warrant it, so the number of subjects is consistently
 growing. If you would like to suggest a new subject, please notify
 Hannah Tarver (hannah.tarver@unt.edu).
 
+.. _subject-other:
+
 Subjects from Other Established Thesauri or Controlled Vocabularies
 -------------------------------------------------------------------
 
@@ -349,6 +367,8 @@ Subjects from Other Established Thesauri or Controlled Vocabularies
 -   Do not use terms that duplicate resource types, e.g., "Photographs"
 -   If the name of the controlled vocabulary is not in the list, choose
     "other" and notify the `metadata administrators <https://library.unt.edu/digital-projects-unit/contacts/>`_
+
+.. _subject-lcsh:
 
 Library of Congress Subject Headings (LCSH)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -378,6 +398,7 @@ Library of Congress Subject Headings (LCSH)
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _subject-lcgft:
 
 Library of Congress Genre/Form Terms (LCGFT)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -401,6 +422,7 @@ Library of Congress Genre/Form Terms (LCGFT)
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _subject-examples:
 
 ***************
 Other Examples:
@@ -496,6 +518,9 @@ Architectural Drawing: Elementary School Building, Fort Stockton, Texas: Ceiling
     *AAT:* elementary schools (buildings)
     *KWD:* Fort Stockton Independent School District
 
+
+.. _subject-comments:
+
 ********
 Comments
 ********
@@ -509,9 +534,9 @@ Comments
         "panoramic photos"
     -   To describe a resource, such as an autobiography, that is about
         its creator, place the creator's name in both the
-        subject/keyword element and the [Creator][] element.
+        subject/keyword element and the :doc: `Creator <creator>` element.
     -   Although geographic terms are normally handled by the
-        [Coverage][] (Place Name) element, subject fields could include
+        :doc: `Coverage <coverage>` (Place Name) element, subject fields could include
         geographic terms as well if the location is significant to the
         content.
 
@@ -522,6 +547,8 @@ Comments
         disciplines: moving images (films, television programs, and
         video recordings), spoken-word recorded sounds, legal materials,
         and cartographic materials
+
+.. _subject-resources:
 
 *********
 Resources
@@ -572,13 +599,5 @@ Resources for Selected Vocabularies:
 
 More Guidelines:
 
--    [Quick-Start Metadata Guide][]
--    [Input Guidelines for Descriptive Metadata][]
--    `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[Resource Type]: https://library.unt.edu/digital-projects-unit/metadata/fields/resource-type/
-[Creator]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/
-[Coverage]: https://library.unt.edu/digital-projects-unit/metadata/fields/coverage/
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
+-   :doc:`Quick-Start Metadata Guide <quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_:doc
