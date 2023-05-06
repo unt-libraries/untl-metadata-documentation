@@ -2,11 +2,15 @@
 Relation
 ########
 
+.. _relation-definition:
+
 **********
 Definition
 **********
 
 Information about another resource that is related to the current resource.
+
+.. _relation-sources:
 
 ********************************************
 Where Can the Relation Information be Found?
@@ -18,6 +22,7 @@ Where Can the Relation Information be Found?
     -   a title page
     -   accompanying or supplementary information
 
+.. _relation-form:
 
 ***************************************
 How Relation Works in the Metadata Form
@@ -34,8 +39,10 @@ Repeatable?
 	Yes - to include multiple relationships, click 'Add' to repeat all field parts
 
 Required?
-	 No ([more information][])
+	 No (:doc: `more information <minimally-viable-records>`)
 
+
+.. _relation-fill:
 
 *************************************
 How Should the Relation be Filled in?
@@ -44,7 +51,7 @@ How Should the Relation be Filled in?
 -   Enter information about known relationships in the records for both items
 -   It is not necessary to do research to find related resources
 -   If the relationship is unclear, uncertain, or otherwise
-    questionable, the information may be entered into a [note][] instead
+    questionable, the information may be entered into a :doc: `note <note>` instead
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -83,8 +90,8 @@ How Should the Relation be Filled in?
     left blank, but consider whether the information might be more
     appropriate in another field such as:
     
-    - [Description][]
-    - [Display note][]
+    - :doc: `Description <description>`
+    - :doc: `Display note <note>`
     - [Source][]
 
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
@@ -100,9 +107,9 @@ How Should the Relation be Filled in?
 |                                       |                                                           |A linguistic analysis                  |An original text or transcript         |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Is format of / Has format              |To show that the item has the same content in a different  |*Is format of*                         |*Has format*                           |
-|                                       |format                                                     +---------------------------------------+---------------------------------------|
+|                                       |format                                                     +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A photographic print                   |An original negative                   |
-|                                       |                                                           +---------------------------------------+---------------------------------------|
+|                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A print manuscript                     |A born-digital text file               |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Is part of  / Has part                 |-  To show that the item is part of a larger resource      |*Is part of*                           |*Has part*                             |
@@ -156,9 +163,11 @@ How Should the Relation be Filled in?
 |Conforms to                            |To show that an item is compliant with a set of standards  |                                       |                                       |
 |                                       |                                                           |                                       |                                       |
 |                                       |   -   This relationship is not currently used; see the    |                                       |                                       |
-|                                       |       [Comments][] section below                          |                                       |                                       |
+|                                       |       :ref: `Comments <relation-comments>`  section below |                                       |                                       |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 
+
+.. _relation-examples:
 
 ***************
 Other Examples:
@@ -282,6 +291,8 @@ Other Examples:
 +---------------------------------------+-------------------------------------------------------------------+
 
 
+.. _relation-comments:
+
 ********
 Comments
 ********
@@ -293,7 +304,7 @@ Comments
 -   Items may also have other content-based connections that are not
     represented best by a formal "Relation." For example, materials may
     have topical, geographic, or temporal relationships represented in
-    the [Date][], [Coverage][], [Subject][], or other appropriate
+    the :doc: `Date <date>`, :doc: `Coverage <coverage>`, :doc: `Subject <subject>`, or other appropriate
     fields.
 -   Relationships are drawn primarily from Dublin Core Metadata
     Initiative (DCMI) standards (a full list of fields and controlled
@@ -314,6 +325,7 @@ Comments
     for clarity and to increase metadata shareability (e.g., for harvesting)
 
 
+.. _relation-resources:
 
 *********
 Resources
@@ -325,8 +337,5 @@ Resources
 
 **More Guidelines:**
 
--   [Quick-Start Metadata Guide][]
--   [Input Guidelines for Descriptive Metadata][]
+-   :doc: `Quick-Start Metadata Guide <quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
