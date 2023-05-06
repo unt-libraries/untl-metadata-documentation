@@ -39,7 +39,7 @@ Repeatable?
 	Yes - to include multiple relationships, click 'Add' to repeat all field parts
 
 Required?
-	 No (:doc:`more information <minimally-viable-records>`)
+	 No (:doc:`more information </minimally-viable-records>`)
 
 
 .. _relation-fill:
@@ -337,5 +337,5 @@ Resources
 
 **More Guidelines:**
 
--   :doc:`Quick-Start Metadata Guide <quick-start-guide>`
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_:doc
