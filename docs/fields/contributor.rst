@@ -209,7 +209,7 @@ Personal Names
 |-  When in doubt, enter the name as it appears on the item |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Only include the names of specific persons (or          |*Name:* Associated Press               |
-|   organizations)                                          |                                        |
+|   organizations)                                          |                                       |
 |-  In cases where the name is not known (e.g., "Staff      +---------------------------------------+
 |   Photographer"), either:                                 |*Info:* Staff Photographer             |
 |                                                           |                                       |
@@ -238,7 +238,7 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |-  Write out names rather than using acronyms              |*Name:* New York University            |
 |                                                           +---------------------------------------+
-|                                                           |*Info:* NYU
+|                                                           |*Info:* NYU                            |
 +-----------------------------------------------------------+---------------------------------------+
 |For hierarchical agencies or entities:                                                             |
 +-----------------------------------------------------------+---------------------------------------+
