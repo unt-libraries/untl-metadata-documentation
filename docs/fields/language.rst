@@ -98,7 +98,7 @@ How Should the Language be Filled in?
 +---------------------------------------------------------------------------+---------------------------------------+
 |-  If the only text on the item consists of persons' names, choose "no     |nol - No Language                      |
 |   language" and the text can be described in the `content description     +---------------------------------------+
-|   <description-content>` or a `display note <note-display>                |*Note:* The name "Bartimaeus" is carved|
+|   <description-content>` or a `display note <note-display>`               |*Note:* The name "Bartimaeus" is carved|
 |                                                                           |into the top of the box.               |
 +---------------------------------------------------------------------------+---------------------------------------+
 |-  If the language of the item is not on the controlled vocabulary list (or|oth - Other                            |
@@ -170,7 +170,7 @@ Comments
         the addition of a country code to the language code.
         
 -	For less common languages that are not documented in the ISO standard,
-	codes will come from `Glottolog <https://glottolog.org/> `_
+	codes will come from `Glottolog <https://glottolog.org/>`_
 	
 	-	Undocumented languages may be added to Glottolog according to their requirements.
 
