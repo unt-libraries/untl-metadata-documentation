@@ -2,11 +2,15 @@
 Citation
 ========
 
+.. _citation-definition:
+
 **********
 Definition
 **********
 
 Information about a serial item, a resource from which the current resource is derived, or peer-reviewed status of items.
+
+.. _citation-sources:
 
 ********************************************
 Where Can the Citation Information be Found?
@@ -17,6 +21,8 @@ Citation information can be found in several places including:
 -   a title page
 -   page headers or footers
 -   in accompanying or supplementary information
+
+.. _citation-form:
 
 ***************************************
 How Citation Works in the Metadata Form
@@ -39,7 +45,10 @@ Repeatable?:
    -    Page numbers can be expressed both as: (1) a total number of pages *and* (2) a range of page numbers (using start page/end page)
 
 Required?
-   No ([more information][])
+   No (:doc:`more information </minimally-viable-records>`)
+
+
+.. _citation-fill:
 
 *************************************
 How Should the Citation be Filled in?
@@ -131,6 +140,8 @@ Preferred Citation
 -   List the citation exactly it as it appears on the item or accompanying information
 
 
+.. _citation-examples:
+
 Other Examples
 ==============
 
@@ -157,11 +168,13 @@ Full Serial Issue
 Revised Reference text
 :   *Edition:* 3
 
+.. _citation-comments:
+
 Comments
 ========
 
--   This field may be used in conjunction with the [Source][] field
--   This field may repeat information from other fields including [Source][1] and [Title][] (in order to parse the citation components for search engines)
+-   This field may be used in conjunction with the :doc: `Source </source>` field
+-   This field may repeat information from other fields including :doc: `Source </source>` and :doc: `Title </title>` (in order to parse the citation components for search engines)
 
 **Glossary of Citation Qualifiers:**
 
@@ -194,25 +207,24 @@ Comments
 |volume                         |Volume                         |Volume number of the publication                               |
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
 
-
+.. _citation-resources:
 
 Resources
 =========
 
--   UNT Citation Qualifier [Controlled Vocabulary][]
+-   UNT Citation Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/citationQualifiers/>`_
 
 **More Guidelines:**
 
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_
 
 [more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
 [Creator]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/
 [Source]: https://library.unt.edu/digital-projects-unit/metadata/fields/source/#general-display-note
 [1]: https://library.unt.edu/digital-projects-unit/metadata/fields/source/
 [Title]: https://library.unt.edu/digital-projects-unit/metadata/fields/title/
-[Controlled Vocabulary]: https://digital2.library.unt.edu/vocabularies/citationQualifiers/
+[Controlled Vocabulary]: 
 [Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
 [Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
 [Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
