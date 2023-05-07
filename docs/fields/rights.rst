@@ -158,8 +158,6 @@ Rights Statement
 Other Examples:
 ***************
 
-## Other Examples
-
 Electronic dissertation: Comparisons of Improvement-Over-Chance Effect Sizes for Two Groups Under Variance Heterogeneity and Prior Probabilities
     -   *Access:* public - Public
     -   *License:* copyright - Copyright
