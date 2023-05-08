@@ -2,12 +2,16 @@
 Title
 #####
 
+.. _title-definition:
+
 **********
 Definition
 **********
 
 A name given to the resource.
 
+
+.. _title-sources:
 
 *******************************************
 Where Can the Title Information be Found?
@@ -47,6 +51,7 @@ In some cases, titles may come from accompanying or supplementary information; g
 |                                       |- title in HTML header                                 |
 +---------------------------------------+-------------------------------------------------------+
 
+.. _title-form:
 
 ************************************
 How Title Works in the Metadata Form
@@ -63,8 +68,9 @@ Repeatable?
 	Yes - to include multiple titles, click 'Add' to repeat all field parts
 
 Required?
-	 Yes - a Main Title is required ([more information][])
+	 Yes - a Main Title is required (:doc:`more information </minimally-viable-records>`)
 
+.. _title-fill:
 
 **********************************
 How Should the Title be Filled in?
@@ -74,8 +80,8 @@ General Title Rules
 ===================
 
 -   Every record must have one Main Title, also called an "official title"
--   Some records may have multiple titles (see below under [Special Titles][] for more clarification about when to use other titles)
--   For each title, be sure to choose the appropriate qualifier from the [controlled vocabulary][]
+-   Some records may have multiple titles (see below under `Special Titles <titles-special>` for more clarification about when to use other titles)
+-   For each title, be sure to choose the appropriate qualifier from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/title-qualifiers/>`_
     
     
 +-----------------------------------------------------------+---------------------------------------+
@@ -148,6 +154,7 @@ General Title Rules
 |                                                           |1. The American Class                  |
 +-----------------------------------------------------------+---------------------------------------+
 
+.. _title-standardized
 
 Standarized Titles
 ------------------
@@ -197,6 +204,8 @@ Standarized Titles
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _title-special
+
 Special Titles
 ==============
 
@@ -232,13 +241,13 @@ Does the item need multiple titles?
 +-----------------------------------------------------------+---------------------------------------+
 
 
-
-
+Formatting special titles:
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|If the item is part of a serial (see the [serial guidelines][] for more information)               |
+|If the item is part of a serial (see the :doc: `serial guidelines </guides/serials>` for more      |
+|information)                                                                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-   Formulate a standardized main title format, which will |*Main:* Prickly Pear, Yearbook of      |
 |    be the same for each issue                             |Abilene Christian College, 1945        |
@@ -265,7 +274,7 @@ Does the item need multiple titles?
 |   -   It may be used when serials have no volume or issue |in the Congress of the United States   |
 |       number/s, but is not necessary if the same order may+---------------------------------------+
 |       be achieved by sorting chronologically              |*Sort:* Annals of Congress, Congress 4,|
-|                                                           | Session 2                             |
+|                                                           |Session 2                              |
 +-----------------------------------------------------------+---------------------------------------+
 |If the item is part of a series or part of a sub-collection                                        |
 +-----------------------------------------------------------+---------------------------------------+
@@ -350,52 +359,54 @@ Does the item need multiple titles?
 
 *Note:* In the Digital Collections, serial and series titles show up as a facet used for narrowing search results,
 so adding a series thte is one way to create a subset or grouping of items within an established collection.  Also
-see [Serials and Series][] for more information.
+see :doc: `Serials and Series </guides/serials>` for more information.
 
 
+.. _title-examples:
 
-***************
-Other Examples:
-***************
+**************
+Other Examples
+**************
 
 Hand-carved cross
-   *Main:* [Wooden Cross]
+   -    *Main:* [Wooden Cross]
 
 US Geological Survey map
-   *Main:* Map of the Woodbine Artesian Reservoirs of the Black and
-    Grand Prairies of Texas including the Eastern and Western Cross
-    Timbers
+   -    *Main:* Map of the Woodbine Artesian Reservoirs of the Black and
+        Grand Prairies of Texas including the Eastern and Western Cross Timbers
 
 Letter
-   *Main:* [Letter from Jose Maria Viesca to Lorenzo de Zavala, April 14, 1828]
+   -    *Main:* [Letter from Jose Maria Viesca to Lorenzo de Zavala, April 14, 1828]
 
 Yearbook
-   *Main:* The Swarm, Yearbook of Howard Payne University, 2005
-   *Serial:* The Swarm
-   *Added:* Building the Future, Howard Payne University 2005 Swarm, Volume 94, Brownwood, Texas
+   -    *Main:* The Swarm, Yearbook of Howard Payne University, 2005
+   -    *Serial:* The Swarm
+   -    *Added:* Building the Future, Howard Payne University 2005 Swarm, Volume 94, Brownwood, Texas
 
 Legislative Journal
-   *Main:* Journal of the House of Representatives of the Regular Session, Volume 2, and First Called Session of the Fifty-Ninth Legislature
-   *Serial:* Journal of the House of Representatives, Texas Legislature
-   *Uniform:* Journal of the House of Representatives of the...session of the...Legislature of Texas.
-   *Series:* 59th Legislature of Texas
-   *Sort:* Journal of the House of Representatives of the State of Texas, Legislature 59, Regular Session, Volume 2
-   *Added:* Journal of the House of Representatives of the Regular Session of the Fifty-Ninth Legislature of the State of Texas, Volume 2
-   *Added:* Journal of the House of Representatives of the First Called Session of the Fifty-Ninth Legislature of the State of Texas
+   -    *Main:* Journal of the House of Representatives of the Regular Session, Volume 2, and First Called Session of the Fifty-Ninth Legislature
+   -    *Serial:* Journal of the House of Representatives, Texas Legislature
+   -    *Uniform:* Journal of the House of Representatives of the...session of the...Legislature of Texas.
+   -    *Series:* 59th Legislature of Texas
+   -    *Sort:* Journal of the House of Representatives of the State of Texas, Legislature 59, Regular Session, Volume 2
+   -    *Added:* Journal of the House of Representatives of the Regular Session of the Fifty-Ninth Legislature of the State of Texas, Volume 2
+   -    *Added:* Journal of the House of Representatives of the First Called Session of the Fifty-Ninth Legislature of the State of Texas
 
 Plat Map
-   *Main:* K. K. Legett's Subdivision of Lot Number 4 & a Part of Lot Number 5 of the Benjamin Austin Survey Number 92, Taylor County, Texas
-   *Alternate:* K. K. Legett's Subdivision of Lot No. 4 & a Part of Lot No. 5 of the Benj. Austin Sur. No. 92, Taylor Co., Texas
+   -    *Main:* K. K. Legett's Subdivision of Lot Number 4 & a Part of Lot Number 5 of the Benjamin Austin Survey Number 92, Taylor County, Texas
+   -    *Alternate:* K. K. Legett's Subdivision of Lot No. 4 & a Part of Lot No. 5 of the Benj. Austin Sur. No. 92, Taylor Co., Texas
 
 Technical Report
-   *Main:* Fuel Cycle Program Progress Report: Eleventh Quarter, January-March 1963
-   *Added:* Fuel Cycle Program. A Boiling Water Reactor Research and Development Program: Eleventh Quarterly Progress Report, January-March, 1963
-   *Serial:* Fuel Cycle Program Progress Report
-   *Sort:* Fuel Cycle Program Progress Report, Quarter 11, 1963
-   *Series:* AEC research and development report
-   *Series:* Atomic Energy Commission Reports
-   *Series:* General Electric Company Atomic Power Reports
-   *Added:* General Electric Atomic Power Equipment Department Report GEAP-4215
+   -    *Main:* Fuel Cycle Program Progress Report: Eleventh Quarter, January-March 1963
+   -    *Added:* Fuel Cycle Program. A Boiling Water Reactor Research and Development Program: Eleventh Quarterly Progress Report, January-March, 1963
+   -    *Serial:* Fuel Cycle Program Progress Report
+   -    *Sort:* Fuel Cycle Program Progress Report, Quarter 11, 1963
+   -    *Series:* AEC research and development report
+   -    *Series:* Atomic Energy Commission Reports
+   -    *Series:* General Electric Company Atomic Power Reports
+   -    *Added:* General Electric Atomic Power Equipment Department Report GEAP-4215
+
+.. _title-comments:
 
 ********
 Comments
@@ -429,27 +440,18 @@ Comments
 |                       |                           |subsections                                    |
 +-----------------------+---------------------------+-----------------------------------------------+
 
+
+.. _title-resources:
+
 *********
 Resources
 *********
 
--  UNT Title Qualifier [Controlled Vocabulary][]
-- [OCLC Worldcat][]
-- [Worldcat via FirstSearch database][] (Requires UNT authentication)
+-  UNT Title Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/title-qualifiers/>`_
+- `OCLC Worldcat <http://www.worldcat.org/>`_
+- `Worldcat via FirstSearch <https://discover.library.unt.edu/catalog/b2247936>`_ (UNT staff/students can get to OCLC records through electronic resources)
 
 More Guidelines:
 
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[Special Titles]: #special-titles
-[controlled vocabulary]: https://digital2.library.unt.edu/vocabularies/title-qualifiers/
-[Serials and Series]: https://library.unt.edu/digital-projects-unit/metadata/fields/serials-and-series/
-[OCLC Worldcat]: http://www.worldcat.org/
-[Worldcat via FirstSearch database]: https://iii.library.unt.edu/record=e1000044~S12
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
-
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_

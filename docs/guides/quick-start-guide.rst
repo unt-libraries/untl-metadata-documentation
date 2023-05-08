@@ -33,6 +33,8 @@ If you are working on metadata and discover that you have questions or come acro
 
 ====
 
+.. _quick-title:
+
 *****
 Title
 *****
@@ -77,14 +79,17 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for titles, see the :doc:`Title </fields/title>` page
-* For more information about where to find the title on an object, see Where Can the Title Information be Found?
-* For additional guidelines regarding basic titles, see General Title Rules
-* For information about other kinds of titles and whether or not they should be used for an item, see Special Titles
-* To see additional examples, see Other Examples
-* For a glossary of title types, see the Comments section
-* For a list of useful links for titles, see the Resources section
+* For more information about where to find the title on an object, see `Where Can the Title Information be Found? <title-sources>`
+* For additional guidelines regarding basic titles, see `General Title Rules <title-fill>~
+* For information about other kinds of titles and whether or not they should be used for an item, see `Special Titles <title-special>`
+* To see additional examples, see `Other Examples <title-examples>`
+* For a glossary of title types, see the `Comments <title-comments>` section
+* For a list of useful links for titles, see the `Resources <title-resources>` section
 
 ====
+
+
+.. _quick-creator:
 
 *******
 Creator
@@ -143,6 +148,9 @@ Additional Information
 * For more information about when to use the Creator or Contributor field, see our definition page
 
 ====
+
+
+.. _quick-contributor:
 
 ***********
 Contributor
@@ -205,6 +213,9 @@ Additional Information
 
 ####
 
+
+.. _quick-publisher:
+
 *********
 Publisher
 *********
@@ -251,6 +262,9 @@ Additional Information
 * For a list of useful links for publishers, see the Resources section
 
 ####
+
+
+.. _quick-date:
 
 ****
 Date
@@ -310,6 +324,8 @@ Additional Information
 
 ####
 
+.. _quick-language
+
 ********
 Language
 ********
@@ -347,13 +363,15 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for languages, see the Language page
-* For more information about where to find language(s) on an object, see Where Can the Language Information be Found?
-* For additional guidelines regarding languages, see How Should the Language be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for languages, see the Resources section
+* If you want to see the full guidelines for languages, see the :doc: `Language </fields/language>` page
+* For more information about where to find language(s) on an object, see `Where Can the Language Information be Found? <language-sources>`
+* For additional guidelines regarding languages, see `How Should the Language be Filled in? <language-fill>`
+* To see additional examples, see `Other Examples <language-examples>`
+* For a list of useful links for languages, see the `Resources <language-resources>` section
 
 ####
+
+.. _quick-description-content:
 
 ********************************
 Description: Content Description
@@ -402,6 +420,8 @@ Additional Information
 * For additional guidelines regarding content descriptions (including information for specific kinds of items), see How Should the Content Description be Filled in?
 * To see additional examples, see Other Examples
 
+
+.. _quick-description-physical:
 
 *********************************
 Description: Physical Description
@@ -495,6 +515,9 @@ Additional Information
 
 ####
 
+
+.. _quick-subject:
+
 *********************
 Subjects and Keywords
 *********************
@@ -548,6 +571,9 @@ Additional Information
 
 ####
 
+
+.. _quick-psource:
+
 **************
 Primary Source
 **************
@@ -587,6 +613,9 @@ Additional Information
 * To see additional examples, see Other Examples
 
 ####
+
+
+.. _quick-coverage:
 
 ********
 Coverage
@@ -641,7 +670,7 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for coverage, see the Coverage page
+* If you want to see the full guidelines for coverage, see the :doc: `Coverage </fields/coverage>` page
 * For more information about where to find coverage information on an object, see Where Can the Coverage Information be Found?
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see How Should the Coverage be Filled in?
 * To see additional examples, see Other Examples
@@ -649,6 +678,9 @@ Additional Information
 
 
 ####
+
+
+.. _quick-source:
 
 ******
 Source
@@ -684,7 +716,7 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for source, see the Source page
+* If you want to see the full guidelines for source, see the :doc: `Source </fields/source>` page
 * For more information about where to find source information on an object, see Where Can the Source Information be Found?
 * For additional guidelines regarding source, see How Should the Source be Filled in?
 * To see additional examples, see Other Examples
@@ -692,6 +724,9 @@ Additional Information
 * For more information about citing textual source items, see the Citation page
 
 ####
+
+
+.. _quick-relation:
 
 ********
 Relation
@@ -740,13 +775,16 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for relation, see the Relation page
+* If you want to see the full guidelines for relation, see the :doc: `Relation </fields/relation>` page
 * For more information about where to find relation information on an object, see Where Can the Relation Information be Found?
 * For additional guidelines regarding relation (including additional kinds of relationships), see How Should the Relation be Filled in?
 * To see additional examples, see Other Examples
 * For a list of useful links for relation, see the Resources section
 
 ####
+
+
+.. _quick-institution-collection
 
 **************************
 Institution and Collection
@@ -781,12 +819,15 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for institution, see the Institution page
+* If you want to see the full guidelines for institution, see the :doc: `Institution </fields/institution>` page
 * To see additional institution examples, see Other Examples
-* If you want to see the full guidelines for collection, see the Collection page
+* If you want to see the full guidelines for collection, see the :doc: `Collection </fields/collection>` page
 * To see additional collection examples, see Other Examples
 
 ####
+
+
+.. _quick-type-format:
 
 ************************
 Resource Type and Format
@@ -825,7 +866,7 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for resource types, see the Resource Type page
+* If you want to see the full guidelines for resource types, see the :doc: `Resource Type </fields/type>` page
 * To see additional resource type examples, see Other Examples
 * To see the full list of resource types, see the Comments section
 * If you want to see the full guidelines for formats, see the Format page
@@ -833,6 +874,9 @@ Additional Information
 * To see the full list of formats, see the Comments section
 
 ####
+
+
+.. _quick-identifier:
 
 **********
 Identifier
@@ -874,7 +918,7 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for identifiers, see the Identifier page
+* If you want to see the full guidelines for identifiers, see the :doc: `Identifier </fields/identifier>` page
 * For more information about where to find identifiers on an object, see Where Can the Identifier Information be Found?
 * For additional guidelines regarding identifiers, see How Should the Identifier be Filled in?
 * To see additional examples, see Other Examples
@@ -882,6 +926,9 @@ Additional Information
 * For a list of useful links for identifiers, see the Resources section
 
 ####
+
+
+.. _quick-note:
 
 ****
 Note
@@ -920,11 +967,14 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for notes, see the Note page
+* If you want to see the full guidelines for notes, see the :doc: `Note </fields/note>` page
 * For additional guidelines regarding notes, see How Should the Note be Filled in?
 * To see additional examples, see Other Examples
 
 ####
+
+
+.. _quick-degree:
 
 ******************
 Degree Information
@@ -943,7 +993,7 @@ What Do You Need to Know About Degree?
 Formatting Information
 ======================
 
-* If you are working on items created at UNT, read the full guidelines for this field on the Degree Information page.
+* If you are working on items created at UNT, read the full guidelines for this field on the :doc: `Degree Information </fields/degree> page.
 
 ####
 
@@ -951,6 +1001,6 @@ Formatting Information
 Resources
 *********
 
-* Input Guidelines for Descriptive Metadata
-* Explanation of Required Fields
-* Additional Documentation and Project-Specific Guides
+-   `Metadata Home <https://library.unt.edu/metadata/>`_
+-   :doc: `Explanation of Required Fields </minimally-viable-records>`
+-   Additional Documentation and Project-Specific Guides
