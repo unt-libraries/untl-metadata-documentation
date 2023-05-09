@@ -14,9 +14,9 @@ The primary source field designates firsthand accounts of historical subjects.
 
 .. _psource-sources:
 
-******************************************
+**************************************************
 Where Can the Primary Source Information be Found?
-******************************************
+**************************************************
 
 -   Whether or not an item is a primary source is determined by
     examining the item
@@ -81,7 +81,7 @@ Is the item a primary source?
 For more clarification about a particular item:
 
     -   See if the item fits one of the example categories in the next section
-    -   Try reading the `Scholars' Definitions <https://library.unt.edu/digital-projects-unit/metadata/primary-sources-definition/>`_ of Primary Sources
+    -   Try reading the :doc:`Scholars' Definitions </scholars-definitions>` of Primary Sources
 
 
 
@@ -126,7 +126,7 @@ Comments
 Resources
 *********
 
--   `Scholars' Definitions <https://library.unt.edu/digital-projects-unit/metadata/primary-sources-definition/>`_ of Primary Sources
+-   :doc:`Scholars' Definitions </scholars-definitions/>` of Primary Sources
 
 
 More Guidelines:

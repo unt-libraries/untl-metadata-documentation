@@ -80,7 +80,7 @@ General Title Rules
 ===================
 
 -   Every record must have one Main Title, also called an "official title"
--   Some records may have multiple titles (see below under `Special Titles <titles-special>` for more clarification about when to use other titles)
+-   Some records may have multiple titles (see below under :ref:`Special Titles <title-special>` for more clarification about when to use other titles)
 -   For each title, be sure to choose the appropriate qualifier from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/title-qualifiers/>`_
     
     
@@ -101,7 +101,8 @@ General Title Rules
 +-----------------------------------------------------------+---------------------------------------+
 |-  Change Roman numerals to Arabic numbers (when a change  |*Title:* Laws of the Republic of Texas |
 |   is made to the printed title, the original version      |in two volumes. Volume 1               |
-|   be added as a [display note][]                          |                                       |
+|   be added as a                                           |                                       |
+|   :ref:`display note <note-display>`                      |                                       |
 |-  Write out numbers through 100                           +---------------------------------------+
 |-  (Note that an alternate title may be appropriate if     |*Note:* "Vol. I."                      |
 |   the numbers are important to the title)                 +---------------------------------------+
@@ -162,46 +163,48 @@ Standarized Titles
 
     -   When dates are included in titles, they should be written out in "human readable" form
 
-+-----------------------------------------------------------+---------------------------------------+
-| **Guideline**                                             | **Examples**                          |
-+===========================================================+=======================================+
-|-  For letters: [Letter from {name} to {name} - {date}]    |[Letter from John C. Brewer to Emma    |
-|                                                           |Davis - April 21, 1879]                |
-|   -   Separate correspondence information from the date   |                                       |
-|       with  a dash or comma                               |                                       |
-|   -   Also see [Correspondence Guidelines][]              |                                       |
-+-----------------------------------------------------------+---------------------------------------+
-|-  For clippings: [Clipping: {article title}]              |[Clipping: Forced Sale!]               |
-+-----------------------------------------------------------+---------------------------------------+
-|-  For funeral programs: [Funeral Program for {full name}, |[Funeral Program for Cottrell Brackett,|
-|   {date of funeral}]                                      |Jr., October 10, 2012]                 |
-+-----------------------------------------------------------+---------------------------------------+
-|-  For an invoice/receipt: [{Invoice/Receipt for {item/    |[Invoice for Cooking Materials, May 18,|
-|   summary}, {date}]                                       |1894]                                  |
-|                                                           +---------------------------------------+
-|                                                           |[Receipt for Kinsel Motor Payment,     |
-|                                                           |October 1936]                          |
-+-----------------------------------------------------------+---------------------------------------+
-|-  For items related to court cases: Documents pertaining  |Documents pertaining to the case of    |
-|   to the case of {name/case name}, Cause No. {#}          |Garner Williams & Co. vs. J. E. Ennis, |
-|                                                           |Cause No. 507, 1867                    |
-+-----------------------------------------------------------+---------------------------------------+
-|-  For serials: {title}, Volume #, Number, {date}          |AACOG Region, Volume 5, Number 9,      |
-|-  Other normalized values may be appropriate for specific |November 1978                          |
-|   serials, see [Serials Guidelines][]                     |                                       |
-+-----------------------------------------------------------+---------------------------------------+
-|-  Note that these standardized formats may not apply to   |[Letter from Betty Scrivner to her     |
-|   all items                                               |Mother]                                |
-|-  When appropriate, adjust titles to accurately reflect   +---------------------------------------+
-|   the content and type of materials, e.g.:                |[Correspondence Concerning a Marriage  |
-|                                                           |License]                               |
-|   -   When information is unknown (generally omit)        +---------------------------------------+
-|   -   Business or organizational correspondence (e.g.,    |[Front Page of 'The Washington Blade,' |
-|       form letters) that may not have correspondents      |August 4, 2000]                        |
-|   -   If there are multiple items (e.g., a reply added to +---------------------------------------+
-|       the bottom of a letter or multiple clippings on a   |[Newspaper Clippings About Dr. May Owen|
-|       sheet of paper)                                     |and a TMA Meeting]                     |
-+-----------------------------------------------------------+---------------------------------------+
++-------------------------------------------------------------------+---------------------------------------+
+| **Guideline**                                                     | **Examples**                          |
++===================================================================+=======================================+
+|-  For letters: [Letter from {name} to {name} - {date}]            |[Letter from John C. Brewer to Emma    |
+|                                                                   |Davis - April 21, 1879]                |
+|   -   Separate correspondence information from the date           |                                       |
+|       with  a dash or comma                                       |                                       |
+|   -   Also see                                                    |                                       |
+|       :doc:`Correspondence Guidelines </guides/correspondence>`   |                                       |
++-------------------------------------------------------------------+---------------------------------------+
+|-  For clippings: [Clipping: {article title}]                      |[Clipping: Forced Sale!]               |
++-------------------------------------------------------------------+---------------------------------------+
+|-  For funeral programs: [Funeral Program for {full name},         |[Funeral Program for Cottrell Brackett,|
+|   {date of funeral}]                                              |Jr., October 10, 2012]                 |
++-------------------------------------------------------------------+---------------------------------------+
+|-  For an invoice/receipt: [{Invoice/Receipt for {item/            |[Invoice for Cooking Materials, May 18,|
+|   summary}, {date}]                                               |1894]                                  |
+|                                                                   +---------------------------------------+
+|                                                                   |[Receipt for Kinsel Motor Payment,     |
+|                                                                   |October 1936]                          |
++-------------------------------------------------------------------+---------------------------------------+
+|-  For items related to court cases: Documents pertaining          |Documents pertaining to the case of    |
+|   to the case of {name/case name}, Cause No. {#}                  |Garner Williams & Co. vs. J. E. Ennis, |
+|                                                                   |Cause No. 507, 1867                    |
++-------------------------------------------------------------------+---------------------------------------+
+|-  For serials: {title}, Volume #, Number, {date}                  |AACOG Region, Volume 5, Number 9,      |
+|-  Other normalized values may be appropriate for specific         |November 1978                          |
+|   serials, see                                                    |                                       |
+|   :doc:`Serials Guidelines </guides/serials>`                     |                                       |
++-------------------------------------------------------------------+---------------------------------------+
+|-  Note that these standardized formats may not apply to           |[Letter from Betty Scrivner to her     |
+|   all items                                                       |Mother]                                |
+|-  When appropriate, adjust titles to accurately reflect           +---------------------------------------+
+|   the content and type of materials, e.g.:                        |[Correspondence Concerning a Marriage  |
+|                                                                   |License]                               |
+|   -   When information is unknown (generally omit)                +---------------------------------------+
+|   -   Business or organizational correspondence (e.g.,            |[Front Page of 'The Washington Blade,' |
+|       form letters) that may not have correspondents              |August 4, 2000]                        |
+|   -   If there are multiple items (e.g., a reply added to         +---------------------------------------+
+|       the bottom of a letter or multiple clippings on a           |[Newspaper Clippings About Dr. May Owen|
+|       sheet of paper)                                             |and a TMA Meeting]                     |
++-------------------------------------------------------------------+---------------------------------------+
 
 
 .. _title-special:
@@ -231,7 +234,7 @@ Does the item need multiple titles?
 |       -   no sequence number (e.g., an index) that should |a sort title                           |
 |           sort with other issues non-alphabetically       |                                       |
 |                                                           |                                       |
-|-  Also see [Serial Guidelines]                            |                                       |
+|-  Also see :doc:`Serial Guidelines </guides/serials>`     |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  The item is part of a series (also see                  |a series title                         |
 |   [Series Guidelines][])                                  |                                       |
@@ -246,7 +249,7 @@ Formatting special titles:
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|If the item is part of a serial (see the :doc: `serial guidelines </guides/serials>` for more      |
+|If the item is part of a serial (see the :doc:`serial guidelines </guides/serials>` for more       |
 |information)                                                                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-   Formulate a standardized main title format, which will |*Main:* Prickly Pear, Yearbook of      |
@@ -359,7 +362,7 @@ Formatting special titles:
 
 *Note:* In the Digital Collections, serial and series titles show up as a facet used for narrowing search results,
 so adding a series thte is one way to create a subset or grouping of items within an established collection.  Also
-see :doc: `Serials and Series </guides/serials>` for more information.
+see :doc:`Serials and Series </guides/serials>` for more information.
 
 
 .. _title-examples:
@@ -369,14 +372,14 @@ Other Examples
 **************
 
 Hand-carved cross
-   -    *Main:* [Wooden Cross]
+   *Main:* [Wooden Cross]
 
 US Geological Survey map
-   -    *Main:* Map of the Woodbine Artesian Reservoirs of the Black and
-        Grand Prairies of Texas including the Eastern and Western Cross Timbers
+   *Main:* Map of the Woodbine Artesian Reservoirs of the Black and
+   Grand Prairies of Texas including the Eastern and Western Cross Timbers
 
 Letter
-   -    *Main:* [Letter from Jose Maria Viesca to Lorenzo de Zavala, April 14, 1828]
+   *Main:* [Letter from Jose Maria Viesca to Lorenzo de Zavala, April 14, 1828]
 
 Yearbook
    -    *Main:* The Swarm, Yearbook of Howard Payne University, 2005
@@ -447,7 +450,7 @@ Comments
 Resources
 *********
 
--  UNT Title Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/title-qualifiers/>`_
+-  UNT Title Qualifier `Controlled Vocabulary`_
 - `OCLC Worldcat <http://www.worldcat.org/>`_
 - `Worldcat via FirstSearch <https://discover.library.unt.edu/catalog/b2247936>`_ (UNT staff/students can get to OCLC records through electronic resources)
 
