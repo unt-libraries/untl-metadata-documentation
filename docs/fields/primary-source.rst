@@ -81,7 +81,7 @@ Is the item a primary source?
 For more clarification about a particular item:
 
     -   See if the item fits one of the example categories in the next section
-    -   Try reading the :doc:`Scholars' Definitions </scholars-definitions>` of Primary Sources
+    -   Try reading the :doc:`Scholars' Definitions </primary-sources-definition>` of Primary Sources
 
 
 
@@ -126,7 +126,7 @@ Comments
 Resources
 *********
 
--   :doc:`Scholars' Definitions </scholars-definitions/>` of Primary Sources
+-   :doc:`Scholars' Definitions </primary-sources-definition>` of Primary Sources
 
 
 More Guidelines:
