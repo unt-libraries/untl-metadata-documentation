@@ -118,7 +118,7 @@ General Title Rules
 |-  Separate title and subtitles with a colon               |Deaf Smith County Schools: 1893-2003   |
 |-  In some cases, it may make sense to separate long titles+---------------------------------------+
 |   with commas (e.g., normalized periodical titles) or     |An Assessment of the Social and Special|
-|   periods                                                 | Effects of Siting a Low-Level         |
+|   periods                                                 |Effects of Siting a Low-Level          |
 |                                                           |Radioactive Waste Disposal Facility in |
 |                                                           |Texas: Phase 1. Historical and         |
 |                                                           |Sociodemographic Dimensions            |
@@ -154,7 +154,7 @@ General Title Rules
 |                                                           |1. The American Class                  |
 +-----------------------------------------------------------+---------------------------------------+
 
-.. _title-standardized
+.. _title-standardized:
 
 Standarized Titles
 ------------------
@@ -204,7 +204,7 @@ Standarized Titles
 +-----------------------------------------------------------+---------------------------------------+
 
 
-.. _title-special
+.. _title-special:
 
 Special Titles
 ==============
@@ -215,7 +215,7 @@ Does the item need multiple titles?
 | **If...**                                                 | **Add:**                              |
 +===========================================================+=======================================+
 |-  The title has alternate spellings, omissions,           |an alternate title                     |
-|abbreviations, or acronyms                                 |                                       |
+|   abbreviations, or acronyms                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  The item is in a non-English language                   |a parallel title                       |
 |-  The item is a translation from another language         |                                       |

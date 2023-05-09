@@ -79,12 +79,12 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for titles, see the :doc:`Title </fields/title>` page
-* For more information about where to find the title on an object, see `Where Can the Title Information be Found? <title-sources>`
-* For additional guidelines regarding basic titles, see `General Title Rules <title-fill>~
-* For information about other kinds of titles and whether or not they should be used for an item, see `Special Titles <title-special>`
-* To see additional examples, see `Other Examples <title-examples>`
-* For a glossary of title types, see the `Comments <title-comments>` section
-* For a list of useful links for titles, see the `Resources <title-resources>` section
+* For more information about where to find the title on an object, see :ref:`Where Can the Title Information be Found? <title-sources>`
+* For additional guidelines regarding basic titles, see :ref:`General Title Rules <title-fill>`
+* For information about other kinds of titles and whether or not they should be used for an item, see :ref:`Special Titles <title-special>`
+* To see additional examples, see :ref:`Other Examples <title-examples>`
+* For a glossary of title types, see the :ref:`Comments <title-comments>` section
+* For a list of useful links for titles, see the :ref:`Resources <title-resources>` section
 
 ====
 
@@ -132,7 +132,7 @@ Examples:
 +--------------------------------------+---------------------------------------+
 | **Personal name with a suffix**      | Roberts, Frank H. H., Jr.             |
 +--------------------------------------+---------------------------------------+
-| **Organization name**                | R\. L. Polk & Co.                     |
+| **Organization name**                | R. L. Polk & Co.                      |
 +--------------------------------------+---------------------------------------+
 | **Government agency**                | Texas. Adjutant General's Office.     |
 +--------------------------------------+---------------------------------------+
@@ -141,10 +141,10 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for creators, see the :doc:`Creator </fields/creator>` page
-* For more information about where to find creator(s) on an object, see Where Can the Creator Information be Found?
-* For additional guidelines regarding creator names, roles, and information, see How Should the Creator be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for creators, see the Resources section
+* For more information about where to find creator(s) on an object, see :ref:`Where Can the Creator Information be Found? <creator-sources>`
+* For additional guidelines regarding creator names, roles, and information, see :ref:`How Should the Creator be Filled in? <creator-fill>`
+* To see additional examples, see :ref:`Other Examples <creator-examples>`
+* For a list of useful links for creators, see the :ref:`Resources <creator-resources>` section
 * For more information about when to use the Creator or Contributor field, see our definition page
 
 ====
@@ -203,11 +203,11 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for contributors, see the Contributor page
-* For more information about where to find contributor(s) on an object, see Where Can the Contributor Information be Found?
-* For additional guidelines regarding contributor names, roles, and information, see How Should the Contributor be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for contributors, see the Resources section
+* If you want to see the full guidelines for contributors, see the :doc:`Contributor </fields/contributor>` page
+* For more information about where to find contributor(s) on an object, see :ref:`Where Can the Contributor Information be Found? <contributor-sources>`
+* For additional guidelines regarding contributor names, roles, and information, see :ref:`How Should the Contributor be Filled in? <contributor-fill>`
+* To see additional examples, see :ref:`Other Examples <contributor-exammples>`
+* For a list of useful links for contributors, see the :ref:`Resources <contributor-resources>` section
 * For more information about when to use the Creator or Contributor field, see our definition page
 
 
@@ -255,11 +255,11 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for publishers, see the Publisher page
-* For more information about where to find publisher(s) on an object, see Where Can the Publisher Information be Found?
-* For additional guidelines regarding publisher names, locations, and information, see How Should the Publisher be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for publishers, see the Resources section
+* If you want to see the full guidelines for publishers, see the :doc:`Publisher </fields/publisher>` page
+* For more information about where to find publisher(s) on an object, see :ref:`Where Can the Publisher Information be Found? <publisher-sources>`
+* For additional guidelines regarding publisher names, locations, and information, see :ref:`How Should the Publisher be Filled in? <publisher-fill>`
+* To see additional examples, see :ref:`Other Examples <publisher-examples>`
+* For a list of useful links for publishers, see the :ref:`Resources <publisher-resources>` section
 
 ####
 
@@ -314,17 +314,17 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for dates, see the Date page
-* For more information about where to find creation date(s) on an object, see Where Can the Date Information be Found?
-* For formatting instruction for all types of dates, see General Date Rules
+* If you want to see the full guidelines for dates, see the :doc:`Date </fields/date>` page
+* For more information about where to find creation date(s) on an object, see Where Can the Date Information be Found? <date-sources>`
+* For formatting instruction for all types of dates, see :ref:`General Date Rules <date-rules>`
 * For additional guidelines regarding creation dates (including special instructions for postcards and items that are derivations), see Creation Dates
-* For examples of when various kinds of dates would apply, see Special Dates
-* To see additional examples, see Other Examples
-* For a list of useful links for dates, see the Resources section
+* For examples of when various kinds of dates would apply, see :ref:`Special Dates <date-special>`
+* To see additional examples, see :ref:`Other Examples <date-examples>`
+* For a list of useful links for dates, see the :ref:`Resources <date-resources>` section
 
 ####
 
-.. _quick-language
+.. _quick-language:
 
 ********
 Language
@@ -363,7 +363,7 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for languages, see the :doc: `Language </fields/language>` page
+* If you want to see the full guidelines for languages, see the :doc:`Language </fields/language>` page
 * For more information about where to find language(s) on an object, see `Where Can the Language Information be Found? <language-sources>`
 * For additional guidelines regarding languages, see `How Should the Language be Filled in? <language-fill>`
 * To see additional examples, see `Other Examples <language-examples>`
@@ -415,10 +415,10 @@ Formatting Information
 Additional Information
 ======================
 
-* If you want to see the full guidelines for content description, see this section of the Description page
-* For more information about where to find content information on an object, see Where Can the Content Description Information be Found?
-* For additional guidelines regarding content descriptions (including information for specific kinds of items), see How Should the Content Description be Filled in?
-* To see additional examples, see Other Examples
+* If you want to see the full guidelines for content description, see this section of the :ref:`Description <description-content>` page
+* For more information about where to find content information on an object, see :ref:`Where Can the Content Description Information be Found? <description-csources>`
+* For additional guidelines regarding content descriptions (including information for specific kinds of items), see :ref:`How Should the Content Description be Filled in? <description-cfill>`
+* To see additional examples, see :ref:`Other Examples <description-cexamples>`
 
 
 .. _quick-description-physical:
@@ -500,18 +500,18 @@ Note: leave out ‘physical details’ if they do not apply or are not readily a
 Additional Information
 ======================
 
-* If you want to see the full guidelines for physical description, see this section of the Description page
-* For more information about where to find physical information on an object, see Where Can the Physical Description Information be Found?
-* For additional guidelines regarding text materials, see Books, pamphlets, and printed sheets
-* For additional guidelines regarding graphic materials, see Photographs and other “graphic” materials
-* For additional guidelines regarding maps (including atlases), see Maps and other cartographic materials
-* For additional guidelines regarding manuscripts, see Manuscripts (maps, musical scores, and other documents that are handwritten)
-* For additional guidelines regarding sheet music, see Music
-* For additional guidelines regarding audio recordings, see Sound recordings
-* For additional guidelines regarding video recordings, see Motion pictures and videorecordings
-* For additional guidelines regarding physical objects, see Three-dimensional objects
-* For additional guidelines about multiple kinds of items that belong together in the same record (a book with an insert, for example), see Accompanying material
-* To see additional examples, see Other Examples
+* If you want to see the full guidelines for physical description, see this section of the :ref:`Description <description-physical>` page
+* For more information about where to find physical information on an object, see :ref:`Where Can the Physical Description Information be Found? <description-psources>`
+* For additional guidelines regarding text materials, see :ref:`Books, pamphlets, and printed sheets <description-books>`
+* For additional guidelines regarding graphic materials, see :ref:`Photographs and other “graphic” materials <description-photos>`
+* For additional guidelines regarding maps (including atlases), see :ref:`Maps and other cartographic materials <description-maps>`
+* For additional guidelines regarding manuscripts, see :ref:`Manuscripts (maps, musical scores, and other documents that are handwritten) <description-manuscripts>`
+* For additional guidelines regarding sheet music, see :ref:`Music <description-music>`
+* For additional guidelines regarding audio recordings, see :ref:`Sound recordings <description-sound>`
+* For additional guidelines regarding video recordings, see :ref:`Motion pictures and videorecordings <description-video>`
+* For additional guidelines regarding physical objects, see :ref:`Three-dimensional objects <description-3d>`
+* For additional guidelines about multiple kinds of items that belong together in the same record (a book with an insert, for example), see :ref:`Accompanying material <description-accompany>`
+* To see additional examples, see :ref:`Other Examples <description-pexamples>`
 
 ####
 
@@ -531,7 +531,7 @@ What Do You Need to Know About Subject?
    
 * Subjects assist users to search for items by topic or find "more items like this one"
 * Different kinds of subjects can be included, but controlled terms must be labeled and follow formatting rules
-* University of North Texas Libraries Browse Subject (UNTL-BS) terms can be used by public users in The Portal to Texas History to "browse" by topics
+* University of North Texas Libraries Browse Subject (UNTL-BS) terms can be used by public users in The Portal to Texas History to `"browse" by topics <https://texashistory.unt.edu/explore/subjects/>`_
 
 Formatting Information
 ======================
@@ -543,7 +543,7 @@ Formatting Information
 * When readily available, prefer standardized terms from vocabularies
 
 +----------------------------+--------------------------------------+
-| **Keywords**               | | horseback riding                   |    
+| **Keywords**               | | horseback riding                   |
 |                            | | postcards                          |
 +----------------------------+--------------------------------------+
 | **UNTL-Browse Subject**    | Business, Economics and Finance -    |
@@ -563,11 +563,11 @@ Formatting Information
 Additional Information
 ======================
 
-* If you want to see the full guidelines for subjects, see the Subject page
-* For more information about where to find subject(s) on an object, see Where Can the Subject Information be Found?
-* For additional guidelines regarding all subjects and keywords (including instructions by subject type), see How Should the Subject be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for subjects, see the Resources section
+* If you want to see the full guidelines for subjects, see the :doc:`Subject </fields/subject>`page
+* For more information about where to find subject(s) on an object, see :ref:`Where Can the Subject Information be Found? <subject-sources>`
+* For additional guidelines regarding all subjects and keywords (including instructions by subject type), see :ref:`How Should the Subject be Filled in? <subject-fill>`
+* To see additional examples, see :ref:`Other Examples <subject-examples>`
+* For a list of useful links for subjects, see the :ref:`Resources <subject-resources>` section
 
 ####
 
@@ -608,9 +608,9 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for primary sources, see the Primary Source page
-* For additional guidelines regarding primary sources, see How Should Primary Source be Filled in?
-* To see additional examples, see Other Examples
+* If you want to see the full guidelines for primary sources, see the :doc:`Primary Source </fields/primary-source>` page
+* For additional guidelines regarding primary sources, see :ref:`How Should Primary Source be Filled in? <psource-fill>`
+* To see additional examples, see :ref:`Other Examples <psource-examples>`
 
 ####
 
@@ -652,9 +652,9 @@ Examples:
 =========
 
 +-----------------------------+-------------------------------------------------------------+
-| **Coverage place in Texas** | United States - Texas - Denton County - Denton              |    
+| **Coverage place in Texas** | United States - Texas - Denton County - Denton              |
 +-----------------------------+-------------------------------------------------------------+
-| **Coverage place outside    | Germany - Lower Saxony - Region Hannover District - Hanover | 
+| **Coverage place outside    | Germany - Lower Saxony - Region Hannover District - Hanover |
 | of Texas**                  |                                                             |
 +-----------------------------+-------------------------------------------------------------+
 | **Coverage place that is an | United States - New York - New York City                    |
@@ -670,11 +670,11 @@ Examples:
 Additional Information
 ======================
 
-* If you want to see the full guidelines for coverage, see the :doc: `Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see Where Can the Coverage Information be Found?
-* For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see How Should the Coverage be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for coverage, see the Resources section
+* If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
+* For more information about where to find coverage information on an object, see:ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
+* To see additional examples, see :ref:`Other Examples <coverage-examples>`
+* For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
 
 
 ####
@@ -716,12 +716,12 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for source, see the :doc: `Source </fields/source>` page
-* For more information about where to find source information on an object, see Where Can the Source Information be Found?
-* For additional guidelines regarding source, see How Should the Source be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for source, see the Resources section
-* For more information about citing textual source items, see the Citation page
+* If you want to see the full guidelines for source, see the :doc:`Source </fields/source>` page
+* For more information about where to find source information on an object, see :ref:`Where Can the Source Information be Found? <source-sources>`
+* For additional guidelines regarding source, see :ref:`How Should the Source be Filled in? <source-fill>`
+* To see additional examples, see :ref:`Other Examples <source-examples>`
+* For a list of useful links for source, see the :ref:`Resources <source-resources>` section
+* For more information about citing textual source items, see the :doc:`Citation </fields/citation>` page
 
 ####
 
@@ -775,11 +775,11 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for relation, see the :doc: `Relation </fields/relation>` page
-* For more information about where to find relation information on an object, see Where Can the Relation Information be Found?
-* For additional guidelines regarding relation (including additional kinds of relationships), see How Should the Relation be Filled in?
-* To see additional examples, see Other Examples
-* For a list of useful links for relation, see the Resources section
+* If you want to see the full guidelines for relation, see the :doc:`Relation </fields/relation>` page
+* For more information about where to find relation information on an object, see :ref:`Where Can the Relation Information be Found? <relation-sources>`
+* For additional guidelines regarding relation (including additional kinds of relationships), see :ref:`How Should the Relation be Filled in? <relation-fill>`
+* To see additional examples, see :ref:`Other Examples <relation-examples>`
+* For a list of useful links for relation, see the :ref:`Resources <relation-resources>` section
 
 ####
 
@@ -819,10 +819,10 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for institution, see the :doc: `Institution </fields/institution>` page
-* To see additional institution examples, see Other Examples
-* If you want to see the full guidelines for collection, see the :doc: `Collection </fields/collection>` page
-* To see additional collection examples, see Other Examples
+* If you want to see the full guidelines for institution, see the :doc:`Institution </fields/institution>` page
+* To see additional institution examples, see :ref:`Other Examples <institution-examples>`
+* If you want to see the full guidelines for collection, see the :doc:`Collection </fields/collection>` page
+* To see additional collection examples, see :ref:`Other Examples <collection-examples>`
 
 ####
 
@@ -866,12 +866,12 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for resource types, see the :doc: `Resource Type </fields/type>` page
-* To see additional resource type examples, see Other Examples
-* To see the full list of resource types, see the Comments section
-* If you want to see the full guidelines for formats, see the Format page
-* To see additional format examples, see Other Examples
-* To see the full list of formats, see the Comments section
+* If you want to see the full guidelines for resource types, see the :doc:`Resource Type </fields/type>` page
+* To see additional resource type examples, see :ref:`Other Examples <type-examples>`
+* To see the full list of resource types, see the :ref:`Comments <type-comments>` section
+* If you want to see the full guidelines for formats, see the :doc:`Format </fields/format>` page
+* To see additional format examples, see :ref:`Other Examples <format-examples>
+* To see the full list of formats, see the :ref:`Comments <format-comments>` section
 
 ####
 
@@ -918,12 +918,12 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for identifiers, see the :doc: `Identifier </fields/identifier>` page
-* For more information about where to find identifiers on an object, see Where Can the Identifier Information be Found?
-* For additional guidelines regarding identifiers, see How Should the Identifier be Filled in?
-* To see additional examples, see Other Examples
-* To see a glossary of identifier types, see the Comments section
-* For a list of useful links for identifiers, see the Resources section
+* If you want to see the full guidelines for identifiers, see the :doc:`Identifier </fields/identifier>` page
+* For more information about where to find identifiers on an object, see :ref:`Where Can the Identifier Information be Found? <identifier-sources>`
+* For additional guidelines regarding identifiers, see :ref:`How Should the Identifier be Filled in? <identifier-fill>`
+* To see additional examples, see :ref:`Other Examples <identifier-examples>`
+* To see a glossary of identifier types, see the :ref:`Comments <identifier-comments>` section
+* For a list of useful links for identifiers, see the :ref:`Resources <identifier-resources>` section
 
 ####
 
@@ -967,9 +967,9 @@ Examples
 Additional Information
 ======================
 
-* If you want to see the full guidelines for notes, see the :doc: `Note </fields/note>` page
-* For additional guidelines regarding notes, see How Should the Note be Filled in?
-* To see additional examples, see Other Examples
+* If you want to see the full guidelines for notes, see the :doc:`Note </fields/note>` page
+* For additional guidelines regarding notes, see :ref:`How Should the Note be Filled in? <note-fill>`
+* To see additional examples, see :ref:`Other Examples <note-examples>`
 
 ####
 
@@ -993,14 +993,17 @@ What Do You Need to Know About Degree?
 Formatting Information
 ======================
 
-* If you are working on items created at UNT, read the full guidelines for this field on the :doc: `Degree Information </fields/degree> page.
+* If you are working on items created at UNT, read the full guidelines for this field on the :doc:`Degree Information </fields/degree> page.
 
 ####
+
+
+.. _quick-resources:
 
 *********
 Resources
 *********
 
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
--   :doc: `Explanation of Required Fields </minimally-viable-records>`
+-   :doc:`Explanation of Required Fields </minimally-viable-records>`
 -   Additional Documentation and Project-Specific Guides

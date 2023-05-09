@@ -2,12 +2,17 @@
 Creator
 #######
 
+
+.. _creator-definition:
+
 **********
 Definition
 **********
 
 A person, agency, or organization primarily responsible for creating the intellectual content of the resource.
 
+
+.. _creator-sources:
 
 *******************************************
 Where Can the Creator Information be Found?
@@ -46,6 +51,7 @@ In some cases, creators may come from accompanying or supplementary information,
 +---------------------------------------+-------------------------------------------------------+
 
 
+.. _creator-form:
 
 **************************************
 How Creator Works in the Metadata Form
@@ -64,8 +70,10 @@ Repeatable?
 	Yes - to include multiple creators, click 'Add' to repeat all field parts
 
 Required?
-	 No ([more information][])
+	 No (:doc:`more information </minimally-viable-records>`)
 
+
+.. _creator-fill:
 
 ************************************
 How Should the Creator be Filled in?
@@ -121,9 +129,12 @@ General Creator Rules
     multiple names (initials, maiden names, etc.) are known to be used by a
     specific person
     
-    
+
+
 Creator Names
 -------------
+
+.. _creator-name-per:
 
 Personal Names
 ^^^^^^^^^^^^^^
@@ -223,6 +234,8 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _creator-name-org:
+
 Organization Names
 ^^^^^^^^^^^^^^^^^^
 
@@ -285,6 +298,8 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _creator-type:
+
 Creator Type
 ------------
 
@@ -331,6 +346,7 @@ Creator Type
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _creator-role:
 
 Creator Role
 ------------
@@ -445,6 +461,7 @@ Assigning Roles
 +---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
 
 
+.. _creator-info:
 
 Creator Info
 ------------
@@ -493,145 +510,149 @@ Creator Info
 +-----------------------------------------------------------+---------------------------------------+
 
 
+.. _creator-examples:
+
 ***************
 Other Examples:
 ***************
 
 Book
 
-    *Name:* Farrar, R. M.
-    *Type:* Person
-    *Role:* Author
+    -   *Name:* Farrar, R. M.
+    -   *Type:* Person
+    -   *Role:* Author
 
 Yearbook
 
-    *Name:* North Texas Laboratory School
-    *Type:* Organization
-    *Role:* Author
+    -   *Name:* North Texas Laboratory School
+    -   *Type:* Organization
+    -   *Role:* Author
     
-    *Name:* Mays, Sharon
-    *Type:* Person
-    *Role:* Editor
-    *Information:* Co-Editor
+    -   *Name:* Mays, Sharon
+    -   *Type:* Person
+    -   *Role:* Editor
+    -   *Information:* Co-Editor
     
-    *Name:* Wyss, Margaret
-    *Type:* Person
-    *Role:* Editor
-    *Information:* Co-Editor
+    -   *Name:* Wyss, Margaret
+    -   *Type:* Person
+    -   *Role:* Editor
+    -   *Information:* Co-Editor
 
 Genealogical newsletter
 
-    *Name:* Texas State Genealogical Society
-    *Type:* Organization
-    *Role:* Author
+    -   *Name:* Texas State Genealogical Society
+    -   *Type:* Organization
+    -   *Role:* Author
     
-    *Name:* Pryor, Frances
-    *Type:* Person
-    *Role:* Editor
+    -   *Name:* Pryor, Frances
+    -   *Type:* Person
+    -   *Role:* Editor
 
 Atlas
 
-    *Name:* Geological Survey (U.S.)
-    *Type:* Organization
-    *Role:* Author
-    *Information:* U.S. Department of the Interior, Geological Survey; J. W. Powell, Director
+    -   *Name:* Geological Survey (U.S.)
+    -   *Type:* Organization
+    -   *Role:* Author
+    -   *Information:* U.S. Department of the Interior, Geological Survey; J. W. Powell, Director
     
-    *Name:* Dutton, Clarence E.
-    *Type:* Person
-    *Role:* Author
-    *Information:* Capt. Clarence E. Dutton U.S.A. - Author of "Tertiary History of the Grand Canon District"
+    -   *Name:* Dutton, Clarence E.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* Capt. Clarence E. Dutton U.S.A. - Author of "Tertiary History of the Grand Canon District"
 
 Collection of legal papers
 
-    *Name:* Blades, J. R.
-    *Type:* Person
-    *Role:* Compiler
-    *Information:* Clerk, District Court, Henderson County
+    -   *Name:* Blades, J. R.
+    -   *Type:* Person
+    -   *Role:* Compiler
+    -   *Information:* Clerk, District Court, Henderson County
 
 Painting
 
-    *Name:* Seurat, Georges, 1859-1891
-    *Type:* Person
-    *Role:* Artist
-    *Information:* French
+    -   *Name:* Seurat, Georges, 1859-1891
+    -   *Type:* Person
+    -   *Role:* Artist
+    -   *Information:* French
 
 Research report
 
-    *Name:* Moris, Marlene C.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* McMurdie, Howard F.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Evans, Eloise H.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Paretzkin, Boris
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Parker, Harry S.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Panagiotopoulos, Nicholas C.
-    *Type:* Person
-    *Role:* Author
-    *Information:* International Centre for Diffraction Data
-    
-    *Name:* Hubbard, Camden R.
-    *Type:* Person
-    *Role:* Author
-    *Information:* National Measurement Laboratory, National Bureau of Standards, Washington D.C.
+    -   *Name:* Moris, Marlene C.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* McMurdie, Howard F.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* Evans, Eloise H.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* Paretzkin, Boris
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* Parker, Harry S.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* Panagiotopoulos, Nicholas C.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* International Centre for Diffraction Data
+
+    -   *Name:* Hubbard, Camden R.
+    -   *Type:* Person
+    -   *Role:* Author
+    -   *Information:* National Measurement Laboratory, National Bureau of Standards, Washington D.C.
 
 Map
 
-    *Name:* Hill, Robert Thomas, 1858-1941
-    *Type:* Person
-    *Role:* Cartographer
-    *Information:* "By Robert T. Hill"
+    -   *Name:* Hill, Robert Thomas, 1858-1941
+    -   *Type:* Person
+    -   *Role:* Cartographer
+    -   *Information:* "By Robert T. Hill"
 
 Opera score
 
-    *Name:* Smith, Julia, 1905-1989
-    *Type:* Person
-    *Role:* Composer
-    *Information:* Music by Julia Smith
+    -   *Name:* Smith, Julia, 1905-1989
+    -   *Type:* Person
+    -   *Role:* Composer
+    -   *Information:* Music by Julia Smith
 
 Laws of Texas
 
-    *Name:* Texas (Republic). Secretary of State.
-    *Type:* Organization
-    *Role:* Compiler
+    -    *Name:* Texas (Republic). Secretary of State.
+    -    *Type:* Organization
+    -    *Role:* Compiler
 
 City directory
 
-    *Name:* Morrison & Fourmy Directory Co.
-    *Type:* Organization
-    *Role:* Compiler
-    *Information:* Compilers, Publishers and Proprietors
+    -   *Name:* Morrison & Fourmy Directory Co.
+    -   *Type:* Organization
+    -   *Role:* Compiler
+    -   *Information:* Compilers, Publishers and Proprietors
 
 Committee report
 
-    *Name:* Texas. Legislature. House of Representatives. Committee on Business and Industry.
-    *Type:* Organization
-    *Role:* Author
+    -   *Name:* Texas. Legislature. House of Representatives. Committee on Business and Industry.
+    -   *Type:* Organization
+    -   *Role:* Author
 
 Photograph
 
-    *Name:* Dallas (Tex.). Police Department.
-    *Type:* Organization
-    *Role:* Photographer
-    *Information:* Staff photographer
+    -   *Name:* Dallas (Tex.). Police Department.
+    -   *Type:* Organization
+    -   *Role:* Photographer
+    -   *Information:* Staff photographer
 
+
+.. _creator-comments:
 
 ********
 Comments
@@ -644,10 +665,10 @@ Comments
     limiting creators to three or fewer names. Include as many creators
     as are readily available.
 -   If the creator and the publisher are the same, repeat the name in
-    the [Publisher][] element.
+    the :doc: `Publisher </fields/publisher>` element.
 -   Individuals or organizations with lesser responsibility for creation
     of the intellectual content of the resource should be recorded in
-    the [Contributor][] element instead of the creator
+    the :doc: `Contributor </fields/contributor>` element instead of the creator
     element. Some examples of contributors are collector, donor,
     section editor, etc.
 -   The creator roles come primarily from MARC `relator codes <http://www.loc.gov/marc/relators/relators.html>`_; not
@@ -655,6 +676,7 @@ Comments
     and several local codes have been added to the UNT list.
 
 
+.. _creator-resources:
 
 *********
 Resources
@@ -674,19 +696,5 @@ Resources
 
 **More Guidelines:**
 
--   [Quick-Start Metadata Guide][]
--   [Input Guidelines for Descriptive Metadata][]
+-   `Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[contributors]: https://library.unt.edu/digital-projects-unit/metadata/fields/contributor/
-[Role]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/#creator-role
-[definition page]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator-and-contributor-definitions/
-[Note]: https://library.unt.edu/digital-projects-unit/metadata/fields/note/#metadata-display-notes
-[Info]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/#creator-information
-[Non-Displaying Note]: https://library.unt.edu/digital-projects-unit/metadata/fields/note/#metadata-non-displaying-note
-[Publisher]: https://library.unt.edu/digital-projects-unit/metadata/fields/publisher/
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
-

@@ -2,11 +2,17 @@
 Publisher
 #########
 
+
+.. _publisher-definition:
+
 **********
 Definition
 **********
 
 An entity responsible for making the resource available: the publisher of the original work.
+
+
+.. _publisher-sources:
 
 *********************************************
 Where Can the Publisher Information be Found?
@@ -24,6 +30,7 @@ Where Can the Publisher Information be Found?
     -   accompanying or supplementary information
 
 
+.. _publisher-form:
 
 ****************************************
 How Publisher Works in the Metadata Form
@@ -41,8 +48,10 @@ Repeatable?
 	Yes - to include multiple publishers, click 'Add' to repeat all field parts
 
 Required?
-	 No ([more information][])
+	 No (:doc:`more information </minimally-viable-records>`)
 
+
+.. _publisher-fill:
 
 **************************************
 How Should the Publisher be Filled in?
@@ -53,11 +62,13 @@ General Publisher Rules
 
 -   If no publisher statement is present on the resource or its documentation, leave the field blank
 -   When relevant, multiple publishers can be included, but it may be appropriate for a second publisher
-    to be listed as a [contributor][] instead (for example, a "printer" or "distributor")
-    
-    
+    to be listed as a :doc:`contributor </fields/contributor>` instead (for example, a "printer" or "distributor")
+
+
+.. _publisher-name:
+
 Publisher Names
------------------
+---------------
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -84,9 +95,8 @@ Publisher Names
 |       is important to clarify components that do not come |                                       |
 |       from the resource itself                            |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Write out names rather than using acronyms              |*Name:* University of North Texas      |
-|                                                           +---------------------------------------+
-|                                                           |*Info:* UNT                            |
+|-  Write out names rather than using acronyms              | | *Name:* University of North Texas   |
+|                                                           | | *Info:* UNT                         |
 +-----------------------------------------------------------+---------------------------------------+
 |For hierarchical agencies or entities:                                                             |
 +-----------------------------------------------------------+---------------------------------------+
@@ -121,11 +131,10 @@ Publisher Names
 +-----------------------------------------------------------+---------------------------------------+
 |For non-U.S. agencies:                                                                             |
 +-----------------------------------------------------------+---------------------------------------+
-|-  When using an authorized form of the name, it may be    |*Name:* Japan. Kankyōshō.              |
-|   appropriate to add notes to the "info" section:         |                                       |
-|                                                           +---------------------------------------+
-|                                                           |*Info:* [Japan] Ministry of the        |
-|   -   If the name is written in a language other than     |Environment                            |
+|-  When using an authorized form of the name, it may be    | | *Name:* Japan. Kankyōshō.           |
+|   appropriate to add notes to the "info" section:         | | *Info:* [Japan] Ministry of the     |
+|                                                           |   Environment                         |
+|   -   If the name is written in a language other than     |                                       |
 |       English, add the English translation (if known)     +---------------------------------------+
 |   -   If the name is written in English, additional forms |China (Republic : 1949- ). Huan jing   |
 |       from the item may be added                          |bao hu shu.                            |
@@ -136,6 +145,9 @@ Publisher Names
 +-----------------------------------------------------------+---------------------------------------+
 
 
+
+.. _publisher-location:
+
 Publisher Location
 ------------------
 
@@ -143,16 +155,15 @@ Publisher Location
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  Enter the place of publication listed on the resource   |Sewanee, Tennessee                     |
-|-  Write out city and state names                          +---------------------------------------+
-|                                                           |Austin, Texas                          |
+|-  Enter the place of publication listed on the resource   | | Sewanee, Tennessee                  |
+|-  Write out city and state names                          | | Austin, Texas                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If multiple places are associated with the publisher,   |London, England                        |
 |   use the first place listed                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If no place of publication is listed:                   |United States                          |
-|                                                           +---------------------------------------+
-|   -   Leave the location blank                            |Idaho                                  |
+|-  If no place of publication is listed:                   | | United States                       |
+|                                                           | | Idaho                               |
+|   -   Leave the location blank                            |                                       |
 |   -   A less specific location (e.g., country or state    |                                       |
 |       only) may be used if it can be reasonably inferred  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
@@ -160,6 +171,8 @@ Publisher Location
 |   is known but not listed on the item                     |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
+
+.. _publisher-info:
 
 Publisher Info
 --------------
@@ -182,6 +195,8 @@ Publisher Info
 |   -   A publishing statement printed in the resource      |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
+
+.. _publisher-examples:
 
 ***************
 Other Examples:
@@ -240,6 +255,7 @@ Other Examples:
 - *Location:* Boston, Massachusetts 
 
 
+.. _publisher-comments:
 ********
 Comments
 ********
@@ -248,14 +264,14 @@ Comments
     match text against local authority files. Editors should always
     choose an authorized form from the list if it is available.
 -   If the publisher and the creator are the same, repeat the name in
-    the [Creator][] element.
+    the :doc:`Creator </fields/creator>` element.
 -   In the case of outsourcing, the name of the contract agency
     performing digital services for a publisher could be recorded in the
-    [Note][] element.
+    :doc:`Note </fields/note>` element.
 -   Publishing information about a resource from which the current
-    resource is derived should be placed in the [Source][] element.
+    resource is derived should be placed in the :doc:`Source </fields/source>` element.
 -   For place(s) associated with the intellectual content of the
-    resource, use the [Coverage][] Place Name sub-element.
+    resource, use the Coverage :ref:`Place Name <coverage-place>` sub-element.
 
 
 
@@ -275,18 +291,5 @@ Resources
 
 **More Guidelines:**
 
--   [Quick-Start Metadata Guide][]
--   [Input Guidelines for Descriptive Metadata][]
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[publishers]: https://library.unt.edu/digital-projects-unit/metadata/fields/publisher/
-[Role]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/#creator-role
-[definition page]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator-and-publisher-definitions/
-[Note]: https://library.unt.edu/digital-projects-unit/metadata/fields/note/#metadata-display-notes
-[Info]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/#creator-information
-[Non-Displaying Note]: https://library.unt.edu/digital-projects-unit/metadata/fields/note/#metadata-non-displaying-note
-[Publisher]: https://library.unt.edu/digital-projects-unit/metadata/fields/publisher/
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
