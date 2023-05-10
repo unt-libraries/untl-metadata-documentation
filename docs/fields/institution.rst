@@ -4,6 +4,9 @@ Institution
 
 (Also called 'Partner' within The Portal to Texas History)
 
+
+.. _ institution-definition:
+
 **********
 Definition
 **********
@@ -11,6 +14,9 @@ Definition
 A consistent reference to the institution or administrative unit that
 owns the original resource for which metadata was created, or that
 retains rights and responsibilities related to the item and its usage.
+
+
+.. _institution-sources:
 
 ***********************************************
 Where Can the Institution Information be Found?
@@ -32,19 +38,25 @@ Repeatable?
    No - only one organization owns an object
 
 Required?
-   Yes ([more information][])
+   Yes (:doc:`more information </minimally-viable-records>`)
+
+
+.. _institution-fill:
 
 ****************************************
 How Should the Institution be Filled in?
 ****************************************
 
--   Select the correct institution name from the [controlled
-    vocabulary][]
+-   Select the correct institution name from the `controlled
+    vocabulary <https://digital2.library.unt.edu/vocabularies/institutions/>`_
 -   For items created in the UNT community, the Institution will be the
     name of the College that contains the discipline or department
 
 -   It is **important** that the correct institution name be entered for
     the item
+
+
+.. _institution-examples:
 
 ********
 Examples
@@ -71,30 +83,27 @@ Genealogical newsletter: Stirpes, Volume 20, Number 1, March 1980
 Lusterware pitcher
    *Institution:* STAR - Star of the Republic Museum
 
+
+.. _institution-comments:
+
 ********
 Comments
 ********
 
--   For copyright-related information use the [Rights][] element.
+-   For copyright-related information use the :doc:`Rights </fields/rights>` element.
 -   Institution is based on who possesses the physical items or has the authority to license usage of the content or digital copies.
 -   In some cases (including microfilm), "institution" will refer to the partner responsible for the digitization whether they possess the items or not.
+
+
+.. _institution-resources:
 
 *********
 Resources
 *********
 
--   UNT Institutions [Controlled Vocabulary][]
+-   UNT Institutions `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/institutions/>`_
+
 
 **More Guidelines:**
-
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[controlled vocabulary]: https://digital2.library.unt.edu/vocabularies/institutions/
-[Academic Department]: https://library.unt.edu/digital-projects-unit/metadata/fields/degree-information/#academic-department
-[Rights]: https://library.unt.edu/digital-projects-unit/metadata/fields/rights/
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_
