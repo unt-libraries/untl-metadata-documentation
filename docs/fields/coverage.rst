@@ -2,12 +2,17 @@
 Coverage
 ########
 
+
+.. _coverage_definition:
+
 **********
 Definition
 **********
 
 Geographic and temporal information related to the content of the resource.
 
+
+.. _coverage-sources:
 
 ********************************************
 Where Can the Coverage Information be Found?
@@ -48,6 +53,8 @@ In some cases, coverage information may come from accompanying or supplementary 
 +---------------------------------------+-------------------------------------------------------+
 
 
+.. _coverage-form:
+
 ***************************************
 How Coverage Works in the Metadata Form
 ***************************************
@@ -66,16 +73,17 @@ Repeatable?
 	Yes - to include different kinds of coverage information, click 'Add' to repeat all field parts
 	
 	
--   Coverage location ([Place Name][], [Place Box or Point][]) can be repeated to include
+-   Coverage location (:ref:`Place Name <coverage-place>`, :ref:`Place Box or Point <coverage-geo>`) can be repeated to include
     multiple places
--   Coverage eras ([Time Period][]) can be repeated to include multiple
-    eras
--   Coverage [dates][] should be expressed in a *single entry* as an
+-   Coverage eras (:ref:`Time Period <coverage-time>`) can be repeated to include multiple eras
+-   Coverage :ref:`dates <coverage-date>` should be expressed in a *single entry* as an
     individual date or date range(s)
 
 Required?
-   No ([more information][])
+   No (:doc:`more information </minimally-viable-records>`)
 
+
+.. _coverage-fill:
 
 *************************************
 How Should the Coverage be Filled in?
@@ -88,13 +96,15 @@ General Coverage Guidelines
 -   Coverage is about the content of the item
 
     -   For some items (e.g., original photographs) the coverage date
-        will be the same as the [creation][] date
-    -   For text items dates and locations may overlap with [creation][]
-        dates and [publisher][] locations but are often different
+        will be the same as the :doc:`creation </fields/date>` date
+    -   For text items dates and locations may overlap with :doc:`creation </fields/date>`
+        dates and :doc:`publisher </fields/publisher>` locations but are often different
     -   For reproductions, consider that the content and creation may
         not match regardless of type (e.g., a copy negative would have a
         different creation date than the coverage date, which will match
         the original photo)
+
+.. _coverage-place:
 
 Place Name(s)
 -------------
@@ -106,9 +116,8 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
-|Include any places relevant to the content of the item                         |United States                                   |
-|                                                                               +------------------------------------------------+
-|                                                                               |France                                          |
+|Include any places relevant to the content of the item                         | | United States                                |
+|                                                                               | | France                                       |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |Note that most locations will already have an established form that should be  |                                                |
 |chosen from the searchable modal.  If the location name is not in the system,  |                                                |
@@ -127,12 +136,12 @@ Place Name(s)
 |                                                                               |Poland - Lower Silesia Province -               |
 |                                                                               |Lubin County - Lubin Gmina - Lubin              |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|Write out "County", "Parish", "Province", and other relevant descriptors (*not*|Italy - Latium Region - Rome Province - Rome    |
-|"State")                                                                       +------------------------------------------------+
-|                                                                               |United States - Louisiana - Caddo Parish -      |
-|For most places in the United States, this form should be used:                |Shreveport                                      |
+|-  Write out "County", "Parish", "Province", and other relevant descriptors    |Italy - Latium Region - Rome Province - Rome    |
+|   (*not* "State")                                                             +------------------------------------------------+
+|-  For most places in the United States, this form should be used:             |United States - Louisiana - Caddo Parish -      |
+|   United States - [state] - [county] County - [city]                          |Shreveport                                      |
 |                                                                               +------------------------------------------------+
-|United States - [state] - [county] County - [city]                             |United States - Illinois - Cook County -        |
+|                                                                               |United States - Illinois - Cook County -        |
 |                                                                               |Chicago                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Levels of Specificity*                                                                                                         |
@@ -140,68 +149,63 @@ Place Name(s)
 |If the place is a territory or "dependent state," treat it as a country and do |Guam                                            |
 |not include the parent nation in the hierarchy                                 |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|When item content covers continents rather than countries (e.g., maps), use    |North America                                   |
-|continent names based on the `CIA World Factbook                               +------------------------------------------------+
-|<https://www.cia.gov/the-world-factbook/countries/world>`_ (also listed in the)|Central America and Caribbean                   |
-|[Comments][] section                                                           |                                                |
+|When item content covers continents rather than countries (e.g., maps), use    | | North America                                |
+|continent names based on the `CIA World Factbook                               | | Central America and Caribbean                |
+|<https://www.cia.gov/the-world-factbook/countries/world>`_ (also listed in the)|                                                |
+|:ref:`Comments <coverage-comments>` section                                    |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |For content about the entire United Kingdom rather than the individual         |United Kingdom                                  |
 |countries, use the "nation" name                                               |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|Do not include political groups (e.g., the European Union, United Nations,     |France                                          |
-|etc.); instead list the relevant member countries based on the content/time of +------------------------------------------------+
-|publication                                                                    |England                                         |
-|                                                                               +------------------------------------------------+
-|                                                                               |Germany                                         |
-|                                                                               +------------------------------------------------+
-|                                                                               |etc.                                            |
+|Do not include political groups (e.g., the European Union, United Nations,     | | France                                       |
+|etc.); instead list the relevant member countries based on the content/time of | | England                                      |
+|publication                                                                    | | Germany                                      |
+|                                                                               | | etc.                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|For bodies of water (lakes, rivers, oceans, etc.) and geographic landmarks     |*Coverage Place:* United States - Texas         |
+|For bodies of water (lakes, rivers, oceans, etc.) and geographic landmarks     | | *Coverage Place:* United States - Texas      |
 |(e.g., mountains):                                                             |                                                |
-|                                                                               |*Keyword:* Neches River                         |
+|                                                                               | | *Keyword:* Neches River                      |
 |- Include the most specific location that is relevant (e.g., country, region,  |                                                |
 |  county, state, etc.) *or*                                                    +------------------------------------------------+
 |- Leave the coverage place blank for oceans or landmarks that are not          |*Keyword:* Atlantic Ocean                       |
 |  contained in a specific region                                               |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|Do not include:                                                                |*Coverage Place:* United States - Texas -       |
-|                                                                               |Palo Pinto County - Mineral Wells               |
+|Do not include:                                                                | | *Coverage Place:* United States - Texas -    |
+|                                                                               |   Palo Pinto County - Mineral Wells            |
 |- Any levels smaller than the "city" or populated place levels (parks,         |                                                |
-|  neighborhoods, etc.)                                                         |*Keyword:* Crazy Park                           |
+|  neighborhoods, etc.)                                                         | | *Keyword:* Crazy Park                        |
 |- Names of military installations that are not also designated as "populated   |                                                |
 |  places"                                                                      +------------------------------------------------+
 |- Geographic regions other than continents (e.g., Midwest)                     |*Keyword:* New England                          |
 |                                                                               |                                                |
-|Proper names can be included as [keywords][]                                   |                                                |
+|Proper names can be included as :ref:`keywords <subject-keywords>`             |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|For a neighborhood, subdivision, or other non-populated place:                 |*Coverage Place:* United States - Texas -       |
-|                                                                               |Taylor County - Abilene                         |
-|- Use the smallest appropriate level (usually a county or city)                |                                                |
-|- Add the name of the area as a keyword, using the full name/designation       |*Keyword:* Brook Hollow Subdivision             |
-|                                                                               +------------------------------------------------+
-|                                                                               |*Coverage Place:* United States - Texas -       |
-|                                                                               |Taylor County                                   |
-|                                                                               |                                                |
-|                                                                               |*Keyword:* Camp Barkeley                        |
+|For a neighborhood, subdivision, or other non-populated place:                 | | *Coverage Place:* United States - Texas -    |
+|                                                                               |   Taylor County - Abilene                      |
+|- Use the smallest appropriate level (usually a county or city)                | | *Keyword:* Brook Hollow Subdivision          |
+|- Add the name of the area as a keyword, using the full name/designation       +------------------------------------------------+
+|                                                                               | | *Coverage Place:* United States - Texas -    |
+|                                                                               |   Taylor County                                |
+|                                                                               | | *Keyword:* Camp Barkeley                     |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-   A colonia or "Census Designated Place" (CDP) is treated the same as a city |*Coverage Place:* United States - Webb County - |
-|                                                                               |Ranchitos Las Lomas                             |
+|-   A colonia or "Census Designated Place" (CDP) is treated the same as a city | | *Coverage Place:* United States - Webb County|
+|                                                                               |   - Ranchitos Las Lomas                        |
 |-   Other forms of the name (e.g., with the CDP note) can be added as keywords |                                                |
-|                                                                               |*Coverage Place:* United States - Webb County - |
-|                                                                               |Village East Colonia                            |
+|                                                                               | | *Coverage Place:* United States - Webb County|
+|                                                                               |   - Village East Colonia                       |
 |*Note: A CDP is defined according the `U.S. Census Bureau                      |                                                |
-|<https://data.census.gov>`_ and is noted in their database*                    |*Keyword:* Ranchitos Las Lomas CDP, Texas       |
+|<https://data.census.gov>`_ and is noted in their database*                    | | *Keyword:* Ranchitos Las Lomas CDP, Texas    |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Name Changes*                                                                                                                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |-   If the region being described has changed names or restructured, use the   |*Coverage Place:* Puerto Rico                   |
 |    current name                                                               |                                                |
 |                                                                               |*Keyword:* Porto Rico                           |
-|-   Variant names may be included as [keywords][] and may be used in other text+------------------------------------------------+
-|    fields when describing the item/content                                    |*Coverage Place:* Vietnam - Ho Chi Minh         |
-|                                                                               |Municipality - Ho Chi Mihn City                 |
+|-   Variant names may be included as :ref:`keywords <subject-keywords>` and may+------------------------------------------------+
+|    be used in other text fields when describing the item/content              | | *Coverage Place:* Vietnam - Ho Chi Minh      |
+|                                                                               |   Municipality - Ho Chi Mihn City              |
 |If the previous hierarchy or version of a place name is important, it may also |                                                |
-|be added as a [historic place name][]                                          |*Historic Place Name:* Vietnam - Saigon         |
+|be added as a :ref:`historic place name <coverage-historic>`                   | | *Historic Place Name:* Vietnam - Saigon      |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 Exceptions
@@ -209,10 +213,10 @@ Exceptions
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
-|1. New York City encompasses five different counties, so the "county" part of  |United States - New York - New York City     |
+|1. New York City encompasses five different counties, so the "county" part of  | | United States - New York - New York City  |
 |the hierarchy should be omitted                                                |                                             |
-|                                                                               |United States - New York - Kings County - New|
-|2. New York boroughs can be included at the level below "city" (with the       |York City - Brooklyn Borough                 |
+|                                                                               | | United States - New York - Kings County - |
+|2. New York boroughs can be included at the level below "city" (with the       |   New York City - Brooklyn Borough          |
 |relevant county)                                                               |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |3. For "Hollywood" do not include "Los Angeles" as the city                    |United States - California - Los Angeles     |
@@ -220,22 +224,22 @@ Exceptions
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |4. The District of Columbia should be written as "Washington D.C."             |United States - Washington D.C.              |
 +-------------------------------------------------------------------------------+---------------------------------------------+
-|5. Within the United States, do not include places in the hierarchy between    |United States - Texas - Galveston County -   |
-|"county" and "city" e.g.:                                                      |Galveston                                    |
+|5. Within the United States, do not include places in the hierarchy between    | | United States - Texas - Galveston County -|
+|"county" and "city" e.g.:                                                      |   Galveston                                 |
 |                                                                               |                                             |
-|United States - Texas - Galveston County - Galveston Island - Galveston        |United States - Indiana - Hancock County -   |
-|                                                                               |McCordsville                                 |
+|United States - Texas - Galveston County - Galveston Island - Galveston        | | United States - Indiana - Hancock County -|
+|                                                                               |   McCordsville                              |
 |United States - Indiana - Hancock County - Vernon Township - McCordsville      |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |6. Places classified as "Independent Cities" will not have counties            |United States - Missouri - St. Louis         |
 |                                                                               |Independent City - St. Louis                 |
 +-------------------------------------------------------------------------------+---------------------------------------------+
-|7. There is no need to include a descriptor such as "Department" or "National  |France - &Icirc;le-de-France Region -        |
-|District" if it already appears in the name (Distrito Federal, etc.)           |D&eacute;partement de Ville de Paris - Paris |
-|                                                                               |                                             |
-|                                                                               |Portugal - Distrito de Lisboa - Lisbon       |
+|7. There is no need to include a descriptor such as "Department" or "National  | | France - Île-de-France Region -           |
+|District" if it already appears in the name (Distrito Federal, etc.)           |   Département de Ville de Paris - Paris     |
+|                                                                               | | Portugal - Distrito de Lisboa - Lisbon    |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
+.. _coverage-historic:
 
 Historic Place Name
 -------------------
@@ -264,6 +268,7 @@ Historic Place Name
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 
+.. _coverage-geo:
 
 Geocoordinates
 ---------------
@@ -323,18 +328,21 @@ Multiple Geocodes
     -   Different maps printed on two sides of the same sheet
 
 
+.. _coverage-time:
+
 Time Period
 -----------
 
 -   Time period refers specifically to the browse structure used for
     Portal records
--   Time period(s) should be chosen from the [controlled vocabulary][]
+-   Time period(s) should be chosen from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-eras>`__
     to reflect the era(s) of the content
 -   In cases where the years of the time periods overlap, always use the
     most generic era unless a more specific one applies
 -   It is important to include the time period whenever possible in
     Portal records for browsing
 
+.. _coverage-date:
 
 Dates
 -----
@@ -363,17 +371,16 @@ Dates
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |*Uncertain Dates**                                                                                                                                 |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|If a date is uncertain, use a question mark at the end                         |A map documenting a survey, believed to have    |1720?             |
+|-  If a date is uncertain, use a question mark at the end                      |A map documenting a survey, believed to have    |1720?             |
 |                                                                               |occurred in 1720                                |                  |
-|It the specific year is unknown (e.g., a decade), the last digit can be        +------------------------------------------------+------------------+
-|replaced by "X"                                                                |A book discussing trends of the 1970s           |197X              |
+|-  It the specific year is unknown (e.g., a decade), the last digit can be     +------------------------------------------------+------------------+
+|   replaced by "X"                                                             |A book discussing trends of the 1970s           |197X              |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |Approximate ("circa") dates are represented with a tilde at the end            |A letter written mid-May 1862, discussing       |1862-05~          |
 |                                                                               |general news without specific dates             |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|For B. C. dates, include a hyphen at the front of the date                     |A report on archeological findings from 601 BC  |-0601             |
-|                                                                               |                                                |                  |
-|The year must have at least 4 digits                                           |                                                |                  |
+|-  For B. C. dates, include a hyphen at the front of the date                  |A report on archeological findings from 601 BC  |-0601             |
+|-  The year must have at least 4 digits                                        |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |*Date Ranges*                                                                                                                                      |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
@@ -385,9 +392,10 @@ Dates
 |                                                                               |Annual financial report for fiscal year 2003    |2002-09-01/2003-  |
 |                                                                               |                                                |08-31             |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|To represent a particular date within a known range, use one-of-a-set notation |A photograph taken at an event held September   |[1974-09-12..1974-|
-|                                                                               |12-15, 1974                                     |09-15]            |
-|(This generally applies to photos, where the content matches the creation date)|                                                |                  |
+|-  To represent a particular date within a known range, use one-of-a-set       |A photograph taken at an event held September   |[1974-09-12..1974-|
+|   notation                                                                    |12-15, 1974                                     |09-15]            |
+|   (This generally applies to photos, where the content matches the creation   |                                                |                  |
+|   date)                                                                       |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |For multiple (inclusive) dates or date ranges that are *not consecutive*, use  |Report documenting data collected in  1900,     |{1900,1950,2000}  |
 |multiple date notation with {curly brackets}                                   |1950, and 2000                                  |                  |
@@ -398,119 +406,87 @@ Dates
 
 
 
-For additional date formats and examples, see [General Date Rules][].
+For additional date formats and examples, see :ref:`General Date Rules <date-fill>`.
 
 
+.. _coverage-examples:
 
 Other Examples
 ==============
 
 Drawing: Bird's eye view of Denton, Denton County, Texas: 1883
-   *Place Name:* United States - Texas - Denton County - Denton
-   
-   *Time Period:* new-sou: New South, Populism, Progressivism, and the
-   Great Depression, 1876-1939
-    
-   *Coverage Date:* 1883
+   -    *Place Name:* United States - Texas - Denton County - Denton
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
+   -    *Coverage Date:* 1883
 
 Map: Hispania nova
-   *Place Name:* Spain
-   
-   *Place Name:* Mexico
-   
-   *Time Period:* eur-tex: European Explorers in Texas, 1519-1689
+   -    *Place Name:* Spain
+   -    *Place Name:* Mexico
+   -    *Time Period:* eur-tex: European Explorers in Texas, 1519-1689
 
 Letter to Cromwell Anson Jones, May 19, 1869
-   *Place Name:* United States - Texas - Galveston County - Galveston
-   
-   *Time Period:* civ-war: Civil War and Reconstruction, 1861-1876
-   
-   *Coverage Date:* 1869-05
+   -    *Place Name:* United States - Texas - Galveston County - Galveston
+   -    *Time Period:* civ-war: Civil War and Reconstruction, 1861-1876
+   -    *Coverage Date:* 1869-05
 
 Photograph: 1918 Morning After
-   *Place Name:* United States - Texas - Denton County - Aubrey  
-   
-   *Time Period:* new-sou: New South, Populism, Progressivism, and the
-   Great Depression, 1876-1939:   *Coverage Date:* 1918-04-15
+   -    *Place Name:* United States - Texas - Denton County - Aubrey
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
+   -    *Coverage Date:* 1918-04-15
 
 [Bell County Ex-Confederate Association Ledger]
-   *Place Name:* United States - Texas - Bell County - Belton
-   
-   *Time Period:* new-sou: New South, Populism, Progressivism, and the
-   Great Depression, 1876-1939
-   
-   *Coverage Date:* 1888~/1920
+   -    *Place Name:* United States - Texas - Bell County - Belton
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
+   -    *Coverage Date:* 1888~/1920
 
 Map: Bachman Lake Park: Hike and Bike Trail Plan
-   *Place Name:* United States - Texas - Dallas County - Dallas
-   
-   *Place Box:* N:32.8683058054, E:-96.8294005002, S: 32.8437915023,
-   W:-96.8905119504
-   
-   *Time Period:* mod-tim: Into Modern Times, 1939-Present
-   
-   *Coverage Date:* 1983-03
+   -    *Place Name:* United States - Texas - Dallas County - Dallas
+   -    *Place Box:* N:32.8683058054, E:-96.8294005002, S: 32.8437915023, W:-96.8905119504
+   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
+   -    *Coverage Date:* 1983-03
 
 [Letter to Johnson Moorhead from H. T. Hathaway]
-   *Place Name:* United States - Kansas - Reno County - Turon
-   
-   *Time Period:* new-sou: New South, Populism, Progressivism, and the
-   Great Depression, 1876-1939
-   
-   *Coverage Date:* 1888
+   -    *Place Name:* United States - Kansas - Reno County - Turon
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
+   -    *Coverage Date:* 1888
 
 French World War I poster
-   *Place Name:* France
-   
-   *Coverage Date:* 1914/1917
+   -    *Place Name:* France
+   -    *Coverage Date:* 1914/1917
 
 [House at 911 N. Sycamore]
-   *Place Name:* United States - Texas - Anderson County - Palestine
-   
-   *Place Point:* 31.7671795871, -95.6326822933
-   
-   *Time Period:* mod-tim: Into Modern Times, 1939-Present
-   
-   *Coverage Date:* 1991-06
+    -   *Place Name:* United States - Texas - Anderson County - Palestine
+    -   *Place Point:* 31.7671795871, -95.6326822933
+    -   *Time Period:* mod-tim: Into Modern Times, 1939-Present
+    -   *Coverage Date:* 1991-06
 
 Map: Abernathy Quadrangle
-   *Place Name:* United States - Texas - Lubbock County - Abernathy
-   
-   *Place Name:* United States - Texas - Hale County
-   
-   *Place Box (map boundaries):* N:33.88, E:-101.75, S: 33.75,
-   W:-101.88
-   
-   *Place Point (center of quadrangle):* 33.81, -101.81
-   
-   *Time Period:* tex-land: The Texas Landscape
+   -    *Place Name:* United States - Texas - Lubbock County - Abernathy
+   -    *Place Name:* United States - Texas - Hale County
+   -    *Place Box (map boundaries):* N:33.88, E:-101.75, S: 33.75, W:-101.88
+   -    *Place Point (center of quadrangle):* 33.81, -101.81
+   -    *Time Period:* tex-land: The Texas Landscape
 
 Map: Encinal County
-   *Place Name:* United States - Texas - Webb County
-   
-   *Historic Place Name:* United States - Texas - Encinal County
-   
-   *Time Period:* tex-fron: The Texas Frontier, 1846-1861
-   
-   *Time Period:* tex-land: The Texas Landscape
+   -    *Place Name:* United States - Texas - Webb County
+   -    *Historic Place Name:* United States - Texas - Encinal County
+   -    *Time Period:* tex-fron: The Texas Frontier, 1846-1861
+   -    *Time Period:* tex-land: The Texas Landscape
 
 Photograph: The Arsenal - Kremlin offices 
-   *Place Name:* Russia - Moscow Federal City - Moscow
-   
-   *Historic Place Name:* U.S.S.R.
-   
-   *Coverage Date:* 1985
-   
-   *Place Point:* 55.752042, 37.617935 
-   
-   *Time Period:* mod-tim: Into Moder Times, 1939-Present
+   -    *Place Name:* Russia - Moscow Federal City - Moscow
+   -    *Historic Place Name:* U.S.S.R.
+   -    *Coverage Date:* 1985
+   -    *Place Point:* 55.752042, 37.617935 
+   -    *Time Period:* mod-tim: Into Moder Times, 1939-Present
 
 
+.. _coverage-comments:
 
 Comments
 ========
 
--   Note: As of February 2014, we are using the [GeoNames Database][] as
+-   Note: As of February 2014, we are using the `GeoNames Database`_ as
     the authority for place names rather than the Getty Thesaurus of
     Geographic Names.
 -   Although the coverage element appears to repeat information that
@@ -525,16 +501,15 @@ Comments
     structure for Portal records, and to provide the best
     interoperability with other metadata and resource-sharing systems.
 -   Recommended best practice for encoding the date value is defined in
-    the proposed standards from the Library of Congress: [Extended Date
-    Time Format][]
+    the proposed standards from the Library of Congress: `Extended Date Time Format <https://www.loc.gov/standards/datetime/>`_
     
     -   For more information about date implementation and local
-        practices, see the [Date][creation] guidelines and the notes in
-        the [Comments][] section.
+        practices, see the :doc:`Date </fields/date>` guidelines and the notes in
+        the :ref:`Comments <date-comments>` section.
 
 
 -   For coverage place names, the following continent names can be used
-    in place of countries (derived from the `CIA World Factbook <https://www.cia.gov/the-world-factbook/countries/world>`_:
+    in place of countries (derived from the `CIA World Factbook`_:
     
     -  Africa
     -  Antarctica
@@ -584,30 +559,31 @@ Based on the browse features in the `CIA World Factbook <https://www.cia.gov/the
 |                         |- Vietnam                      |                                       |
 +-------------------------+-------------------------------+---------------------------------------+
 
-[Back][Place Name] to Coverage Place Names
+:ref:`Back <coverage-place>` to Coverage Place Names
+
+
+.. _coverage-resources:
 
 Resources
 =========
 
--   UNT Coverage Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-qualifiers/>`_
+-   UNT Coverage Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-qualifiers/>`__
 
 **Dates**
 
--   UNT Coverage Time Period `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-eras>`_
--   Library of Congress `Extended Date Time Format < https://www.loc.gov/standards/datetime/>`_
+-   UNT Coverage Time Period `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-eras>`__
+-   Library of Congress `Extended Date Time Format`_
 
 **Places**
 
 - `GeoNames Database <http://www.geonames.org/>`_
 - `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/>`_
-- `CIA World Factbook <https://www.cia.gov/the-world-factbook/countries/world>`_
+- `CIA World Factbook`_
 - `Member Countries of the European Union <http://europa.eu/about-eu/countries/member-countries/index_en.htm>`_
-- `U.S. Census Bureau <https://data.census.gov/cedsci/>`_
+- `U.S. Census Bureau <https://data.census.gov>`_
 
 
 **More Guidelines:**
 
-- [Quick-Start Metadata Guide][]
-- [Input Guidelines for Descriptive Metadata][]
-- [Metadata Home][]
-
+-   `Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   `Metadata Home <https://library.unt.edu/metadata/>`_

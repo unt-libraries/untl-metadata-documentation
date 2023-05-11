@@ -24,20 +24,42 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /input-guidelines-descriptive
    /fields/title
    /fields/creator
+   /fields/contributor
+   /fields/publisher
    /fields/date
+   /fields/language
+   /fields/description
+   /fields/subject
+   /fields/primary-source
+   /fields/coverage
+   /fields/source
+   /fields/citation
+   /fields/relation
+   /fields/collection
+   /fields/institution
+   /fields/rights
+   /fields/type
+   /fields/format
+   /fields/identifier
+   /fields/degree
+   /fields/note
+   /fields/meta
    
 .. toctree::
    :maxdepth: 1
    :caption: Project-Specific Guidelines
 
+   /guides/serials
+   /guides/correspondence
    /guides/trail
-   
+      
 .. toctree::
    :maxdepth: 1
-   :caption: Other Documentation
+   :caption: Supplementary Documentation
 
    /minimally-viable-records
    /primary-sources-definition
+   /creator-contributor-definitions
 
 Indices and tables
 ==================

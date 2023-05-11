@@ -218,13 +218,3 @@ Resources
 
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[Creator]: https://library.unt.edu/digital-projects-unit/metadata/fields/creator/
-[Source]: https://library.unt.edu/digital-projects-unit/metadata/fields/source/#general-display-note
-[1]: https://library.unt.edu/digital-projects-unit/metadata/fields/source/
-[Title]: https://library.unt.edu/digital-projects-unit/metadata/fields/title/
-[Controlled Vocabulary]: 
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/

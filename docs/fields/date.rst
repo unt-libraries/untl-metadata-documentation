@@ -89,7 +89,7 @@ General Date Rules
 ==================
 
 -   If no date can be found, leave the field blank
--   For each date, be sure to choose the appropriate date type from the [controlled vocabulary][]
+-   For each date, be sure to choose the appropriate date type from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/date-qualifiers/>`_
 -	The Special Dates section provides more information about choosing the most relevant format type
 -   Always format dates appropriately:
 
@@ -296,7 +296,7 @@ Non-Creation Dates
 
 -   Submission and acceptance dates are primarily used for patents, but may be used for other items when appropriate
     -   For patents, the acceptance/approval date and creation date are the same. This may not be true for all items.
--   In certain cases, items cannot be made publicly available due to publisher requirements, privacy issues, or other strictures. The **Embargo Until Date** represents the first date that an item will become accessible to the public or a pre-specified user group. It is used in conjuction with an Embargo note.  See also [Rights Access][]
+-   In certain cases, items cannot be made publicly available due to publisher requirements, privacy issues, or other strictures. The **Embargo Until Date** represents the first date that an item will become accessible to the public or a pre-specified user group. It is used in conjuction with an Embargo note.  See also :ref:`Rights Access <rights-access>`
 
 
 .. _date-examples:
@@ -376,7 +376,7 @@ Comments
 Resources
 *********
 
--   UNT Date Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/date-qualifiers/>`_
+-   UNT Date Qualifier `Controlled Vocabulary`_
 -   Library of Congress `Extended Date/Time Format <http://www.loc.gov/standards/datetime/edtf.html>`_
 -   UNT Extended Date/Time Format `Validation Service <https://digital2.library.unt.edu/edtf/>`_
 
