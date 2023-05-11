@@ -80,7 +80,8 @@ Music USA Recording Schedule, 1962-1973
               
 Newspaper issue: The Caldwell News and the Burleson County Ledger (Caldwell, Tex.), Vol. 64, No. 45, Ed. 1 Friday, June 8, 1951
    -    *Collection:* TDNP - Texas Digital Newspaper Program
-   -    *Collection:* CNBCL - Caldwell News and Burleson County Ledger:   *Collection:* TFG - Tocker Foundation Grant
+   -    *Collection:* CNBCL - Caldwell News and Burleson County Ledger:   
+   -    *Collection:* TFG - Tocker Foundation Grant
 
 
 .. _collection-comments:
@@ -99,7 +100,7 @@ Comments
     -   Projects sponsored by a grant or special funding
     
 -   In some cases, all items from one institution may also belong to a
-    single collection, however, large, distinctive groups may have their
+    single collection; however, large, distinctive groups may have their
     own collection
 -   Although some archival collections may have a corresponding
     "collection," small collections or archival series may also be

@@ -61,10 +61,10 @@ How Creator Works in the Metadata Form
    :alt: Screenshot of creator element in metadata editing system.
 
 Parts:
-    Creator name -- text field
-    Creator type -- drop-down menu
-    Creator role -- drop-down menu
-    Creator information -- text field
+    #. Creator name -- text field
+    #. Creator type -- drop-down menu
+    #. Creator role -- drop-down menu
+    #. Creator information -- text field
 
 Repeatable?
 	Yes - to include multiple creators, click 'Add' to repeat all field parts
@@ -86,13 +86,13 @@ General Creator Rules
 -   Only include individuals/organizations who were primarily
     responsible for the creation of the item
     
-    -   Secondary "creators" (e.g., agents responsible for only a portion of the work) should be entered as [contributors][] instead
+    -   Secondary "creators" (e.g., agents responsible for only a portion of the work) should be entered as :doc:`contributors </fields/contributor>` instead
         
         -   A name should never be entered as both a creator and a
             contributor; if an agent acts in multiple capacities, see
-            the [Role][] section for clarification
+            the :ref:`Role <creator-role> section for clarification
         -   For more information about when a person/organization is a
-            creator or a contributor, see our [definition page][]
+            creator or a contributor, see our :doc:`definition page </creator-contributor-definitions>`
             
     -   An entity **must** have a direct relationship to the item that
         can be explicated in order to be included as a creator (or
@@ -100,7 +100,7 @@ General Creator Rules
         
         -   If there is information about a person/organization that
             cannot be expressed as a role, it may be appropriate to add
-            it elsewhere, such as a [Note][] or [Info][] in relation to
+            it elsewhere, such as a :doc:`Note </fields/note>` or :ref:`Info <creator-info>` in relation to
             an established creator
             
 -   Include as many creators as are readily available
@@ -188,17 +188,17 @@ Personal Names
 |       Sr., etc.) at the end of the name after a second    |                                       |
 |       comma                                               |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Do not include:                                         |*Name:* Parera, Mahendra               |
-|                                                           +---------------------------------------+
-|   -   nicknames                                           |*Info:* M.B.B.S., Ph.D., M.D.,         |
-|   -   abbreviations                                       |MRCPsych, FRANZCP; Albert Road Clinic, |
-|   -   titles that do not fit the criteria above           |Melbourne, Australia                   |
-|   -   job or educational qualifiers (C.E., D.D.S., Ph.D., +---------------------------------------+
+|-  Do not include:                                         | | *Name:* Parera, Mahendra            |
+|                                                           | | *Info:* M.B.B.S., Ph.D., M.D.,      |
+|   -   nicknames                                           |   MRCPsych, FRANZCP; Albert Road      |
+|   -   abbreviations                                       |   Clinic, Melbourne, Australia        |
+|   -   titles that do not fit the criteria above           |                                       |
+|   -   job or educational qualifiers (C.E., D.D.S., Ph.D., |                                       |
 |       etc.)                                               |                                       |
 |                                                           +---------------------------------------+
-|-  Some common historical personal name abbreviations:     |*Name:* James, Thomas Leroy            |
-|                                                           +---------------------------------------+
-|   -   Chas. = Charles                                     |*Info:* Thos. L. James                 |
+|-  Some common historical personal name abbreviations:     | | *Name:* James, Thomas Leroy         |
+|                                                           | | *Info:* Thos. L. James              |
+|   -   Chas. = Charles                                     |                                       |
 |   -   Geo. = George                                       |                                       |
 |   -   Jas. = James                                        |                                       |
 |   -   Jno. = John                                         |                                       |
@@ -223,10 +223,10 @@ Personal Names
 |                                                           |                                       |
 |-  When in doubt, enter the name as it appears on the item |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Only include the names of specific persons (or          |*Name:* Texas. Department of           |
-|   organizations)                                          |Transportation.                        |
-|-  In cases where the name is not known (e.g., "Staff      +---------------------------------------+
-|   Photographer"), either:                                 |*Info:* Staff Photographer             |
+|-  Only include the names of specific persons (or          | | *Name:* Texas. Department of        |
+|   organizations)                                          |   Transportation.                     |
+|-  In cases where the name is not known (e.g., "Staff      | | *Info:* Staff Photographer          |
+|   Photographer"), either:                                 |                                       |
 |                                                           |                                       |
 |   -   Leave the creator field blank                       |                                       |
 |   -   Include the name of the parent organization and add |                                       |
@@ -285,10 +285,10 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |For non-U.S. agencies:                                                                             |
 +-----------------------------------------------------------+---------------------------------------+
-|-  When using an authorized form of the name, it may be    |*Name:* Han'guk Kwahak Kisurwŏn        |
-|   appropriate to add notes to the "info" section:         +---------------------------------------+
-|                                                           |*Info:* Korea Advanced Institute of    |
-|   -   If the name is written in a language other than     |Science and Technology                 |
+|-  When using an authorized form of the name, it may be    | | *Name:* Han'guk Kwahak Kisurwŏn     |
+|   appropriate to add notes to the "info" section:         | | *Info:* Korea Advanced Institute of |
+|                                                           |   Science and Technology              |
+|   -   If the name is written in a language other than     |                                       |
 |       English, add the English translation (if known)     +---------------------------------------+
 |   -   If the name is written in English, additional forms |China (Republic : 1949- ). Huan jing   |
 |       from the item may be added                          |bao hu shu.                            |
@@ -361,20 +361,16 @@ Entering Roles
 +===========================================================+=======================================+
 |If the role is not listed:                                                                         |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Choose "Other"                                          |*Name:* Phillips, Nelson               |
-|-  Include Clarification in the "Info" section             +---------------------------------------+
-|                                                           |*Role:* Other                          |
-|                                                           +---------------------------------------+
-|                                                           |*Info:* Speaker; Associate Justice of  |
-|                                                           |the Supreme Court                      |
+|-  Choose "Other"                                          | | *Name:* Phillips, Nelson            |
+|-  Include Clarification in the "Info" section             | | *Role:* Other                       |
+|                                                           | | *Info:* Speaker; Associate Justice  |
+|                                                           |   or the Supreme Court                |
 +-----------------------------------------------------------+---------------------------------------+
 |If more than one role applies to the creator:                                                      |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Choose the primary or most encompassing role (or the one|*Name:* Harden, Leland                 |
-|   listed first                                            +---------------------------------------+
-|-   Explain the details in the info section                |*Role:* Editor                         |
-|                                                           +---------------------------------------+
-|                                                           |*Info:* Executive Editor; Sponsor      |
+|-  Choose the primary or most encompassing role (or the one| | *Name:* Harden, Leland              |
+|   listed first                                            | | *Role:* Editor                      |
+|-   Explain the details in the info section                | | *Info:* Executive Editor; Sponsor   |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -388,77 +384,56 @@ Assigning Roles
         introduction, etc.; witness; consultant; expert
     -   Agents who had an indirect relationship, e.g., funder, sponsor,
         former owner, donor
-    -   Additional explanation is on our creator and contributor [definition page][]
+    -   Additional explanation is on our creator and contributor `definition page`_
     
 -   The role should describe the action that the agent took in creating
     the item and it may not align with job titles or credentials, for
     example:
 
-+---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|               |Agents                                                     |Role               |Field          |Example                                |
-+---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|"Director"     |director of a performance (film, play, concert, etc.)      |Director           |Creator        |*Name:* Homer, Paula                   |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Type:* Personal                       |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Director                       |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Info:* UNT Opera Theater              |
-|               +-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|               |executive director of an agency with no apparent personal  |n/a                |Creator        |*Name:* Texas. Department of           |
-|               |contribution to the item                                   |                   |               |Transportation.                        |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Type:* Organization                   |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Author                         |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Info:* Phil Wilson, Executive Director|
-|               +-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|               |executive director of an agency with a described or        |Author of          |Contributor    |*Name:* Camargo, Gene                  |
-|               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               +---------------------------------------+
-|               |                                                           |(or another        |               |*Type:* Personal                       |
-|               |                                                           |appropriate role)  |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Author of introduction, etc.   |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Info:* Director of Building           |
-|               |                                                           |                   |               |Inspections                            |
-+---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|"Performer"    |-  musician in a recital or concert                        |Performer          |Creator        |*Name:* North Texas Wind Symphony      |
-|               |-  actor in a play or movie                                |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Type:* Organization                   |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Performer                      |
-|               +-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|               |a person/organization that "performed" work or research    |Originator,        |Creator        |*Name:* Quigg, Antonietta Salvatrice   |
-|               |(aside from, or in addition to, specific person/s who      |Researcher, or     |               +---------------------------------------+
-|               |authored a report or created some product of the work)     |another appropriate|               |*Type:* Personal                       |
-|               |                                                           |role               |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Author                         |
-|               |                                                           |                   +---------------+---------------------------------------+
-|               |                                                           |                   |Contributor    |*Name:* Texas Water Development Board  |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Type:* Organization                   |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Originator                     |
-+---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|"Consultant"   |a consulting company or person that authors a report       |Author             |Creator        |*Name:* Kerley, Gerald Irwin           |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Type:* Personal                       |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Role:* Author                         |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Info:* Kerley Technical Consultant,   |
-|               |                                                           |                   |               |Appomattox, VA)                        |
-|               +-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
-|               |-  a consultant who provide information as a contribution  |Consultant         |Contributor    |*Name:* Kanto, Leonard E.              |
-|               |   to a report                                             |                   |               +---------------------------------------+
-|               |-  a consultant who spoke during recorded/transcribed      |                   |               |*Type:* Personal                       |
-|               |   proceedings (could also be an "expert" or "witness"     |                   |               +---------------------------------------+
-|               |   depending on the context)                               |                   |               |*Role:* Consultant                     |
-|               |                                                           |                   |               +---------------------------------------+
-|               |                                                           |                   |               |*Info:* State of Texas Professional    |
-|               |                                                           |                   |               |Engineer; Consultant Engineer          |
-+---------------+-----------------------------------------------------------+-------------------+---------------+---------------------------------------+
++---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |Agents                                                     |Role               |Field          |Example                                   |
++===============+===========================================================+===================+===============+==========================================+
+|"Director"     |director of a performance (film, play, concert, etc.)      |Director           |Creator        | | *Name:* Homer, Paula                   |
+|               |                                                           |                   |               | | *Type:* Personal                       |
+|               |                                                           |                   |               | | *Role:* Director                       |
+|               |                                                           |                   |               | | *Info:* UNT Opera Theater              |
+|               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |executive director of an agency with no apparent personal  |n/a                |Creator        | | *Name:* Texas. Department of           |
+|               |contribution to the item                                   |                   |               |   Transportation.                        |
+|               |                                                           |                   |               | | *Type:* Organization                   |
+|               |                                                           |                   |               | | *Role:* Author                         |
+|               |                                                           |                   |               | | *Info:* Phil Wilson, Executive Director|
+|               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |executive director of an agency with a described or        |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
+|               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               | | *Type:* Personal                       |
+|               |                                                           |(or another        |               | | *Role:* Author of introduction, etc.   |
+|               |                                                           |appropriate role)  |               | | *Info:* Director of Building           |
+|               |                                                           |                   |               |   Inspections                            |
++---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|"Performer"    |-  musician in a recital or concert                        |Performer          |Creator        | | *Name:* North Texas Wind Symphony      |
+|               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
+|               |                                                           |                   |               | | *Role:* Performer                      |
+|               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |a person/organization that "performed" work or research    |Originator,        |Creator        | | *Name:* Quigg, Antonietta Salvatrice   |
+|               |(aside from, or in addition to, specific person/s who      |Researcher, or     |               | | *Type:* Personal                       |
+|               |authored a report or created some product of the work)     |another appropriate|               | | *Role:* Author                         |
+|               |                                                           |role               +---------------+------------------------------------------+
+|               |                                                           |                   |Contributor    | | *Name:* Texas Water Development Board  |
+|               |                                                           |                   |               | | *Type:* Organization                   |
+|               |                                                           |                   |               | | *Role:* Originator                     |
++---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|"Consultant"   |a consulting company or person that authors a report       |Author             |Creator        | | *Name:* Kerley, Gerald Irwin           |
+|               |                                                           |                   |               | | *Type:* Personal                       |
+|               |                                                           |                   |               | | *Role:* Author                         |
+|               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
+|               |                                                           |                   |               |   Appomattox, VA)                        |
+|               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |-  a consultant who provide information as a contribution  |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
+|               |   to a report                                             |                   |               | | *Type:* Personal                       |
+|               |-  a consultant who spoke during recorded/transcribed      |                   |               | | *Role:* Consultant                     |
+|               |   proceedings (could also be an "expert" or "witness"     |                   |               | | *Info:* State of Texas Professional    |
+|               |   depending on the context)                               |                   |               |   Engineer; Consultant Engineer          |
++---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 
 
 .. _creator-info:
@@ -519,7 +494,7 @@ Other Examples:
 Book
 
     -   *Name:* Farrar, R. M.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
 
 Yearbook
@@ -529,12 +504,12 @@ Yearbook
     -   *Role:* Author
     
     -   *Name:* Mays, Sharon
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Co-Editor
     
     -   *Name:* Wyss, Margaret
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Co-Editor
 
@@ -545,7 +520,7 @@ Genealogical newsletter
     -   *Role:* Author
     
     -   *Name:* Pryor, Frances
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
 
 Atlas
@@ -556,72 +531,72 @@ Atlas
     -   *Information:* U.S. Department of the Interior, Geological Survey; J. W. Powell, Director
     
     -   *Name:* Dutton, Clarence E.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* Capt. Clarence E. Dutton U.S.A. - Author of "Tertiary History of the Grand Canon District"
 
 Collection of legal papers
 
     -   *Name:* Blades, J. R.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Compiler
     -   *Information:* Clerk, District Court, Henderson County
 
 Painting
 
     -   *Name:* Seurat, Georges, 1859-1891
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Artist
     -   *Information:* French
 
 Research report
 
     -   *Name:* Moris, Marlene C.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* McMurdie, Howard F.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* Evans, Eloise H.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* Paretzkin, Boris
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* Parker, Harry S.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* Panagiotopoulos, Nicholas C.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
     -   *Name:* Hubbard, Camden R.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* National Measurement Laboratory, National Bureau of Standards, Washington D.C.
 
 Map
 
     -   *Name:* Hill, Robert Thomas, 1858-1941
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Cartographer
     -   *Information:* "By Robert T. Hill"
 
 Opera score
 
     -   *Name:* Smith, Julia, 1905-1989
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Composer
     -   *Information:* Music by Julia Smith
 

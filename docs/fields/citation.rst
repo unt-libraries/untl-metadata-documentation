@@ -36,8 +36,7 @@ Parts:
    2. Citation -- text field
 
 
-    Note: Some citation information (Peer Reviewed) opens in a pop-up
-    modal
+    Note: Some citation information (Peer Reviewed) opens in a pop-up modal
 
 Repeatable?:   
    -    Yes - to include different kinds of citation information (up to ten), click 'Add' to repeat all field parts; each individual
@@ -82,9 +81,9 @@ Pages
 +===============================================================================+================================================+
 |List the total number of pages as a whole number                               |12                                              |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|For an item that does not start at page 1, include a range:                    |*Page Start:* 165                               |
-|                                                                               +------------------------------------------------+
-|-      Label the page number of the first page as "Page Start"                 |*Page End:* 176                                 |
+|For an item that does not start at page 1, include a range:                    | | *Page Start:* 165                            |
+|                                                                               | | *Page End:* 176                              |
+|-      Label the page number of the first page as "Page Start"                 |                                                |
 |-      Label the page number of the last page as "Page End"                    |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
@@ -95,11 +94,10 @@ Volume/Issue
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
-|-      When relevant, include the volume and/or issue numbers                  |*Volume:* 27                                    |
-|-      Use Arabic numerals                                                     +------------------------------------------------+
-|-      If the volume or issue numbers are written in Roman numerals on the item|*Issue:* 2                                      |
-|       add them in a [Display Note][]                                          +------------------------------------------------+
-|                                                                               |*Note:* "Volume XXVII."                         |
+|-      When relevant, include the volume and/or issue numbers                  | | *Volume:* 27                                 |
+|-      Use Arabic numerals                                                     | | *Issue:* 2                                   |
+|-      If the volume or issue numbers are written in Roman numerals on the item| | *Note:* "Volume XXVII."                      |
+|       add them in a :ref:`Display Note <note-display>`                        |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 
@@ -127,10 +125,10 @@ Author String
 -------------
 
 -   This field should only be included if all of the authors (or creators) are not listed on the item or accompanying information
-    
-    -   If all of the authors (or creators) are named individually, include them in the [Creator][] field according to the guidelines
-        
--   List the authors exactly as their names appear on the item, e.g.: Smith, Jones, et. al
+
+    -   If all of the authors (or creators) are named individually, include them in the :doc:`Creator </fields/creator>` field according to the guidelines
+
+-   List the authors exactly as their names appear on the item, e.g.: Smith, Jones, et al.
 
 
 Preferred Citation
@@ -146,35 +144,36 @@ Other Examples
 ==============
 
 Paper Published in Conference Proceedings
-   *Publication Title:* Proceedings of the International Conference on Dublin Core and Metadata Applications
-   *Page Start:* 165
-   *Page End:* 176
-   *Pages:* 12
-   *Peer Reviewed:* True
+   -    *Publication Title:* Proceedings of the International Conference on Dublin Core and Metadata Applications
+   -    *Page Start:* 165
+   -    *Page End:* 176
+   -    *Pages:* 12
+   -    *Peer Reviewed:* True
 
 Photograph
    *Preferred Citation:* Please credit: USDA - Soil Conservation Service
 
 Article Published in a Journal
-   *Publication Title:* Journal of Vaishnava Studies
-   *Volume:* 19
-   *Issue:* 1
+   -    *Publication Title:* Journal of Vaishnava Studies
+   -    *Volume:* 19
+   -    *Issue:* 1
 
 Full Serial Issue
-   *Publication Title:* Chemical Information Bulletin
-   *Volume:* 27
-   *Issue:* 2
+   -    *Publication Title:* Chemical Information Bulletin
+   -    *Volume:* 27
+   -    *Issue:* 2
 
 Revised Reference text
 :   *Edition:* 3
+
 
 .. _citation-comments:
 
 Comments
 ========
 
--   This field may be used in conjunction with the :doc: `Source </source>` field
--   This field may repeat information from other fields including :doc: `Source </source>` and :doc: `Title </title>` (in order to parse the citation components for search engines)
+-   This field may be used in conjunction with the :doc:`Source </fields/source>` field
+-   This field may repeat information from other fields including :doc:`Source </fields/source>` and :doc:`Title </fields/title>` (in order to parse the citation components for search engines)
 
 **Glossary of Citation Qualifiers:**
 

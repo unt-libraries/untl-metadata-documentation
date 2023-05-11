@@ -113,8 +113,8 @@ General Contributor Rules
 -   If possible, consult an authority file to find the correct form of
     the name, such as:
     
-    -   The `UNT Name App <https://digital2.library.unt.edu/>`_
-    -   The `Library of Congress Authorities <https://id.loc.gov>`_
+    -   The `UNT Name App <https://digital2.library.unt.edu/name/>`_
+    -   The `Library of Congress Authorities <https://id.loc.gov>`__
     -   A locally-developed utility
     
 -   Note that organizational names generally reflect the name of the agency at
@@ -136,39 +136,39 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  If known, use the authorized form of the name from the  |Agapkin, Vasiliĭ Ivanovich, 1884-1964  |
-|   `Library of Congress Authorities`_                      |                                       |
+|If known, use the authorized form of the name from the     |Agapkin, Vasiliĭ Ivanovich, 1884-1964  |
+|`Library of Congress Authorities <https://id.loc.gov>`__   |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If no authorized version is available, enter the most   |                                       |
-|   complete version of the name that is known using proper |                                       |
-|   formatting:                                             |                                       |
+|If no authorized version is available, enter the most      |                                       |
+|complete version of the name that is known using proper    |                                       |
+|formatting:                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Invert names (Last, First, Middle)                  |McCaleb, Walter Flavius                |
+|   a.  Invert names (Last, First, Middle)                  |McCaleb, Walter Flavius                |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Use initials if the full name(s) are not known      |Henderson, Charles V.                  |
+|   b.  Use initials if the full name(s) are not known      |Henderson, Charles V.                  |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Do not change the order of names                    |Mitchell, A. Cameron                   |
+|   c.  Do not change the order of names                    |Mitchell, A. Cameron                   |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Use spaces between initials                         |Blackburn, J. K. P.                    |
+|   d.  Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Separate hyphenated first names with a hyphenated   |Fang, H.-C.                            |
+|   e.  Separate hyphenated first names with a hyphenated   |Fang, H.-C.                            |
 |       first names with a hyphen instead of a space if only|                                       |
 |       initials are known                                  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |
+|   f.  Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Keep hyphenated "last names" and compound surnames  | | Ala'i-Rosales, Shahla S.            |
+|   g.  Keep hyphenated "last names" and compound surnames  | | Ala'i-Rosales, Shahla S.            |
 |       together                                            | | Martinez Fischer, Ferdinand Frank   |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Consider multiple parts (von, de la, etc.) as part  |de Almeida Lobo, Adriana               |
+|   h.  Consider multiple parts (von, de la, etc.) as part  |de Almeida Lobo, Adriana               |
 |       of the last name                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If it is unclear which part of the name is the surname, |                                       |
 |   enter the name as it appears on the item                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Use appropriate abbreviations:                          |                                       |
+|Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Only include known titles (Dr., Rev., Capt., etc.)  |Hastings, Mrs. F. S.                   |
+|   a.  Only include known titles (Dr., Rev., Capt., etc.)  |Hastings, Mrs. F. S.                   |
 |       before the first name if:                           +---------------------------------------+
 |                                                           |Jones, Dr.                             |
 |       -   The title is necessary for clarification of the |                                       |
@@ -177,7 +177,7 @@ Personal Names
 |       -   The title is the only part of the name known    |                                       |
 |           (aside from a surname)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Include suffixes that are a part of the name (Jr.,  |Williams, J. F. C., Jr.                |
+|   b.  Include suffixes that are a part of the name (Jr.,  |Williams, J. F. C., Jr.                |
 |       Sr., etc.) at the end of the name after a second    |                                       |
 |       comma                                               |                                       |
 +-----------------------------------------------------------+---------------------------------------+
@@ -188,7 +188,7 @@ Personal Names
 |   -   titles that do not fit the criteria above           |                                       |
 |   -   job or educational qualifiers (C.E., D.D.S., Ph.D., |                                       |
 |       etc.)                                               |                                       |
-|                                                           +---------------------------------------+
++-----------------------------------------------------------+---------------------------------------+
 |-  Some common historical personal name abbreviations:     | | *Name:* Dunlap, George P.           |
 |                                                           | | *Info:* Geo. P. Dunlap              |
 |   -   Chas. = Charles                                     |                                       |
@@ -358,13 +358,13 @@ Entering Roles
 |If the role is not listed:                                                                         |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Choose "Other"                                          | | *Name:* Caffey, Wiley L.            |
-|-  Include Clarification in the "Info" section             | | *Role:* Other                       |
+|-  Include clarification in the "Info" section             | | *Role:* Other                       |
 |                                                           | | *Info:* Business Manager            |
 +-----------------------------------------------------------+---------------------------------------+
 |If more than one role applies to the contributor:                                                  |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Choose the primary or most encompassing role (or the one| | *Name:* Etter, Amanda Perez         |
-|   listed first                                            | | *Role:* Editor                      |
+|   listed first)                                           | | *Role:* Editor                      |
 |-  Explain the details in the info section                 | | *Info:* Managing Editor; Sponsor    |
 +-----------------------------------------------------------+---------------------------------------+
 
@@ -379,7 +379,7 @@ Assigning Roles
         introduction, etc.; witness; consultant; expert
     -   Agents who had an indirect relationship, e.g., funder, sponsor,
         former owner, donor
-    -   Additional explanation is on our contributor and contributor [definition page][]
+    -   Additional explanation is on our contributor and contributor :doc:`definition page </creator-contributor-definitions>`
     
 -   The role should describe the action that the agent took in creating
     the item and it may not align with job titles or credentials, for
@@ -421,7 +421,7 @@ Assigning Roles
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
-|               |                                                           |                   |               |   Appomattox, VA)                        |
+|               |                                                           |                   |               |   Appomattox, VA                         |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |               |-  a consultant who provide information as a contribution  |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
 |               |   to a report                                             |                   |               | | *Type:* Personal                       |
@@ -499,7 +499,7 @@ Book
 Yearbook
 
     -   *Name:* Richards, Olan
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Art Editor
 
@@ -522,12 +522,12 @@ Yearbook
 Journal issue
 
     -   *Name:* Baldwin, Dan
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Assistant Editor
 
     -   *Name:* Riddle, Peggy
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Assistant Editor
 
@@ -567,13 +567,13 @@ Research report
 
 Map
 
-    -   *Name:* United States. Bureau of Naval Personnel. Educational Services Section.
+    -   *Name:* United States. Bureau of Naval Personalnel. Educational Services Section.
     -   *Type:* Organization
     -   *Role:* Distributor
     -   *Information:* [United States.] Navy Dept. BuPers. Educational Services Section.; Navy distribution. Washington, D. C.
 
     -   *Name:* Harrison, Richard Edes
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Cartographer
     -   *Information:* Base map for "Pacific War in the Air" drawn by Richard Edes Harrison. Copyright, Fortune.
 
@@ -586,44 +586,44 @@ Map
 Legal estate transfer
 
     -   *Name:* Sayles, Mary E.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Other
     -   *Information:* Transferee
 
     -   *Name:* Turnee, Sam
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* Notary Public
 
     -   *Name:* Collins, E. H.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Witness
 
 Dissertation
 
     -   *Name:* Wilhelm, Ronald
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Chair or Major Professor
     -   *Information:* Major Professor
 
     -   *Name:* Ausbrooks, Carrie Y.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Committee member
     -   *Information:* Minor Professor
 
     -   *Name:* Cowart, Melinda
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Committee member
 
 
 Opera score
 
     -   *Name:* Harding, Bertita
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Librettist
 
     -   *Name:* Ballenger, Kenneth L.
-    -   *Type:* Person
+    -   *Type:* Personal
     -   *Role:* Author of introduction, etc.
     -   *Information:* Prof. Kenneth L. Ballenger; Author of synopsis (page ii).
 
@@ -634,7 +634,7 @@ Opera score
 Comments
 ********
 
--   Name fields are connected to the `UNT Name App <https://digital2.library.unt.edu/name/>`_, which will try to
+-   Name fields are connected to the `UNT Name App`_, which will try to
     match text against local authority files. Editors should always
     choose an authorized form from the list if it is available.
 -   The contributor field is not constrained by the AACR2 practice of
@@ -664,8 +664,8 @@ Resources
 -   `UNT Name App`_
 -   Library of Congress
 
-    - `Authorities <http://authorities.loc.gov>`_
-    - `Linked Data Service <http://id.loc.gov/>`_
+    - `Authorities <http://authorities.loc.gov>`__
+    - `Linked Data Service <http://id.loc.gov/>`__
 
 -   `OCLC Worldcat <http://www.worldcat.org/>`_
 -   `Worldcat via FirstSearch <https://discover.library.unt.edu/catalog/b2247936>`_ (Accessible to UNT staff/students)

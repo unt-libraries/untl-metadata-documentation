@@ -55,7 +55,7 @@ Main Titles
 -----------
 
 -   The main title should generally match the title on the title page of the report
--   Change ROman numerals to Arabic numbers and quote the original numerals in a :ref:`display note <trail-note>`
+-   Change Roman numerals to Arabic numbers and quote the original numerals in a :ref:`display note <trail-note>`
 -   As necessary, add minor punctuation (commas or colons) or clarifications in [square brackets]
 
 **Examples**
