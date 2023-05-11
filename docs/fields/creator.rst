@@ -500,12 +500,16 @@ Yearbook
     -   *Name:* North Texas Laboratory School
     -   *Type:* Organization
     -   *Role:* Author
+
+|
     
     -   *Name:* Mays, Sharon
     -   *Type:* Personal
     -   *Role:* Editor
     -   *Information:* Co-Editor
-    
+
+|
+
     -   *Name:* Wyss, Margaret
     -   *Type:* Personal
     -   *Role:* Editor
@@ -516,7 +520,9 @@ Genealogical newsletter
     -   *Name:* Texas State Genealogical Society
     -   *Type:* Organization
     -   *Role:* Author
-    
+
+|
+
     -   *Name:* Pryor, Frances
     -   *Type:* Personal
     -   *Role:* Editor
@@ -527,7 +533,9 @@ Atlas
     -   *Type:* Organization
     -   *Role:* Author
     -   *Information:* U.S. Department of the Interior, Geological Survey; J. W. Powell, Director
-    
+
+|
+
     -   *Name:* Dutton, Clarence E.
     -   *Type:* Personal
     -   *Role:* Author
@@ -554,30 +562,42 @@ Research report
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
+|
+
     -   *Name:* McMurdie, Howard F.
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
+
+|
 
     -   *Name:* Evans, Eloise H.
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
+|
+
     -   *Name:* Paretzkin, Boris
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
+
+|
 
     -   *Name:* Parker, Harry S.
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
 
+|
+
     -   *Name:* Panagiotopoulos, Nicholas C.
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* International Centre for Diffraction Data
+
+|
 
     -   *Name:* Hubbard, Camden R.
     -   *Type:* Personal

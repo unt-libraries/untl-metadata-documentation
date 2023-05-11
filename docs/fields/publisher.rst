@@ -219,6 +219,8 @@ Other Examples:
 - *Publisher:* North Texas Laboratory School
 - *Location:* Denton, Texas
 
+|
+
 - *Publisher:* Taylor Publishing Co.
 - *Location:* Dallas, Texas
 - *Information:* "Lithographed by Taylor Publishing Co."
@@ -245,6 +247,8 @@ Other Examples:
 - *Publisher:* North Texas State University. Center for Community Services.
 - *Location:* Denton, Texas
 
+|
+
 - *Publisher:* Texas State Library. Archives Division.
 - *Location:* Austin, Texas
 - *Information:* Printer \[and distributor\]
@@ -256,6 +260,7 @@ Other Examples:
 
 
 .. _publisher-comments:
+
 ********
 Comments
 ********

@@ -503,17 +503,25 @@ Yearbook
     -   *Role:* Editor
     -   *Information:* Art Editor
 
+|
+
     -   *Name:* American Beauty Cover Company
     -   *Type:* Organization
     -   *Role:* Artist
+
+|
 
     -   *Name:* Abilene Printing and Stationery Company
     -   *Type:* Organization
     -   *Role:* Printer
 
+|
+
     -   *Name:* Thurman's Studio
     -   *Type:* Organization
     -   *Role:* Photographer
+
+|
 
     -   *Name:* Southwest Engraving Company
     -   *Type:* Organization
@@ -526,6 +534,8 @@ Journal issue
     -   *Role:* Editor
     -   *Information:* Assistant Editor
 
+|
+
     -   *Name:* Riddle, Peggy
     -   *Type:* Personal
     -   *Role:* Editor
@@ -537,29 +547,43 @@ Research report
     -   *Type:* Organization
     -   *Role:* Sponsor
 
+|
+
     -   *Name:* Guadalupe-Blanco River Authority (Tex.)
     -   *Type:* Organization
     -   *Role:* Funder
+
+|
 
     -   *Name:* Upper Guadalupe River Authority
     -   *Type:* Organization
     -   *Role:* Funder
 
+|
+
     -   *Name:* Headwaters Groundswater Conservation District
     -   *Type:* Organization
     -   *Role:* Consultant
+
+|
 
     -   *Name:* Cow Creek Groundwater Conservation District
     -   *Type:* Organization
     -   *Role:* Consultant
 
+|
+
     -   *Name:* Kendall County Water Control and Improvement District \#1
     -   *Type:* Organization
     -   *Role:* Consultant
 
+|
+
     -   *Name:* Kerr County (Tex.)
     -   *Type:* Organization
     -   *Role:* Consultant
+
+|
 
     -   *Name:* Kendall County (Tex.)
     -   *Type:* Organization
@@ -572,10 +596,14 @@ Map
     -   *Role:* Distributor
     -   *Information:* [United States.] Navy Dept. BuPers. Educational Services Section.; Navy distribution. Washington, D. C.
 
+|
+
     -   *Name:* Harrison, Richard Edes
     -   *Type:* Personal
     -   *Role:* Cartographer
     -   *Information:* Base map for "Pacific War in the Air" drawn by Richard Edes Harrison. Copyright, Fortune.
+
+|
 
     -   *Name:* United States. Office of Strategic Services.
     -   *Type:* Organization
@@ -590,10 +618,14 @@ Legal estate transfer
     -   *Role:* Other
     -   *Information:* Transferee
 
+|
+
     -   *Name:* Turnee, Sam
     -   *Type:* Personal
     -   *Role:* Author
     -   *Information:* Notary Public
+
+|
 
     -   *Name:* Collins, E. H.
     -   *Type:* Personal
@@ -606,10 +638,14 @@ Dissertation
     -   *Role:* Chair or Major Professor
     -   *Information:* Major Professor
 
+|
+
     -   *Name:* Ausbrooks, Carrie Y.
     -   *Type:* Personal
     -   *Role:* Committee member
     -   *Information:* Minor Professor
+
+|
 
     -   *Name:* Cowart, Melinda
     -   *Type:* Personal
@@ -621,6 +657,8 @@ Opera score
     -   *Name:* Harding, Bertita
     -   *Type:* Personal
     -   *Role:* Librettist
+
+|
 
     -   *Name:* Ballenger, Kenneth L.
     -   *Type:* Personal

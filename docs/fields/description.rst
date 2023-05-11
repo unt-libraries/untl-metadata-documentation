@@ -794,9 +794,13 @@ Color slide: [Sydney Harbour and Opera House]
 
 Scrapbook pages (depending on content)
    *Physical Description:* 1 scrapbook page ; 33 x 26 cm.
-   
+
+|
+
    *Physical Description:* 4 photographs : b&w ; 14 x 8 cm., or smaller, on page 35 x 24 cm.
-   
+
+|
+
    *Physical Description:* 1 clipping : ill. ; 19 x 10 cm., on sheet 28 x 22 cm.
 
 Newsletter with continuous pagination
