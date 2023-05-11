@@ -83,26 +83,24 @@ General Creator Rules
 =====================
 
 -   If no creator information is readily available, leave the field blank
--   Only include individuals/organizations who were primarily
-    responsible for the creation of the item
-    
+-   Only include individuals/organizations who were primarily responsible for the creation of the item
+
     -   Secondary "creators" (e.g., agents responsible for only a portion of the work) should be entered as :doc:`contributors </fields/contributor>` instead
-        
+
         -   A name should never be entered as both a creator and a
             contributor; if an agent acts in multiple capacities, see
-            the :ref:`Role <creator-role> section for clarification
+            the :ref:`Role <creator-role>` section for clarification
         -   For more information about when a person/organization is a
             creator or a contributor, see our :doc:`definition page </creator-contributor-definitions>`
-            
+
     -   An entity **must** have a direct relationship to the item that
-        can be explicated in order to be included as a creator (or
-        contributor)
-        
+        can be explicated in order to be included as a creator (or contributor)
+
         -   If there is information about a person/organization that
             cannot be expressed as a role, it may be appropriate to add
             it elsewhere, such as a :doc:`Note </fields/note>` or :ref:`Info <creator-info>` in relation to
             an established creator
-            
+
 -   Include as many creators as are readily available
 
     -   Place them in order of importance
@@ -118,7 +116,7 @@ General Creator Rules
 -   If possible, consult an authority file to find the correct form of
     the name, such as:
     
-    -   The `UNT Name App <https://digital2.library.unt.edu/>`_
+    -   The `UNT Name App <https://digital2.library.unt.edu/name/>`_
     -   The `Library of Congress Authorities <https://id.loc.gov>`_
     -   A locally-developed utility
     
@@ -142,38 +140,37 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  If known, use the authorized form of the name from the  |Kittrell, Norman G. (Norman Goree),    |
-|   `Library of Congress Authorities <https://id.loc.gov/>`_|1849-1927                              |
+|If known, use the authorized form of the name from the     |Kittrell, Norman G. (Norman Goree),    |
+|`Library of Congress Authorities`_                         |1849-1927                              |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If no authorized version is available, enter the most   |                                       |
-|   complete version of the name that is known using proper |                                       |
-|   formatting:                                             |                                       |
+|If no authorized version is available, enter the most      |                                       |
+|complete version of the name that is known using proper    |                                       |
+|formatting:                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Invert names (Last, First, Middle)                  |Hébert, Rachel Bluntzer                |
+|   a.  Invert names (Last, First, Middle)                  |Hébert, Rachel Bluntzer                |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Use initials if the full name(s) are not known      |Reid, Samuel C.                        |
+|   b.  Use initials if the full name(s) are not known      |Reid, Samuel C.                        |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Do not change the order of names                    |Davis, J. Mark                         |
+|   c.  Do not change the order of names                    |Davis, J. Mark                         |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Use spaces between initials                         |Blackburn, J. K. P.                    |
+|   d.  Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Separate hyphenated first names with a hyphenated   |Hsieh, P.-C.                           |
+|   e.  Separate hyphenated first names with a hyphenated   |Hsieh, P.-C.                           |
 |       first names with a hyphen instead of a space if only|                                       |
 |       initials are known                                  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Put additional middle names after the first name    |Briscoe, Mary Jane Harris              |
+|   f.  Put additional middle names after the first name    |Briscoe, Mary Jane Harris              |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Keep hyphenated "last names" and compound surnames  |Donahue-Smith, James A.                |
-|       together                                            +---------------------------------------+
-|                                                           |Hasanul Basher, A. M.                  |
+|   g.  Keep hyphenated "last names" and compound surnames  | | Donahue-Smith, James A.             |
+|       together                                            | | Hasanul Basher, A. M.               |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
+|   h.  Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
 |       of the last name                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If it is unclear which part of the name is the surname, |                                       |
-|   enter the name as it appears on the item                |                                       |
+|If it is unclear which part of the name is the surname,    |                                       |
+|enter the name as it appears on the item                   |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Use appropriate abbreviations:                          |                                       |
+|Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |   -   Only include known titles (Dr., Rev., Capt., etc.)  |Morris, Mrs. Harry Joseph              |
 |       before the first name if:                           +---------------------------------------+
@@ -184,9 +181,9 @@ Personal Names
 |       -   The title is the only part of the name known    |                                       |
 |           (aside from a surname)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Include suffixes that are a part of the name (Jr.,  |Roberts, Frank H. H., Jr.              |
-|       Sr., etc.) at the end of the name after a second    |                                       |
-|       comma                                               |                                       |
+|Include suffixes that are a part of the name (Jr.,         |Roberts, Frank H. H., Jr.              |
+|Sr., etc.) at the end of the name after a second           |                                       |
+|comma                                                      |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Do not include:                                         | | *Name:* Parera, Mahendra            |
 |                                                           | | *Info:* M.B.B.S., Ph.D., M.D.,      |
@@ -243,7 +240,7 @@ Organization Names
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
 |-  If known, use the authorized form of the name from the  |Geological Survey (U.S.)               |
-|   `Library of Congress Authorities <https://id.loc.gov/>`_|                                       |
+|   `Library of Congress Authorities`_                      |                                       |
 |-  Otherwise, use these formatting guidelines:             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |For non-government or single-level bodies:                                                         |
@@ -318,7 +315,8 @@ Creator Type
 |the name appropriately                                     |                                       |
 |                                                           |                                       |
 |   -   (If it is important to document or clarify this     |                                       |
-|       choice, use a Non-Display Note)                     |                                       |
+|       choice, use a                                       |                                       |
+|       :ref:`Non-Display Note <note-nondisplay>`)          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -384,7 +382,7 @@ Assigning Roles
         introduction, etc.; witness; consultant; expert
     -   Agents who had an indirect relationship, e.g., funder, sponsor,
         former owner, donor
-    -   Additional explanation is on our creator and contributor `definition page`_
+    -   Additional explanation is on our creator and contributor :doc:`definition page </creator-contributor-definitions>`
     
 -   The role should describe the action that the agent took in creating
     the item and it may not align with job titles or credentials, for
@@ -633,7 +631,7 @@ Photograph
 Comments
 ********
 
--   Name fields are connected to the `UNT Name App <https://digital2.library.unt.edu/name/>`_, which will try to
+-   Name fields are connected to the `UNT Name App`_, which will try to
     match text against local authority files. Editors should always
     choose an authorized form from the list if it is available.
 -   The creator field is not constrained by the AACR2 practice of
@@ -658,9 +656,10 @@ Resources
 *********
 
 
--   UNT Creator Role `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
--   [Creator and Contributor Definitions][definition page] (how to choose which one to use)
--   `UNT Name App <https://digital2.library.unt.edu/name/>`_
+-   UNT Creator Role `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__
+-   UNT Creator Type `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-type/>`__
+-   :doc:`Creator and Contributor Definitions </creator-contributor-definitions>` (how to choose which one to use)
+-   `UNT Name App`_
 -   Library of Congress
 
     - `Authorities <http://authorities.loc.gov>`_
