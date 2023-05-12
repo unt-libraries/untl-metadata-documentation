@@ -145,7 +145,7 @@ Additional Information
 * For additional guidelines regarding creator names, roles, and information, see :ref:`How Should the Creator be Filled in? <creator-fill>`
 * To see additional examples, see :ref:`Other Examples <creator-examples>`
 * For a list of useful links for creators, see the :ref:`Resources <creator-resources>` section
-* For more information about when to use the Creator or Contributor field, see our definition page
+* For more information about when to use the Creator or Contributor field, see our :doc:`definition page </creator-contributor-definitions>`
 
 ====
 
@@ -206,9 +206,9 @@ Additional Information
 * If you want to see the full guidelines for contributors, see the :doc:`Contributor </fields/contributor>` page
 * For more information about where to find contributor(s) on an object, see :ref:`Where Can the Contributor Information be Found? <contributor-sources>`
 * For additional guidelines regarding contributor names, roles, and information, see :ref:`How Should the Contributor be Filled in? <contributor-fill>`
-* To see additional examples, see :ref:`Other Examples <contributor-exammples>`
+* To see additional examples, see :ref:`Other Examples <contributor-examples>`
 * For a list of useful links for contributors, see the :ref:`Resources <contributor-resources>` section
-* For more information about when to use the Creator or Contributor field, see our definition page
+* For more information about when to use the Creator or Contributor field, see our :doc:`definition page </creator-contributor-definitions>`
 
 
 ####
@@ -315,8 +315,8 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for dates, see the :doc:`Date </fields/date>` page
-* For more information about where to find creation date(s) on an object, see Where Can the Date Information be Found? <date-sources>`
-* For formatting instruction for all types of dates, see :ref:`General Date Rules <date-rules>`
+* For more information about where to find creation date(s) on an object, see :ref:`Where Can the Date Information be Found? <date-sources>`
+* For formatting instruction for all types of dates, see :ref:`General Date Rules <date-fill>`
 * For additional guidelines regarding creation dates (including special instructions for postcards and items that are derivations), see Creation Dates
 * For examples of when various kinds of dates would apply, see :ref:`Special Dates <date-special>`
 * To see additional examples, see :ref:`Other Examples <date-examples>`
@@ -364,10 +364,10 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for languages, see the :doc:`Language </fields/language>` page
-* For more information about where to find language(s) on an object, see `Where Can the Language Information be Found? <language-sources>`
-* For additional guidelines regarding languages, see `How Should the Language be Filled in? <language-fill>`
-* To see additional examples, see `Other Examples <language-examples>`
-* For a list of useful links for languages, see the `Resources <language-resources>` section
+* For more information about where to find language(s) on an object, see :ref:`Where Can the Language Information be Found? <language-sources>`
+* For additional guidelines regarding languages, see :ref:`How Should the Language be Filled in? <language-fill>`
+* To see additional examples, see :ref:`Other Examples <language-examples>`
+* For a list of useful links for languages, see the :ref:`Resources <language-resources>` section
 
 ####
 
@@ -563,7 +563,7 @@ Formatting Information
 Additional Information
 ======================
 
-* If you want to see the full guidelines for subjects, see the :doc:`Subject </fields/subject>`page
+* If you want to see the full guidelines for subjects, see the :doc:`Subject </fields/subject>` page
 * For more information about where to find subject(s) on an object, see :ref:`Where Can the Subject Information be Found? <subject-sources>`
 * For additional guidelines regarding all subjects and keywords (including instructions by subject type), see :ref:`How Should the Subject be Filled in? <subject-fill>`
 * To see additional examples, see :ref:`Other Examples <subject-examples>`
@@ -784,7 +784,7 @@ Additional Information
 ####
 
 
-.. _quick-institution-collection
+.. _quick-institution-collection:
 
 **************************
 Institution and Collection
@@ -870,7 +870,7 @@ Additional Information
 * To see additional resource type examples, see :ref:`Other Examples <type-examples>`
 * To see the full list of resource types, see the :ref:`Comments <type-comments>` section
 * If you want to see the full guidelines for formats, see the :doc:`Format </fields/format>` page
-* To see additional format examples, see :ref:`Other Examples <format-examples>
+* To see additional format examples, see :ref:`Other Examples <format-examples>`
 * To see the full list of formats, see the :ref:`Comments <format-comments>` section
 
 ####
@@ -993,7 +993,7 @@ What Do You Need to Know About Degree?
 Formatting Information
 ======================
 
-* If you are working on items created at UNT, read the full guidelines for this field on the :doc:`Degree Information </fields/degree> page.
+* If you are working on items created at UNT, read the full guidelines for this field on the :doc:`Degree Information </fields/degree>` page.
 
 ####
 
@@ -1006,4 +1006,3 @@ Resources
 
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
 -   :doc:`Explanation of Required Fields </minimally-viable-records>`
--   Additional Documentation and Project-Specific Guides

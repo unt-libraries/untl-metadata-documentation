@@ -231,7 +231,7 @@ Other Examples:
 - *Location:* Baltimore, Maryland
 - *Information:* "Lith. by A Hoen & Co."
 
-**French opera score: Nouvelles Poesies Morales sur Les Plus Beaux Airs de la Musique Francoise et Italienne avec la Basse.\[...\]**
+**French opera score: Nouvelles Poesies Morales sur Les Plus Beaux Airs de la Musique Francoise et Italienne avec la Basse.[...]**
 
 - *Publisher:* N. Lottin & J. H. Butard
 - *Location:* Paris, France
@@ -251,7 +251,7 @@ Other Examples:
 
 - *Publisher:* Texas State Library. Archives Division.
 - *Location:* Austin, Texas
-- *Information:* Printer \[and distributor\]
+- *Information:* Printer [and distributor]
 
 **Pamphlet: An Appeal to the People of Massachusetts, on The Texas Question.**
 
@@ -279,6 +279,7 @@ Comments
     resource, use the Coverage :ref:`Place Name <coverage-place>` sub-element.
 
 
+.. _publisher-resources:
 
 *********
 Resources

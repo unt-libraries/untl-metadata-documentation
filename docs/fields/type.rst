@@ -22,9 +22,9 @@ Resource tpe is determined by examining the physical item
 
 .. _type-form:
 
-**************************************
+********************************************
 How Resource Type Works in the Metadata Form
-**************************************
+********************************************
 
 .. image:: ../_static/images/edit-resource-type.png
    :alt: Screenshot of resource type element in metadata editing system.
@@ -83,9 +83,9 @@ How Should the Resource Type be Filled in?
 
 .. _type-examples:
 
-***************
-Other Examples:
-***************
+**************
+Other Examples
+**************
 
 **Proceedings of a convention (booklet)**
    *Resource Type:* text_book - Book
