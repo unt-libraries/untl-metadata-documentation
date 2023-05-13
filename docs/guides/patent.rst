@@ -357,7 +357,7 @@ Subject
 +---------------------------------------------------------------+-------------------------------------------+
 |-  Add appropriate UNTL-BS terms                               |-  Social Life and Customs - Food and      |
 |-  Use the pop-up modal and/or the                             |   Cooking                                 |
-|   `full list <https://digital2.library.unt.edu/subjects/>`    |-  Agriculture - Processing and Storage -  |
+|   `full list <https://digital2.library.unt.edu/subjects/>`_   |-  Agriculture - Processing and Storage -  |
 |                                                               |   Cotton Gins                             |
 +---------------------------------------------------------------+-------------------------------------------+
 |LCSH (Library of Congress Subject Headings)                                                                |
@@ -504,62 +504,63 @@ Here are some completed records (non-exhaustive list) that provide additional ex
 situations that you might see in patents.
 
 
-+-----------------------------------------------------------------------+-------------------------------------------+
-|**Record**                                                             |Example of:                                |
-+=======================================================================+===========================================+
-|`Improvement in Medical Compounds of Bitters for Treading              |-  no illustration                         |
-|Chills and Fever.                                                      |-  no numbered pages                       |
-|<https://texashistory.unt.edu/ark:/67531/metapth166865/>`              |-  date filed                              |
-|                                                                       |                                           |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth166865/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Dressing Millstones.                                                  |-  quoted text in content description      |
-|<https://texashistory.unt.edu/ark:/67531/metapth165032/>`              |                                           |
-|                                                                       |                                           |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth165032/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Improved Method of Feathering the Sails of Vanes of Windmills.        |-  two inventors                           |
-|<https://texashistory.unt.edu/ark:/67531/metapth165050/>`              |-  abbreviated name (witness)              |
-|                                                                       |                                           |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth165050/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Improvement in Propelling Vessels.                                    |-  no city listed                          |
-|<https://texashistory.unt.edu/ark:/67531/metapth165026/>`              |                                           |
-|                                                                       |                                           |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth165026/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth172765/>`       |-  assignor/assignee                       |
-|                                                                       |-  serial number                           |
-|   `Metadata summary view                                              |-  two places                              |
-|   <https://texashistory.unt.edu/ark:/67531/metapth172765/metadata>`   |-  application date                        |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Peach-Parer. <https://texashistory.unt.edu/ark:/67531/metapth165093/>`|-  applicant is not inventor               |
-|                                                                       |                                           |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth165093/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth858133/">`      |-  two serial numbers                      |
-|                                                                       |-  application/renewal date                |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth858133/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
-|`Cotton-Sack Carrier.                                                  |-  two inventors                           |
-|<https://texashistory.unt.edu/ark:/67531/metapth172975/>`              |-  witnesses for each signature            |
-|                                                                       |-  application/renewal date                |
-|   `Metadata summary view                                              |                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth172975/metadata>`   |                                           |
-+-----------------------------------------------------------------------+-------------------------------------------+
++-------------------------------------------------------------------------+-------------------------------------------+
+|**Record**                                                               |Example of:                                |
++=========================================================================+===========================================+
+|`Improvement in Medical Compounds of Bitters for Treading                |-  no illustration                         |
+|Chills and Fever.                                                        |-  no numbered pages                       |
+|<https://texashistory.unt.edu/ark:/67531/metapth166865/>`__              |-  date filed                              |
+|                                                                         |                                           |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth166865/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Dressing Millstones.                                                    |-  quoted text in content description      |
+|<https://texashistory.unt.edu/ark:/67531/metapth165032/>`__              |                                           |
+|                                                                         |                                           |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth165032/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Improved Method of Feathering the Sails of Vanes of Windmills.          |-  two inventors                           |
+|<https://texashistory.unt.edu/ark:/67531/metapth165050/>`__              |-  abbreviated name (witness)              |
+|                                                                         |                                           |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth165050/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Improvement in Propelling Vessels.                                      |-  no city listed                          |
+|<https://texashistory.unt.edu/ark:/67531/metapth165026/>`__              |                                           |
+|                                                                         |                                           |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth165026/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth172765/>`__       |-  assignor/assignee                       |
+|                                                                         |-  serial number                           |
+|-  `Metadata summary view                                                |-  two places                              |
+|   <https://texashistory.unt.edu/ark:/67531/metapth172765/metadata>`__   |-  application date                        |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Peach-Parer. <https://texashistory.unt.edu/ark:/67531/metapth165093/>`__|-  applicant is not inventor               |
+|                                                                         |                                           |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth165093/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth858133/">`__      |-  two serial numbers                      |
+|                                                                         |-  application/renewal date                |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth858133/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
+|`Cotton-Sack Carrier.                                                    |-  two inventors                           |
+|<https://texashistory.unt.edu/ark:/67531/metapth172975/>`__              |-  witnesses for each signature            |
+|                                                                         |-  application/renewal date                |
+|-  `Metadata summary view                                                |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth172975/metadata>`__   |                                           |
++-------------------------------------------------------------------------+-------------------------------------------+
 
 
 .. _patent-tutorial:
 
-## Video Tutorial
+Video Tutorial
+==============
 
-`This video tutorial <https://www.youtube.com/embed/NvYyxXpx-bI>` walks through the creation of `this <https://texashistory.unt.edu/ark:/67531/metapth510403/>` record for a
+`This video tutorial <https://www.youtube.com/embed/NvYyxXpx-bI>`_ walks through the creation of `this <https://texashistory.unt.edu/ark:/67531/metapth510403/>`_ record for a
 "cotton gin" patent.  (You can look at the completed record values if you want to follow along.)
 
 
@@ -572,11 +573,11 @@ Related Pages/Links
 
 -   :doc:`Metadata Guidelines </input-guidelines-descriptive>`
 
-    - `UNTL-BS full list <https://digital2.library.unt.edu/subjects/browse/>`
+    - `UNTL-BS full list <https://digital2.library.unt.edu/subjects/browse/>`_
     
-- `Online patent collection <https://texashistory.unt.edu/explore/collections/TXPT/browse/>`
+- `Online patent collection <https://texashistory.unt.edu/explore/collections/TXPT/browse/>`_
 
 **External Links**
 
-- `Google Patents <https://patents.google.com/>`
-- `LoC Authorities <https://id.loc.gov/>`
+- `Google Patents <https://patents.google.com/>`_
+- `LoC Authorities <https://id.loc.gov/>`_
