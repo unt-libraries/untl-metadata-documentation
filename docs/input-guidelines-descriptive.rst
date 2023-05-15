@@ -34,3 +34,23 @@ Metadata Input Guidelines:
 
    /fields/title
    /fields/creator
+   /fields/contributor
+   /fields/publisher
+   /fields/date
+   /fields/language
+   /fields/description
+   /fields/subject
+   /fields/primary-source
+   /fields/coverage
+   /fields/source
+   /fields/citation
+   /fields/relation
+   /fields/collection
+   /fields/institution
+   /fields/rights
+   /fields/type
+   /fields/format
+   /fields/identifier
+   /fields/degree
+   /fields/note
+   /fields/meta
