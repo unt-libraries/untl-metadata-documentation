@@ -70,7 +70,7 @@ Steps
 5.  To find more information on formatting for any field, read the
     appropriate page in the :doc:`full guidelines </input-guidelines-descriptive>`
 
-    -   Click on the field's title link on this page *or*
+    -   Click on the "more guidelines" links on this page *or*
     -   Click on the "More" link at the top of the field in the editing form
 
 .. _patent-title:
@@ -104,6 +104,7 @@ Title
 |        system can be found here: `Help Guide`_                |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More title guidelines </fields/title>`
 
 .. _patent-names:
 
@@ -173,6 +174,7 @@ Creator
 |        "assignee"                                             |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More creator guidelines </fields/creator>`
 
 .. _patent-contributor:
 
@@ -220,6 +222,7 @@ Contributor
 |       lithographer/illustrator                                    |                                           |
 +-------------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More contributor guidelines </fields/contributor>`
 
 .. _patent-date:
 
@@ -252,6 +255,7 @@ Date
 |       April 5, 1873"                                          |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More date guidelines </fields/date>`
 
 .. _patent-content-description:
 
@@ -278,6 +282,7 @@ Content Description
 |                                                               |instructions and illustrations.            |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :ref:`More content description guidelines <description-content>`
 
 .. _patent-physical-description:
 
@@ -340,6 +345,7 @@ Physical Description
 |                               |                               |                               |                               |illustrations ; 23 cm. tall)*              |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
 
+*   :ref:`More physical description guidelines <description-physical>`
 
 .. _patent-subject:
 
@@ -378,6 +384,7 @@ Subject
 |                                                               |-  escapements                             |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More subject guidelines </fields/subject>`
 
 .. _patent-psource:
 
@@ -385,6 +392,9 @@ Primary Source
 ==============
 
 -   Make sure that "Yes" is checked
+
+
+*   :doc:`More primary source guidelines </fields/primary-source>`
 
 
 .. _patent-coverage:
@@ -423,6 +433,7 @@ Place Name
 |                                                               |   Tenaha                                  |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More coverage guidelines </fields/coverage>`
 
 .. _patent-identifier:
 
@@ -451,6 +462,7 @@ Identifier
 |    -   Write out the number as 02/\#\#\#\#\#\#                |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More identifier guidelines </fields/identifier>`
 
 .. _patent-note:
 
@@ -469,6 +481,7 @@ Note
 |                                                               |    Serial No. 3,170."                     |
 +---------------------------------------------------------------+-------------------------------------------+
 
+*   :doc:`More note guidelines </fields/note>`
 
 .. _patent-saving:
 
@@ -486,9 +499,9 @@ Saving the Record
 *Notes:* 
 
     -   Clicking publish saves a new version of the record.  Do not publish the 
-        record if you have not made changes (the system will save a duplicate copy every time)
+        record if you have not made changes (the system will save a duplicate copy every time).
     -   Saving the record is separate from the visible/hidden flag; you can publish
-        the record and leave it "hidden," but it will not be findable to the public
+        the record and leave it "hidden," but it will not be findable to the public.
     -   Records can still be edited after they are visible -- you have the ability
         to edit any records in the collection.  Just note that if you have criteria
         set in the Dashboard (e.g., "only hidden records") you may have to change
@@ -560,7 +573,7 @@ situations that you might see in patents.
 Video Tutorial
 ==============
 
-`This video tutorial <https://www.youtube.com/embed/NvYyxXpx-bI>`_ walks through the creation of `this <https://texashistory.unt.edu/ark:/67531/metapth510403/>`_ record for a
+`This video tutorial <https://www.youtube.com/embed/NvYyxXpx-bI>`_ walks through the creation of `this record <https://texashistory.unt.edu/ark:/67531/metapth510403/>`_ for a
 "cotton gin" patent.  (You can look at the completed record values if you want to follow along.)
 
 
