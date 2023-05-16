@@ -53,6 +53,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /guides/correspondence
    /guides/trail
    /guides/patent
+   /guides/comr
       
 .. toctree::
    :maxdepth: 1
