@@ -415,7 +415,7 @@ Formatting Information
 Additional Information
 ======================
 
-* If you want to see the full guidelines for content description, see this section of the :ref:`Description <description-content>` page
+* If you want to see the full guidelines for content description, see :ref:`this section <description-content>` of the :doc:`Description </fields/description>` page
 * For more information about where to find content information on an object, see :ref:`Where Can the Content Description Information be Found? <description-csources>`
 * For additional guidelines regarding content descriptions (including information for specific kinds of items), see :ref:`How Should the Content Description be Filled in? <description-cfill>`
 * To see additional examples, see :ref:`Other Examples <description-cexamples>`
@@ -500,7 +500,7 @@ Note: leave out ‘physical details’ if they do not apply or are not readily a
 Additional Information
 ======================
 
-* If you want to see the full guidelines for physical description, see this section of the :ref:`Description <description-physical>` page
+* If you want to see the full guidelines for content description, see :ref:`this section <description-physical>` of the :doc:`Description </fields/description>` page
 * For more information about where to find physical information on an object, see :ref:`Where Can the Physical Description Information be Found? <description-psources>`
 * For additional guidelines regarding text materials, see :ref:`Books, pamphlets, and printed sheets <description-books>`
 * For additional guidelines regarding graphic materials, see :ref:`Photographs and other “graphic” materials <description-photos>`
