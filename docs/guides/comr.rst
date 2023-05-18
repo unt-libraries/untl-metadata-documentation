@@ -109,7 +109,7 @@ Added Titles
 +=======================================================+============================================+
 |-  If the recital has a title (printed on the program/ |                                            |
 |   information), include it in the record as an added  |                                            |
-|   title                                                                                            |
+|   title                                               |                                            |
 +-------------------------------------------------------+--------------------------------------------+
 |For Doctoral Lecture Recitals, include the lecture     |-  Lecture Recital: Marcel Mihalovici - A   |
 |title as an added title                                |   Critical Evaluation of His Solo and      |
@@ -143,18 +143,14 @@ If the recital is part of a series of related performances:
 - Include the title of the series as a serial title
 - Include the title of the specific performance as an added title
 
-</div>
 
-<div class="col" markdown="1">
-
-#### Examples
+Example
+-------
 
 -  *Serial:* "Basically Brahms": Music of Johannes Brahms (1833-1897)
 -  *Added:* "Basically Brahms": Music of Johannes Brahms (1833-1897), Concert One
 
-</div>
 
-</div>
 
 More Examples (Main Titles)
 ---------------------------
@@ -227,11 +223,11 @@ Creator Names
 |-  If known, use the authorized form of the name from  |Gillespie, James E. (James Ernest), 1940-  |
 |   the `Library of Congress Authorities`_, otherwise:  |                                           |
 +-------------------------------------------------------+-------------------------------------------+
-|-  Invert names (Last, First Middle)                   |_   Reséndez, José Luís                    |
-|-  Use initials if the full names are not known        |_   Licata, Julie M.                       |
-|-  Use spaces between initials                         |_   Kami, Taylor J. T.                     |
-|-  Put additional middle names after the first name    |_   Chernaya-Oh, Ekaterina                 |
-|-  Consider both parts of a hyphenated name the 'last  |_   Di Fiore, Linda                        |
+|-  Invert names (Last, First Middle)                   |-   Reséndez, José Luís                    |
+|-  Use initials if the full names are not known        |-   Licata, Julie M.                       |
+|-  Use spaces between initials                         |-   Kami, Taylor J. T.                     |
+|-  Put additional middle names after the first name    |-   Chernaya-Oh, Ekaterina                 |
+|-  Consider both parts of a hyphenated name the 'last  |-   Di Fiore, Linda                        |
 |   name'                                               |                                           |
 |-  Consider multiple parts (von, de la, etc.) as part  |                                           |
 |   of the last name                                    |                                           |
@@ -316,6 +312,7 @@ More Examples
 -------------
 
 **Ensemble: 2007-03-12 - Music of Mario Davidovsky**
+
 -   *Name:* Nova Ensemble
 -   *Type:* Organization
 -   *Role:* Performer
@@ -351,6 +348,7 @@ More Examples
 
 
 **Doctoral Recital: 2006-03-20 - Anne Beloncik Schantz, soprano**
+
 -   *Name:* Schantz, Anne Beloncik
 -   *Type:* Person
 -   *Role:* Performer
@@ -566,6 +564,7 @@ More Examples
 -------------
 
 **Doctoral Recital: 2007-11-09 - Patricia Jovanna Surman, flute and piccolo**
+
 -   *Name:* Surman, Patricia Jovanna
 -   *Type:* Person
 -   *Role:* Performer
@@ -574,6 +573,7 @@ More Examples
 
 
 **Senior Recital: 2006-11-01 - Michelle Cho, cello**
+
 -   *Name:* Bach, Johann Sebastian, 1685-1750
 -   *Type:* Person
 -   *Role:* Composer
@@ -609,6 +609,7 @@ More Examples
 
 
 **Master's Recital: 2007-06-06 - Tae Kyung Lee, piano**
+
 -   *Name:* Mozart, Wolfgang Amadeus, 1756-1791
 -   *Type:* Person
 -   *Role:* Composer
@@ -630,6 +631,7 @@ More Examples
 
 
 **Faculty Recital: 2006-10-09 - Gustavo Romero, piano**
+
 -   *Name:* Mozart, Wolfgang Amadeus, 1756-1791
 -   *Type:* Person
 -   *Role:* Composer
@@ -656,6 +658,7 @@ More Examples
 
 
 **Doctoral Lecture Recital: 2006-04-18 - Michael Underwood, trombone**
+
 -   *Name:* Lindberg, Christian, 1958-
 -   *Type:* Person
 -   *Role:* Composer
@@ -730,24 +733,30 @@ Examples
 --------
 
 **Doctoral Recital: 2006-12-04 - Lisa Thomas, piano**
+
 -   *Original Resource Creation Date:* 2006-12-04
 
 
 **Ensemble: 2007-02-28 - UNT Concert Band**
+
 -   *Original Resource Creation Date:* 2007-02-28
 
 
 **Senior Recital: 2007-04-10 - Sungjoon Lee, composer**
+
 -   *Original Resource Creation Date:* 2007-04-10
 
 
 **Faculty Recital: 2007-01-17 - Lenora McCroskey, harpsichord**
+
 -   *Original Resource Creation Date:* 2007-01-17
 
 **Master's Recital: 2006-06-05 - Janelle Davis, violin**
+
 -   *Original Resource Creation Date:* 2006-06-05
 
 **Guest Artist Recital: 2006-09-22 - Trio de Llano**
+
 -   *Original Resource Creation Date:* 2006-09-22
 
 
@@ -776,12 +785,14 @@ Examples
 --------
 
 **Recording of a music recital sung in Italian and French**
+
 -   *Language:* fre - French
 -   *Language:* ita - Italian
 
 
 
 **Recording of a music recital sung in English, German, and Latin**
+
 -   *Language:* eng - English
 -   *Language:* ger - German
 -   *Language:* lat - Latin
@@ -789,7 +800,9 @@ Examples
 
 
 **Ensemble: 2007-04-11 - UNT Cello Ensemble**
+
 -   *Language:* nol - No Language
+
 
 Additional Information
 ----------------------
@@ -1032,7 +1045,7 @@ Additional Information
 ----------------------
 
 * If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see:ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For more information about where to find coverage information on an object, see :ref:` Where Can the Coverage Information be Found? <coverage-sources>`
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
 * To see additional examples, see :ref:`Other Examples <coverage-examples>`
 * For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
@@ -1220,7 +1233,7 @@ Examples
     -   *Is format of*: Ensemble: 2012-10-03 - UNT Concert Orchestra [full], 
         `ark:/67531/metadc271745 <https://digital.library.unt.edu/ark:/67531/metadc271745/>`_
     -   *Is format of*: Ensemble: 2012-10-03 - UNT Concert Orchestra [edited], 
-        `ark:/67531/metadc271748 <https://digital.library.unt.edu/ark:/67531/metadc271748/>`
+        `ark:/67531/metadc271748 <https://digital.library.unt.edu/ark:/67531/metadc271748/>`_
 
 -   Program book:
 
@@ -1229,6 +1242,7 @@ Examples
 
 
 **Non-Recital Components**
+
 -   Video Recording:
 
     -   *Referenced by*: Program:
@@ -1421,6 +1435,7 @@ Examples
 --------
 
 **Senior Recital: 2007-04-24 - Lucas Frank Albano, percussion**
+
 -   *Name:* Bachelor of Music
 -   *Level:* Bachelor's
 -   *Discipline:* Percussion
@@ -1430,6 +1445,7 @@ Examples
 
 
 **Master's Recital: 2007-06-14 - Jason Bellack, tenor saxophone**
+
 -   *Name:* Master of Music
 -   *Level:* Master's
 -   *Discipline:* Saxophone
@@ -1439,6 +1455,7 @@ Examples
 
 
 **Doctoral Recital: 2006-01-29 - Scott Marosek, piano**
+
 -   *Name:* Doctor of Musical Arts
 -   *Level:* Doctoral
 -   *Discipline:* Piano performance
@@ -1560,8 +1577,7 @@ Specific Scenarios
 +---------------------------------------+---------------------------------------------------------------+-------------------------------------------------------------------+
 |**If:**                                |**Changes**                                                    |**Examples**                                                       |
 +=======================================+===============================================================+===================================================================+
-|A recording has multiple versions      |If there are two extremely similar recordings (e.g., one from  |                                                                   |
-|                                       |the perspective of the orchestra and one from the audience)    |                                                                   |
+|A recording has multiple versions      |If there are **two extremely similar recordings** (e.g., from the perspective of the orchestra and from the audience)              |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
 |                                       |-  Add some designator to the title so that they aren't        |Ensemble: 2017-02-01 – UNT Symphony                                |
 |                                       |   identical (e.g., a number of descriptor)                    |Orchestra [Stage Perspective]                                      |
@@ -1576,9 +1592,8 @@ Specific Scenarios
 |                                       |   ARKs to determine which "has version" and which "is version |`ark:/67531/metadc977002                                           |
 |                                       |   of"                                                         |<https://digital.library.unt.edu/ark:/67531/metadc977002/>`_       |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
-|                                       |If there are two recordings that have partially different      |                                                                   |
-|                                       |content (e.g., an edited version or a recording that cut out   |                                                                   |
-|                                       |part-way through)                                              |                                                                   |
+|                                       |If there are **two recordings that have partially different content** (e.g., an edited version or a recording that cut out part-way|
+|                                       |through)                                                       |                                                                   |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
 |                                       |-  Add some designator to the title of the edited version      |Ensemble: 2012-10-03 - UNT Concert Orchestra [edited]              |
 |                                       |   (e.g., [edit], [edited], [partial], etc.) and consider doing|                                                                   |
@@ -1592,8 +1607,7 @@ Specific Scenarios
 |                                       |   fuller or original recording "has version" and the shorter  |and Concert Choir [full], `ark:/67531/metadc272227                 |
 |                                       |   or edited recording "is version of"                         |<https://digital.library.unt.edu/ark:/67531/metadc272227/>`_       |
 +---------------------------------------+---------------------------------------------------------------+-------------------------------------------------------------------+
-|A single recital is recorded in parts  |If there are just two (or more) parts (e.g., one recording     |                                                                   |
-|                                       |before intermission and one after)                             |                                                                   |
+|A single recital is recorded in parts  |If there are **just two (or more) parts** (e.g., one recording before intermission and one after)                                  |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
 |                                       |-  Add some designator to the title to denote order            |Ensemble: 2014-02-05 - UNT Symphony Orchestra, Part 1              |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
@@ -1609,9 +1623,8 @@ Specific Scenarios
 |                                       |                                                               |2, `ark:/67531/metadc406403                                        |
 |                                       |                                                               |<https://digital.library.unt.edu/ark:/67531/metadc406403/>`_       |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
-|                                       |If the parts have different content (e.g., a lecture and a     |                                                                   |
-|                                       |performance recorded separately, that are part of a continuous |                                                                   |
-|                                       |recital)                                                       |                                                                   |
+|                                       |If the **parts have different content** (e.g., a lecture and a performance recorded separately, that are part of a continuous      |
+|                                       |recital)                                                                                                                           |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
 |                                       |-  Add some designator to the title to clarify the content and |Doctoral Recital: 2013-06-06 – Terri Sánchez, flute/alto flute/    |
 |                                       |   to note order (if possible)                                 |bass flute. Part 1, Lecture                                        |
@@ -1630,10 +1643,8 @@ Specific Scenarios
 |                                       |                                                               |`ark:/67531/metadc275822                                           |
 |                                       |                                                               |<https://digital.library.unt.edu/ark:/67531/metadc275822/>`_       |
 +---------------------------------------+---------------------------------------------------------------+-------------------------------------------------------------------+
-|A recording is **not** a recital       |If the content of the recording is something other than the    |                                                                   |
-|                                       |actual recital -- e.g., promotional video, advertisement,      |                                                                   |
-|                                       |interview, intermission material, etc. -- all information in   |                                                                   |
-|                                       |the record should be adjusted based on the content:            |                                                                   |
+|A recording is **not** a recital       |If the content of the recording is something other than the actual recital -- e.g., promotional video, advertisement, interview,   |
+|                                       |intermission material, etc. -- all information in the record should be adjusted based on the content:                              |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
 |                                       |-  Create a title in [brackets]                                |[Interview with Andy Narell Regarding Global Rhythms Project]      |
 |                                       +---------------------------------------------------------------+-------------------------------------------------------------------+
