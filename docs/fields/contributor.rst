@@ -151,9 +151,8 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |   d.  Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   e.  Separate hyphenated first names with a hyphenated   |Fang, H.-C.                            |
-|       first names with a hyphen instead of a space if only|                                       |
-|       initials are known                                  |                                       |
+|   e.  Separate hyphenated first names with a hyphe        |Fang, H.-C.                            |
+|       instead of a space if only initials are known       |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |   f.  Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |
 +-----------------------------------------------------------+---------------------------------------+
@@ -168,9 +167,9 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   a.  Only include known titles (Dr., Rev., Capt., etc.)  |Hastings, Mrs. F. S.                   |
-|       before the first name if:                           +---------------------------------------+
-|                                                           |Jones, Dr.                             |
+|   a.  Only include known titles (Dr., Rev., Capt., etc.)  |-  Hastings, Mrs. F. S.                |
+|       before the first name if:                           |-  Jones, Dr.                          |
+|                                                           |                                       |
 |       -   The title is necessary for clarification of the |                                       |
 |           name (e.g., if the given name for a married     |                                       |
 |           woman is unknown)                               |                                       |
@@ -265,10 +264,9 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |For United States agencies:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Spell out "United States" unless there is an authorized |United States. Navy. Training Division.|
-|   version that abbreviates it                             |Bureau of Aeronautics.                 |
-|                                                           +---------------------------------------+
-|                                                           |U.S. Coast and Geodetic Survey         |
+|-  Spell out "United States" unless there is an authorized |-  United States. Navy. Training       |
+|   version that abbreviates it                             |   Division. Bureau of Aeronautics.    |
+|                                                           |-  U.S. Coast and Geodetic Survey      |
 +-----------------------------------------------------------+---------------------------------------+
 |-  In the case of a long (well-known) name, it may be      |United States. Central Intelligence    |
 |   shortened by eliminating unnecessary parts              |Agency.                                |
@@ -314,7 +312,8 @@ Contributor Type
 |the name appropriately                                     |                                       |
 |                                                           |                                       |
 |   -   (If it is important to document or clarify this     |                                       |
-|       choice, use a Non-Display Note)                     |                                       |
+|       choice, use a :ref:`Non-Display Note                |                                       |
+|       <note-nondisplay>`)                                 |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -401,9 +400,9 @@ Assigning Roles
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |               |executive director of an agency with a described or        |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
 |               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               | | *Type:* Personal                       |
-|               |                                                           |(or another        |               | | *Role:* Author of introduction, etc.   |
-|               |                                                           |appropriate role)  |               | | *Info:* Director of Building           |
-|               |                                                           |                   |               |   Inspections                            |
+|               |                                                           |                   |               | | *Role:* Author of introduction, etc.   |
+|               |                                                           |(or another        |               | | *Info:* Director of Building           |
+|               |                                                           |appropriate role)  |               |   Inspections                            |
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |"Performer"    |-  musician in a recital or concert                        |Performer          |Creator        | | *Name:* North Texas Wind Symphony      |
 |               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
@@ -446,39 +445,39 @@ Contributor Info
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  Include information that clarifies the role of the      |Consulting Engineer                    |
-|   contributor, e.g.:                                      +---------------------------------------+
-|                                                           |Trio for Piano, Violin and Cello in C  |
-|   -   For composers, the name of the piece(s)             |Major, K. 548 (1788)                   |
-|   -   For journals or compiled documents, the title(s) of +---------------------------------------+
-|       pieces authored by the contributor                  |Baby Lore: The Why and Wherefore of It |
+|-  Include information that clarifies the role of the      |-  Consulting Engineer                 |
+|   contributor, e.g.:                                      |-  Trio for Piano, Violin and Cello in |
+|                                                           |   C Major, K. 548 (1788)              |
+|   -   For composers, the name of the piece(s)             |-  Baby Lore: The Why and Wherefore of |
+|   -   For journals or compiled documents, the title(s) of |   It                                  |
+|       pieces authored by the contributor                  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Include other relevant information known about the      |Judge Sam'l A. Roberts                 |
-|   contributor that relates to the object, such as:        |                                       |
-|                                                           |                                       |
-|   -   Additional forms of the contributor's name          +---------------------------------------+
-|   -   Addresses                                           |LMSW; Manager, Purchased Health        |
-|   -   Birth and death dates (not part of an authorized    |Services Unit                          |
-|       name)                                               +---------------------------------------+
-|   -   Organizational affiliations                         |Houston, Texas                         |
+|-  Include other relevant information known about the      |-  Judge Sam'l A. Roberts              |
+|   contributor that relates to the object, such as:        |-  LMSW; Manager, Purchased Health     |
+|                                                           |   Services Unit                       |
+|   -   Additional forms of the contributor's name          |-  Houston, Texas                      |
+|   -   Addresses                                           |                                       |
+|   -   Birth and death dates (not part of an authorized    |                                       |
+|       name)                                               |                                       |
+|   -   Organizational affiliations                         |                                       |
 |   -   Other information associated with the name          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  For an agency, the info may include:                    |CEA                                    |
-|                                                           |                                       |
-|   -   Persons associated with the organization who did not+---------------------------------------+
-|       have another role (e.g., directors)                 |U.S. Department of the Interior, Bureau|
-|   -   Acronyms, abbreviations, or alternative name forms  |of Mines                               |
+|-  For an agency, the info may include:                    |-  CEA                                 |
+|                                                           |-  U.S. Department of the Interior,    |
+|   -   Persons associated with the organization who did not|   Bureau of Mines                     |
+|       have another role (e.g., directors)                 |                                       |
+|   -   Acronyms, abbreviations, or alternative name forms  |                                       |
 |   -   Additional omitted hierarchical components (e.g.,   |                                       |
 |       for some federal agencies)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  There are no strict formatting requirements for info,   |Rev. R. G. Mood, M.A., D.D. ; Secretary|
-|   but here are some suggestions:                          |and Editor of the North Texas          |
-|                                                           |Conference                             |
-|   -   List each name, fact, or statement individually and |                                       |
-|       separate them with semicolons or periods            +---------------------------------------+
-|   -   Use sentence form when relevant, or when taken      |"Under Four Flags on Texas Soil, By A. |
-|       directly from the item                              |Garland Adair, Editor, The Mexia Daily |
-|   -   Quotation marks may be used when quoting information|News"                                  |
+|-  There are no strict formatting requirements for info,   |-  Rev. R. G. Mood, M.A., D.D. ;       |
+|   but here are some suggestions:                          |   Secretary and Editor of the North   |
+|                                                           |   Texas Conference                    |
+|   -   List each name, fact, or statement individually and |-  "Under Four Flags on Texas Soil, By |
+|       separate them with semicolons or periods            |   A. Garland Adair, Editor, The Mexia |
+|   -   Use sentence form when relevant, or when taken      |   Daily News"                         |
+|       directly from the item                              |                                       |
+|   -   Quotation marks may be used when quoting information|                                       |
 |       directly from the item                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
@@ -489,14 +488,14 @@ Contributor Info
 Other Examples:
 ***************
 
-Book
+**Book**
 
     -   *Name:* Ben C. Jones & Co.
     -   *Type:* Organization
     -   *Role:* Printer
     -   *Information:* "Printers, Electrotypers and Binders, Austin."
 
-Yearbook
+**Yearbook**
 
     -   *Name:* Richards, Olan
     -   *Type:* Personal
@@ -527,7 +526,7 @@ Yearbook
     -   *Type:* Organization
     -   *Role:* Engraver
 
-Journal issue
+**Journal issue**
 
     -   *Name:* Baldwin, Dan
     -   *Type:* Personal
@@ -541,7 +540,7 @@ Journal issue
     -   *Role:* Editor
     -   *Information:* Assistant Editor
 
-Research report
+**Research report**
 
     -   *Name:* Texas Water Development Board
     -   *Type:* Organization
@@ -589,7 +588,7 @@ Research report
     -   *Type:* Organization
     -   *Role:* Consultant
 
-Map
+**Map**
 
     -   *Name:* United States. Bureau of Naval Personalnel. Educational Services Section.
     -   *Type:* Organization
@@ -611,7 +610,7 @@ Map
     -   *Information:* Map of South Burma and Thailand "prepared in the R and A Branch, O.S.S."
 
 
-Legal estate transfer
+**Legal estate transfer**
 
     -   *Name:* Sayles, Mary E.
     -   *Type:* Personal
@@ -631,7 +630,7 @@ Legal estate transfer
     -   *Type:* Personal
     -   *Role:* Witness
 
-Dissertation
+**Dissertation**
 
     -   *Name:* Wilhelm, Ronald
     -   *Type:* Personal
@@ -652,7 +651,7 @@ Dissertation
     -   *Role:* Committee member
 
 
-Opera score
+**Opera score**
 
     -   *Name:* Harding, Bertita
     -   *Type:* Personal

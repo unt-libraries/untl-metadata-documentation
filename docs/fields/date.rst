@@ -69,8 +69,8 @@ How Date Works in the Metadata Form
    :alt: Screenshot of date element in metadata editing system.
 
 Parts:
-	Date qualifier -- drop-down menu
-	Date -- text field
+	#. Date qualifier -- drop-down menu
+	#. Date -- text field
 
 Repeatable?
 	Yes - to include different kinds of date information, click 'Add' to repeat all field parts; each individual date type (creation, submission, harvested, etc.) should not be repeated
@@ -90,19 +90,19 @@ General Date Rules
 
 -   If no date can be found, leave the field blank
 -   For each date, be sure to choose the appropriate date type from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/date-qualifiers/>`_
--	The Special Dates section provides more information about choosing the most relevant format type
+-	The :ref:`Special Dates <date-special>` section provides more information about choosing the most relevant format type
 -   Always format dates appropriately:
 
 +-----------------------------------------------+-----------------------+---------------------------+
 | **Guideline**                                 | **Pattern**           |   **Examples**            |
 +===============================================+=======================+===========================+
-|*Basic Format:* A single year, month, or day                                                       |
+|*Basic Format: A single year, month, or day*                                                       |
 +-----------------------------------------------+-----------------------+---------------------------+
-|Write dates Year-Month-Day, separating the     |YYYY-MM-DD             |1985-03-27                 |
-|sections with a single hyphen                  |                       |                           |
+|-  Write dates Year-Month-Day, separating the  |YYYY-MM-DD             |1985-03-27                 |
+|   sections with a single hyphen               |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|Include partial dates when only the year or    | | YYYY                | | 2006                    |
-|only month and year are known                  |                       |                           |
+|-  Include partial dates when only the year or | | YYYY                | | 2006                    |
+|   only month and year are known               |                       |                           |
 |                                               | | YYYY-MM             | | 1865-05                 |
 +-----------------------------------------------+-----------------------+---------------------------+
 
@@ -111,82 +111,78 @@ General Date Rules
 +-----------------------------------------------+-----------------------+---------------------------+
 | **Guideline**                                 | **Pattern**           |   **Examples**            |
 +===============================================+=======================+===========================+
-|*Date Ranges:* Inclusive period from a start through an end date                                   |
+|*Date Ranges: Inclusive period from a start through an end date*                                   |
 +-----------------------------------------------+-----------------------+---------------------------+
-|Follow the same basic format, but separate     |YYYY-MM-DD/YYYY-MM-DD  |1941-12/1945-08            |
-|start and end dates with a slash mark          |                       |                           |
+|-  Follow the same basic format, but separate  |YYYY-MM-DD/YYYY-MM-DD  |1941-12/1945-08            |
+|   start and end dates with a slash mark       |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|If part of the date range is unknown, one date | | YYYY-MM-DD/..       | | 1889-05-13/..           |
-|can be replaced with a double-dot to designate |                       |                           |
-|an "open" range                                | | ../YYYY-MM-DD       | | ../1914-06              |
+|-  If part of the date range is unknown, one   | | YYYY-MM-DD/..       | | 1889-05-13/..           |
+|   date can be replaced with a double-dot to   |                       |                           |
+|   designate an "open" range                   | | ../YYYY-MM-DD       | | ../1914-06              |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*One of a Set:* Specific unknown date during a known time period (e.g, sometime between 1900 and   | 
-|1905) or amonng several options (e.g., July 1980 or 1981)                                          |
+|*One of a Set: Specific unknown date during a known time period (e.g, sometime between 1900 and    |
+|1905) or among several options (e.g., July 1980 or 1981)*                                          |
 +-----------------------------------------------+-----------------------+---------------------------+
-| | Dates are enclosed in [square brackets]     | | [YYYY,YYYY,YYYY]    | | [1909,1919,1929]        |
+|-  Dates are enclosed in [square brackets]     | | [YYYY,YYYY,YYYY]    | | [1909,1919,1929]        |
+|-  Separate dates with commas for a list of    |                       |                           |
+|   possible dates or a double-dot for a range  | | [YYYY-MM,YYYY-MM]   | | [1980-07,1981-07]       |
 |                                               |                       |                           |
-|                                               | | [YYYY-MM,YYYY-MM]   | | [1980-07,1981-07]       |
-|                                               |                       |                           |
-| | Separate dates with commas for a list of    | | [YYYY..YYYY]        | | [1939..1945]            |
-|   possible dates or a double-dot for a range  |                       |                           |
+|                                               | | [YYYY..YYYY]        | | [1939..1945]            |
 +-----------------------------------------------+-----------------------+---------------------------+
 |Two periods in the set represents specific     |                       |                           |
 |point within all of the years before/after two |                       |                           |
 |dates:                                         |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|  | Between 1897 and 1901                      | | [YYYY..YYYY]        | | [1897..1901]            |
-|                                               |                       |                           |
-|  | Before or during 1897                      | | [..YYYY]            | | [..1897]                |
-|                                               |                       |                           |
-|  | During or after 1901                       | | [YYYY..]            | | [1901..]                |
+|-   Between 1897 and 1901                      |[YYYY..YYYY]           |[1897..1901]               |
 +-----------------------------------------------+-----------------------+---------------------------+
-|Please note: since [square brackets] are used  |                       |                           |
-|for this notation, they cannot be used to      |                       |                           |
-|represent dates added from a source other than |                       |                           |
-|the item (see Comments for more information)   |                       |                           |
+|-   Before or during 1897                      |[..YYYY]               |[..1897]                   |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Multiple Dates:* Inclusive, separate dates that are not a single range (e.g., 4th of July 1850 and|
-|1851)                                                                                              |
+|-   During or after 1901                       |[YYYY..]               |[1901..]                   |
 +-----------------------------------------------+-----------------------+---------------------------+
-| | Dates are enclosed in {curly brackets}      | | {YYYY,YYYY,YYYY}    | | {1970,1980,1990}        |
-|                                               |                       |                           |
-| | Separate dates with commas for a list or a  | | {YYYY-MM,YYYY-MM}   | | {1850-07-04,1851-07-04} |
-|  double-dot for a range (same as one of a set)|                       |                           |
+|Please note: since [square brackets] are used for this notation, they  |                           |
+|cannot be used to represent dates added from a source other than the   |                           |
+|item (see :ref:`Comments <date-comments>` for more information)        |                           |
++-----------------------------------------------+-----------------------+---------------------------+
+|*Multiple Dates: Inclusive, separate dates that are not a single range (e.g., 4th of July 1850 and |
+|1851)*                                                                                             |
++-----------------------------------------------+-----------------------+---------------------------+
+|-  Dates are enclosed in {curly brackets}      | | {YYYY,YYYY,YYYY}    | | {1970,1980,1990}        |
+|-  Separate dates with commas for a list or a  |                       |                           |
+|   double-dot for a range (same as one of a    | | {YYYY-MM,YYYY-MM}   | | {1850-07-04,1851-07-04} |
+|   set)                                        |                       |                           |
 |                                               | | {YYYY..YYYY,YYYY}   | | {1939..1945, 2001}      |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Uncertain Dates:* Partially-known or approximate dates                                            |
+|*Uncertain Dates: Partially-known or approximate dates*                                            |
 +-----------------------------------------------+-----------------------+---------------------------+
-|For a single, uncertain date, add a question   |YYYY-MM-DD?            |1958-09?                   |
-|mark at the end                                |                       |                           |
+|-  For a single, uncertain date, add a question|YYYY-MM-DD?            |1958-09?                   |
+|   mark at the end                             |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|If a date is approximate (e.g., "circa" dates),|YYYY-MM-DD~            |1879-03-29~                |
-|add a tilde at the end                         |                       |                           |
+|-  If a date is approximate (e.g., "circa"     |YYYY-MM-DD~            |1879-03-29~                |
+|   dates), add a tilde at the end              |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-| | Any unknown digit can be replaced with "X"  | | YYYX                | | 189X                    |
-|                                               |                       |                           |
-| | A decade can be represented as YYYX         | | YYYY-MX-DD          | | 1924-1X-17              |
-|                                               |                       |                           |
-| | Dates with unknown digits cannot also be    |                       |                           |
+|-  Any unknown digit can be replaced with "X"  | | YYYX                | | 189X                    |
+|-  A decade can be represented as YYYX         |                       |                           |
+|-  Dates with unknown digits cannot also be    | | YYYY-MX-DD          | | 1924-1X-17              |
 |   approximate                                 |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Seasons:* For seasonal dates (such as quarterly publications)                                     | 
+|*Seasons: For seasonal dates (such as quarterly publications)*                                     |
 +-----------------------------------------------+-----------------------+---------------------------+
-|In place of a month, use the season code:      |YYYY-SS                |                           |
+|-  In place of a month, use the season code:   |YYYY-SS                |                           |
 |                                               |                       |                           |
 |  - 21 -- Spring                               |                       | | 1926-21                 |
 |  - 22 -- Summer                               |                       |                           |
 |  - 23 -- Autumn                               |                       | | 1991-23                 |
 |  - 24 -- Winter                               |                       |                           |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*Dates with Timestamps:* Dates with time precision (requires a specific day)                       | 
+|*Dates with Timestamps: Dates with time precision (requires a specific day)*                       |
 +-----------------------------------------------+-----------------------+---------------------------+
-|Separate the date and time with "T"            |YYYY-MM-DDThh:mm:ss    |2008-05-02T15:07:51        |
+|-  Separate the date and time with "T"         |YYYY-MM-DDThh:mm:ss    |2008-05-02T15:07:51        |
 +-----------------------------------------------+-----------------------+---------------------------+
-|*B. C. Dates:* Prehistoric dates (will be year only)                                               | 
+|*B. C. Dates: Prehistoric dates (will be year only)*                                               |
 +-----------------------------------------------+-----------------------+---------------------------+
-| | Add a hyphen at the front of the date       | | -YYYY               | | -0601                   |
-|                                               |                       |                           |
-| | Years must have at least 4 digits           | | -YYYYY              | | -50000                  |
+|-  Add a hyphen at the front of the date       | | -YYYY               | | -0601                   |
+|-  Years must have at least 4 digits           |                       |                           |
+|                                               | | -YYYYY              | | -50000                  |
 +-----------------------------------------------+-----------------------+---------------------------+
    
 \*For more information about implementation of the date standard, see
@@ -202,6 +198,8 @@ If you have dates that are approximate, uncertain, or complicated in
 other ways, it can be difficult to choose the most appropriate
 formatting. This chart is framed for "creation" dates, but applies to
 any kind of date, to help explain which format is best to express a date.
+(For example, :ref:`coverage dates <coverage-date>` would be reflect 
+"If the item is about" rather than "If the item was created.")
 
 
 +---------------------------------------+-------------------------------+-------------------+---------------------------+---------------------------+
@@ -260,7 +258,7 @@ Determining Creation Dates
 
 
 +-----------------------------------------------+-------------------------------------------------------------+
-|Creation date refers to the date of the exact item described in the record, even if it is a derivation:      | 
+|Creation date refers to the date of the exact item described in the record, even if it is a derivation:      |
 +-----------------------------------------------+-------------------------------------------------------------+
 |If the item is a reprint or revision of an     |* Use the date of the reprint/revisions                      |
 |original text:                                 |* Include a note about the original text and printing date   |
@@ -268,7 +266,7 @@ Determining Creation Dates
 +-----------------------------------------------+-------------------------------------------------------------+
 |If the item is a copy negative:                |* Use the date that the *copy negative* was created          |
 |                                               |* The date of the original photographs may be used in        |
-|                                               |  :doc:`coverage </fields/coverage>`                         |
+|                                               |  :ref:`coverage <coverage-date>`                            |
 |                                               |                                                             |
 +-----------------------------------------------+-------------------------------------------------------------+
 |A note about postcards and greeting cards:                                                                   |
@@ -277,10 +275,10 @@ Determining Creation Dates
 |the card:                                      |* Use the date that the photograph or image was made         |
 |                                               |                                                             |
 +-----------------------------------------------+-------------------------------------------------------------+
-|If the card has a letter or message written on/|* The item is treated as a piece of correspondence           |
-|in it:                                         |* Use the date that the card was written/postmarked.         |
+|If the card has a letter or message written    |* The item is treated as a piece of correspondence           |
+|on/in it:                                      |* Use the date that the card was written/postmarked.         |
 |                                               |* If it is important, the date of the picture can be included|
-|                                               |  as part of the :doc:`coverage </fields/coverage>`          |
+|                                               |  as part of the :ref:`coverage <coverage-date>`             |
 |                                               |                                                             |
 +-----------------------------------------------+-------------------------------------------------------------+
 
@@ -289,13 +287,16 @@ Non-Creation Dates
 ==================
 
 -   Use other types of dates only when they are relevant:
+
     -   **Date Harvested** - Date that a web-resource was captured for archival purposes
     -   **Submission Date** - Date that the item was submitted for approval by an organization, institution, or agency
     -   **Acceptance Date** - Date that the item was approved by an organization, institution, or agency
 
 
 -   Submission and acceptance dates are primarily used for patents, but may be used for other items when appropriate
+
     -   For patents, the acceptance/approval date and creation date are the same. This may not be true for all items.
+    
 -   In certain cases, items cannot be made publicly available due to publisher requirements, privacy issues, or other strictures. The **Embargo Until Date** represents the first date that an item will become accessible to the public or a pre-specified user group. It is used in conjuction with an Embargo note.  See also :ref:`Rights Access <rights-access>`
 
 
@@ -366,7 +367,7 @@ Comments
 
             -   Represent a year with an unknown month (YYYY-XX) as a year only: YYYY
             -   Represent a year and month with an unknown day (YYYY-MM-XX) as a year and month only: YYYY-MM
-
+                            
         -   Additionally, the extension allows for ranges to be "unknown" by leaving one side of the range blank vs. "open" using a ".." in place of one date.  Generally, local standards prefer the  "open" option to denote an explicit choice vs. accidental "/" punctuation.
 
 

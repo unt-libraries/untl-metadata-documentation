@@ -155,14 +155,13 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |   d.  Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   e.  Separate hyphenated first names with a hyphenated   |Hsieh, P.-C.                           |
-|       first names with a hyphen instead of a space if only|                                       |
-|       initials are known                                  |                                       |
+|   e.  Separate hyphenated first names with a hyphen       |Hsieh, P.-C.                           |
+|       instead of a space if only initials are known       |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |   f.  Put additional middle names after the first name    |Briscoe, Mary Jane Harris              |
 +-----------------------------------------------------------+---------------------------------------+
-|   g.  Keep hyphenated "last names" and compound surnames  | | Donahue-Smith, James A.             |
-|       together                                            | | Hasanul Basher, A. M.               |
+|   g.  Keep hyphenated "last names" and compound surnames  |-  Donahue-Smith, James A.             |
+|       together                                            |-  Hasanul Basher, A. M.               |
 +-----------------------------------------------------------+---------------------------------------+
 |   h.  Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
 |       of the last name                                    |                                       |
@@ -172,18 +171,18 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   -   Only include known titles (Dr., Rev., Capt., etc.)  |Morris, Mrs. Harry Joseph              |
-|       before the first name if:                           +---------------------------------------+
-|                                                           |Ross, Lieutenant                       |
-|       -   The title is necessary for clarification of the |                                       |
-|           name (e.g., if the given name for a married     |                                       |
-|           woman is unknown)                               |                                       |
-|       -   The title is the only part of the name known    |                                       |
-|           (aside from a surname)                          |                                       |
+|a.   Only include known titles (Dr., Rev., Capt., etc.)    |-  Morris, Mrs. Harry Joseph           |
+|     before the first name if:                             |-  Ross, Lieutenant                    |
+|                                                           |                                       |
+|     -   The title is necessary for clarification of the   |                                       |
+|         name (e.g., if the given name for a married       |                                       |
+|         woman is unknown)                                 |                                       |
+|     -   The title is the only part of the name known      |                                       |
+|         (aside from a surname)                            |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|Include suffixes that are a part of the name (Jr.,         |Roberts, Frank H. H., Jr.              |
-|Sr., etc.) at the end of the name after a second           |                                       |
-|comma                                                      |                                       |
+|b.   Include suffixes that are a part of the name (Jr.,    |Roberts, Frank H. H., Jr.              |
+|     Sr., etc.) at the end of the name after a second      |                                       |
+|     comma                                                 |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Do not include:                                         | | *Name:* Parera, Mahendra            |
 |                                                           | | *Info:* M.B.B.S., Ph.D., M.D.,      |
@@ -192,7 +191,7 @@ Personal Names
 |   -   titles that do not fit the criteria above           |                                       |
 |   -   job or educational qualifiers (C.E., D.D.S., Ph.D., |                                       |
 |       etc.)                                               |                                       |
-|                                                           +---------------------------------------+
++-----------------------------------------------------------+---------------------------------------+
 |-  Some common historical personal name abbreviations:     | | *Name:* James, Thomas Leroy         |
 |                                                           | | *Info:* Thos. L. James              |
 |   -   Chas. = Charles                                     |                                       |
@@ -211,9 +210,9 @@ Personal Names
 |       record                                              |                                       |
 |   -   Use the fullest form of the name that is available  |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If the name changes and it is *certainly* the same      |*Name:* Gaines, Ann                    |
-|   person:                                                 +---------------------------------------+
-|                                                           |*Info:* Ann Sanders                    |
+|-  If the name changes and it is *certainly* the same      | | *Name:* Gaines, Ann                 |
+|   person:                                                 | | *Info:* Ann Sanders                 |
+|                                                           |                                       |
 |   -   Use the later/most current version                  |                                       |
 |   -   Include the former name in the info section if that |                                       |
 |       version is used in the text                         |                                       |
@@ -360,7 +359,7 @@ Entering Roles
 |If the role is not listed:                                                                         |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Choose "Other"                                          | | *Name:* Phillips, Nelson            |
-|-  Include Clarification in the "Info" section             | | *Role:* Other                       |
+|-  Include clarification in the "Info" section             | | *Role:* Other                       |
 |                                                           | | *Info:* Speaker; Associate Justice  |
 |                                                           |   or the Supreme Court                |
 +-----------------------------------------------------------+---------------------------------------+
@@ -368,7 +367,7 @@ Entering Roles
 +-----------------------------------------------------------+---------------------------------------+
 |-  Choose the primary or most encompassing role (or the one| | *Name:* Harden, Leland              |
 |   listed first                                            | | *Role:* Editor                      |
-|-   Explain the details in the info section                | | *Info:* Executive Editor; Sponsor   |
+|-  Explain the details in the info section                 | | *Info:* Executive Editor; Sponsor   |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -404,9 +403,9 @@ Assigning Roles
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |               |executive director of an agency with a described or        |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
 |               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               | | *Type:* Personal                       |
-|               |                                                           |(or another        |               | | *Role:* Author of introduction, etc.   |
-|               |                                                           |appropriate role)  |               | | *Info:* Director of Building           |
-|               |                                                           |                   |               |   Inspections                            |
+|               |                                                           |                   |               | | *Role:* Author of introduction, etc.   |
+|               |                                                           |(or another        |               | | *Info:* Director of Building           |
+|               |                                                           |appropriate role)  |               |   Inspections                            |
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |"Performer"    |-  musician in a recital or concert                        |Performer          |Creator        | | *Name:* North Texas Wind Symphony      |
 |               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
@@ -426,7 +425,7 @@ Assigning Roles
 |               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
 |               |                                                           |                   |               |   Appomattox, VA)                        |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |-  a consultant who provide information as a contribution  |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
+|               |-  a consultant who provided information as a contribution |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
 |               |   to a report                                             |                   |               | | *Type:* Personal                       |
 |               |-  a consultant who spoke during recorded/transcribed      |                   |               | | *Role:* Consultant                     |
 |               |   proceedings (could also be an "expert" or "witness"     |                   |               | | *Info:* State of Texas Professional    |
@@ -452,34 +451,33 @@ Creator Info
 |-  Include information that clarifies the role of the      |Co-Editor                              |
 |   creator                                                 |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Include other relevant information known about the      |Geo. S. Anderson                       |
-|   creator that relates to the object, such as:            +---------------------------------------+
-|                                                           |1906-2005                              |
-|   -   Additional forms of the creator's name              +---------------------------------------+
-|   -   Addresses                                           |Ph.D.; Texas A &amp; M University Real |
-|   -   Birth and death dates (not part of an authorized    |Estate Center                          |
-|       name)                                               +---------------------------------------+
-|   -   Organizational affiliations                         |"By his son, the late Wilson Gregg" (d.|
-|   -   Other information associated with the name          |1899)                                  |
+|-  Include other relevant information known about the      |-  Geo. S. Anderson                    |
+|   creator that relates to the object, such as:            |-  1906-2005                           |
+|                                                           |-  Ph.D.; Texas A &amp; M University   |
+|   -   Additional forms of the creator's name              |   Real Estate Center                  |
+|   -   Addresses                                           |-  "By his son, the late Wilson Gregg" |
+|   -   Birth and death dates (not part of an authorized    |   (d. 1899)                           |
+|       name)                                               |                                       |
+|   -   Organizational affiliations                         |                                       |
+|   -   Other information associated with the name          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  For an agency, the info may include:                    |LLNL                                   |
-|                                                           |                                       |
-|   -   Persons associated with the organization who did not+---------------------------------------+
-|       have another role (e.g., directors)                 |U.S. Department of Agriculture, Office |
-|   -   Acronyms, abbreviations, or alternative name forms  |of Experiment Stations; W. O. Atwater, |
-|   -   Additional omitted hierarchical components (e.g.,   |Director                               |
+|-  For an agency, the info may include:                    |-  LLNL                                |
+|                                                           |-  U.S. Department of Agriculture,     |
+|   -   Persons associated with the organization who did not|   Office of Experiment Stations; W. O.|
+|       have another role (e.g., directors)                 |   Atwater, Director                   |
+|   -   Acronyms, abbreviations, or alternative name forms  |                                       |
+|   -   Additional omitted hierarchical components (e.g.,   |                                       |
 |       for some federal agencies)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  There are no strict formatting requirements for info,   |California Univ., Berkeley, CA (United |
-|   but here are some suggestions:                          |States). Dept. of Geology and          |
-|                                                           |Geophysics Lawrence Berkeley Lab., CA  |
-|   -   List each name, fact, or statement individually and |(United States)                        |
-|       separate them with semicolons or periods            +---------------------------------------+
-|   -   Use sentence form when relevant, or when taken      |Freegift Vandervoort, of Carrizo       |
-|       directly from the item                              |Springs, Texas ; F. Vandervoort        |
-|   -   Quotation marks may be used when quoting information+---------------------------------------+
-|       directly from the item                              |"Member of the Association of American |
-|                                                           |Directory Publishers"                  |
+|-  There are no strict formatting requirements for info,   |-  California Univ., Berkeley, CA      |
+|   but here are some suggestions:                          |   (United States). Dept. of Geology   |
+|                                                           |   and Geophysics Lawrence Berkeley    |
+|   -   List each name, fact, or statement individually and |   Lab., CA (United States)            |
+|       separate them with semicolons or periods            |-  Freegift Vandervoort, of Carrizo    |
+|   -   Use sentence form when relevant, or when taken      |   Springs, Texas ; F. Vandervoort     |
+|       directly from the item                              |-  Member of the Association of        |
+|   -   Quotation marks may be used when quoting information|   American Directory Publishers"      |
+|       directly from the item                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -489,13 +487,13 @@ Creator Info
 Other Examples:
 ***************
 
-Book
+**Book**
 
     -   *Name:* Farrar, R. M.
     -   *Type:* Personal
     -   *Role:* Author
 
-Yearbook
+**Yearbook**
 
     -   *Name:* North Texas Laboratory School
     -   *Type:* Organization
@@ -515,7 +513,7 @@ Yearbook
     -   *Role:* Editor
     -   *Information:* Co-Editor
 
-Genealogical newsletter
+**Genealogical newsletter**
 
     -   *Name:* Texas State Genealogical Society
     -   *Type:* Organization
@@ -527,7 +525,7 @@ Genealogical newsletter
     -   *Type:* Personal
     -   *Role:* Editor
 
-Atlas
+**Atlas**
 
     -   *Name:* Geological Survey (U.S.)
     -   *Type:* Organization
@@ -541,21 +539,21 @@ Atlas
     -   *Role:* Author
     -   *Information:* Capt. Clarence E. Dutton U.S.A. - Author of "Tertiary History of the Grand Canon District"
 
-Collection of legal papers
+**Collection of legal papers**
 
     -   *Name:* Blades, J. R.
     -   *Type:* Personal
     -   *Role:* Compiler
     -   *Information:* Clerk, District Court, Henderson County
 
-Painting
+**Painting**
 
     -   *Name:* Seurat, Georges, 1859-1891
     -   *Type:* Personal
     -   *Role:* Artist
     -   *Information:* French
 
-Research report
+**Research report**
 
     -   *Name:* Moris, Marlene C.
     -   *Type:* Personal
@@ -604,40 +602,40 @@ Research report
     -   *Role:* Author
     -   *Information:* National Measurement Laboratory, National Bureau of Standards, Washington D.C.
 
-Map
+**Map**
 
     -   *Name:* Hill, Robert Thomas, 1858-1941
     -   *Type:* Personal
     -   *Role:* Cartographer
     -   *Information:* "By Robert T. Hill"
 
-Opera score
+**Opera score**
 
     -   *Name:* Smith, Julia, 1905-1989
     -   *Type:* Personal
     -   *Role:* Composer
     -   *Information:* Music by Julia Smith
 
-Laws of Texas
+**Laws of Texas**
 
     -    *Name:* Texas (Republic). Secretary of State.
     -    *Type:* Organization
     -    *Role:* Compiler
 
-City directory
+**City directory**
 
     -   *Name:* Morrison & Fourmy Directory Co.
     -   *Type:* Organization
     -   *Role:* Compiler
     -   *Information:* Compilers, Publishers and Proprietors
 
-Committee report
+**Committee report**
 
     -   *Name:* Texas. Legislature. House of Representatives. Committee on Business and Industry.
     -   *Type:* Organization
     -   *Role:* Author
 
-Photograph
+**Photograph**
 
     -   *Name:* Dallas (Tex.). Police Department.
     -   *Type:* Organization
@@ -690,5 +688,5 @@ Resources
 
 **More Guidelines:**
 
--   `Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
