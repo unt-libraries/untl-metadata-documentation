@@ -20,8 +20,8 @@ How Content Description Works in the Metadata Form
    :alt: Screenshot of description element in metadata editing system.
 
 Parts:
-   Description type -- drop-down menu
-   Description -- text field
+   #. Description type -- drop-down menu
+   #. Description -- text field
 
 Repeatable?
     Yes - clicking 'Add' repeats all field parts; there should only be two description fields (one for content and one for physical description)
@@ -31,7 +31,9 @@ Required?
 
 
 
-*Note:* Given the significant differences for entering description information, guidance sections are repeated separately for `content descriptions <description-content>` and `physical descriptions <description-physical>` below.
+*Note:* Given the significant differences for entering description information, guidance sections are repeated separately for 
+:ref:`content descriptions <description-content>` and :ref:`physical descriptions <description-physical>` below.
+
 
 .. _description-content:
 
@@ -44,7 +46,8 @@ Element Name: Content Description
 Where Can the Content Description Information be Found?
 =======================================================
 
-In some cases a content description may come from accompanying or supplementary information; however, generally, the item must be read/examined to describe the content, such as:
+In some cases a content description may come from accompanying or supplementary information; 
+however, generally, the item must be read/examined to describe the content, such as:
 
 +-------------------------------------------+---------------------------------------------+
 |**Item Type**                              |**Information Sources**                      |
@@ -92,7 +95,7 @@ How Should the Content Description be Filled in?
 -   Describe the subject matter of the item
 -   Use complete sentences with proper grammar and punctuation
 -   Avoid any commentary on or interpretation of the item being
-    described (unless quoting directly, a description should never include "I" or "we" statements)
+    described (e.g., unless quoting directly, a description should never include "I" or "we" statements)
 
 
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
@@ -168,15 +171,14 @@ Other suggestions:
 |                                                                               |providing and maintaining an excellent park system; and to         |
 |                                                                               |improving hunting and fishing in Texas" (p. 2).                    |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|If the text has an index, include a statement at the end of the description    |Index starts on page 254.                                          |
-|                                                                               +-------------------------------------------------------------------+
-|                                                                               |Index starts after page 18.                                        |
+|If the text has an index, include a statement at the end of the description    |-  Index starts on page 254.                                       |
+|                                                                               |-  Index starts after page 18.                                     |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |When referring to a company, organization, school, military installation, etc.,|Photograph of the central stairs inside the North Texas State      |
 |the abbreviated version of the name can be used, but the full name must appear |University A. M. Willis, Jr. Library. The photograph was taken on  |
 |at least once in the record (preferably the content description or as a        |the first floor looking up at the second.                          |
-|[keyword][]                                                                    +-------------------------------------------------------------------+
-|                                                                               |*Description:* Postcard of buildings at Ft. McIntosh.              |
+|:ref:`keyword <subject-keywords>`                                              +-------------------------------------------------------------------+
+|                                                                               |*Description:* Postcard of buildings at Ft. McIntosh. [...]        |
 |                                                                               |                                                                   |
 |                                                                               |*Keyword:* Fort McIntosh                                           |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
@@ -201,8 +203,8 @@ Other suggestions:
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |-  It is not necessary to research the item unless outside information is      |*Display Note:* The chautauqua movement was a "popular U.S.        |
 |   required to understand or locate the item                                   |movement in adult education that flourished during the late 19th   |
-|-  Put information from research in a [display note][] instead of the          |and early 20th centuries...At first entirely religious in nature,  |
-|   description if it is important to understand the item                       |the program was gradually broadened to include general education,  |
+|-  Put information from research in a :ref:`display note <note-display>`       |and early 20th centuries...At first entirely religious in nature,  |
+|   instead of the description if it is important to understand the item        |the program was gradually broadened to include general education,  |
 |-  Cite any source that you reference                                          |recreation, and popular entertainment" - from Encyclopedia         |
 |                                                                               |Britannica                                                         |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
@@ -319,22 +321,24 @@ How Should the Physical Description be Filled in?
 Books, pamphlets, and printed sheets
 ------------------------------------
 
+
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
 |extent = number of pages of content                                                                                          |
 +-------------------------------------------------------------------------------+---------------------------------------------+
-|                                                                               |30 p.                                        |
-| - total numbered pages                                                        |                                             |
-| - different sequential pagination (e.g., Roman numbers, numbers, etc.) can be |iv, 320 p.                                   |
-|   separated by commas in the order that they appear                           |                                             |
-| - if the item does not have page number, the total pages of content can be    |A-M p.                                       |
-|   included in [brackets]                                                      |                                             |
-| - numbered pages that do not start at "one" may be expressed as a range (see  |[41 p.]                                      |
-|   [citation][] when this applies to serials with continuous pagination); for  |                                             |
-| - folded pamphlets may be described as "1 pamphlet" with an option to include |182-536 p.                                   |
-|   the number of pages in parentheses (e.g., if there are numbered panels or   |                                             |
-|   pages rather than a single folded sheet)                                    |1 pamphlet (12 p.)                           |
+|-  total numbered pages                                                        |30 p.                                        |
+|-  different kinds of pagination (e.g., Roman numbers, numbers, etc.) can be   |                                             |
+|   separated by commas in the order that they appear                           |iv, 320 p.                                   |
+|-  if the item does not have page numbers, the total pages of content can be   |                                             |
+|   included in [brackets]                                                      |A-M p.                                       |
+|                                                                               |                                             |
+|   -   also see :doc:`citation </fields/citation>` when this applies to serials|[41 p.]                                      |
+|       with continuous pagination                                              |                                             |
+|                                                                               |182-536 p.                                   |
+|-  folded pamphlets may be described as "1 pamphlet" with an option to include |                                             |
+|   the number of pages in parentheses (e.g., if there are numbered panels or   |1 pamphlet (12 p.)                           |
+|   pages rather than a single folded sheet)                                    |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |physical details = illustrations within the text, including photographs                                                      |
 +-------------------------------------------------------------------------------+---------------------------------------------+
@@ -343,7 +347,7 @@ Books, pamphlets, and printed sheets
 | - significant illustrations can be listed alphabetically by type as they      |: ill. (some col.)                           |
 |   apply, separated by commas: coats of arms, facsims. (facsimilies), forms,   |                                             |
 |   genealogical tables, maps, music, plans, ports. (portraits) -- note that    |: maps, ports.                               |
-|   [LC Genre/Form Terms][] may also be helpful for searching                   |                                             |
+|   :ref:`LC Genre/Form Terms <subject-lcgft>` may also be helpful for searching|                                             |
 | - if the item is entirely or mostly illustrations: "all [ill. or type]" or    |: ill., col. maps                            |
 |   "chiefly [ill. or type]"                                                    |                                             |
 |                                                                               |: all ill.                                   |
@@ -373,7 +377,7 @@ Books, pamphlets, and printed sheets
 (If the text is not illustrated and the dimensions are unknown, only the number of pages will be in the description.)
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 .. _description-photos:
 
@@ -418,8 +422,8 @@ Photographs and other "graphic" materials
 |                                                                               |; 10 x 8 in.                                 |
 |**Exceptions:**                                                                |                                             |
 |                                                                               |; 1648 x 2464 px.                            |
-| - for [standard photograph sizes][] (as defined in the Comments section), use |                                             |
-|   "in." or "mm." as the units                                                 |; 13 x 21 cm., on mat 22 x 27 cm.            |
+| - for :ref:`standard photograph sizes <description-comments>` (as defined in  |                                             |
+|   the Comments section), use "in." or "mm." as the units                      |; 13 x 21 cm., on mat 22 x 27 cm.            |
 | - if the standard size includes fractions, include the decimals, but do not   |                                             |
 |   use ".0" for numbers that are not fractions, or decimals for any other sizes|; 17 x 22 cm., in frame 21 x 26 cm.          |
 | - for born-digital images only, provide the size in pixels (px.) when known   |                                             |
@@ -442,7 +446,7 @@ Photographs and other "graphic" materials
 (In some cases, particularly with born-digital photographs, the dimensions may not be known.)
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 .. _description-maps:
 
@@ -493,7 +497,7 @@ Maps and other cartographic materials
 - 1 atlas (30 p.) : some col. ; 52 cm.
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 .. _description-manuscripts:
 
@@ -536,7 +540,7 @@ Manuscripts (maps, musical scores, and other documents that are handwritten)
 - 60 p. ; 26 cm.
 - [3] p. : parchment ; 29 cm., folded to 12 x 22 cm.
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 
 .. _description-music:
@@ -572,7 +576,7 @@ Music
 - 1 vocal part (3 p.) ; 28 cm.
 - 1 score : ill. ; 41 cm.
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 
 .. _description-sound:
@@ -619,7 +623,7 @@ Sound recordings
 - 1 recording (1 hr., 3 min., 50 sec.) : digital
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 
 .. _description-video:
@@ -671,7 +675,7 @@ Motion pictures and videorecordings
 - 1 recording (30 min., 9 sec.) : sd., col. ; digital
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 .. _description-3d:
 
@@ -694,10 +698,10 @@ Three-dimensional objects
 |physical details = materials & colors                                                                                        |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |- include known details, separated by commas:                                  |: clay                                       |
-|- [1] material                                                                 |                                             |
-|- [2] information about color, when important -- list up to two specific colors|: balsa wood and paper                       |
-|  (for items using 1-2 colors) or use "col." for more colors                   |                                             |
-|                                                                               |: glass, col.                                |
+|                                                                               |                                             |
+|  #. material                                                                  |: balsa wood and paper                       |
+|  #. information about color, when important -- list up to two specific colors |                                             |
+|     (for items using 1-2 colors) or use "col." for more colors                |: glass, col.                                |
 |                                                                               |                                             |
 |                                                                               |: porcelain, green and white                 |
 |                                                                               |                                             |
@@ -726,7 +730,7 @@ Three-dimensional objects
 - ca. 64 marbles : ceramic
 
 
-Also see `Other Examples <description-pexamples>`.
+Also see :ref:`Other Examples <description-pexamples>`.
 
 .. _description-accompany:
 
@@ -781,7 +785,7 @@ Photograph: Cattle
    *Physical Description:* 1 map : col. ; 26 x 36 cm.
 
 Recueil d'opera
-   *Physical Description:* 1 ms. vocal score (\[318\] p.) : ill. ; 38 cm.
+   *Physical Description:* 1 ms. vocal score ([318] p.) : ill. ; 38 cm.
 
 Forget Not These Children
    *Physical Description:* 1 film (18 min.) : col. ; 16 mm.
@@ -793,15 +797,9 @@ Color slide: [Sydney Harbour and Opera House]
    *Physical Description:* 1 photograph : positive, col. ; 35 mm.
 
 Scrapbook pages (depending on content)
-   *Physical Description:* 1 scrapbook page ; 33 x 26 cm.
-
-|
-
-   *Physical Description:* 4 photographs : b&w ; 14 x 8 cm., or smaller, on page 35 x 24 cm.
-
-|
-
-   *Physical Description:* 1 clipping : ill. ; 19 x 10 cm., on sheet 28 x 22 cm.
+   -    *Physical Description:* 1 scrapbook page ; 33 x 26 cm.
+   -    *Physical Description:* 4 photographs : b&w ; 14 x 8 cm., or smaller, on page 35 x 24 cm.
+   -    *Physical Description:* 1 clipping : ill. ; 19 x 10 cm., on sheet 28 x 22 cm.
 
 Newsletter with continuous pagination
    *Physical Description:* 137-181, iii p. ; 28 cm.
@@ -821,7 +819,7 @@ Brochure: Coleto Creek Park and Reservoir
 Comments
 ********
 
--   For format (text, image, etc.), use the [Format][] element.
+-   For format (text, image, etc.), use the :doc:`Format </fields/format>` element.
 -   Since the physical description element corresponds to the [300]
     field in the MARC records used by many library catalogs, it is
     recommended to follow AACR2 rules, when possible/applicable.
@@ -860,10 +858,9 @@ Comments
 |                            |                                             |
 |                            |8 x 10 in.                                   |
 +----------------------------+---------------------------------------------+
-    
-    
 
-([Back][] to photograph physical description rules.)
+
+(:ref:`Back <description-photos>` to photograph physical description rules.)
 
 .. _description-resources:
 
@@ -872,16 +869,6 @@ Resources
 *********
 
 **More Guidelines:**
+
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
-
-[more information]: https://library.unt.edu/digital-projects-unit/metadata/minimally-viable-records/
-[Other Examples]: #other-physical-description-examples
-[1]: #other-physical-description-examples
-[Format]: https://library.unt.edu/digital-projects-unit/metadata/fields/format/
-[Back]: #photographs-and-other-graphic-materials
-[Quick-Start Metadata Guide]: https://library.unt.edu/digital-projects-unit/metadata/quick-start-guide/
-[Input Guidelines for Descriptive Metadata]: https://library.unt.edu/digital-projects-unit/metadata/input-guidelines-descriptive/
-[Metadata Home]: https://library.unt.edu/digital-projects-unit/metadata/
-[content descriptions]: #element-name-content-description
-[physical descriptions]: #element-name-physical-description

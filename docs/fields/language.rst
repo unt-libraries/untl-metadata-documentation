@@ -80,30 +80,28 @@ How Should the Language be Filled in?
 |-  Choose the appropriate language(s) from the `controlled                 |eng - English                          |
 |   vocabulary <https://digital2.library.unt.edu/vocabularies/languages/>`_ |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  Include all relevant languages                                          |spa - Spanish                          |
-|                                                                           +---------------------------------------+
-|   -   (do not include languages that are merely referenced or only appear |ger - German                           |
+|-  Include all relevant languages                                          |-  spa - Spanish                       |
+|                                                                           |-  ger - German                        |
+|   -   (do not include languages that are merely referenced or only appear |                                       |
 |       as single words of text in another language)                        |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
 |-  For visual images that do not have a textual caption or text within the |nol - No Language                      |
 |   image, choose "no language"                                             |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  If there are special circumstances or additional information about the  |eng - English                          |
-|   language uses of the item, include it in the :doc: `note <note>` field  +---------------------------------------+
-|   of :doc: `description <description>` field, as appropriate              |spa - Spanish                          |
-|                                                                           +---------------------------------------+
-|                                                                           |*Note:* Book is printed in two         |
-|                                                                           |sections, the first is Spanish and the |
-|                                                                           |second is the English translation      |
+|-  If there are special circumstances or additional information about the  |-  eng - English                       |
+|   language uses of the item, include it in the :doc: `note <note>` field  |-  spa - Spanish                       |
+|   of :doc: `description <description>` field, as appropriate              |-  *Note:* Book is printed in two      |
+|                                                                           |   sections, the first is Spanish and  |
+|                                                                           |   the second is the English           |
+|                                                                           |   translation                         |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  If the only text on the item consists of persons' names, choose "no     |nol - No Language                      |
-|   language" and the text can be described in the `content description     +---------------------------------------+
-|   <description-content>` or a `display note <note-display>`               |*Note:* The name "Bartimaeus" is carved|
-|                                                                           |into the top of the box.               |
+|-  If the only text on the item consists of persons' names, choose "no     |-  nol - No Language                   |
+|   language" and the text can be described in the :ref:`content description|-  *Note:* The name "Bartimaeus" is    |
+|   <description-content>` or a :ref:`display note <note-display>`          |   carved into the top of the box.     |
 +---------------------------------------------------------------------------+---------------------------------------+
 |-  If the language of the item is not on the controlled vocabulary list (or|oth - Other                            |
 |   cannot be determined from available resources), choose "other" and      +---------------------------------------+
-|   include a `display note <note-display>` in the record                   |*Note:* Language is unknown.           |
+|   include a :ref:`display note <note-display>` in the record              |*Note:* Language is unknown.           |
 |-  Notify the `metadata administrators                                     +---------------------------------------+
 |   <https://library.unt.edu/digital-projects-unit/contacts/>`_ if the      |*Note:* Text is in the Kutenai Indian  |
 |   language is not on the list                                             |language.                              |
@@ -136,23 +134,23 @@ Audio recording of testimony in Czech and German
    *Language:* ger - German
 
 Video in Hebrew with English subtitles
-   *Language:* heb - Hebrew
-   *Language:* eng - English
-   *Note:* Performed in Hebrew with English subtitles.
+   - *Language:* heb - Hebrew
+   - *Language:* eng - English
+   - *Note:* Performed in Hebrew with English subtitles.
 
 Article in Amharic with English translations
-   *Language:* oth - Other
-   *Language:* eng - English
-   *Note:* In Amharic with English translations in parallel columns.
+   - *Language:* oth - Other
+   - *Language:* eng - English
+   - *Note:* In Amharic with English translations in parallel columns.
 
 Proceedings and abstracts in English and Spanish
-   *Language:* eng - English
-   *Language:* spa - Spanish
-   *Note:* Papers presented in Spanish or English with abstracts in English.
+   - *Language:* eng - English
+   - *Language:* spa - Spanish
+   - *Note:* Papers presented in Spanish or English with abstracts in English.
 
 Recording of a music recital sung in Italian and French
-   *Language:* fre - French
-   *Language:* ita - Italian
+   - *Language:* fre - French
+   - *Language:* ita - Italian
 
 
 .. _language-comments:

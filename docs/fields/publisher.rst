@@ -40,9 +40,9 @@ How Publisher Works in the Metadata Form
    :alt: Screenshot of publisher element in metadata editing system.
 
 Parts:
-    Publisher name -- text field
-    Publisher location -- text field
-    Publisher information -- text field
+    #. Publisher name -- text field
+    #. Publisher location -- text field
+    #. Publisher information -- text field
 
 Repeatable?
 	Yes - to include multiple publishers, click 'Add' to repeat all field parts
@@ -115,11 +115,11 @@ Publisher Names
 +-----------------------------------------------------------+---------------------------------------+
 |For United States agencies:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Spell out "United States" unless there is an authorized |[United States.] Army Information      |
-|   version that abbreviates it                             |Branch.                                |
-|                                                           +---------------------------------------+
-|                                                           |United States. Department of Commerce. |
-|                                                           |Office of Technical Services.          |
+|-  Spell out "United States" unless there is an authorized |-  [United States.] Army Information   |
+|   version that abbreviates it                             |   Branch.                             |
+|                                                           |-  United States. Department of        |
+|                                                           |   Commerce. Office of Technical       |
+|                                                           |   Services.                           |
 +-----------------------------------------------------------+---------------------------------------+
 |-  In the case of a long (well-known) name, it may be      |United States. Central Intelligence    |
 |   shortened by eliminating unnecessary parts              |Agency.                                |

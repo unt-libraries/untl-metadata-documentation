@@ -34,9 +34,9 @@ How Primary Source Works in the Metadata Form
    :alt: Screenshot of primary source element in metadata editing system.
 
 Parts:
-	N/A -- radio button
-	Yes -- radio button
-	No -- radio button
+	#. N/A -- radio button
+	#. Yes -- radio button
+	#. No -- radio button
 
 Repeatable?
     No
@@ -56,7 +56,7 @@ How Should the Primary Source be Filled in?
 -   If the resource is not a primary source, click the radio button
     marked "No"
 -   If the item contains components that are both primary and secondary,
-    choose "No" and include a :doc: `note </note>`
+    choose "No" and include a :doc:`note </fields/note>`
 -   If it is unclear whether the item is a primary source or if it
     cannot be determined, choose the radio button marked "N/A" (not
     applicable)
@@ -116,7 +116,7 @@ Other Examples:
 Comments
 ********
 
--   To describe the category of the resource, use the :doc: `Resource Type </type>` element.
+-   To describe the category of the resource, use the :doc:`Resource Type </fields/type>` element.
 
 
 

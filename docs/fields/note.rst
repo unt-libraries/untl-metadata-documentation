@@ -66,26 +66,24 @@ General (Display) Note
 |-      As appropriate, include a contextual statement to clarify the           |                                                |
 |       information source                                                      |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Put information in quotations when it is copied directly from the source|"Issued May 11, 1918."                          |
-|                                                                               +------------------------------------------------+
-|                                                                               |Text at top of map: "A three-mile breakwater,   |
-|                                                                               |seventeen feet above mean low tide, sixteen feet|
-|                                                                               |at the base and five feet at top."              |
+|-      Put information in quotations when it is copied directly from the source|-  "Issued May 11, 1918."                       |
+|                                                                               |-  Text at top of map: "A three-mile breakwater,|
+|                                                                               |   seventeen feet above mean low tide, sixteen  |
+|                                                                               |   feet at the base and five feet at top."      |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Include Roman numerals from the title                                   |"Vol. IV."                                      |
-|                                                                               +------------------------------------------------+
-|(Also see [Serials and Series][] regarding normalized titles.)                 |"Vol. II, No. 3."                               |
+|-      Include Roman numerals from the title                                   |-  "Vol. IV."                                   |
+|                                                                               |-  "Vol. II, No. 3."                            |
+|(Also see :doc:`Serials and Series </guides/serials>` regarding normalized     |                                                |
+|titles.)                                                                       |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Include notes about non-standard or inconsistent page numbers, missing  |The original document is missing pages 15 and   |
-|       pages or other oddities                                                 |16.                                             |
-|                                                                               +------------------------------------------------+
-|                                                                               |"Volume LXX" on title page is a misprint.  It   |
-|                                                                               |should be "Volume LXXI."                        |
+|-      Include notes about non-standard or inconsistent page numbers, missing  |-  The original document is missing pages 15 and|
+|       pages or other oddities                                                 |   16.                                          |
+|                                                                               |-  "Volume LXX" on title page is a misprint.  It|
+|                                                                               |   should be "Volume LXXI."                     |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      When relevant, include accompanying information that may have come from |"S1-JR-41" written on sleeve.                   |
-|       another source or physical container, e.g., text written on the sleeve  +------------------------------------------------+
-|       of a negative                                                           |Accompanying information: "Tractor given to him |
-|                                                                               |by Mrs. Dick Mitchell."                         |
+|-      When relevant, include accompanying information that may have come from |-   "S1-JR-41" written on sleeve.               |
+|       another source or physical container, e.g., text written on the sleeve  |-   Accompanying information: "Tractor given to |
+|       of a negative                                                           |    him by Mrs. Dick Mitchell."                 |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |-      It might be useful to include background information that relates to the|Additional historical context: The Tower of     |
 |       item that is not directly part of the content, e.g.:                    |Americas was constructed for the World's Fair of|
@@ -139,8 +137,7 @@ Display Notes
 -   "Volume II."
 -   Pages numbered consecutively though each volume.
 -   A related image is available in the Portal at 4.0084c.
--   Earlier images of this site are available in Mr. Goin's collection
-    at 4.0123a and 6.0018b.
+-   Earlier images of this site are available in Mr. Goin's collection at 4.0123a and 6.0018b.
 -   Distributed to some depository libraries in microfiche.
 -   At head of title: Committee print.
 -   Does not show western Texas beyond 7 miles west of San Antonio.
@@ -162,5 +159,6 @@ Resources
 *********
 
 **More Guidelines:**
+
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

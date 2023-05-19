@@ -17,7 +17,7 @@ The type or category of the primary content of the resource
 Where Can the Resource Type Information be Found?
 *************************************************
 
-Resource tpe is determined by examining the physical item
+Resource type is determined by examining the physical item
 
 
 .. _type-form:
@@ -36,7 +36,7 @@ Repeatable?
     No
 
 Required?
-	 Yes - also see (:doc:`more information </minimally-viable-records>`) about required field
+	 Yes - also see (:doc:`more information </minimally-viable-records>`) about required fields
 
 	 
 .. _type-fill:
@@ -45,29 +45,28 @@ Required?
 How Should the Resource Type be Filled in?
 ******************************************
 
-+-----------------------------------------------------------------------+---------------------------------------+
-| **Guideline**                                                         | **Examples**                          |
-+=======================================================================+=======================================+
-|Select the correct resource type from the `controlled vocabulary       |image_score - Musical Score/Notation   |
-|<https://digital2.library.unt.edu/vocabularies/resource-types/>`_      |                                       |
-+-----------------------------------------------------------------------+---------------------------------------+
-|Use the most specific resource type that is relevant                   |image_photo - Photograph (not "image") |
-|                                                                       +---------------------------------------+
-|                                                                       |text_letter - Letter (not "text")      |
-+-----------------------------------------------------------------------+---------------------------------------+
-|If the particular kind of resource is not on the list, use a generic   |image - Image                          |
-|type                                                                   +---------------------------------------+
-|                                                                       |text - Text                            |
-+-----------------------------------------------------------------------+---------------------------------------+
++-----------------------------------------------------------------------+----------------------------------------+
+| **Guideline**                                                         | **Examples**                           |
++=======================================================================+========================================+
+|Select the correct resource type from the `controlled vocabulary       |image_score - Musical Score/Notation    |
+|<https://digital2.library.unt.edu/vocabularies/resource-types/>`_      |                                        |
++-----------------------------------------------------------------------+----------------------------------------+
+|Use the most specific resource type that is relevant                   |- image_photo - Photograph (not "image")|
+|                                                                       |- text_letter - Letter (not "text")     |
++-----------------------------------------------------------------------+----------------------------------------+
+|If the particular kind of resource is not on the list, use a generic   |- image - Image                         |
+|type                                                                   |- text - Text                           |
++-----------------------------------------------------------------------+----------------------------------------+
 
 
 **If it is difficult to determine the resource type:**
 
-1.  Check the glossary (in the `Comments <type-comments>` section) for clarification.
+1.  Check the glossary (in the :ref:`Comments <type-comments>` section) for clarification.
 2.  Consider whether it fits one of these scenarios:
 
     -   Page images of textual items should be entered as "Text" not "Image"
     -   A series of negatives/photographs should be entered as "Photograph"
+    
 3.  A page with both text and images should be entered based on which
     portion is most dominant or important, i.e.,
     

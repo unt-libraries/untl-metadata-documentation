@@ -21,7 +21,7 @@ source in one investigation and secondary in another. The search for
 primary sources does not, therefore, automatically include or exclude
 any category of records or documents.
 
---<www.library.yale.edu>
+-- `<www.library.yale.edu>`_
 
 "By a 'source' the historian means material that is contemporary to the
 events being examined. Such sources include, among other things,
@@ -35,7 +35,7 @@ novice historian to lose Brownie points among his serious-minded fellows
 is to call a biography of George Washington or an analysis of the Magna
 Charta a 'source'."
 
---Robin Winks, *The historian as detective; essays on evidence* (New
+-- Robin Winks, *The historian as detective; essays on evidence* (New
 York: Harper & Row, 1969), p.xx.
 
 "A primary source gives the words of the witnesses or the first
@@ -46,16 +46,16 @@ between primary and secondary sources is often indistinct, for example,
 a single document may be a primary source on some matter and a secondary
 source on others."
 
---Helen J. Poulton, *The historian's handbook* (Norman, OK: University
+-- Helen J. Poulton, *The historian's handbook* (Norman, OK: University
 of Oklahoma Press, 1972), p.175-76.
 
 "A primary source is distinguished from a secondary by the fact that the
-former gives the words of the witnesses or first recorders of an event
--- for example, the diaries of Count Ciano written under Mussolini's
+former gives the words of the witnesses or first recorders of an event -- for 
+example, the diaries of Count Ciano written under Mussolini's
 regime. The researcher, using a number of such primary sources, produces
-a secondary source ."
+a secondary source."
 
---Jacques Barzun, *The modern researcher* . Fifth edition (Boston:
+-- Jacques Barzun, *The modern researcher*. Fifth edition (Boston:
 Houghton Mifflin, 1992), p.114 note.
 
 "Primary sources are manuscripts, first-person diaries, oral histories,
@@ -72,7 +72,7 @@ Educators must understand how to work with these ambiguities and help
 students construct the context for deeper understandings. This can be
 done even with very young children."
 
---Susan H. Veccia, *Uncovering our history: teaching with primary
+-- Susan H. Veccia, *Uncovering our history: teaching with primary
 sources*. (Chicago: American Library Association, 2004), p. 3.
 
 **Return to:**
