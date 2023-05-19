@@ -6,7 +6,7 @@ UNTL Metadata Quick Start Guide
 Introduction
 ************
 
-If you’re new to metadata or to the UNT Libraries (UNTL) system, this document gives a brief overview of the guidelines for records in the UNT Libraries’ Digital Collections. 
+If you’re new to metadata or to the UNT Libraries (UNTL) system, this document gives a brief overview of the guidelines for records in the UNT Libraries’ Digital Collections.
 This introduction covers only the most basic information about formatting while the full guidelines give in-depth instructions and examples to cover any names, places, etc. that do not fit the general rules. To see the full guidelines, click :doc:`here </input-guidelines-descriptive>`. Additionally, links within the overview connect to more specific portions of the guidelines.
 
 
@@ -49,7 +49,7 @@ What Do You Need to Know About Title?
 * The title is what people usually see first, identifying the item
 * Every item must have a "Main Title"
 * The "Main Title" qualifier cannot be repeated: only 1 title entry can be labeled "Main Title"
-* It may help to look at the glossary (in the Comments section) if you want to know more about other types of titles
+* It may help to look at the glossary (in the :ref:`Comments <title-comments>` section) if you want to know more about other types of titles
 
 Formatting Information
 ======================
@@ -72,7 +72,7 @@ Examples:
 +------------------------+-----------------------------------------------------+
 | **Traced copy of map** | Map of Horton & Williams Subdivision of Lot 5,      |
 |                        | Block 23 of Harris Addition to the City of Abilene, |
-|                        | Texas [#3]"                                         |
+|                        | Texas [#3]                                          |
 +------------------------+-----------------------------------------------------+
 
 Additional Information
@@ -107,7 +107,7 @@ What Do You Need to Know About Creator?
 * Each creator can only be listed once and may not also be a contributor
 * Creators have two required labels: type & role
 * Roles should explain "what the creator did" to make the item
-* Each role term is defined in the controlled vocabulary (linked in Resources); before assigning a new kind of role, it may help to review this
+* Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
 
 Formatting Information
 ======================
@@ -115,8 +115,10 @@ Formatting Information
 * Only specific individuals or organizations should be included as creators
 * Include as many creators as you need to, in order of importance (or the order that they appear in on the item)
 * Personal names should be inverted (Last, First Middle)
+
   * Suffixes (Jr., Sr., etc.) can be added at the end but titles (Dr., Rev., Mr., etc.) should be left off 
-  unless it is required to accurately represent the person
+    unless it is required to accurately represent the person
+
 * Organization names should be written out as they appear
 * Hierarchical organizations and government agencies should be written from the highest level to the lowest
 * Choose a type (person or organization) and a role from the drop-down menus for each creator
@@ -168,7 +170,7 @@ What Do You Need to Know About Contributor?
 * Each contributor can only be listed once and may not also be a creator
 * Contributors have two required labels: type & role
 * Roles should explain "how the contributor helped" to make the item or the contributor's relationship to it
-* Each role term is defined in the controlled vocabulary (linked in Resources); before assigning a new kind of role, it may help to review this
+* Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
 
 Formatting Information
 ======================
@@ -176,8 +178,10 @@ Formatting Information
 * Only specific individuals or organizations should be included as contributors
 * Include as many contributors as you need to, in order of importance (or the order that they appear in on the item)
 * Personal names should be inverted (Last, First Middle)
-  * Suffixes (Jr., Sr., etc.) can be added at the end but titles (Dr., Rev., Mr., etc.) 
-  should be left off unless it is required to accurately represent the person
+
+  * Suffixes (Jr., Sr., etc.) can be added at the end but titles (Dr., Rev., Mr., etc.)
+    should be left off unless it is required to accurately represent the person
+  
 * Organization names should be written out as they appear
 * Hierarchical organizations and government agencies should be written from the highest level to the lowest
 * Choose a type (person or organization) and a role from the drop-down menus for each contributor
@@ -380,10 +384,10 @@ Description: Content Description
 What Do You Need to Know About Content Description?
 ===================================================
 
-.. note:
+.. note:: 
    
    This field is **required**.
-   
+
 * The content description displays in search results and provides information for users about "what the item is"
 * The "Content Description" qualifier cannot be repeated: only 1 description entry can be labeled "Content Description"
 * Descriptions should describe the known content as objectively as possible
@@ -430,7 +434,7 @@ Description: Physical Description
 What Do You Need to Know About Physical Description?
 ====================================================
 
-.. note:
+.. note::
    
    This field is VERY strongly recommended.
    
