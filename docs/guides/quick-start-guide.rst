@@ -294,6 +294,7 @@ Formatting Information
 * Use an “X” to stand in for unknown digit(s): YYYX-MM
 * For “circa” dates, add a tilde at the end: YYYY-MM-DD~
 * To represent a single date within a series of dates or date range, use “one of a set”:
+
   * Series of non-consecutive dates: [YYYY-MM-DD,YYYY,YYYY-MM]
   * Consecutive date range: [YYYY..YYYY]
   * After a known date: [YYYY-MM..]
@@ -411,7 +412,7 @@ Formatting Information
 |                                      | The back of the postcard includes a thank you note addressed to  |
 |                                      | Capt. Elmer C. Croom from L. R. de la Peña.                      |
 +--------------------------------------+------------------------------------------------------------------+
-| **Personal name with a suffix**      | Quarterly publication containing genealogical information about  |
+| **Serial journal**                   | Quarterly publication containing genealogical information about  |
 |                                      | families in East Texas including fifth generation charts, family |
 |                                      | histories, and lists of records (births, deaths, etc.).          |
 +--------------------------------------+------------------------------------------------------------------+
@@ -445,10 +446,9 @@ Formatting Information
 
 * Whenever possible, include a physical description using the format: **extent : physical details ; dimensions**
 
-Note: leave out ‘physical details’ if they do not apply or are not readily available
-
-* Specify units for dimensions (cm., in., etc.) and always round up to the next full centimeter (the only exceptions are “standard sized” photographs, A/V recordings, and born-digital materials)
-* Physical descriptions are based on item type:
+    * Leave out ‘physical details’ if they do not apply or are not readily available
+    * Specify units for dimensions (cm., in., etc.) and always round up to the next full centimeter (the only exceptions are “standard sized” photographs, A/V recordings, and born-digital materials)
+    * Physical descriptions are based on item type:
 
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | Extent                       | Phyiscal Details                   | Dimensions                  | Example(s)                       |
@@ -461,8 +461,8 @@ Note: leave out ‘physical details’ if they do not apply or are not readily a
 | *Photographs and 'graphic' items:*                                                                                                 |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | number and kind of items     | | negative/positive?               | | height x width in cm.     | | 1 postcard : col. ;            |
-|                              | | color? (col. or b&w)             | | 'standard size'           |   9 x 13 cm.                     |
-|                              | | born-digital? (digital)          | | dimensions*               | | 1 photograph : negative,       |
+|                              | | color? (col. or b&w)             | | 'standard sizes'*         |   9 x 13 cm.                     |
+|                              | | born-digital? (digital)          |                             | | 1 photograph : negative,       |
 |                              |                                    |                             |   b&w ; 4 x 5 in.                |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | *Maps:*                                                                                                                            |
@@ -499,7 +499,7 @@ Note: leave out ‘physical details’ if they do not apply or are not readily a
 |                              |                                    |                             |   29 x 46 cm                     |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 
-\* Note: for photographs that are ‘standard sizes’ (as defined by UNTL guidelines) dimensions can use measurements other than cm.
+\* Note: for photographs that are ‘standard sizes’ (as :ref:`defined by UNTL guidelines <description-comments>`) dimensions can use measurements other than cm.
 
 Additional Information
 ======================
@@ -542,7 +542,7 @@ Formatting Information
 
 * There is no limit on the number of subjects/keywords, but they should be useful for finding the item
 * Keywords should be lowercase and plural (except for proper names)
-* Records for The Portal to Texas History must have at least one subject string from the UNT Libraries Browse Structure (UNTL-BS)
+* Records for The Portal to Texas History must have at least one subject string from the UNT Libraries Browse Subjects (UNTL-BS)
 * People visible in photographs can be included as named persons (names are inverted and may include titles, suffixes, and nicknames)
 * When readily available, prefer standardized terms from vocabularies
 
@@ -632,15 +632,20 @@ What Do You Need to Know About Coverage?
 
    This field is **optional** -- if the coverage information is unknown, leave it blank.
    
-* Coverage information describes the place(s) and time(s) in the content: "when/where it is about"
-* For some items (like original photos) creation and coverage information may be the same, but for most other items these may be different
-* Locations, dates, and time periods can be used by public users to "browse" or filter search results
-* Place names reflect current locations (but an older name may be a "Historic Place Name")
-* Locations more specific than "city" should be keywords rather than place names
-* For items that have an extremely precise known location, a place point (e.g., the spot where a photo was taken) or place box (e.g, the coordinate boundaries of a map) can be added along with a place name
-* The "Coverage Date" qualifier cannot be repeated: only 1 coverage entry can be labeled "Coverage Date"
-* The "Start Date" and "End Date" qualifiers are being phased out -- use "Coverage Date" instead
-* Time periods align with coverage dates, but are only used in The Portal to Texas History
+*   Coverage information describes the place(s) and time(s) in the content: "when/where it is about"
+*   For some items (like original photos) creation and coverage information may be the same, but for most other items these may be different
+*   Locations, dates, and time periods can be used by public users to "browse" or filter search results
+*   Geographic coverage:
+
+    * Place names reflect current locations (but an older name may be a "Historic Place Name")
+    * Locations more specific than "city" should be keywords rather than place names
+    * For items that have an extremely precise known location, a place point (e.g., the spot where a photo was taken) or place box (e.g, the coordinate boundaries of a map) can be added along with a place name
+
+*   Temporal coverage:
+
+    * The "Coverage Date" qualifier cannot be repeated: only 1 coverage entry can be labeled "Coverage Date"
+    * The "Start Date" and "End Date" qualifiers are being phased out -- use "Coverage Date" instead
+    * Time periods align with coverage dates, but are only used in The Portal to Texas History
 
 Formatting Information
 ======================
@@ -649,7 +654,9 @@ Formatting Information
 * Use the hierarchy found in the GeoNames unless it falls into our list of exceptions
 * Coverage dates can be entered, if known, as a single date or date range using the same formatting as creation dates
 * Records in The Portal to Texas History can also include relevant time periods chosen from our list of “eras”
+
   * When choosing eras, always use the most generic time period that includes the year(s) unless a specific topic is relevant
+
 * To add geocoordinates, choose the correct qualifier and then use the map interface in the edit system
 
 Examples:
@@ -675,7 +682,7 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see:ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For more information about where to find coverage information on an object, see :ref:` Where Can the Coverage Information be Found? <coverage-sources>`
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
 * To see additional examples, see :ref:`Other Examples <coverage-examples>`
 * For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
@@ -739,7 +746,7 @@ Relation
 What Do You Need to Know About Relation?
 ========================================
 
-.. note:
+.. note::
 
   This field is **optional** - if there is no relation or the relation is unknown, leave it blank.
   
@@ -756,25 +763,25 @@ Formatting Information
 Examples
 ========
 
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Index to a series of volumes**       | (References): Experiment Station Record Volume 1,                                     | 
-|                                        | `ark:/67531/metadc5053 <https://digital.library.unt.edu/ark:/67531/metadc5053/>`_     |
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Volume that has a separate index**   | (Is referenced by): U.S. Experiment Station Record General Index to Volumes 1-12,     |
-|                                        | `ark:/67531/metadc5060 <https://digital.library.unt.edu/ark:/67531/metadc5060/>`_     | 
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Map blueprint that has a             | (Has format): Map of North Park Addition to Abilene, Texas [#2], OKHPB_0470,          |
-| non-blueprint copy**                   | `ark:/67531/metapth77939 <https://texashistory.unt.edu/ark:/67531/metapth77939/>`_    |
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Map that is a copy of a blueprint**  | (Is format of): Map of North Park Addition to Abilene, Texas [#1], OKHPB_0468,        |
-|                                        | `ark:/67531/metapth77936 <https://texashistory.unt.edu/ark:/67531/metapth77936/>`_    | 
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Report from a soil survey**          | (Has part): Soil map, Texas, Wilson County,                                           |
-|                                        | `ark:/67531/metapth19658 <https://texashistory.unt.edu/ark:/67531/metapth19658/>`_    | 
-+----------------------------------------+---------------------------------------------------------------------------------------+
-| **Map that accompanies a soil survey** | (Is part of): Soil survey of Wilson County, Texas,                                    |
-|                                        | `ark:/67531/metapth19820 <https://texashistory.unt.edu/ark:/67531/metapth19820/>`_    |
-+----------------------------------------+---------------------------------------------------------------------------------------+
++---------------+----------------------------------------+---------------------------------------------------------------------------------------+
+|Referencing    | **Index to a series of volumes**       | *References:* Experiment Station Record Volume 1,                                     |
+|               |                                        | `ark:/67531/metadc5053 <https://digital.library.unt.edu/ark:/67531/metadc5053/>`_     |
+|               +----------------------------------------+---------------------------------------------------------------------------------------+
+|               | **Volume that has a separate index**   | *Is referenced by:* U.S. Experiment Station Record General Index to Volumes 1-12,     |
+|               |                                        | `ark:/67531/metadc5060 <https://digital.library.unt.edu/ark:/67531/metadc5060/>`_     |
++---------------+----------------------------------------+---------------------------------------------------------------------------------------+
+|Formats        | **Map blueprint that has a             | *Has format:* Map of North Park Addition to Abilene, Texas [#2], OKHPB_0470,          |
+|               | non-blueprint copy**                   | `ark:/67531/metapth77939 <https://texashistory.unt.edu/ark:/67531/metapth77939/>`_    |
+|               +----------------------------------------+---------------------------------------------------------------------------------------+
+|               | **Map that is a copy of a blueprint**  | *Is format of:* Map of North Park Addition to Abilene, Texas [#1], OKHPB_0468,        |
+|               |                                        | `ark:/67531/metapth77936 <https://texashistory.unt.edu/ark:/67531/metapth77936/>`_    |
++---------------+----------------------------------------+---------------------------------------------------------------------------------------+
+|Parts          | **Report from a soil survey**          | *Has part:* Soil map, Texas, Wilson County,                                           |
+|               |                                        | `ark:/67531/metapth19658 <https://texashistory.unt.edu/ark:/67531/metapth19658/>`_    |
+|               +----------------------------------------+---------------------------------------------------------------------------------------+
+|               | **Map that accompanies a soil survey** | *Is part of:* Soil survey of Wilson County, Texas,                                    |
+|               |                                        | `ark:/67531/metapth19820 <https://texashistory.unt.edu/ark:/67531/metapth19820/>`_    |
++---------------+----------------------------------------+---------------------------------------------------------------------------------------+
 
 Additional Information
 ======================
@@ -850,7 +857,7 @@ What Do You Need to Know About Resource Type and Format?
 Formatting Information
 ======================
 
-* Choose the most specific resource type that is relevant from the UNT Libraries list, based on the glossary (in the Comments section)
+* Choose the most specific resource type that is relevant from the UNT Libraries list, based on :ref:`the glossary <type-comments>`
 * For "format”, choose the corresponding, more generic form of the resource type from the format list
 
 Examples
@@ -895,6 +902,7 @@ What Do You Need to Know About Identifier?
    
 * These are numbers, URLs, or alphanumeric codes that have been assigned to an item
 * Identifiers may serve various purposes such as
+
   * identifying a specific item (e.g., a report number or ISBN)
   * pointing to more context (e.g., a catalog record)
   * connecting digital and physical items (e.g., call numbers or accession numbers)

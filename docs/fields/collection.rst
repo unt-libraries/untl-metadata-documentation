@@ -32,13 +32,13 @@ How Collection Works in the Metadata Form
    :alt: Screenshot of collection element in metadata editing system.
 
 Parts:
-   1. Collection name -- drop-down menu
+   Collection name -- drop-down menu
 
 Repeatable?
-:   Yes - to include multiple collections, click 'Add' to repeat the field
+   Yes - to include multiple collections, click 'Add' to repeat the field
 
 Required?
-:   Yes (:doc:`more information </minimally-viable-records>`])
+   Yes (:doc:`more information </minimally-viable-records>`)
 
 
 .. _collection-fill:
@@ -116,4 +116,4 @@ Resources
 **More Guidelines:**
 
 - :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
-- `Metadata Home <https://library.unt.edu/metadata>`
+- `Metadata Home <https://library.unt.edu/metadata>`_

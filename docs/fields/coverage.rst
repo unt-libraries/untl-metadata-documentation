@@ -214,10 +214,10 @@ Exceptions
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
 |1. New York City encompasses five different counties, so the "county" part of  | | United States - New York - New York City  |
-|the hierarchy should be omitted                                                |                                             |
+|   the hierarchy should be omitted                                             |                                             |
 |                                                                               | | United States - New York - Kings County - |
 |2. New York boroughs can be included at the level below "city" (with the       |   New York City - Brooklyn Borough          |
-|relevant county)                                                               |                                             |
+|   relevant county)                                                            |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |3. For "Hollywood" do not include "Los Angeles" as the city                    |United States - California - Los Angeles     |
 |                                                                               |County - Hollywood                           |
@@ -225,17 +225,16 @@ Exceptions
 |4. The District of Columbia should be written as "Washington D.C."             |United States - Washington D.C.              |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |5. Within the United States, do not include places in the hierarchy between    | | United States - Texas - Galveston County -|
-|"county" and "city" e.g.:                                                      |   Galveston                                 |
+|   "county" and "city" e.g.:                                                   |   Galveston                                 |
 |                                                                               |                                             |
-|United States - Texas - Galveston County - Galveston Island - Galveston        | | United States - Indiana - Hancock County -|
-|                                                                               |   McCordsville                              |
-|United States - Indiana - Hancock County - Vernon Township - McCordsville      |                                             |
+|   -  United States - Texas - Galveston County - Galveston Island - Galveston  | | United States - Indiana - Hancock County -|
+|   -  United States - Indiana - Hancock County - Vernon Township - McCordsville|   McCordsville                              |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |6. Places classified as "Independent Cities" will not have counties            |United States - Missouri - St. Louis         |
 |                                                                               |Independent City - St. Louis                 |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |7. There is no need to include a descriptor such as "Department" or "National  | | France - Île-de-France Region -           |
-|District" if it already appears in the name (Distrito Federal, etc.)           |   Département de Ville de Paris - Paris     |
+|   District" if it already appears in the name (Distrito Federal, etc.)        |   Département de Ville de Paris - Paris     |
 |                                                                               | | Portugal - Distrito de Lisboa - Lisbon    |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
@@ -360,23 +359,23 @@ Dates
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |**Guidelines**                                                                 |**Examples**                                                       |
 +===============================================================================+================================================+==================+
-|Write dates using the format YYYY-MM-DD, separating sections with a single     |A photograph taken February 16, 1958            |1958-02-16        |
-|hyphen                                                                         |                                                |                  |
+|-  Write dates using the format YYYY-MM-DD, separating sections with a single  |A photograph taken February 16, 1958            |1958-02-16        |
+|   hyphen                                                                      |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|Include partial dates if content discusses a whole year (YYYY) or month (YYYY- |A calendar of events for August 2001            |2001-08           |
-|MM), or if that is the most specific date that can be determined               +------------------------------------------------+------------------+
+|-  Include partial dates if content discusses a whole year (YYYY) or month     |A calendar of events for August 2001            |2001-08           |
+|   YYYY-MM), or if that is the most specific date that can be determined       +------------------------------------------------+------------------+
 |                                                                               |An annual report for calendar year 1972         |1972              |
 |                                                                               +------------------------------------------------+------------------+
 |                                                                               |A letter written sometime in 1852               |1852              |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|*Uncertain Dates**                                                                                                                                 |
+|*Uncertain Dates*                                                                                                                                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |-  If a date is uncertain, use a question mark at the end                      |A map documenting a survey, believed to have    |1720?             |
 |                                                                               |occurred in 1720                                |                  |
 |-  It the specific year is unknown (e.g., a decade), the last digit can be     +------------------------------------------------+------------------+
 |   replaced by "X"                                                             |A book discussing trends of the 1970s           |197X              |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|Approximate ("circa") dates are represented with a tilde at the end            |A letter written mid-May 1862, discussing       |1862-05~          |
+|-  Approximate ("circa") dates are represented with a tilde at the end         |A letter written mid-May 1862, discussing       |1862-05~          |
 |                                                                               |general news without specific dates             |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |-  For B. C. dates, include a hyphen at the front of the date                  |A report on archeological findings from 601 BC  |-0601             |
@@ -384,7 +383,7 @@ Dates
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |*Date Ranges*                                                                                                                                      |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|For a single, inclusive date range, use the interval notation                  |A journal with article content ranging 1908-1928|1908/1928         |
+|-  For a single, inclusive date range, use the interval notation               |A journal with article content ranging 1908-1928|1908/1928         |
 |                                                                               +------------------------------------------------+------------------+
 |                                                                               |An interview discussing events from roughly 2013|2013~/2018        |
 |                                                                               |until 2018, when it was recorded                |                  |
@@ -397,8 +396,8 @@ Dates
 |   (This generally applies to photos, where the content matches the creation   |                                                |                  |
 |   date)                                                                       |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
-|For multiple (inclusive) dates or date ranges that are *not consecutive*, use  |Report documenting data collected in  1900,     |{1900,1950,2000}  |
-|multiple date notation with {curly brackets}                                   |1950, and 2000                                  |                  |
+|-  For multiple (inclusive) dates or date ranges that are *not consecutive*,   |Report documenting data collected in  1900,     |{1900,1950,2000}  |
+|   use multiple date notation with {curly brackets}                            |1950, and 2000                                  |                  |
 |                                                                               +------------------------------------------------+------------------+
 |                                                                               |Thesis comparing various aspects of WWI and WWII|{1914-07..1918-11,|
 |                                                                               |                                                |1939-09..1945-09} |
@@ -490,14 +489,13 @@ Comments
     the authority for place names rather than the Getty Thesaurus of
     Geographic Names.
 -   Although the coverage element appears to repeat information that
-    could also be placed in other elements, such as subject/keywords and
-    date, it is needed to provide the best interoperability with other
-    metadata and resource-sharing systems.  To reduce duplication, we 
-    recommend only entering location/date information the the coverage
-    element unless it represents both *creation* and *content* (e.g., the
-    creation date/coverage date for original photographs).
+    could also be placed in other elements, such as :doc:`subject/keywords </fields/subject>` and
+    :doc:`date </fields/date>`, it is needed to provide the best interoperability with other
+    metadata and resource-sharing systems.  To reduce duplication, it is 
+    recommended to use coverage for any relevant *content* information and only
+    duplicate it when it is applicable to the *creation* (e.g., the creation date/coverage date for original photographs).
 -   It is strongly recommended that both coverage place(s) and coverage
-    time period(s) be included in order to facilitate the browse
+    time period(s) be included when known (or reasonably inferred) in order to facilitate the browse
     structure for Portal records, and to provide the best
     interoperability with other metadata and resource-sharing systems.
 -   Recommended best practice for encoding the date value is defined in
@@ -509,7 +507,7 @@ Comments
 
 
 -   For coverage place names, the following continent names can be used
-    in place of countries (derived from the `CIA World Factbook`_:
+    in place of countries (derived from the `CIA World Factbook`_):
     
     -  Africa
     -  Antarctica
@@ -529,7 +527,7 @@ a regional term for maps in the Factbook; it can be used when the item
 is related to the whole Arctic region rather than specific
 continents/countries
 
-Based on the browse features in the `CIA World Factbook <https://www.cia.gov/the-world-factbook/countries/world>`_ the following countries are in the three Asian regions:
+Based on the browse features in the `CIA World Factbook`_ the following countries are in the three Asian regions:
 
 
 +-------------------------+-------------------------------+---------------------------------------+
@@ -585,5 +583,5 @@ Resources
 
 **More Guidelines:**
 
--   `Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

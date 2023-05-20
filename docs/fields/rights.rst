@@ -51,9 +51,9 @@ How Rights Works in the Metadata Form
    :alt: Screenshot of rights element in metadata editing system.
 
 Parts:
-	Rights type -- drop-down menu
-	Rights information -- text field
-	Note: Some rights information (access and license) open in a pop-up modal
+	#. Rights type -- drop-down menu
+	#. Rights information -- text field
+	#. Note: Some rights information (access and license) open in a pop-up modal
 
 Repeatable?
     Yes - to include different kinds of rights information (up to four),
@@ -75,7 +75,7 @@ How Should the Rights be Filled in?
 Rights Access
 =============
 
--   Select the correct access level from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/rights-access/>`_
+-   Select the correct access level from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/rights-access/>`__
 
 +--------------------+------------------------------------------------------------------------------+
 |Public              |access is open or there are no restrictions to view the content of the item   |
@@ -94,7 +94,7 @@ Rights Access
 Rights License
 ==============
 
--   Select the correct access level from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/rights-licenses/>`_
+-   Select the correct access level from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/rights-licenses/>`__
 
 +--------------------+----------------------------------------------+
 |Copyright           |                                              |
@@ -210,12 +210,12 @@ Comments
 Resources
 *********
 
--   UNT Rights Access `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/rights-access/>`_
--   UNT Rights License `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/rights-licenses/>`_
+-   UNT Rights Access `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/rights-access/>`__
+-   UNT Rights License `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/rights-licenses/>`__
 -   `Creative Commons Licenses <http://creativecommons.org/about/licenses/>`_
 
 
-More Guidelines:
+**More Guidelines:**
 
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

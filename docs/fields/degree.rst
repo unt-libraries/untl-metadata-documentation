@@ -42,14 +42,15 @@ How Degree Works in the Metadata Form
    :alt: Screenshot of degree element in metadata editing system.
 
 Parts:
-	Degree qualifier -- drop-down menu
-	Degree information -- text field
+
+	#. Degree qualifier -- drop-down menu
+	#. Degree information -- text field
 
 Repeatable?
-   Yes - to include multiple kinds of degree information (up to six)
+    Yes - to include multiple kinds of degree information (up to six)
     click 'Add' to repeat all field parts; "department" can be repeated
     as necessary, but other information types (level, discipline,
-    grantor, etc.) cannot be repeated within the field
+    grantor, etc.) cannot be used more than once
 
 Required?
 	 No (:doc:`more information </minimally-viable-records>`)
@@ -71,7 +72,7 @@ General Degree Rules
     -   theses and dissertations
     -   degree recitals in the UNT College of Music
     -   other output from the UNT community
-    
+
 -   For each document, include all relevant parts
 
 
@@ -100,9 +101,9 @@ Degree Level
 +-----------------------------------------------------------------------+---------------------------------------+
 | **Guideline**                                                         | **Examples**                          |
 +=======================================================================+=======================================+
-|-  Select the degree level from the `controlled vocabulary             |Doctoral                               |
-|   <https://digital2.library.unt.edu/vocabularies/degree-levels/>`_    +---------------------------------------+
-|                                                                       |Master's                               |
+|-  Select the degree level from the `controlled vocabulary             | | Doctoral                            |
+|   <https://digital2.library.unt.edu/vocabularies/degree-levels/>`__   | | Master's                            |
+|                                                                       |                                       |
 |   -   (The degree name will start with "Doctor" or "Master">)         |                                       |
 +-----------------------------------------------------------------------+---------------------------------------+
 |-  For senior recitals, the level will be "Bachelor's"                 |Bachelor's                             |
@@ -114,16 +115,13 @@ Degree Publication Type
 -----------------------
 
 
-+-----------------------------------------------------------------------+---------------------------------------+
-| **Guideline**                                                         | **Examples**                          |
-+=======================================================================+=======================================+
-|-  Select the degree publication type from the `controlled vocabulary  |Doctoral Dissertation                  |
-|   <https://digital2.library.unt.edu/vocabularies/publication-types/>`_+---------------------------------------+
-|                                                                       |Master's Thesis                        |
-|   -   (The degree name will start with "Doctor" or "Master">)         |                                       |
-+-----------------------------------------------------------------------+---------------------------------------+
-|-  For senior recitals, the level will be "Bachelor's"                 |Problem in Lieu of a Master's Thesis   |
-+-----------------------------------------------------------------------+---------------------------------------+
++------------------------------------------------------------------------+---------------------------------------+
+| **Guideline**                                                          | **Examples**                          |
++========================================================================+=======================================+
+|-  Select the degree publication type from the `controlled vocabulary   | | Doctoral Dissertation               |
+|   <https://digital2.library.unt.edu/vocabularies/publication-types/>`__| | Master's Thesis                     |
+|                                                                        | | Problem in Lieu of a Master's Thesis|
++------------------------------------------------------------------------+---------------------------------------+
 
 
 .. _degree-discipline:
@@ -162,10 +160,8 @@ Academic Department
 |-  Use the short form of the department name (omitting     |                                       |
 |   "Department of")                                        |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If the item has multiple creators from different        |*Department* Library and Information   |
-|   departments, include each one separately                |Science                                |
-|                                                           +---------------------------------------+
-|                                                           |*Department:* Digital Projects         |
+|-  If the item has multiple creators from different        | | Library and Information Science     |
+|   departments, include each one separately                | | Digital Projects                    |
 +-----------------------------------------------------------+---------------------------------------+
 
 
@@ -238,7 +234,7 @@ Comments
 ********
 
 -   If feasible, compiling controlled vocabularies for degree name and discipline facilitate consistency.
--   In some cases, Academic Department will also be related to the :doc: `Institution </fields/institution>` element.
+-   In some cases, Academic Department will also be related to the :doc:`Institution </fields/institution>` element.
 
 
 .. _degree-resources:
@@ -247,12 +243,12 @@ Comments
 Resources
 *********
 
--   UNT Degree Level `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/degree-levels/>`_
--   UNT Degree Publication Type `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/degree-information/>`_
+-   UNT Degree Level `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/degree-levels/>`__
+-   UNT Degree Publication Type `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/degree-information/>`__
 
 
 
-More Guidelines:
+**More Guidelines:**
 
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

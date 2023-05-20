@@ -32,7 +32,7 @@ How Institution Works in the Metadata Form
    :alt: Screenshot of institution element in metadata editing system.
 
 Parts:
-   1. Institution name -- drop-down menu
+   Institution name -- drop-down menu
 
 Repeatable?
    No - only one organization owns an object
@@ -105,5 +105,6 @@ Resources
 
 
 **More Guidelines:**
+
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

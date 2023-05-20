@@ -37,11 +37,11 @@ How Source Works in the Metadata Form
 
 Parts:
 
-	Source qualifier -- drop-down menu
-	Source -- text field
+	#. Source qualifier -- drop-down menu
+	#. Source -- text field
 
 Repeatable?
-    Tes
+    Yes
 
 Required?
 	 No (:doc:`more information </minimally-viable-records>`)
@@ -60,7 +60,7 @@ How Should the Source be Filled in?
     -   an item that was part of a larger event (a presentation from a
         conference, a piece from an exhibition, etc.)
 
--   Formatting is not strictly enforce in this field, but it is helpful to list information consistently:
+-   Formatting is not strictly enforced in this field, but it is helpful to list information consistently:
 
     -   include any known relevant information
     -   use a standard citation format, if applicable
@@ -68,16 +68,28 @@ How Should the Source be Filled in?
 +---------------------------------------------------------------+-------------------------------------------------------+
 | **Guideline**                                                 | **Example**                                           |
 +===============================================================+=======================================================+
-|For a publication, give any bibliographic information necessary|Marshall City Directory, 1937.  Rochester: Keiter      |
-|to identify the original resource (e.g., title, format,        |Directory Co., 1937. V. 1.                             |
-|standardized number/identifier, etc.)                          |                                                       |
+|*For a publication*, give any bibliographic information        |Marshall City Directory, 1937.  Rochester: Keiter      |
+|necessary to identify the original resource                    |Directory Co., 1937. V. 1.                             |
+|                                                               |                                                       |
+|   -   title                                                   |                                                       |
+|   -   format                                                  |                                                       |
+|   -   standardiszed number/identifier                         |                                                       |
+|   -   publisher and/or publication date                       |                                                       |
+|   -   etc.                                                    |                                                       |
 +---------------------------------------------------------------+-------------------------------------------------------+
-|For serials, include volume, issue, publication date, etc.     |Anabiosis: the Journal for Near-Death Studies, 3(2),   |
+|For serials, include:                                          |Anabiosis: the Journal for Near-Death Studies, 3(2),   |
 |                                                               |International Association for Near-Death Studies,      |
-|                                                               |December 1983, pp. 203-206                             |
+|   -   title                                                   |December 1983, pp. 203-206                             |
+|   -   volume and/or issue                                     |                                                       |
+|   -   publication date                                        |                                                       |
+|   -   etc.                                                    |                                                       |
 +---------------------------------------------------------------+-------------------------------------------------------+
-|For an event, include information such as: title of event,     |14th International Conference on Knowledge Management, |
-|location, and dates held                                       |November 9-10, 2018.  Vancouver, Canada                |
+|For an event, include information such as:                     |14th International Conference on Knowledge Management, |
+|                                                               |November 9-10, 2018.  Vancouver, Canada                |
+|   -   title of event                                          |                                                       |
+|   -   location                                                |                                                       |
+|   -   dates held                                              |                                                       |
+|   -   etc.                                                    |                                                       |
 +---------------------------------------------------------------+-------------------------------------------------------+
 
 
@@ -136,8 +148,8 @@ Comments
 ********
 
 -   To specify other resources which are judged to be significantly
-    related to the current resource in some fashion, use the :doc: `Relation </relation>` element.
--   Information in this field may also overlap with information entered in the :doc: `Citation </citation>` element.
+    related to the current resource in some fashion, use the :doc:`Relation </fields/relation>` element.
+-   Information in this field may also overlap with information entered in the :doc:`Citation </fields/citation>` element.
 
 
 .. _source-resources:

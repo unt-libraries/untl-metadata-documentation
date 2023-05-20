@@ -41,7 +41,6 @@ Parts:
 Repeatable?:   
    -    Yes - to include different kinds of citation information (up to ten), click 'Add' to repeat all field parts; each individual
         information type (publication title, pages, volume, edition, etc.) cannot be repeated
-   -    Page numbers can be expressed both as: (1) a total number of pages *and* (2) a range of page numbers (using start page/end page)
 
 Required?
    No (:doc:`more information </minimally-viable-records>`)
@@ -85,6 +84,12 @@ Pages
 |                                                                               | | *Page End:* 176                              |
 |-      Label the page number of the first page as "Page Start"                 |                                                |
 |-      Label the page number of the last page as "Page End"                    |                                                |
++-------------------------------------------------------------------------------+------------------------------------------------+
+|-  When appropriate, page numbers can be expressed both as: (1) a total number | | *Page Start:* 123                            |
+|   of pages *and* (2) a range of page numbers (using page start/page end)      | | *Page End:* 143                              |
+|-  To reduce duplication, another option is to include total pages in the      | | *Physical Description:* [21] p.              |
+|   :ref:`physical description <description-physical>` for users and the start &|                                                |
+|   end pages in citation for searchability                                     |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 
@@ -164,7 +169,7 @@ Full Serial Issue
    -    *Issue:* 2
 
 Revised Reference text
-:   *Edition:* 3
+   *Edition:* 3
 
 
 .. _citation-comments:

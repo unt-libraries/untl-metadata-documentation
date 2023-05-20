@@ -32,8 +32,8 @@ How Relation Works in the Metadata Form
    :alt: Screenshot of relation element in metadata editing system.
 
 Parts:
-    Relation type -- drop-down menu
-    Relation -- text field
+    #. Relation type -- drop-down menu
+    #. Relation -- text field
 
 Repeatable?
 	Yes - to include multiple relationships, click 'Add' to repeat all field parts
@@ -85,14 +85,14 @@ How Should the Relation be Filled in?
         item, default to the one uploaded first (first ARK, sequentially)
 
 -   If more than one qualifier applies (e.g., transcription and
-    translation), choose one and explain as needed in a [display note][]
+    translation), choose one and explain as needed in a :ref:`display note <note-display>`
 -   If none of the qualifiers applies to the items, the qualifier can be
     left blank, but consider whether the information might be more
     appropriate in another field such as:
     
-    - :doc:`Description <description>`
-    - :doc:`Display note <note>`
-    - [Source][]
+    - :doc:`Description </fields/description>`
+    - :doc:`Display note </fields/note>`
+    - :doc:`Source </fields/source>`
 
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |**Relationship**                       | **Description**                                           | **Examples**                                                                  |
@@ -106,17 +106,23 @@ How Should the Relation be Filled in?
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A linguistic analysis                  |An original text or transcript         |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Is format of / Has format              |To show that the item has the same content in a different  |*Is format of*                         |*Has format*                           |
 |                                       |format                                                     +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A photographic print                   |An original negative                   |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A print manuscript                     |A born-digital text file               |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Is part of  / Has part                 |-  To show that the item is part of a larger resource      |*Is part of*                           |*Has part*                             |
 |                                       |-  To show that the item is a duplication of partial       +---------------------------------------+---------------------------------------+
 |                                       |   content from another resource                           |A chapter from a book or report        |The complete volume                    |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |An individual map                      |A book or atlas containing the same map|
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Is version of / Has version            |To show that an item has multiple identical or             |*Is version of*                        |*Has version*                          |
 |                                       |near-identical copies in the same format                   +---------------------------------------+---------------------------------------+
@@ -125,6 +131,8 @@ How Should the Relation be Filled in?
 |                                       |                                                           |Identical copies of a postcard, perhaps with different notes                   |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |Multiple prints of the same photo image with different cropping/enlargement    |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |References / Is referenced by          |-  To show that an item is intellectually interrelated     |*References*                           |*Is referenced by*                     |
 |                                       |-  To show that an item is cited or sourced in the content +---------------------------------------+---------------------------------------+
@@ -138,13 +146,19 @@ How Should the Relation be Filled in?
 |                                       |                                                           |A research publication                 |A separate dataset analyzed in the     |
 |                                       |                                                           |                                       |document                               |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Replaces / Is replaced by              |To show that a later version overrides an earlier one      |*Replaces*                             |*Is replaced by*                       |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |A revised policy                       |An older version of the same policy    |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |Any updated document                   |A previous version/edition             |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Requires / Is required by              |To show that an item needs another component               |                                       |                                       |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Has transcription / Is transcription of|To show that a handwritten item has a transcript           |*Has transcription*                    |*Is transcription of*                  |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
@@ -155,15 +169,19 @@ How Should the Relation be Filled in?
 |                                       |                                                           |calligraphy or fancy script, such as   |                                       |
 |                                       |                                                           |German Fraktur                         |                                       |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Has translation / Is translation of    |To show that an item has versions in different languages   |*Has translation*                      |*Is translation of*                    |
 |                                       |                                                           +---------------------------------------+---------------------------------------+
 |                                       |                                                           |Any item written in any language (e.g.,|The same document or content published |
 |                                       |                                                           |pamphlet, letter, book, etc.)          |or made available in another language  |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
+|                                                                                                                                                                                   |
++---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 |Conforms to                            |To show that an item is compliant with a set of standards  |                                       |                                       |
 |                                       |                                                           |                                       |                                       |
 |                                       |   -   This relationship is not currently used; see the    |                                       |                                       |
-|                                       |       :ref: `Comments <relation-comments>`  section below |                                       |                                       |
+|                                       |       :ref:`Comments <relation-comments>`  section below  |                                       |                                       |
 +---------------------------------------+-----------------------------------------------------------+---------------------------------------+---------------------------------------+
 
 
@@ -300,7 +318,7 @@ Comments
 -   To make observations about related subject matter in the
     intellectual content of another resource (for example, photographs
     of the same storm-damaged building taken from different viewpoints),
-    use the [Note][] element.
+    use the :doc:`Note </fields/note>` element.
 -   Items may also have other content-based connections that are not
     represented best by a formal "Relation." For example, materials may
     have topical, geographic, or temporal relationships represented in
