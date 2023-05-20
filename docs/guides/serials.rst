@@ -29,37 +29,27 @@ Series Titles
 |**Series Types**                          |**Examples**                                           |
 +==========================================+=======================================================+
 |Items related by chronology or created    |  - Fiscal Year 1975                                   |
-|in a specific time period that may not    |                                                       |
-|be a calendar year.                       |  - Academic Year 2013                                 |
-|                                          |                                                       |
-|                                          |  - 112th Congress                                     |
-|                                          |                                                       |
+|in a specific time period that may not    |  - Academic Year 2013                                 |
+|be a calendar year.                       |  - 112th Congress                                     |
 |                                          |  - 80th Legislature of Texas                          |
 +------------------------------------------+-------------------------------------------------------+
 |Series titles `authorized by the Library  |  - AEC research and development report                |
-|of Congress <https://id.loc.gov/>`        |                                                       |
-|(generally used for government documents) |  - Biological services program FWS/OBS                |
-|                                          |                                                       |
-|                                          |  - Research report (Southwest Region University       |
+|of Congress <https://id.loc.gov/>`_       |  - Biological services program FWS/OBS                |
+|(generally used for government documents) |  - Research report (Southwest Region University       |
 |                                          |    Transportation Center (U.S.))                      |
 +------------------------------------------+-------------------------------------------------------+
 |Archival collections and/or archival      |  - Schuhmann Family Photograph Collection             |
-|series                                    |                                                       |
+|series                                    |  - United Orthodox Synagogues records (MS 712)        |
 |                                          |  - Charles B. Moore Family papers, 1832-1917          |
-|                                          |                                                       |
 |                                          |  - Austin Papers: Series IV, 1831-1834                |
 +------------------------------------------+-------------------------------------------------------+
 |Published series                          |  - Publications of the Texas Folklore Society         |
-|                                          |                                                       |
 |                                          |  - War and the Southwest series                       |
 +------------------------------------------+-------------------------------------------------------+
 |General categories of items within a      |  - Flood Insurance Rate Maps                          |
-|collection that may improve browsing      |                                                       |
-|                                          |  - The Ship and the Sacred Tree: Textiles from South  |
+|collection that may improve browsing      |  - The Ship and the Sacred Tree: Textiles from South  |
 |                                          |    Sumatra (exhibition title)                         |
-|                                          |                                                       |
 |                                          |  - 10th Annual Texas Folklife Festival                |
-|                                          |                                                       |
 |                                          |  - [North Texas Politics & Public Officers]           |
 +------------------------------------------+-------------------------------------------------------+
 
@@ -71,7 +61,7 @@ Serial Records
 
 As a general rule, formatting and values for serial records align with the :doc:`Input Guidelines </input-guidelines-descriptive>`, however, some fields are more consistent across serial records than other kinds of records, or fit in common exceptions. The general characteristics of serial records in the Digital Collections include:
 
--   A standardized Main Title that fits a patterned template to ensure consistency, sorting, and findability for users
+-   A standardized :ref:`Main Title <title-fill>` that fits a patterned template to ensure consistency, sorting, and findability for users
 -   Many fields that stay essentially the same across all items in a serial with changes to numbers (e.g., volume/issue/quarter/etc.), dates, and personal names
 -   Inclusion of :ref:`Citation <serial-citation>` field information for publications with volume/issue numbers
 
@@ -88,157 +78,150 @@ Overview:
 -   All serial records have one Main Title and at least one Serial Title
 -   Serial records *may* have additional titles, as appropriate
 
++-------------------------------------------------------------------------+------------------------------------------------------+
+| **Guidelines**                                                          | **Examples**                                         |
++=========================================================================+======================================================+
+|*Main Title*                                                                                                                    |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- The main title for a serial is constructed so that it stays consistent |                                                      |
+|  even if there are relative changes across issues (e.g., yearbook title |                                                      |
+|  pages tend to change every year even though the essential serial title |                                                      |
+|  stays the same).                                                       |                                                      |
+|- Note that titles may still vary depending on the elements used by the  |                                                      |
+|  item.                                                                  |                                                      |
+|- Here are some common title patterns:                                   |                                                      |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   a. {title}, Volume #, Number #, {date}                                |- The Battlecry, Volume 1, Number 5, October 5, 1979  |
+|                                                                         |- NEW Source, September 1991                          |
+|                                                                         |- Scouting, Volume 67, Number 4, September 1979       |
+|                                                                         |- The Pickwicker, Volume 20, 1952                     |
+|                                                                         |- Rawls Exchange, 2004                                |
+|                                                                         |- L.I.P. Bulletin, Volume 5, Spring 2011              |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   b. {title}, Yearbook of {school}, {year}                              |Prickly Pear, Yearbook of Abilene Christian College,  |
+|                                                                         |1963                                                  |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   c. Catalog of {school}, {year}, {type}                                |- Catalog of North Texas State University,            |
+|                                                                         |  1979-1980, Undergraduate                            |
+|                                                                         |                                                      |
+|                                                                         |- Catalog of Texas Tech University, 2012-2013,        |
+|                                                                         |  Undergraduate and Graduate                          |
+|                                                                         |                                                      |
+|                                                                         |- Catalog of Abilene Christian University, 1978-1979  |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   d. {organization/program} Annual Report: {date}                       |City Water Board of San Antonio Annual Report: 1970   |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   e. {organization/program} Requests for Legislative Appropriations:    |University of North Texas Requests for Legislative    |
+|      {date}                                                             |Appropriations: 2010-2011                             |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   f. {organization/program} Strategic Plan: {date}                      |Texas Veterans Commission Strategic Plan: Fiscal      |
+|                                                                         |Years 2013-2017                                       |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   g. Interim Report to the # Texas Legislature: {organization/committee}|Interim Report to the 83rd Texas Legislature: House   |
+|                                                                         |Committee on Natural Resources                        |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   h. {organization/program} Quarterly Report: {date}                    |Yankee Core Evaluation Program Quarterly Progress     |
+|                                                                         |Report: April-June 1964                               |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   i. Report of the # {conference}, {date}                               |Report of the Twenty-Seventh National Conference on   |
+|                                                                         |Weights and Measures, 1937                            |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   j. Proceedings of the # {conference}, {date}                          |Proceedings of the Workshop on Techniques for         |
+|                                                                         |Measurement of Thermodynamic Properties, Albany,      |
+|                                                                         |Oregon, August 21-23, 1979                            |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|   k. Newspaper titles tend to follow slightly different rules, to align |- The Wylie News (Wylie, Tex.), Vol. 48, No. 41, Ed.  |
+|      with other guidelines:                                             |  1, Wednesday, March 15, 1995                        |
+|                                                                         |- Breckenridge American (Breckenridge, Tex.), Vol.    |
+|   {title} ({city, st.}), Vol. #, No. #, Ed. #, {day, date}              |  33, No. 26, Ed. 1 Tuesday, February 10, 1953        |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Serial Title*                                                                                                                  |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- The serial title is the part of the main title that stays the same for |- Applied Nuclear Physics Division Annual Progress    |
+|  every item.                                                            |  Report                                              |
+|- It should be capitalized the same as the main title.                   |- Texas Highways                                      |
+|                                                                         |- Texas Public Utility Commission Agency Strategic    |
+|                                                                         |  Plan                                                |
+|                                                                         |- The Shinnery Review                                 |
+|                                                                         |- Quarry Accidents in the United States During the    |
+|                                                                         |  Calendar Year                                       |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Added Title*                                                                                                                   |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- Version(s) of the title written on the item that differ from the       |- 135th Annual Report to the Governor & Legislature:  |
+|  constructed title                                                      |  For Fiscal Year 2010 ending August 31, 2010         |
+|                                                                         |- House Committee on Business & Industry, Texas House |
+|                                                                         |  of Representatives interim report, 2008: a report to|
+|                                                                         |  the House of Representatives, 81st Texas Legislature|
+|                                                                         |- Fourth Quarter 1999 State Sales and Use Tax Analysis|
+|                                                                         |  Report                                              |
+|                                                                         |- Forty Fifth Annual Report of the Sabine River       |
+|                                                                         |  Compact Administration for the Year 1999            |
+|                                                                         |- Legislative Appropriations Request for Fiscal Years |
+|                                                                         |  2014 and 2015, Submitted to the Governor's Office of|
+|                                                                         |  Budget, Planning and Policy and the Legislative     |
+|                                                                         |  Budget Board by Fourteenth District Court of Appeals|
+|                                                                         |- Yellow Jacket '71                                   |
+|                                                                         |- Agency Strategic Plan: For the Fiscal Years 2011-   |
+|                                                                         |  2015 Period                                         |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Alternate Title*                                                                                                               |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- Used if there are extensive abbreviations or written numbers that may  |- Report of the 35th National Conference on Weights   |
+|  be searched numerically:                                               |  and Measures 1950                                   |
+|                                                                         |- Federal Communications Commission Reports, Second   |
+|                                                                         |  Series, Volume 27, January 29, 1971 to March 26,    |
+|                                                                         |  1971                                                |
+|                                                                         |- League of United Latin American Citizens (LULAC)    |
+|                                                                         |  News, Volume 1, Issue Number 3, Wisconsin, October  |
+|                                                                         |  1977                                                |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Parallel Title*                                                                                                                |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- Used for non-English-language items                                    |                                                      |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- For serials in multiple languages (e.g., English-language and Spanish- |- Niños con Necesidades Médicas Especiales: Boletín   |
+|  language versions published together in a single issue), the main title|  para familias, Enero de 2013                        |
+|  will be in English and the parallel title will be in the other language|- Lista de Proveedores de Cuidado Primario y          |
+|                                                                         |  Hospitales, Diciembre de 2008                       |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- For serials in a language other than English, the parallel title is the|Children with Special Health Care Needs: Newsletter   |
+|  English-language version (if known)                                    |for Families, January 2013                            |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Series Title*                                                                                                                  |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- Included when a serial is also part of one or more series              |- Argonne National Laboratory Reports                 |
+|                                                                         |- Fiscal Year 1994                                    |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Sort Title*                                                                                                                    |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- A special, non-display title that forces a numerical or chronological  |                                                      |
+|  sort rather than an alphabetical one when "sort by title" is chosen    |                                                      |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- Sort titles can be useful for serials when there is no volume/issue    |- Texas Quarterly Census of Employment and Wages by   |
+|  number if you don't want it to sort alphabetically (e.g., April,       |  Industry and County, 2009, Q1                       |
+|  August, December; Fall, Spring, Summer; Fortieth, Seventy-Second,      |- Retort, 1959-10                                     |
+|  Thirty-Fifth; etc.)                                                    |- Texas General and Special Laws, Legislature 57,     |
+|- It can also be used to place an index in a sequence (e.g., the index to|  Session 3                                           |
+|  volumes 1-40 between volumes 40 and 41)                                |- FCC Report, S2, V40x, P1                            |
+|- Since these titles do not display, shortened or abbreviated forms may  |- Texas Talking Book News, 2012-24                    |
+|  be used (but this will affect how they sort when viewed alongside other|- Links Western Area Conference, 25                   |
+|  items)                                                                 |                                                      |
+|- Note that for items with specific dates (e.g., months or seasons) it   |                                                      |
+|  may be less necessary since they will still sort chronologically "by   |                                                      |
+|  date" vs. multiple documents with the same publication date            |                                                      |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|*Uniform Title*                                                                                                                 |
++-------------------------------------------------------------------------+------------------------------------------------------+
+|- A standardized title, such as a consistent title pattern (generally    |- Agency Strategic Plan, for the fiscal years ...     |
+|  taken from an OCLC record, when relevant)                              |- Annual financial report for fiscal year ... of the  |
+|                                                                         |  Court of Appeals--Eight District.                   |
+|                                                                         |- Summary of Enactments ... Legislature: Regular      |
+|                                                                         |  Session ... Called Session ...                      |
+|                                                                         |- Recreational Fishing Regulations: Effective ...     |
++-------------------------------------------------------------------------+------------------------------------------------------+
 
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-| **Type**              | **Guidelines**                                                          | **Examples**                                         |
-+=======================+=========================================================================+======================================================+
-|Main Title             || The main title for a serial is constructed so that it stays consistent |                                                      |
-|                       |  even if there are relative changes across issues (e.g., yearbook title |                                                      |
-|                       |  pages tend to change every year even though the essential serial title |                                                      |
-|                       |  stays the same).  Note that titles may still vary depending on the     |                                                      |
-|                       |  elements used.                                                         |                                                      |
-|                       |                                                                         |                                                      |
-|                       || Here are some common title patterns:                                   |                                                      |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{title}, Volume #, Number #, {date}                                      |- The Battlecry, Volume 1, Number 5, October 5, 1979  |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- NEW Source, September 1991                          |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Scouting, Volume 67, Number 4, September 1979       |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- The Pickwicker, Volume 20, 1952                     |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Rawls Exchange, 2004                                |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- L.I.P. Bulletin, Volume 5, Spring 2011              |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{title}, Yearbook of {school}, {year}                                    |- Prickly Pear, Yearbook of Abilene Christian         |
-|                       |                                                                         |  College, 1963                                       |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |Catalog of {school}, {year}, {type}                                      |- Catalog of North Texas State University,            |
-|                       |                                                                         |  1979-1980, Undergraduate                            |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Catalog of Texas Tech University, 2012-2013,        |
-|                       |                                                                         |  Undergraduate and Graduate                          |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Catalog of Abilene Christian University, 1978-1979  |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{organization} Annual Report: {date}                                     |City Water Board of San Antonio Annual Report: 1970   |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{organization} Requests for Legislative Appropriations: {date}           |- University of North Texas Requests for Legislative  |
-|                       |                                                                         |  Appropriations: 2010-2011                           |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{organization} Strategic Plan: {date}                                    |Texas Veterans Commission Strategic Plan: Fiscal      |
-|                       |                                                                         |Years 2013-2017                                       |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |Interim Report to the # Texas Legislature: {organization}                |Interim Report to the 83rd Texas Legislature: House   |
-|                       |                                                                         |Committee on Natural Resources                        |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |{organization} Quarterly Report: {date}                                  |Physics of Reactor Safety, Quarterly Report: October  |
-|                       |                                                                         |-December 1977                                        |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |Report of the # {conference}, {date}                                     |Report of the Twenty-Seventh National Conference on   |
-|                       |                                                                         |Weights and Measures, 1937                            |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |Proceedings of the # {conference}, {date}                                |Proceedings of the Workshop on Techniques for         |
-|                       |                                                                         |Measurement of Thermodynamic Properties, Albany,      |
-|                       |                                                                         |Oregon, August 21-23, 1979                            |
-|                       +-------------------------------------------------------------------------+------------------------------------------------------+
-|                       |Newspaper titles tend to follow slightly different rules, to align with  |- The Wylie News (Wylie, Tex.), Vol. 48, No. 41, Ed.  |
-|                       |other guidelines:                                                        |  1, Wednesday, March 15, 1995                        |
-|                       |                                                                         |                                                      |
-|                       |   {title} ({city, st.}), Vol. #, No. #, Ed. #, {day, date}              |- Breckenridge American (Breckenridge, Tex.), Vol.    |
-|                       |                                                                         |  33, No. 26, Ed. 1 Tuesday, February 10, 1953        |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Serial Title           |The serial title is the part of the main title that stays the same for   |- Applied Nuclear Physics Division Annual Progress    |
-|                       |every item.  It should be capitalized the same as the main title.        |  Report                                              |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Texas Highways                                      |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Texas Public Utility Commission Agency Strategic    |
-|                       |                                                                         |  Plan                                                |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- The Shinnery Review                                 |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Quarry Accidents in the United States During the    |
-|                       |                                                                         |  Calendar Year                                       |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Added Title            |Version(s) of the title written on the item that differ from the         |- 135th Annual Report to the Governor & Legislature:  |
-|                       |constructed title                                                        |  For Fiscal Year 2010 ending August 31, 2010         |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- House Committee on Business & Industry, Texas House |
-|                       |                                                                         |  of Representatives interim report, 2008: a report to|
-|                       |                                                                         |  the House of Representatives, 81st Texas Legislature|
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Fourth Quarter 1999 State Sales and Use Tax Analysis|
-|                       |                                                                         |  Report                                              |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Forty Fifth Annual Report of the Sabine River       |
-|                       |                                                                         |  Compact Administration for the Year 1999            |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Legislative Appropriations Request for Fiscal Years |
-|                       |                                                                         |  2014 and 2015, Submitted to the Governor's Office of|
-|                       |                                                                         |  Budget, Planning and Policy and the Legislative     |
-|                       |                                                                         |  Budget Board by Fourteenth District Court of Appeals|
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Yellow Jacket '71                                   |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Agency Strategic Plan: For the Fiscal Years 2011-   |
-|                       |                                                                         |  2015 Period                                         |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Alternate Title        |Used if there are extensive abbreviations or written numbers that may    |- Report of the 35th National Conference on Weights   |
-|                       |be searched numerically:                                                 |  and Measures 1950                                   |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Federal Communications Commission Reports, Second   |
-|                       |                                                                         |  Series, Volume 27, January 29, 1971 to March 26,    |
-|                       |                                                                         |  1971                                                |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- League of United Latin American Citizens (LULAC)    |
-|                       |                                                                         |  News, Volume 1, Issue Number 3, Wisconsin, October  |
-|                       |                                                                         |  1977                                                |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Parallel Title         |- Used for non-English-language items                                    |- Niños con Necesidades Médicas Especiales: Boletín   |
-|                       |                                                                         |  para familias, Enero de 2011                        |
-|                       |- For serials in multiple languages (e.g., English-language and Spanish- |                                                      |
-|                       |  language versions published together in a single issue), the main title|                                                      |
-|                       |  will be in English and the parallel title will be in the other language|- Lista de Proveedores de Cuidado Primario y          |
-|                       |                                                                         |  Hospitales, Diciembre de 2008                       |
-|                       |- For serials in a language other than English, the parallel title is the|                                                      |
-|                       |  English-language version (if known)                                    |                                                      |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Series Title           |Included when a serial is also part of one or more series                |- Argonne National Laboratory Reports                 |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Fiscal Year 1994                                    |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Sort Title             |- A special, non-display title that forces a numerical or chronological  |- Retort, 1959-10                                     |
-|                       |  sort rather than an alphabetical one when "sort by title" is chosen    |                                                      |
-|                       |                                                                         |- Texas Quarterly Census of Employment and Wages by   |
-|                       |- Sort titles can be useful for serials when there is no volume/issue    |  Industry and County, 2009, Q1                       |
-|                       |  number if you don't want it to sort alphabetically (e.g., April,       |                                                      |
-|                       |  August, December; Fall, Spring, Summer; Fortieth, Seventy-Second,      |- Texas General and Special Laws, Legislature 57,     |
-|                       |  Thirty-Fifth; etc.)                                                    |  Session 3                                           |
-|                       |                                                                         |                                                      |
-|                       |- It can also be used to place an index in a sequence (e.g., the index to|- FCC Report, S2, V40x, P1                            |
-|                       |  volumes 1-40 between volumes 40 and 41)                                |                                                      |
-|                       |                                                                         |- Links Western Area Conference, 25                   |
-|                       |- Since these titles do not display, shortened or abbreviated forms may  |                                                      |
-|                       |  be used (but this will affect how they sort when viewed alongside other|- Texas Talking Book News, 2012-24                    |
-|                       |  items)                                                                 |                                                      |
-|                       |                                                                         |                                                      |
-|                       |- Note that for items with specific dates (e.g., months or seasons) it   |                                                      |
-|                       |  may be less necessary since they will still sort chronologically "by   |                                                      |
-|                       |  date" vs. multiple documents with the same publication date            |                                                      |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
-|Uniform Title          |A standardized title, such as a consistent title pattern (generally      |- Agency Strategic Plan, for the fiscal years ...     |
-|                       |taken from an OCLC record, when relevant)                                |                                                      |
-|                       |                                                                         |- Annual financial report for fiscal year ... of the  |
-|                       |                                                                         |  Court of Appeals--Eight District.                   |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Summary of Enactments ... Legislature: Regular      |
-|                       |                                                                         |  Session ... Called Session ...                      |
-|                       |                                                                         |                                                      |
-|                       |                                                                         |- Recreational Fishing Regulations: Effective ...     |
-+-----------------------+-------------------------------------------------------------------------+------------------------------------------------------+
+
 
 
 Common Issues:
@@ -250,8 +233,13 @@ Common Issues:
 |                                              |                                                | | *Display Note:* "Vol. XCVIII, No. 2."            |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 |If a title includes abbreviations such as     |Write out full words in the title and include a | | *Main Title:* Cheiftain, Volume 12, Number 3,    |
-|"Vol.", No.", etc:                            |note                                            |   March 1964                                       |
+|"Vol.", "No.", etc:                           |note                                            |   March 1964                                       |
 |                                              |                                                | | *Display Note:* "Vol. 12, Number 3."             |
++----------------------------------------------+------------------------------------------------+----------------------------------------------------+
+|If the issue covers multiple volume/issue     |Include both/all with a hyphen or slash --      | | Scouting, Volume 70, Number 3, May-June 1982     |
+|numbers or months/seasons:                    |generally match item formatting, but choose the |                                                    |
+|                                              |most common/logical punctuation to keep titles  | | Hillviews, Volume 42, Number 1, Fall/Winter 2011 |
+|                                              |consistent across a particular publication      |                                                    |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 |If information on the item is known to be     |Put the correct information in the title using  | | *Main Title:* The Age, Volume [10], Number 10,   |
 |incorrect (e.g., if the Roman numerals are not|[square brackets] and include a note as needed  |   October 1989                                     |
@@ -260,11 +248,11 @@ Common Issues:
 |                                              |                                                |*Main Title:* Chieftain, Volume [1], Number [2],    |
 |                                              |                                                |October 1952                                        |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
-|If the issue covers multiple volume/issue     |Include both/all with a hyphen or slash --      | | Scouting, Volume 70, Number 3, May-June 1982     |
-|numbers or months/seasons:                    |generally match item formatting, but choose the |                                                    |
-|                                              |most common/logical punctuation to keep titles  | | Hillviews, Volume 42, Number 1, Fall/Winter 2011 |
-|                                              |consistent across a particular publication      |                                                    |
-+----------------------------------------------+------------------------------------------------+----------------------------------------------------+
+
+
+
+
+
 
 
 .. _serial-names:
@@ -340,24 +328,23 @@ Common Issues:
 ^^^^^^^^^^^^^^
 
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
-|If a person named in the item has an          |- Do not include the person(s) if there does not  |*Name:* United States. Office of Experiment         |
-|ambiguous relationship to the item:           |  seem to be an explicable connection (e.g., the  |Stations.                                           |
+|If a person named in the item has an          |- Do not include the person(s) if there does not  |                                                    |
+|ambiguous relationship to the item:           |  seem to be an explicable connection (e.g., the  |                                                    |
 |                                              |  executive board of an agency, with no           |                                                    |
-|                                              |  explanation that they contributed to the item)  |*Type:* Organization                                |
-|                                              |                                                  |                                                    |
-|                                              |- Include the person(s) if there is a reasonable  |*Role:* Author                                      |
-|                                              |  connection, depending on the kind of            |                                                    |
-|                                              |  relationship, e.g.:                             |*Info:* W.O. Atwater, Director                      |
-|                                              |                                                  +----------------------------------------------------+
-|                                              |  - The director of an agency who has no apparent |*Name:* Cooper, Sam B., III                         |
-|                                              |    personal contribution to an agency report:    |                                                    |
-|                                              |    include the name in the info field for the    |*Type:* Person                                      |
-|                                              |    agency                                        |                                                    |
-|                                              |                                                  |*Role:* Author or introduction, etc.                |
-|                                              |  - The director of an agency who has (at least)  |                                                    |
-|                                              |    written an introductory remark/transmittal    |*Info:* Manager, Purchased Health Services Unit     |
+|                                              |  explanation that they contributed to the item)  |                                                    |
+|                                              +--------------------------------------------------+----------------------------------------------------+
+|                                              |- Include the person(s) if there is a reasonable  |- *Name:* United States. Office of Experiment       |
+|                                              |  connection, depending on the kind of            |  Stations.                                         |
+|                                              |  relationship, e.g.:                             |- *Type:* Organization                              |
+|                                              |                                                  |- *Role:* Author                                    |
+|                                              |  - The director of an agency who has no apparent |- *Info:* W.O. Atwater, Director                    |
+|                                              |    personal contribution to an agency report:    +----------------------------------------------------+
+|                                              |    include the name in the info field for the    |- *Name:* Cooper, Sam B., III                       |
+|                                              |    agency                                        |- *Type:* Person                                    |
+|                                              |  - The director of an agency who has (at least)  |- *Role:* Author or introduction, etc.              |
+|                                              |    written an introductory remark/transmittal    |- *Info:* Manager, Purchased Health Services Unit   |
 |                                              |    letter/etc.: include them as a contributor    |                                                    |
-|                                              |    (role: author or author of introduction, etc.)|                                                    |
+|                                              |    (role: author or author of introduction, etc. |                                                    |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 |If the role of persons is vague (e.g.,        |- If a general sense of their contribution can be |                                                    |
 |"Contributors"):                              |  determined -- e.g., in a magazine or journal,   |                                                    |
@@ -398,19 +385,19 @@ Overview:
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
-|The publisher is often the same agency listed as the primary creator (or parent|*Name:* United States. Government Printing   |
-|agency)                                                                        |Office.                                      |
+|- The publisher is often the same agency listed as the primary creator (or     | | *Name:* United States. Government Printing|
+|  parent agency)                                                               |   Office.                                   |
+|- Name formatting should align with :doc:`publisher </fields/publisher>`       | | *Location:* Washington D.C.               |
+|  guidelines, e.g.:                                                            |                                             |
+|                                                                               +---------------------------------------------+
+|  - Hierarchical organizations should have a period after each level of the    | | *Name:* Texas Commission on Environmental |
+|    hierarchy (and at the end), listed from largest to smallest                |   Quality                                   |
+|                                                                               | | *Location:* Austin, Texas                 |
+|  - Whenever possible/applicable, an `authorized form <https://id.loc.gov/>`_  |                                             |
+|    should be used, if available (particularly for government agencies and     |                                             |
+|    organizations)                                                             |                                             |
 |                                                                               |                                             |
-|Name formatting should align with [publisher][] guidelines, e.g.:              |*Location:* Washington D.C.                  |
-|                                                                               |                                             |
-|- Hierarchical organizations should have a period after each level of the      +---------------------------------------------+
-|  hierarchy (and at the end), listed from largest to smallest                  |*Name:* Texas Commission on Environmental    |
-|                                                                               |Quality                                      |
-|- Whenever possible/applicable, an `authorized form <https://id.loc.gov/>`_    |                                             |
-|  should be used, if available (particularly for government agencies and       |*Location:* Austin, Texas                    |
-|  organizations)                                                               |                                             |
-|                                                                               |                                             |
-|Location names are written out (e.g., city, state ; city, country)             |                                             |
+|- Location names are written out (e.g., city, state ; city, country)           |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
 
@@ -529,52 +516,56 @@ Description
 Overview:
 ^^^^^^^^^
 
-+-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
-| **Type**              | **Guidelines**                                                        | **Examples**                                       |
-+=======================+=======================================================================+====================================================+
-|Content Description    |- Generally the content description will be essentially the same across|Agency strategic plan for the Texas Department of   |
-|                       |  all records for the publication                                      |Motor Vehicles describing the organization's planned|
-|                       |                                                                       |services, activities, and other goals during fiscal |
-|                       |- This is a brief, 1-3 sentence description, including some combination|years 2013 through 2017.                            |
-|                       |  of:                                                                  +----------------------------------------------------+
-|                       |                                                                       |Journal published by the Texas State Historical     |
-|                       |  - Kind of item/publication                                           |Association containing articles written by members  |
-|                       |  - Frequency of publication                                           |of the Junior Historians about various aspects of   |
-|                       |  - Content/goals of the publication and/or agency                     |Texas history.                                      |
-|                       |                                                                       +----------------------------------------------------+
-|                       |- Additionally, it may be important to include details about the       |Biannual publication "devoted to the rich history of|
-|                       |  particular issue, e.g.:                                              |Dallas and North Central Texas" as a way to "examine|
-|                       |                                                                       |the many historical legacies--social, ethnic,       |
-|                       |  - Issue theme                                                        |cultural, political--which have shaped the modern   |
-|                       |  - Page number of an index                                            |city of Dallas and the region around it."  This     |
-|                       |  - Specific topics covered                                            |issue focuses on "Law and Disorder."                |
-|                       |                                                                       +----------------------------------------------------+
-|                       |                                                                       |Yearbook for Hardin-Simmons University in Abilene,  |
-|                       |                                                                       |Texas including photos of and information about the |
-|                       |                                                                       |university, student body, professors, and           |
-|                       |                                                                       |organizations.  Name indexes start on page 314.     |
-|                       |                                                                       +----------------------------------------------------+
-|                       |                                                                       |Weekly newspaper from Livingston, Texas that        |
-|                       |                                                                       |includes local, state, and national news along with |
-|                       |                                                                       |advertising.                                        |
-|                       |                                                                       +----------------------------------------------------+
-|                       |                                                                       |Monthly report outlining tax revenues and           |
-|                       |                                                                       |remittances for alcoholic beverages, listed by city,|
-|                       |                                                                       |for January 2021.  It also compares the statistics  |
-|                       |                                                                       |to the same period for the previous year.           |
-+-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
-|Physical Description   |- Follow the :ref:`guidelines for text <description-books>` and include|254 p. : ill., ports. ; 32 cm.                      |
-|                       |  any known information                                                |                                                    |
-|                       |                                                                       |82 p. ; 23 cm.                                      |
-|                       |- The general format template for text items is:                       |                                                    |
-|                       |  # p : {ill./col.ill./ports./etc.} ; h cm.                            |12, HC12 p. : ill. ; 27 cm.                         |
-|                       |                                                                       |                                                    |
-|                       |                                                                       |iv, [141] p.                                        |
-|                       |                                                                       |                                                    |
-|                       |                                                                       |[357] p. ; 28 cm.                                   |
-|                       |                                                                       |                                                    |
-|                       |                                                                       |4 p.                                                |
-+-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
++-----------------------------------------------------------------------+----------------------------------------------------+
+| **Guidelines**                                                        | **Examples**                                       |
++=======================================================================+====================================================+
+|*Content Description*                                                                                                       |
++-----------------------------------------------------------------------+----------------------------------------------------+
+|- Generally the content description will be essentially the same across|Agency strategic plan for the Texas Department of   |
+|  all records for the publication                                      |Motor Vehicles describing the organization's planned|
+|                                                                       |services, activities, and other goals during fiscal |
+|- This is a brief, 1-3 sentence description, including some combination|years 2013 through 2017.                            |
+|  of:                                                                  +----------------------------------------------------+
+|                                                                       |Journal published by the Texas State Historical     |
+|  - Kind of item/publication                                           |Association containing articles written by members  |
+|  - Frequency of publication                                           |of the Junior Historians about various aspects of   |
+|  - Content/goals of the publication and/or agency                     |Texas history.                                      |
+|                                                                       +----------------------------------------------------+
+|- Additionally, it may be important to include details about the       |Biannual publication "devoted to the rich history of|
+|  particular issue, e.g.:                                              |Dallas and North Central Texas" as a way to "examine|
+|                                                                       |the many historical legacies--social, ethnic,       |
+|  - Issue theme                                                        |cultural, political--which have shaped the modern   |
+|  - Page number of an index                                            |city of Dallas and the region around it."  This     |
+|  - Specific topics covered                                            |issue focuses on "Law and Disorder."                |
+|                                                                       +----------------------------------------------------+
+|                                                                       |Yearbook for Hardin-Simmons University in Abilene,  |
+|                                                                       |Texas including photos of and information about the |
+|                                                                       |university, student body, professors, and           |
+|                                                                       |organizations.  Name indexes start on page 314.     |
+|                                                                       +----------------------------------------------------+
+|                                                                       |Weekly newspaper from Livingston, Texas that        |
+|                                                                       |includes local, state, and national news along with |
+|                                                                       |advertising.                                        |
+|                                                                       +----------------------------------------------------+
+|                                                                       |Monthly report outlining tax revenues and           |
+|                                                                       |remittances for alcoholic beverages, listed by city,|
+|                                                                       |for January 2021.  It also compares the statistics  |
+|                                                                       |to the same period for the previous year.           |
++-----------------------------------------------------------------------+----------------------------------------------------+
+|*Physical Description*                                                                                                      |
++-----------------------------------------------------------------------+----------------------------------------------------+
+|- Follow the :ref:`guidelines for text <description-books>` and include|254 p. : ill., ports. ; 32 cm.                      |
+|  any known information                                                |                                                    |
+|                                                                       |82 p. ; 23 cm.                                      |
+|- The general format template for text items is:                       |                                                    |
+|  # p : {ill./col.ill./ports./etc.} ; h cm.                            |12, HC12 p. : ill. ; 27 cm.                         |
+|                                                                       |                                                    |
+|                                                                       |iv, [141] p.                                        |
+|                                                                       |                                                    |
+|                                                                       |[357] p. ; 28 cm.                                   |
+|                                                                       |                                                    |
+|                                                                       |4 p.                                                |
++-----------------------------------------------------------------------+----------------------------------------------------+
 
 
 
@@ -594,12 +585,12 @@ Common Issues:
 |each volume:                                  |  in the interest of parsing information without|                                                    |
 |                                              |  duplication, consider:                        |*Citation Page Start:* 60                           |
 |                                              |                                                |                                                    |
-|                                              |  [a] using the total number of content pages in|*Citation Page End:* 88                             |
-|                                              |      brackets (so that users know "how long"   +----------------------------------------------------+
-|                                              |      the issue is) and                         |*Physical Description:* vii, 180 p.                 |
-|                                              |  [b] adding the page numbers to the Citation   |                                                    |
-|                                              |      field in Page Start and Page End entries  |*Citation Page Start:* 1                            |
-|                                              |      (for search engines)                      |                                                    |
+|                                              |  a. using the total number of content pages in |*Citation Page End:* 88                             |
+|                                              |     brackets (so that users know "how long"    +----------------------------------------------------+
+|                                              |     the issue is) and                          |*Physical Description:* vii, 180 p.                 |
+|                                              |  b. adding the page numbers to the Citation    |                                                    |
+|                                              |     field in Page Start and Page End entries   |*Citation Page Start:* 1                            |
+|                                              |     (for search engines)                       |                                                    |
 |                                              |                                                |*Citation Page End:* 180                            |
 |                                              |                                                +----------------------------------------------------+
 |                                              |- Always add a display note                     |*Display Note:* Pagination is continuous across     |
@@ -630,10 +621,10 @@ Overview:
 |                       |                                                                       |                                                    |
 |                       |                                                                       |- North Texas State University                      |
 +-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
-|Library of Congress    |All serials should have the term "Periodicals"                         |- Periodicals                                       |
+|Library of Congress    |- All serials should have the term "Periodicals"                       |- Periodicals                                       |
 |Genre/Form Terms       |                                                                       |                                                    |
-|(LCGFT)                |When relevant/appropriate, use the search modal to add relevant term(s)|- Newsletters                                       |
-|                       |related to the type of publication                                     |                                                    |
+|(LCGFT)                |- When relevant/appropriate, use the search modal to add relevant      |- Newsletters                                       |
+|                       |  term(s) related to the type of publication                           |                                                    |
 |                       |                                                                       |- Course catalogs                                   |
 |                       |                                                                       |                                                    |
 |                       |                                                                       |- Student yearbooks                                 |
@@ -646,21 +637,21 @@ Overview:
 |                       |                                                                       |                                                    |
 |                       |                                                                       |- Law reviews                                       |
 +-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
-|University of North    |At least one UNTL-BS term is required for Portal records               |- Government and Law - State Agencies               |
+|University of North    |- At least one UNTL-BS term is required for Portal records             |- Government and Law - State Agencies               |
 |Texas Libraries Browse |                                                                       |                                                    |
-|Subjects (UNTL-BS)     |Choose term(s) that describe the general concept of the entire         |- Business, Economics and Finance - Medicine -      |
+|Subjects (UNTL-BS)     |- Choose term(s) that describe the general concept of the entire       |- Business, Economics and Finance - Medicine -      |
 |                       |                                                                       |  Doctors                                           |
-|                       |Use terms appropriately, e.g., "State Agencies" would apply to annual  |- Education - Colleges and Universities             |
-|                       |reports or newsletters *about* an agency, but may not apply to         |                                                    |
-|                       |publications *issued by* an agency on other topics; financial reports  |- Social Life and Customs - Clubs and Organizations |
-|                       |*about* "Finance" rather than "Money" (physical currency)              |                                                    |
+|                       |- Use terms appropriately, e.g., "State Agencies" would apply to annual|- Education - Colleges and Universities             |
+|                       |  reports or newsletters *about* an agency, but may not apply to       |                                                    |
+|                       |  publications *issued by* an agency on other topics; financial reports|- Social Life and Customs - Clubs and Organizations |
+|                       |  *about* "Finance" rather than "Money" (physical currency)            |                                                    |
 +-----------------------+-----------------------------------------------------------------------+----------------------------------------------------+
-|Keywords               |When relevant, add general keywords that reflect the content of the    |- organizational planning                           |
-|                       |entire publication or specific topics for an individual issue          |                                                    |
+|Keywords               |- When relevant, add general keywords that reflect the content of the  |- organizational planning                           |
+|                       |  entire publication or specific topics for an individual issue        |                                                    |
 |                       |                                                                       |- monthly reports                                   |
-|                       |Keywords should be lowercase and plural, unless they are proper names  |                                                    |
+|                       |- Keywords should be lowercase and plural, unless they are proper names|                                                    |
 |                       |                                                                       |- water conservation                                |
-|                       |Do not duplicate words that are in other subject terms                 |                                                    |
+|                       |- Do not duplicate words that are in other subject terms               |                                                    |
 |                       |                                                                       |- financial reports                                 |
 |                       |                                                                       |                                                    |
 |                       |                                                                       |- budgets                                           |
@@ -815,13 +806,10 @@ Overview:
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
-|Choose the most appropriate resource type                                      |Journal/Magazine/Newsletter (text_journal)   |
-|                                                                               |                                             |
-|                                                                               |Report (text_report)                         |
-|                                                                               |                                             |
-|                                                                               |Yearbook (text_yearbook)                     |
-|                                                                               |                                             |
-|                                                                               |Book (text_book)                             |
+|Choose the most appropriate resource type                                      |- Journal/Magazine/Newsletter (text_journal) |
+|                                                                               |- Report (text_report)                       |
+|                                                                               |- Yearbook (text_yearbook)                   |
+|                                                                               |- Book (text_book)                           |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |The format should match the type                                               |text                                         |
 +-------------------------------------------------------------------------------+---------------------------------------------+
@@ -844,11 +832,13 @@ Identifier
 Overview:
 ^^^^^^^^^
 +-------------------------------------------------------------------------------+---------------------------------------------+
+|**Guidelines**                                                                 |**Examples**                                 |
++===============================================================================+=============================================+
 |Include any known identifiers on the item or from an OCLC/catalog record, e.g.:|*OCLC:* 16855105                             |
 |                                                                               |                                             |
 |- ISSN                                                                         |*ISSN:* 0038-478X                            |
 |- OCLC number                                                                  |                                             |
-|- LCCN (validated, in normalized format)                                       |*LCCN:* 12020299                             |
+|- LCCN (validated, in :ref:`normalized format <identifier-comments>`)          |*LCCN:* 12020299                             |
 |- Call number                                                                  |                                             |
 |- SuDOC or TxDOC number                                                        |*TxDOC:* A900.3 ST82                         |
 |- Report number                                                                |                                             |
@@ -868,7 +858,7 @@ Common Issues:
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
 
-.. serial_resources:
+.. _serial_resources:
 
 *********
 Resources
@@ -881,5 +871,5 @@ Resources
 
 **More Guidelines:**
 
--   `Quick-Start Metadata Guide </guides/quick-start-guide>`
+-   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_

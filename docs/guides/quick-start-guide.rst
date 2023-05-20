@@ -682,7 +682,7 @@ Additional Information
 ======================
 
 * If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see :ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For more information about where to find coverage information on an object, see :ref:`Where Can the Coverage Information be Found? <coverage-sources>`
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
 * To see additional examples, see :ref:`Other Examples <coverage-examples>`
 * For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
