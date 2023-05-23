@@ -47,10 +47,15 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    
 .. toctree::
    :maxdepth: 1
-   :caption: Project-Specific Guidelines
+   :caption: Content-Specific Guidelines
 
    /guides/serials
    /guides/correspondence
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Project-Specific Guidelines
+   
    /guides/trail
    /guides/patent
    /guides/comr
@@ -62,6 +67,11 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /minimally-viable-records
    /primary-sources-definition
    /creator-contributor-definitions
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Technical Guidelines
+
 
 Indices and tables
 ==================

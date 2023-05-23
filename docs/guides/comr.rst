@@ -357,6 +357,7 @@ More Examples
 
 
 **Senior Recital: 2006-11-01 - Michelle Cho, cello**
+
 -   *Name:* Cho, Michelle
 -   *Type:* Person
 -   *Role:* Performer
@@ -1045,7 +1046,7 @@ Additional Information
 ----------------------
 
 * If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see :ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For more information about where to find coverage information on an object, see :ref:`Where Can the Coverage Information be Found? <coverage-sources>`
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
 * To see additional examples, see :ref:`Other Examples <coverage-examples>`
 * For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
@@ -1125,6 +1126,7 @@ Examples
 --------
 
 **Doctoral recital**
+
 -   Audio Recording:
 
     -   *Is referenced by*: Program: `https://digital.library.unt.edu/ark:/67531/metadc9707/m1/204/ 

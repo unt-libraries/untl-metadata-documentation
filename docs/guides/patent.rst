@@ -5,7 +5,7 @@ Patent Collection Metadata Guidelines
 Before You Start
 ================
 
-1.  **`Sign into the editing system <https://edit.texashistory.unt.edu/>**  
+1.  **`Sign into the editing system <https://edit.texashistory.unt.edu/>`_**  
     (**Remember:** username is first initial and last name)
 2.  Choose a record that has not been edited by clicking on the
     title/thumbnail
@@ -27,9 +27,9 @@ Before You Start
         looking at the statement near the top of the text, where the
         inventor and patent title are listed
     -   If you find any of these problems (before or after you start),
-        add a note to the title -- e.g., "\#\#\#\#\# -- SKIP pages
-        mismatched" or "Garden-Hose -- SKIP inventor is not from Texas"
-        -- and leave the patent hidden without completing the record
+        add a note to the title (e.g., "\#\#\#\#\# -- SKIP pages
+        mismatched" or "Garden-Hose -- SKIP inventor is not from Texas") 
+        and leave the patent hidden without completing the record
 
 
 Steps
@@ -41,7 +41,7 @@ Steps
     -   You can view the pages by clicking on the thumbnail in the
         record
     -   It may be helpful to compare the instructions to the examples
-        (highlighted in gray for each step)
+        to verify formatting
     -   There is a :ref:`video tutorial <patent-tutorial>` at the bottom of the page if you
         would like to see an example record from start to finish
         
@@ -154,7 +154,7 @@ Creator
 |    formatting:                                                |-   Donovan, I. T.                         |
 |                                                               |-   Austin, John Overton                   |
 |    -   Invert names (last, first)                             |-   Milner, Thomas, Jr.                    |
-|    -   Space between initials                                 |                                           |
+|    -   Add a space between initials                           |                                           |
 |    -   Put necessary suffixes at the end                      |                                           |
 |    -   For other formatting questions, see the :doc:`full     |                                           |
 |        creator name guidelines </fields/creator>`             |                                           |
@@ -167,7 +167,7 @@ Creator
 |-   If the author is an assignor e.g., "Assignor of one-half   |-   *Name:* McKay, Robert B.               |
 |    to...":                                                    |-   *Role:* Inventor                       |
 |                                                               |-   *Info:* Robert B. McKay, of Logansport,|
-|    -   List the assignor as the creator with the role         |    Louisiana, Assignor of one-half to     |
+|    -   List the **assignor** as the creator with the role     |    Louisiana, Assignor of one-half to     |
 |        "inventor"                                             |    Bailey A. Roper, of Tenaha, Texas.     |
 |    -   Include the full statement in the creator information  |                                           |
 |    -   Include the assignee as a *contributor* with the role  |                                           |
@@ -220,6 +220,12 @@ Contributor
 |   -   There is not an illustration                                |                                           |
 |   -   The illustration does not include the name of a             |                                           |
 |       lithographer/illustrator                                    |                                           |
++-------------------------------------------------------------------+-------------------------------------------+
+|-   *Remember:* Remove an entry by clicking on the x sign at the   |                                           |
+|    bottom of the field                                            |                                           |
+|                                                                   |                                           |
+|    -   If you only remove the text, there will still be an empty  |                                           |
+|        placeholder in the public display                          |                                           |
 +-------------------------------------------------------------------+-------------------------------------------+
 
 *   :doc:`More contributor guidelines </fields/contributor>`
@@ -475,8 +481,8 @@ Note
 |-   Display notes are used only when there is information that |-   "Application filed June 9, 1890. Serial|
 |    does not fit in another field                              |    No. 354, 853. (No model.)"             |
 |-   **Quote** any special statements from the top of the text  |-   "Application filed January 17, 1885.   |
-|    (e.g., for other dates or notes)                           |    (No model.)"                           |
-|                                                               |-   "Application filed May 20, 1913, Serial|
+|    that is not documented elsewehre(e.g., for other dates or  |    (No model.)"                           |
+|    notes)                                                     |-   "Application filed May 20, 1913, Serial|
 |                                                               |    No. 768,815. Renewed January 19, 1915. |
 |                                                               |    Serial No. 3,170."                     |
 +---------------------------------------------------------------+-------------------------------------------+
@@ -501,10 +507,10 @@ Saving the Record
     -   Clicking publish saves a new version of the record.  Do not publish the 
         record if you have not made changes (the system will save a duplicate copy every time).
     -   Saving the record is separate from the visible/hidden flag; you can publish
-        the record and leave it "hidden," but it will not be findable to the public.
+        the record and leave it "hidden," but it will not be findable by the public.
     -   Records can still be edited after they are visible -- you have the ability
         to edit any records in the collection.  Just note that if you have criteria
-        set in the Dashboard (e.g., "only hidden records") you may have to change
+        set in the Dashboard (e.g., "only hidden records") you may have to adjust
         them to see all items.
 
 

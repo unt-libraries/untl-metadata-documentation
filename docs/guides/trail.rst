@@ -59,6 +59,7 @@ Main Titles
 -   As necessary, add minor punctuation (commas or colons) or clarifications in [square brackets]
 
 **Examples**
+
 -   Absorption-Multistage Flash Distillation Process
 -   Safety Rules for the Installation and Maintenance of Electrical Supply and Communication Lines
 -   30 Megawatt Heat Exchanger and Steam Generator for Sodium Cooled Reactor System: Volume 4, Operation and Maintenance Procedures (*Display Note:* “Volume IV.”)
@@ -78,6 +79,7 @@ Series Titles
     <https://digital.library.unt.edu/explore/collections/TRAIL/titles/>`_
 
 **Examples**
+
 -   Argonne National Laboratory Reports
 -   National Bureau of Standards Reports
 -   Babcock & Wilcox Company Reports
@@ -99,6 +101,7 @@ Serial Titles
 -   List of `current series/serial titles`_
 
 **Examples**
+
 -   Quarry Accidents in the United States During the Calendar Year
 -   ANL Reactor Chemistry Division Annual Progress Report
 
@@ -112,6 +115,7 @@ Added Titles
 
 
 **Examples**
+
 -   Argonne National Laboratory Report ANL-6437
 -   United States Bureau of Mines Bulletin 5258
 -   National Bureau of Standards Monograph 10
@@ -125,6 +129,7 @@ Alternate Titles
 
 
 **Examples**
+
 -   Report 1
 
     -   *Main Title:* Estimate of Known Recoverable Reserves and Preparation and Carbonizing
@@ -335,9 +340,6 @@ Additional Publisher Information
 Date
 ====
 
-General Information
--------------------
-
 -   The date that the report was issued/published
 -   Write dates in the form YYYY-MM-DD
 
@@ -506,9 +508,11 @@ Subjects and Keywords
 -   Choose the correct subject type from the drop-down menu for each one
 
 -   If relevant controlled terms are available, they must follow the formatting/punctuation rules of the controlled vocabulary
+
     -  E.g., Library of Congress Genre/Form Terms (LCGFT) are searchable in the edit form
 
 -   Informal keywords may be added as needed to help users locate the resource
+
     -   Use plural forms of keywords
     -   The singular form of a keyword may be used when there is no reasonable plural
     -   If the keyword's plural is formed irregularly, the singular and plural forms can be added separately
@@ -549,21 +553,24 @@ Coverage
 This field is optional.
 
 
--   Most reports will not have coverage information, but if the title/abstract references specific place(s) and/or date(s), they can be added here to make them browseable
+-   Most reports will not have coverage information, but if the title/abstract references specific place(s) and/or date(s), they should be added here to make them browseable
 
-    -   **Place Name:* If the report is about a specific place (e.g., "survey of Lea County, 
+    -   **Place Name:** If the report is about a specific place (e.g., "survey of Lea County, 
         New Mexico" or "the area near Los Angeles, California"), include the location
-    -   **Place Box:** Used to mark an area when a study is confined by specific coordinates (e.g., a quadrangle)
-    -   **Coverage Date:** If the report *content* references a specific period (e.g., a 
-        quarterly report or a survey/collection period) add a single coverage date for the time or range -- 
-        this is *not* the publication date
-
+    -   **Place Box:** Used to mark an area when a study is confined by specific coordinates (e.g., a quadrangle);
+        coordinates are automatically saved when a box is drawn or map boundary latitude/longitude (decimal format)
+        are entered in the place box model
+    -   **Coverage Date:** If the report *content* references a specific period (e.g., a quarterly report
+        of a survey/collection period) add a single coverage date for the time or range included -- this is
+        *not* the publication date
 
 **Examples**
 
 -   *Place Name:* United States - California - Los Angeles County
+-   *Place Name:* United States - Alaska
 -   *Coverage Date:* 1927
 -   *Coverage Date:* 1935-08-13/1958-09-03
+-   *Coverage Date:* 1945/1954
 
 
 .. _trail-coverage-links:
@@ -572,7 +579,7 @@ Additional Coverage Information
 -------------------------------
 
 * If you want to see the full guidelines for coverage, see the :doc:`Coverage </fields/coverage>` page
-* For more information about where to find coverage information on an object, see:ref:` Where Can the Coverage Information be Found? <coverage-sources>`
+* For more information about where to find coverage information on an object, see :ref:`Where Can the Coverage Information be Found? <coverage-sources>`
 * For additional guidelines regarding coverage places, dates, and eras (including a list of exceptions to the place name rules), see :ref:`How Should the Coverage be Filled in? <coverage-fill>`
 * To see additional examples, see :ref:`Other Examples <coverage-examples>`
 * For a list of useful links for coverage, see the :ref:`Resources <coverage-resources>` section
@@ -674,6 +681,7 @@ Additional Type and Format Information
 
 
 .. _trail-identifier:
+
 Identifier
 ==========
 
@@ -687,19 +695,12 @@ Identifier
 **Examples**
 
 -   *Report Number:* Y-1144
-
 -   *Report Number:* NBS technical note 343
-
 -   *Report Number:* ORNL-2866
-
 -   *Report Number:* HW-20847(Pt. 2) 
-
 -   *SUDOC Number:* Y 3.At 7:22/Y-1144
-
 -   *SUDOC Number:* C 13.3/a:524
-
 -   *Grant Number:* AT(05-1)-1642
-
 -   *Accession or Local Control Number:* NJ 16-10
 
 
