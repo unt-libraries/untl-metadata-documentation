@@ -72,6 +72,9 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    :maxdepth: 1
    :caption: Technical Guidelines
 
+   /technical-guidelines
+   
+   
 
 Indices and tables
 ==================
