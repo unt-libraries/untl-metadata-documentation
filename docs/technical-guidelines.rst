@@ -1,6 +1,6 @@
-=======================
-UNT Technical Guidelnes
-=======================
+========================
+UNT Technical Guidelines
+========================
 
 The pages in this section document technical and administrative aspects of UNT metadata.
 
