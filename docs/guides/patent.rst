@@ -5,8 +5,10 @@ Patent Collection Metadata Guidelines
 Before You Start
 ================
 
-1.  **`Sign into the editing system <https://edit.texashistory.unt.edu/>`_**  
-    (**Remember:** username is first initial and last name)
+1.  **Sign in** to the `editing system <https://edit.texashistory.unt.edu/>`_
+
+    -   **Remember:** username is first initial and last name
+
 2.  Choose a record that has not been edited by clicking on the
     title/thumbnail
     
@@ -17,13 +19,13 @@ Before You Start
     -   Do not choose a record labeled "SKIP" in the title -- these
         records have known problems or special considerations
         
-3.  In the item record, click on the thumbnail (upper-right side of the
-    screen) to see all of the pages
+3.  In the item summary click "View Item" or in the record, click on the 
+    thumbnail (upper-right side of the screen) to see all of the pages
     
     -   Skim the pages of the patent to make sure that there are no
         problems (e.g., all of the pages are included and the
         text/illustrations match)
-    -   Double-check that the inventor (or an assignee) is from Texas by
+    -   Double-check that the inventor (*or a personal assignee*) is from Texas by
         looking at the statement near the top of the text, where the
         inventor and patent title are listed
     -   If you find any of these problems (before or after you start),
@@ -40,7 +42,7 @@ Steps
     
     -   You can view the pages by clicking on the thumbnail in the
         record
-    -   It may be helpful to compare the instructions to the examples
+    -   It may be helpful to look at the example values
         to verify formatting
     -   There is a :ref:`video tutorial <patent-tutorial>` at the bottom of the page if you
         would like to see an example record from start to finish
@@ -90,18 +92,18 @@ Title
 +---------------------------------------------------------------+-------------------------------------------+
 |ADDED TITLE                                                                                                |
 +---------------------------------------------------------------+-------------------------------------------+
-|1.  For patents that have a titled illustration:               |-  *Main title:* Improvement in            |
+|-  For patents that have a titled illustration:                |-  *Main title:* Improvement in            |
 |                                                               |   Cotton-Pickers.                         |
 |   -   Include the title on the first illustration page as an  |                                           |
 |       added title                                             |-  *Added title:* Cotton Harvester.        |
 |   -   Do not include the illustration title if is identical to|                                           |
 |       the text title                                          |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
-|2.  *Remember:* Add an entry by clicking on the + sign at the  |-  *Main title:* Hand-Stamp.               |
-|    bottom of the field                                        |                                           |
+|-  *Remember:* Add an entry by clicking on the + sign at the   |-  *Main title:* Hand-Stamp.               |
+|   bottom of the field                                         |                                           |
 |                                                               |-  *Added title:* Hand Stamp.              |
-|    -   More about adding multiple entries in the editing      |                                           |
-|        system can be found here: `Help Guide`_                |                                           |
+|   -   More about adding multiple entries in the editing       |                                           |
+|       system can be found here: `Help Guide`_                 |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
 *   :doc:`More title guidelines </fields/title>`
@@ -113,21 +115,38 @@ Name
 
 All Names
 ---------
+-   These are general guidelines for both creators and contributors, but more
+    specific information is included for each of those fields individually
 
 +---------------------------------------------------------------+-------------------------------------------+
 |**Guidelines**                                                 |**Examples**                               |
 +===============================================================+===========================================+
-|1.  There are place-holders for the inventor, 2-4 witnesses,   |                                           |
-|    and the printer (the attorney name is not required)        |                                           |
+|GENERAL ENTRY PROCESS                                                                                      | 
++---------------------------------------------------------------+-------------------------------------------+
+|-   There are place-holders for the inventor, 2-4 witnesses,   |                                           |
+|    and the printer (the attorney name is not required and does|                                           |
+|    not need to be included)                                   |                                           |
 |                                                               |                                           |
 |    -   Make sure to remove the "\[\]" or "\{\}" in the name   |                                           |
 |        field                                                  |                                           |
+|    -   You should not need to change information in the       |                                           |
+|        drop-down menus for place-holder values                |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
-|2.  You should not need to change information in the drop-down |-  *Name:* Thomas, George C.               |
-|    menus                                                      |                                           |
-|3.  Write out standard abbreviations but include the alternate |-  *Info:* Geo C. Thomas                   |
+|-   If necessary, add additional name entries after the        |-  Assignee                                |
+|    place-holders (e.g., for a second inventor)                |-  Inventor                                |
+|-   Choose the appropriate type/role from the drop-down menus  |-  Illustrator                             |
++---------------------------------------------------------------+-------------------------------------------+
+|NAME FORMATTING                                                                                            |
++---------------------------------------------------------------+-------------------------------------------+
+|-  For persons:                                                |                                           |
+|                                                               |                                           |
+|    -   Invert names (last, first)                             |                                           |
+|    -   Add a space between initials                           |                                           |
+|    -   Put necessary suffixes at the end                      |                                           |
+|                                                               |                                           |
+|-   Write out standard abbreviations but include the alternate |-  *Name:* Thomas, George C.               |
 |    (abbreviated) form in the creator/contributor information, |                                           |
-|    e.g.:                                                      |                                           |
+|    e.g.:                                                      |-  *Info:* Geo C. Thomas                   |
 |                                                               |                                           |
 |    -   Chas. = Charles                                        |                                           |
 |    -   Geo. = George                                          |                                           |
@@ -136,9 +155,13 @@ All Names
 |    -   Thos. = Thomas                                         |                                           |
 |    -   Wm. = William                                          |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
-|4.  If necessary, add additional name entries after the        |-  Assignee                                |
-|    place-holders (e.g., for a second inventor)                |-  Inventor                                |
-|5.  Choose the appropriate type/role from the drop-down menus  |-  Illustrator                             |
+|-  For organizations:                                          |                                           |
+|                                                               |                                           |
+|   -   Use a standard version, if known                        |                                           |
+|       (see the :ref:`Contributor <patent-contributor>` section|                                           |
+|       since many of the names occur frequently)               |                                           |
+|   -   Write the name of the organization as it is printed on  |                                           |
+|       the patent                                              |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 
 
@@ -151,13 +174,9 @@ Creator
 |**Guidelines**                                                 |**Examples**                               |
 +===============================================================+===========================================+
 |-   Add fullest version of the inventor's name(s) using proper |-   Allgaier, George E.                    |
-|    formatting:                                                |-   Donovan, I. T.                         |
-|                                                               |-   Austin, John Overton                   |
-|    -   Invert names (last, first)                             |-   Milner, Thomas, Jr.                    |
-|    -   Add a space between initials                           |                                           |
-|    -   Put necessary suffixes at the end                      |                                           |
-|    -   For other formatting questions, see the :doc:`full     |                                           |
-|        creator name guidelines </fields/creator>`             |                                           |
+|    formatting (see :ref:`above <patent-names>`)               |-   Donovan, I. T.                         |
+|-   For other formatting questions, see the :doc:`full creator |-   Austin, John Overton                   |
+|    name guidelines </fields/creator>`                         |-   Milner, Thomas, Jr.                    |
 +---------------------------------------------------------------+-------------------------------------------+
 |-   Add the author statement from the header to the information|-   Augustus C. Allen, of Houston, Texas.  |
 |    section                                                    |-   Charles Porter, of Fort Worth, Texas.  |
@@ -186,7 +205,7 @@ Contributor
 +===================================================================+===========================================+
 |-   Add the two witnesses who are listed at the end of the text    |-   Hollinghead, John S.                   |
 |-   Use the same formatting as creator names (see also:            |-   Northen, Mary Eva                      |
-|    :doc:`full contributor name guidelines </fields/contributor>`  |                                           |
+|    :doc:`full contributor name guidelines </fields/contributor>`) |                                           |
 +-------------------------------------------------------------------+-------------------------------------------+
 |-   Different witnesses may have signed the illustration (if       |-   *Name:* Osgood, R. F.                  |
 |    present)                                                       |                                           |
@@ -204,8 +223,7 @@ Contributor
 |                                                                   |-  *Role:* Printer                         |
 |    -   When in doubt as to the type, assume that the name is a    |                                           |
 |        company (organization)                                     |-  *Info:* N. Peters, Photo-Lithographer,  |
-|    -   When possible, use the same form of the name               |   Washington D.C.                         |
-|    -   If the lithographer is one of these companies, use the     |                                           |
+|    -   If the lithographer is one of these companies, use the     |   Washington D.C.                         |
 |        exact name below:                                          |                                           |
 |                                                                   |                                           |
 |        -   A.M. Photo-Lithogr. Co.                                |                                           |
@@ -326,25 +344,25 @@ Physical Description
 |                               |                               |                               |                               |paginated text pages : text has            |
 |                               |                               |                               |                               |illustrations ; 23 cm. tall)*              |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
-|Variations                                                                                                                                                                 |
+|*Variations*                                                                                                                                                               |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
-|remove if no illustrations     |            --                 |remove if no illustrations     |               --              |2 p. ; 23 cm.                              |
+|remove if no illustrations     |             --                |remove if no illustrations     |               --              |2 p. ; 23 cm.                              |
 |                               |                               |                               |                               +-------------------------------------------+
 |                               |                               |                               |                               |*(2 paginated text pages with no           |
 |                               |                               |                               |                               |illustrations ; 23 cm. tall)*              |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
-|no brackets if numbered        |                               |               --              |               --              |3 sheets, 3 p. : ill ; 23 cm.              |
-|                               |                               |                               |                               +-------------------------------------------+
+|no brackets if illustrations   |             --                |               --              |               --              |3 sheets, 3 p. : ill ; 23 cm.              |
+|are numbered                   |                               |                               |                               +-------------------------------------------+
 |                               |                               |                               |                               |*(3 paginated illustration pages labeled   |
 |                               |                               |                               |                               |"sheet 1-3", 3 paginated text pages : text |
 |                               |                               |                               |                               |has illustrations ; 23 cm. tall)*          |
 +-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
-|                               |use brackets if un-numbered    |               --              |               --              |[1] p. ; 23 cm.                            |
+|            --                 |use brackets if un-numbered    |               --              |               --              |[1] p. ; 23 cm.                            |
 |                               |                               |                               |                               +-------------------------------------------+
 |                               |                               |                               |                               |*(1 unpaginated text page with no          |
 |                               |                               |                               |                               |illustrations ; 23 cm. tall)*              |
-+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------------------+
-|                               |                               |                               |                               |[2] p. : ill. ; 23 cm.                     |
++-------------------------------+                               +-------------------------------+-------------------------------+-------------------------------------------+
+|            --                 |                               |               --              |               --              |[2] p. : ill. ; 23 cm.                     |
 |                               |                               |                               |                               +-------------------------------------------+
 |                               |                               |                               |                               |*(1 unpaginated illustration and 1         |
 |                               |                               |                               |                               |unpaginated text page : text has           |
@@ -362,7 +380,7 @@ Subject
 |**Guidelines**                                                 |**Examples**                               |
 +===============================================================+===========================================+
 |The general terms that are pre-populated in the records may    |                                           |
-|remain, but you should add at least 1-2 more specific subjects |                                           |
+|remain, but you should add at least 1-2 more-specific subjects |                                           |
 |for locating the particular patent                             |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 |UNTL-BS  (University of North Texas Libraries Browse Subjects                                              |
@@ -481,10 +499,10 @@ Note
 |-   Display notes are used only when there is information that |-   "Application filed June 9, 1890. Serial|
 |    does not fit in another field                              |    No. 354, 853. (No model.)"             |
 |-   **Quote** any special statements from the top of the text  |-   "Application filed January 17, 1885.   |
-|    that is not documented elsewehre(e.g., for other dates or  |    (No model.)"                           |
+|    that is not documented elsewhere (e.g., for other dates or |    (No model.)"                           |
 |    notes)                                                     |-   "Application filed May 20, 1913, Serial|
-|                                                               |    No. 768,815. Renewed January 19, 1915. |
-|                                                               |    Serial No. 3,170."                     |
+|-   A note is not necessary if all information/dates are       |    No. 768,815. Renewed January 19, 1915. |
+|    documented in other parts of the record                    |    Serial No. 3,170."                     |
 +---------------------------------------------------------------+-------------------------------------------+
 
 *   :doc:`More note guidelines </fields/note>`
@@ -511,7 +529,7 @@ Saving the Record
     -   Records can still be edited after they are visible -- you have the ability
         to edit any records in the collection.  Just note that if you have criteria
         set in the Dashboard (e.g., "only hidden records") you may have to adjust
-        them to see all items.
+        them to see previously-edited items.
 
 
 .. _patent-special:
