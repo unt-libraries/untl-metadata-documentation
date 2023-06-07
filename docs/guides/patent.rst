@@ -42,7 +42,7 @@ Steps
     
     -   You can view the pages by clicking on the thumbnail in the
         record
-    -   It may be helpful to look at the example values
+    -   It may be helpful to look at the example values included with the guidelines
         to verify formatting
     -   There is a :ref:`video tutorial <patent-tutorial>` at the bottom of the page if you
         would like to see an example record from start to finish
