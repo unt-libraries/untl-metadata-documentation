@@ -103,7 +103,7 @@ Book: The Forgotten Colony: San Patricio de Hibernia: The History, the People an
     -   *UNTCAT:* b2047410
     -   *ISBN:* 0890152934
     -   *ISBN:* 9780890152935
-    -   *LCCN:* 88-103244
+    -   *LCCN:* 88103244
     -   *OCLC:* 18258092
 
 Journal issue: Chemical Literature, Volume 27, Number 1, Spring 1975
@@ -116,7 +116,7 @@ Department of Agriculture pamphlet: Production of pumpkins and squashes.
     -   *UNTCAT:* b3064507
 
 Architectural Drawing: Birdseye Perspective from Northwest, Restoration Legation de France, Austin, Texas, For Daughters of the Republic of Texas
-    *LOCAL-CONT-NO:* FRLM_810-1169
+    -   *LOCAL-CONT-NO:* FRLM_810-1169
 
 Music score: Ballet du Temple de la paix
     -   *CALL-NO:* M1520.L87 B3
@@ -130,7 +130,7 @@ Congressional report: Merit Pay for Elementary and Secondary School Teachers: Ba
     -   *LOCAL-CONT-NO:* 83-541S 1983-09-14
 
 Map: Location and Depths of the Artesian Wells of the Black and Grand Prairies of Texas
-    *OCLC:* 25650057
+    -   *OCLC:* 25650057
 
 Office of Technology Assessment report: Informing the Nation: Federal Information Dissemination in an Electronic Age
     -   *SUDOC:* Y 3.T 22/2:2 In 3/9/sum.
