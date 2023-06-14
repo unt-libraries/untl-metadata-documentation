@@ -130,12 +130,12 @@ General Creator Rules
 
 
 Creator Names
--------------
+=============
 
 .. _creator-name-per:
 
 Personal Names
-^^^^^^^^^^^^^^
+--------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -233,7 +233,7 @@ Personal Names
 .. _creator-name-org:
 
 Organization Names
-^^^^^^^^^^^^^^^^^^
+------------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -297,7 +297,7 @@ Organization Names
 .. _creator-type:
 
 Creator Type
-------------
+============
 
 -   Choose the appropriate creator type:
 
@@ -346,10 +346,10 @@ Creator Type
 .. _creator-role:
 
 Creator Role
-------------
+============
 
 Entering Roles
-^^^^^^^^^^^^^^
+--------------
 
 -   Choose the appropriate creator role from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
 
@@ -372,7 +372,7 @@ Entering Roles
 
 
 Assigning Roles
-^^^^^^^^^^^^^^^
+---------------
 
 -   Although the same list of roles is available for both creators and
     contributors, some roles will generally only apply to contributors:
@@ -436,7 +436,8 @@ Assigning Roles
 .. _creator-info:
 
 Creator Info
-------------
+============
+
 -   Info is not required as part of the creator entry
 -   This field is only for information about the creator listed in or
     directly related to the object

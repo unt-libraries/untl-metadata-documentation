@@ -68,7 +68,7 @@ General Publisher Rules
 .. _publisher-name:
 
 Publisher Names
----------------
+===============
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -149,7 +149,7 @@ Publisher Names
 .. _publisher-location:
 
 Publisher Location
-------------------
+==================
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -175,7 +175,8 @@ Publisher Location
 .. _publisher-info:
 
 Publisher Info
---------------
+==============
+
 -   Info is not required as part of the publisher entry
 -   This field is only for information about the publisher listed in or
     directly related to the object

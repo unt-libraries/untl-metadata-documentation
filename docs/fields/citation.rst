@@ -60,20 +60,20 @@ General Citation Guidelines
 
 
 Publication Title
------------------
+=================
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
-|-      Use the title of the publication                                        |Chemical Information Bulletin                   |
-|-      This will be the same as the serial title for full issues               +------------------------------------------------+
-|                                                                               |Proceedings of the International Conference on  |
-|                                                                               |Dublin Core and Metadata Applications           |
+|-  Use the title of the publication                                            |Chemical Information Bulletin                   |
+|-  This will be the same as the serial title for full issues                   +------------------------------------------------+
+|-  Generally do not include the publication title unless other components apply|Proceedings of the International Conference on  |
+|   (e.g., a volume and/or issue number)                                        |Dublin Core and Metadata Applications           |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 
 Pages
------
+=====
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
@@ -94,7 +94,7 @@ Pages
 
 
 Volume/Issue
-------------
+============
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
@@ -107,7 +107,7 @@ Volume/Issue
 
 
 Edition
--------
+=======
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
@@ -120,14 +120,14 @@ Edition
 
 
 Peer Reviewed
--------------
+=============
 
 -   If the item has been peer-reviewed (or juried, or refereed), choose "True" from the drop-down menu
 -   If the item has not been peer-reviewed, choose "False" from the drop-down menu
 -   If it is unclear whether the item has been peer-reviewed, do not include this sub-element
 
 Author String
--------------
+=============
 
 -   This field should only be included if all of the authors (or creators) are not listed on the item or accompanying information
 
@@ -137,7 +137,7 @@ Author String
 
 
 Preferred Citation
-------------------
+==================
 
 -   This field should only be included if the item or accompanying information includes a preferred citation, e.g., "Cite this article as..."
 -   List the citation exactly it as it appears on the item or accompanying information
@@ -145,8 +145,9 @@ Preferred Citation
 
 .. _citation-examples:
 
+**************
 Other Examples
-==============
+**************
 
 Paper Published in Conference Proceedings
    -    *Publication Title:* Proceedings of the International Conference on Dublin Core and Metadata Applications
@@ -156,7 +157,7 @@ Paper Published in Conference Proceedings
    -    *Peer Reviewed:* True
 
 Photograph
-   *Preferred Citation:* Please credit: USDA - Soil Conservation Service
+   -    *Preferred Citation:* Please credit: USDA - Soil Conservation Service
 
 Article Published in a Journal
    -    *Publication Title:* Journal of Vaishnava Studies
@@ -169,13 +170,14 @@ Full Serial Issue
    -    *Issue:* 2
 
 Revised Reference text
-   *Edition:* 3
+   -    *Edition:* 3
 
 
 .. _citation-comments:
 
+********
 Comments
-========
+********
 
 -   This field may be used in conjunction with the :doc:`Source </fields/source>` field
 -   This field may repeat information from other fields including :doc:`Source </fields/source>` and :doc:`Title </fields/title>` (in order to parse the citation components for search engines)
@@ -213,8 +215,9 @@ Comments
 
 .. _citation-resources:
 
+*********
 Resources
-=========
+*********
 
 -   UNT Citation Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/citationQualifiers/>`_
 

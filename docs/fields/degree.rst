@@ -80,7 +80,7 @@ General Degree Rules
 .. _degree-name:
     
 Degree Name
------------
+===========
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -96,7 +96,7 @@ Degree Name
 .. _degree-level:
 
 Degree Level
-------------
+============
 
 +-----------------------------------------------------------------------+---------------------------------------+
 | **Guideline**                                                         | **Examples**                          |
@@ -112,7 +112,7 @@ Degree Level
 .. _degree-type:
 
 Degree Publication Type
------------------------
+=======================
 
 
 +------------------------------------------------------------------------+---------------------------------------+
@@ -127,7 +127,7 @@ Degree Publication Type
 .. _degree-discipline:
 
 Degree Discipline
------------------
+=================
 
 
 +-----------------------------------------------------------+---------------------------------------+
@@ -141,7 +141,7 @@ Degree Discipline
 .. _degree-department:
 
 Academic Department
--------------------
+===================
 
 -   This subfield may be used for any items created at the University of North Texas
 -   For theses and dissertations, this should be the same as the
@@ -169,8 +169,7 @@ Academic Department
 .. _degree-grantor:
 
 Degree Grantor
---------------
-
+==============
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -252,3 +251,4 @@ Resources
 
 -   :doc:`Quick-Start Metadata Guide </guides/quick-start-guide>`
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
+

@@ -103,12 +103,12 @@ General Subject/Keyword Rules
 .. _subject-keywords:
     
 Keywords and Phrases (KWD)
---------------------------
+==========================
 
 .. _subject-kwdformat:
 
 Formatting Keywords
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -148,7 +148,8 @@ Formatting Keywords
 .. _subject-kwdassign:
 
 Assigning Keywords
-^^^^^^^^^^^^^^^^^^
+------------------
+
 -   When assigning keywords, keep in mind that they should help users find the item you're describing and also help the item be found with other, similar items
 -   Follow all formatting guidelines (e.g., generally lowercase and plural)
 -   Here are some suggestions:
@@ -189,7 +190,7 @@ Assigning Keywords
 .. _subject-animal:
 
 Named Animals (namedAnimal)
----------------------------
+===========================
 
 -   If an identified pet or other animal is visible in a photo or a
     primary subject of a text, the name can be added as a "Named Animal"
@@ -207,7 +208,7 @@ Named Animals (namedAnimal)
 .. _subject-person:
 
 Named Persons (named_person)
-----------------------------
+============================
 
 -   'Named persons' refers to people who are significant in some way to
     the content of the item (see below for clarification)
@@ -261,7 +262,7 @@ Named Persons (named_person)
 
 
 Should someone be a 'named person'?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------
 
 -   For images, the person must physically be part of the content
 -   For text, part of the content must be "about" the person
@@ -290,7 +291,7 @@ Should someone be a 'named person'?
 .. _subject-untlbs:
 
 UNT Libraries Browse Subjects (UNTL-BS)
----------------------------------------
+=======================================
 
 -   UNTL-BS terms are used for records in The Portal to Texas History
 -   For records about Portal objects, include at least one subject
@@ -336,7 +337,7 @@ Hannah Tarver (hannah.tarver@unt.edu).
 .. _subject-other:
 
 Subjects from Other Established Thesauri or Controlled Vocabularies
--------------------------------------------------------------------
+===================================================================
 
 -   The UNT Libraries schema supports a number of controlled
     vocabularies and encourages the use of any readily-available
@@ -353,7 +354,7 @@ Subjects from Other Established Thesauri or Controlled Vocabularies
 .. _subject-lcsh:
 
 Library of Congress Subject Headings (LCSH)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -381,7 +382,7 @@ Library of Congress Subject Headings (LCSH)
 .. _subject-lcgft:
 
 Library of Congress Genre/Form Terms (LCGFT)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------------
 
 -   If there are relevant genre/form terms (e.g., taken from an LCSH subject string), they may be added as subjects
 -   Note that unlike other subjects, these terms describe the *physical* item or *type* of content rather than what

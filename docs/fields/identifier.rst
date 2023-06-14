@@ -95,8 +95,9 @@ How Should the Identifier be Filled in?
 
 .. _identifier-examples:
 
+**************
 Other Examples
-==============
+**************
 
 Book: The Forgotten Colony: San Patricio de Hibernia: The History, the People and the Legends of the Irish Colony of McMullen-McGloin
     -   *CALL-NO:* F392.S237 H43 1981
@@ -140,24 +141,34 @@ Office of Technology Assessment report: Informing the Nation: Federal Informatio
 
 .. _identifier-comments:
 
+********
 Comments
-========
+********
+
 -   Identifiers provide information needed to retrieve a file from the
     storage system, to access a bitstream within a file, or to locate a
     physical object.
 -   Library of Congress Control Numbers should be verified as current, then normalized by:
 
-    -   adding zeros as necessary to make the right-most number 6 digits long
+    -   zero-padding the right-most number if necessary to make it 6 digits long
     -   removing all spaces and punctuation
     -   examples:
     
-        -   12-35651  >>  12035651
-        -   2001-214515  >>  2001214515
-        -   sc 85-7042  >>  sc85007042
++---------------+----+--------------+----+--------------+
+|Original       |    |              |    |Final         |
++===============+====+==============+====+==============+
+|12-35651       |    |12 035651     |    |12035651      |
++---------------+----+--------------+----+--------------+
+|2001-214515    | >> |2001 214515   | >> |2001214515    |
++---------------+----+--------------+----+--------------+
+|sc 85-7042     |    |sc 85 007042  |    |sc85007042    |
++---------------+----+--------------+----+--------------+
+
 
 .. _identifier-glossary:
 
-**Glossary of Identifier Qualifiers:**
+Glossary of Identifier Qualifiers
+=================================
 
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
 |Code                           |Name                           |Definition                                                     |
@@ -254,8 +265,9 @@ Comments
 
 .. _identifier-resources:
 
+*********
 Resources
-=========
+*********
 
 -   UNT Identifier Type `Controlled Vocabulary`_
 -   Library of Congress `Catalog <https://loc.gov/search/>`_

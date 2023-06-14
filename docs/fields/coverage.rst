@@ -107,7 +107,7 @@ General Coverage Guidelines
 .. _coverage-place:
 
 Place Name(s)
--------------
+=============
 
 -   Place names include sovereign political entities (such as countries)
     and continent-level regions
@@ -209,7 +209,7 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 Exceptions
-^^^^^^^^^^
+----------
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                 |
 +===============================================================================+=============================================+
@@ -241,7 +241,7 @@ Exceptions
 .. _coverage-historic:
 
 Historic Place Name
--------------------
+===================
 
 -   For places that have changed names, it may be appropriate to include a historic place name,
     so that users can still search the location in the coverage field
@@ -270,7 +270,7 @@ Historic Place Name
 .. _coverage-geo:
 
 Geocoordinates
----------------
+==============
 
 -   Place point and place box are used to represent specific coordinates
     when available information is more specific than a place name (e.g.,
@@ -292,7 +292,8 @@ Geocoordinates
 	entries should only be use along with the appropriate place name(s)
 
 Place Point
-^^^^^^^^^^^
+-----------
+
 -   Place points are appropriate to denote a specific location such as:
 
     -   The vantage point of an image (generally from ground level)
@@ -303,7 +304,7 @@ Place Point
         vantage point)
 
 Place Box
-^^^^^^^^^
+---------
 
 -   Place boxes are appropriate when content encompasses an entire area,
     such as:
@@ -316,7 +317,7 @@ Place Box
 
 
 Multiple Geocodes
-^^^^^^^^^^^^^^^^^
+-----------------
 
 -   In specific cases where the content encompasses multiple points/areas
     place points and place boxes are repeatable, such as:
@@ -330,7 +331,7 @@ Multiple Geocodes
 .. _coverage-time:
 
 Time Period
------------
+===========
 
 -   Time period refers specifically to the browse structure used for
     Portal records
@@ -344,7 +345,7 @@ Time Period
 .. _coverage-date:
 
 Dates
------
+=====
 
 -   Use the 'Coverage Date' qualifier for date(s) represented or
     discussed in the content
@@ -410,8 +411,9 @@ For additional date formats and examples, see :ref:`General Date Rules <date-fil
 
 .. _coverage-examples:
 
+**************
 Other Examples
-==============
+**************
 
 Drawing: Bird's eye view of Denton, Denton County, Texas: 1883
    -    *Place Name:* United States - Texas - Denton County - Denton
@@ -482,8 +484,9 @@ Photograph: The Arsenal - Kremlin offices
 
 .. _coverage-comments:
 
+********
 Comments
-========
+********
 
 -   Note: As of February 2014, we are using the `GeoNames Database`_ as
     the authority for place names rather than the Getty Thesaurus of
@@ -562,8 +565,9 @@ Based on the browse features in the `CIA World Factbook`_ the following countrie
 
 .. _coverage-resources:
 
+*********
 Resources
-=========
+*********
 
 -   UNT Coverage Qualifier `Controlled Vocabulary <https://digital2.library.unt.edu/vocabularies/coverage-qualifiers/>`__
 

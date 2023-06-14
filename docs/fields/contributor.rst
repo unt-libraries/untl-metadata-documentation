@@ -126,12 +126,12 @@ General Contributor Rules
     
     
 Contributor Names
------------------
+=================
 
 .. _contributor-name-per:
 
 Personal Names
-^^^^^^^^^^^^^^
+--------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -228,7 +228,7 @@ Personal Names
 .. _contributor-name-org:
 
 Organization Names
-^^^^^^^^^^^^^^^^^^
+------------------
 
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
@@ -295,7 +295,7 @@ Organization Names
 .. _contributor-type:
 
 Contributor Type
-----------------
+================
 
 -   Choose the appropriate contributor type:
 
@@ -344,10 +344,10 @@ Contributor Type
 .. _contributor-role:
 
 Contributor Role
-----------------
+================
 
 Entering Roles
-^^^^^^^^^^^^^^
+--------------
 
 -   Choose the appropriate contributor role from the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`_
 
@@ -369,7 +369,7 @@ Entering Roles
 
 
 Assigning Roles
-^^^^^^^^^^^^^^^
+---------------
 
 -   Although the same list of roles is available for both creators and
     contributors, some roles will generally only apply to contributors:
@@ -433,7 +433,8 @@ Assigning Roles
 .. _contributor-info:
 
 Contributor Info
-----------------
+================
+
 -   Info is not required as part of the contributor entry
 -   This field is only for information about the contributor listed in or
     directly related to the object
