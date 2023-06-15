@@ -376,6 +376,8 @@ Additional Information
 
 ####
 
+.. _description:
+
 .. _quick-description-content:
 
 ********************************
@@ -521,6 +523,8 @@ Additional Information
 
 
 .. _quick-subject:
+
+.. _subject:
 
 *********************
 Subjects and Keywords
@@ -797,6 +801,10 @@ Additional Information
 
 .. _quick-institution-collection:
 
+.. _collection:
+
+.. _institution:
+
 **************************
 Institution and Collection
 **************************
@@ -839,6 +847,10 @@ Additional Information
 
 
 .. _quick-type-format:
+
+.. _resource-type:
+
+.. _format:
 
 ************************
 Resource Type and Format
@@ -986,14 +998,45 @@ Additional Information
 ####
 
 
-.. _quick-degree:
+.. _quick-other:
 
-******************
+************
+Other Fields
+************
+These fields are much less common and tend to be used in specific circumstances.  If you think they may apply to your items, use the links to look at  the full guidelines.
+
+
+.. _citation:
+
+Citation
+========
+
+.. note::
+
+   This field is **optional** — this field applies to serial issues or parts
+   
+* Citation is primarily used to break out source components (e.g., volume, issue, etc.) for serials (also see :doc:`serial guidelines </guides/serials>`)
+* Full guidelines for this field are on the :doc:`Citation </fields/citation>` page.
+
+
+.. _rights:
+
+Rights
+======
+
+.. note::
+
+   This field is **optional** to note access and usage permissions
+
+* A generic statement displays on the public interface, so this field is often only used when an item has an explicit rights or usage statement
+* This field can also be used for items in the UNT Digital Library that have restricted access
+* Full guidelines for this field are on the :doc:`Rights </fields/rights>` page.
+
+
+.. _degree:
+
 Degree Information
-******************
-
-What Do You Need to Know About Degree?
-======================================
+==================
 
 .. note::
 
@@ -1001,10 +1044,6 @@ What Do You Need to Know About Degree?
    
 * Projects that use the Degree field include: UNT Electronic Theses and Dissertations (ETDs), materials in the UNT Scholarly Works collection, and other items created by the UNT community
 * Some information can be used to filter search results if users are looking for research in a particular academic field
-
-Formatting Information
-======================
-
 * If you are working on items created at UNT, read the full guidelines for this field on the :doc:`Degree Information </fields/degree>` page.
 
 ####
