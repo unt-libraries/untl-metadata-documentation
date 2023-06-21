@@ -510,7 +510,7 @@ Comments
     object is about and the format in some cases, subject-related
     information may be repeated in other elements:
 
-    -   An image with a :doc:`Resource Type </fields/type>` "Photograph" could have a more
+    -   An image with a :doc:`Resource Type </fields/resource-type>` "Photograph" could have a more
         specific subject term such as "cabinet card," (keyword), "Panoramic photographs" (TGM),
         or "group portraits" (AAT)
     -   To describe a resource, such as an autobiography, that is about

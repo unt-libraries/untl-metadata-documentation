@@ -48,7 +48,7 @@ Metadata Input Guidelines:
    /fields/collection
    /fields/institution
    /fields/rights
-   /fields/type
+   /fields/resource-type
    /fields/format
    /fields/identifier
    /fields/degree

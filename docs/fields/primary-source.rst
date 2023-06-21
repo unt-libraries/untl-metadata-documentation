@@ -116,7 +116,7 @@ Other Examples:
 Comments
 ********
 
--   To describe the category of the resource, use the :doc:`Resource Type </fields/type>` element.
+-   To describe the category of the resource, use the :doc:`Resource Type </fields/resource-type>` element.
 
 
 

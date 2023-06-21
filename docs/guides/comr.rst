@@ -1354,7 +1354,7 @@ Resource Type and Format
 Additional Information
 ----------------------
 
-* If you want to see the full guidelines for resource types, see the :doc:`Resource Type </fields/type>` page
+* If you want to see the full guidelines for resource types, see the :doc:`Resource Type </fields/resource-type>` page
 * To see additional resource type examples, see :ref:`Other Examples <type-examples>`
 * To see the full list of resource types, see the :ref:`Comments <type-comments>` section
 * If you want to see the full guidelines for formats, see the :doc:`Format </fields/format>` page

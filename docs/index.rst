@@ -38,7 +38,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /fields/collection
    /fields/institution
    /fields/rights
-   /fields/type
+   /fields/resource-type
    /fields/format
    /fields/identifier
    /fields/degree

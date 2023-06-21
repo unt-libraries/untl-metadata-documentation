@@ -51,8 +51,8 @@ How Should the Format be Filled in?
 +-----------------------------------------------------------------------+---------------------------------------+
 | **Guideline**                                                         | **Examples**                          |
 +=======================================================================+=======================================+
-|The format should match the broad :doc:`resource type </fields/type>`  |                                       |
-|for the item:                                                          |                                       |
+|The format should match the broad :doc:`resource type                  |                                       |
+|</fields/resource-type>` for the item:                                 |                                       |
 +-----------------------------------------------------------------------+---------------------------------------+
 |    -      Books, yearbooks, letters, newspapers, theses and           |text - Text                            |
 |           dissertations and other text                                |                                       |
@@ -100,7 +100,7 @@ Comments
 -   For physical (as opposed to digital) nature, including size and
     duration of the original resource, use the :ref:`Physical Description <description-physical>` element.
 -   For categorizing the primary content of the resource (to aid in
-    searching) use the :doc:`Resource Type </fields/type>` element.
+    searching) use the :doc:`Resource Type </fields/resource-type>` element.
 -   Format is important because choice of appropriate preservation
     strategies depends on knowing the structural type of the digital
     manifestation
