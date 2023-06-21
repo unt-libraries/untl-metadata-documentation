@@ -4,7 +4,7 @@ Introduction
 
 All items in the Digital Collections must have a metadata record in order to go online.  
 This page describes the workflow for creating metadata before upload, which is primarily a manual process, 
-by entering information in the `New Record Creator <https://edit.texashistory.unt.edu/nrc/>`_. 
+by entering information in the `New Record Creator <https://edit.texashistory.unt.edu/nrc/>`_ (this does require an editing account). 
 Metadata creation generally happens near the end of the process, roughly outlined here:
 
 
@@ -59,9 +59,9 @@ In some cases, it makes sense to create a single record per item before each one
 |Information about the  |Information is entered |The individual record  |The item is online in the Digital  |
 |item is identified or  |into the metadata form |is uploaded with the   |Collections & the record can be    |
 |collected              |using the NRC and      |item & all associated  |edited.  Most of the time, all     |
-|                       |exported as an .xml    |image files            |information has been entered and   |
-|                       |file                   |                       |the item is publicly visible, but  |
-|                       |                       |                       |may also be incomplete or hidden   |
+|                       |exported as a          |image files            |information has been entered and   |
+|                       |metadata.xml file to   |                       |the item is publicly visible, but  |
+|                       |the item folder        |                       |may also be incomplete or hidden   |
 |                       |                       |                       |for various reasons                |
 +-----------------------+-----------------------+-----------------------+-----------------------------------+
 
@@ -92,10 +92,10 @@ For most of the collections that we move online, general "templates" are created
 |Information about the  |Information is entered |-  Template information|All items are online in the Digital|
 |items is identified or |into the metadata form |   is applied to each  |Collections & the records can be   |
 |collected; items are   |using the NRC and      |   item in the set     |edited.  These records are hidden  |
-|sorted by type or topic|exported as an .xml    |-  Each item identifier|until an editor can complete       |
-|(as needed)            |file                   |   is appended to the  |individual records and make them   |
-|                       |                       |   main title and added|publicly visible                   |
-|                       |                       |   as a "local control |                                   |
+|sorted by type or topic|exported as a          |-  Each item identifier|until an editor can complete       |
+|(as needed)            |super_metadata.xml file|   is appended to the  |individual records and make them   |
+|                       |to the directory of    |   main title and added|publicly visible                   |
+|                       |items it describes     |   as a "local control |                                   |
 |                       |                       |   number" (identifier)|                                   |
 +-----------------------+-----------------------+-----------------------+-----------------------------------+
 
