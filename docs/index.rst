@@ -73,6 +73,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    :caption: Technical Guidelines
 
    /technical-guidelines
+   /technical/metadata-workflow
    
    
 
