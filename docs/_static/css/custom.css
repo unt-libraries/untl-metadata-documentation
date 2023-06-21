@@ -1,7 +1,11 @@
 @import url("theme.css");
 
-a.icon.icon-home::before {
-	display: none !important;
+.wy-side-nav-search a.icon.icon-home::before {
+    display: none;
+}
+
+.wy-breadcrumbs a.icon.icon-home::before {
+    color: #00853e;
 }
 
 .wy-nav-content{
