@@ -62,10 +62,12 @@ How Should the Resource Type be Filled in?
 **If it is difficult to determine the resource type:**
 
 1.  Check the glossary (in the :ref:`Comments <type-comments>` section) for clarification.
-2.  Consider whether it fits one of these scenarios:
+2.  Note that the type may reflect the *content* rather than the *format* if they are different, for example:
 
     -   Page images of textual items should be entered as "Text" not "Image"
     -   A series of negatives/photographs should be entered as "Photograph"
+    -   "Papers" are documents about special topics similar to reports, not items *made* of paper
+    -   Born-digital types may not "match" the file format, e.g., not all content saved as a .xml is a "Dataset"
     
 3.  A page with both text and images should be entered based on which
     portion is most dominant or important, i.e.,
