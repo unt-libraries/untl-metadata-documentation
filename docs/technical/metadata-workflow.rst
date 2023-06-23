@@ -161,4 +161,4 @@ Related Links
     -   `Clippings <https://edit.texashistory.unt.edu/nrc/new/?t=4119>`_
     -   `Oral Histories (text) <https://edit.texashistory.unt.edu/nrc/new/?t=3699>`_
     -   `Oral Histories (audio) <https://edit.texashistory.unt.edu/nrc/new/?t=3690>`_
-	-   `Other Text <https://edit.texashistory.unt.edu/nrc/new/?t=3692>`_
+    -   `Other Text <https://edit.texashistory.unt.edu/nrc/new/?t=3692>`_
