@@ -142,6 +142,15 @@ Related Links
 
 -   `New Record Creator`_
 
+    -   "Generic" templates for material types (not collection specifc)
+    
+        -   `Photos <https://edit.texashistory.unt.edu/nrc/new/?t=3691>`_
+        -   `Letters <https://edit.texashistory.unt.edu/nrc/new/?t=3689>`_
+        -   `Clippings <https://edit.texashistory.unt.edu/nrc/new/?t=4119>`_
+        -   `Oral Histories (text) <https://edit.texashistory.unt.edu/nrc/new/?t=3699>`_
+        -   `Oral Histories (audio) <https://edit.texashistory.unt.edu/nrc/new/?t=3690>`_
+        -   `Other Text <https://edit.texashistory.unt.edu/nrc/new/?t=3692>`_
+
 -   UNT `Trusted Digital Repository <https://library.unt.edu/digital-libraries/trusted-digital-repository/>`_ documentation
 
     -   `Preferred File Formats <https://library.unt.edu/digital-projects-unit/standards/digital-file-formats/>`_
@@ -153,12 +162,3 @@ Related Links
     -   `About Scanning Materials`_
     -   `Organizing Files`_
     -   `Creating Metadata`_
-
--   "Generic" templates for material types (not collection specifc)
-
-    -   `Photos <https://edit.texashistory.unt.edu/nrc/new/?t=3691>`_
-    -   `Letters <https://edit.texashistory.unt.edu/nrc/new/?t=3689>`_
-    -   `Clippings <https://edit.texashistory.unt.edu/nrc/new/?t=4119>`_
-    -   `Oral Histories (text) <https://edit.texashistory.unt.edu/nrc/new/?t=3699>`_
-    -   `Oral Histories (audio) <https://edit.texashistory.unt.edu/nrc/new/?t=3690>`_
-    -   `Other Text <https://edit.texashistory.unt.edu/nrc/new/?t=3692>`_
