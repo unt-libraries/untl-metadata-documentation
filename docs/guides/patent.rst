@@ -136,6 +136,13 @@ All Names
 |    place-holders (e.g., for a second inventor)                |-  Inventor                                |
 |-   Choose the appropriate type/role from the drop-down menus  |-  Illustrator                             |
 +---------------------------------------------------------------+-------------------------------------------+
+|-   Agents can only be listed once per record across both the  |-  *Name:* Blourse, D. B.                  |
+|    creator *and* contributor fields                           |                                           |
+|-   If a person (or organization) has multiple roles, they     |-  *Info:* Witness for text and            |
+|    should be listed once, with the most import or first-named |   illustration                            |
+|    role; the info section can be used to clarify additional   |                                           |
+|    roles                                                      |                                           |
++---------------------------------------------------------------+-------------------------------------------+
 |NAME FORMATTING                                                                                            |
 +---------------------------------------------------------------+-------------------------------------------+
 |-  For persons:                                                |                                           |
