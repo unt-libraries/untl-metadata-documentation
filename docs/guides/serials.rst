@@ -344,7 +344,7 @@ Common Issues:
 |                                              |  - The director of an agency who has (at least)  |- *Role:* Author or introduction, etc.              |
 |                                              |    written an introductory remark/transmittal    |- *Info:* Manager, Purchased Health Services Unit   |
 |                                              |    letter/etc.: include them as a contributor    |                                                    |
-|                                              |    (role: author or author of introduction, etc. |                                                    |
+|                                              |    (role: author or author of introduction, etc.)|                                                    |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 |If the role of persons is vague (e.g.,        |- If a general sense of their contribution can be |                                                    |
 |"Contributors"):                              |  determined -- e.g., in a magazine or journal,   |                                                    |
