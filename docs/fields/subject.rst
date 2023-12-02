@@ -356,27 +356,27 @@ Subjects from Other Established Thesauri or Controlled Vocabularies
 Library of Congress Subject Headings (LCSH)
 -------------------------------------------
 
-+-----------------------------------------------------------+----------------------------------------+
-| **Guideline**                                             | **Examples**                           |
-+===========================================================+========================================+
-|-  Subject strings must be formulated according to Library |-  Bee culture -- Equipment and supplies|
-|   of Congress rules                                       |-  Fort Wolters (Tex.)                  |
-|-  Terms are separated by a double dash (Term -- Term)     |-  Capote, Truman, 1924-                |
-+-----------------------------------------------------------+----------------------------------------+
-|-  If the item has been previously described in a library  |Costume -- China -- History --          |
-|   catalog record, that may be a good source of relevant   |Ming-Qing dynasties, 1368-1912          |
-|   subjects                                                |                                        |
-|-  You may need to tweak the formatting depending on how   |                                        |
-|   the subjects are displayed                              |                                        |
-+-----------------------------------------------------------+----------------------------------------+
-|-  Generally prefer terms that don't duplicate other       |-  *LCSH:* Texas. Department of         |
-|   information, e.g.:                                      |   Transportation -- Evaluation         |
-|                                                           |-  *LCGFT:* Periodicals                 |
-|   -   Consider leaving out geographic subdivisions that   |-  *LCGFT:* Annual reports              |
-|       overlap with coverage place(s)                      |                                        |
-|   -   Use separate LCGFT terms rather than form           |                                        |
-|       subdivisions                                        |                                        |
-+-----------------------------------------------------------+----------------------------------------+
++-----------------------------------------------------------+-----------------------------------------+
+| **Guideline**                                             | **Examples**                            |
++===========================================================+=========================================+
+|-  Subject strings must be formulated according to Library |-  Bee culture \-- Equipment and supplies|
+|   of Congress rules                                       |-  Fort Wolters (Tex.)                   |
+|-  Terms are separated by a double dash (Term -- Term)     |-  Capote, Truman, 1924-                 |
++-----------------------------------------------------------+-----------------------------------------+
+|-  If the item has been previously described in a library  |Costume \-- China \-- History \--        |
+|   catalog record, that may be a good source of relevant   |Ming-Qing dynasties, 1368-1912           |
+|   subjects                                                |                                         |
+|-  You may need to tweak the formatting depending on how   |                                         |
+|   the subjects are displayed                              |                                         |
++-----------------------------------------------------------+-----------------------------------------+
+|-  Generally prefer terms that don't duplicate other       |-  *LCSH:* Texas. Department of          |
+|   information, e.g.:                                      |   Transportation \-- Evaluation         |
+|                                                           |-  *LCGFT:* Periodicals                  |
+|   -   Consider leaving out geographic subdivisions that   |-  *LCGFT:* Annual reports               |
+|       overlap with coverage place(s)                      |                                         |
+|   -   Use separate LCGFT terms rather than form           |                                         |
+|       subdivisions                                        |                                         |
++-----------------------------------------------------------+-----------------------------------------+
 
 
 .. _subject-lcgft:
@@ -412,8 +412,8 @@ Other Examples:
 Navy pamphlet: The Texas Navy.
     -   *UNTL-BS:* Military and Wars - Wars - Texas Revolution
     -   *UNTL-BS:* Military and War - Transportation - Ships
-    -   *LCSH:* Texas -- History, Naval
-    -   *LCSH:* Texas -- History -- Republic, 1836-1846
+    -   *LCSH:* Texas \-- History, Naval
+    -   *LCSH:* Texas \-- History \-- Republic, 1836-1846
     -   *KWD:* independence
     -   *KWD:* battleships
     -   *KWD:* schooners
@@ -468,12 +468,12 @@ Surgical Scalpel, 19th Century
 
 Thesis: An 8-step program: Shaping and fixed-time food delivery effects on several approximations and undesired responses in goats
     -   *LCSH:* Clicker training (Animal training)
-    -   *LCSH:* Goats -- Training
+    -   *LCSH:* Goats \-- Training
     -   *LCSH:* Operant conditioning
     -   *KWD:* shaping
 
 Music score: Daisy: Opera in Two Acts
-    -   *LCSH:* Low, Juliette Gordon, 1860-1927 -- Drama
+    -   *LCSH:* Low, Juliette Gordon, 1860-1927 \-- Drama
     -   *LCSH:* Girl Scouts
     -   *LCSH:* Operas
     -   *LCGFT:* Scores
