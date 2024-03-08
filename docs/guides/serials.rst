@@ -53,6 +53,9 @@ Series Titles
 |                                          |  - [North Texas Politics & Public Officers]           |
 +------------------------------------------+-------------------------------------------------------+
 
+For series titles to be most useful, the patterns for similar titles need to be consistent, particularly for chronological titles (e.g., Fiscal Year YYYY) where a single year generally refers to a range of time other than a calendar year.  So, Fiscal Year 1970 would start summer/fall 1969 and end around summer 1970; Academic Year 1932 would start with the fall semester in 1931 and end in suummer 1932.
+
+
 
 .. _serial-serials:
 
