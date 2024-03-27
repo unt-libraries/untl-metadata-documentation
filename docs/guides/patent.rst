@@ -207,51 +207,49 @@ Creator
 Contributor
 -----------
 
-+-------------------------------------------------------------------+-------------------------------------------+
-|**Guidelines**                                                     |**Examples**                               |
-+===================================================================+===========================================+
-|-   Add the two witnesses who are listed at the end of the text    |-   Hollinghead, John S.                   |
-|-   Use the same formatting as creator names (see also:            |-   Northen, Mary Eva                      |
-|    :doc:`full contributor name guidelines </fields/contributor>`) |                                           |
-+-------------------------------------------------------------------+-------------------------------------------+
-|-   Different witnesses may have signed the illustration (if       |-   *Name:* Osgood, R. F.                  |
-|    present)                                                       |                                           |
-|                                                                   |-   *Info:* Witness for illustration.      |
-|    -   There are two placeholders with "Witness for illustration."|                                           |
-|        in the info section                                        |                                           |
-|    -   If the signatures are readable, add the names of the       |                                           |
-|        illustration witnesses                                     |                                           |
-|    -   If there are no witnesses, or if any names are illegible,  |                                           |
-|        unavailable, or if you aren't certain about them, remove   |                                           |
-|        the placeholder(s)                                         |                                           |
-+-------------------------------------------------------------------+-------------------------------------------+
-|-   If there is an illustration, include the name at the bottom of |-  *Name:* Norris Peters Co.               |
-|    the illustration as the "printer"                              |                                           |
-|                                                                   |-  *Role:* Printer                         |
-|    -   When in doubt as to the type, assume that the name is a    |                                           |
-|        company (organization)                                     |-  *Info:* N. Peters, Photo-Lithographer,  |
-|    -   If the lithographer is one of these companies, use the     |   Washington D.C.                         |
-|        exact name below:                                          |                                           |
-|                                                                   |                                           |
-|        -   A.M. Photo-Lithogr. Co.                                |                                           |
-|        -   Norris Peters Co. (*sometimes written as "N. Peters"*) |                                           |
-|        -   Andrew B. Graham Co.                                   |                                           |
-|                                                                   |                                           |
-|    -   Add the statement to the information section (as it is     |                                           |
-|        printed on the patent)                                     |                                           |
-+-------------------------------------------------------------------+-------------------------------------------+
-|-  Delete the place-holder entry for the printer if:               |                                           |
-|                                                                   |                                           |
-|   -   There is not an illustration                                |                                           |
-|   -   The illustration does not include the name of a             |                                           |
-|       lithographer/illustrator                                    |                                           |
-+-------------------------------------------------------------------+-------------------------------------------+
-|-   *Remember:* Remove an entry by clicking on the x sign at the   |                                           |
-|    bottom of the field                                            |                                           |
-|                                                                   |                                           |
-|    -   If you only remove the text, there will still be an empty  |                                           |
-|        placeholder in the public display                          |                                           |
-+-------------------------------------------------------------------+-------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|**Guidelines**                                                                                                                                                     |**Examples**                               |
++===================================================================================================================================================================+===========================================+
+|-   Add the two witnesses who are listed at the end of the text                                                                                                    |-   Hollinghead, John S.                   |
+|-   Use the same formatting as creator names (see also: :doc:`full contributor name guidelines </fields/contributor>`)                                             |-   Northen, Mary Eva                      |
+|-   Note that witnesses are always labeled "witnesses" but may not be listed on every patent                                                                       |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|-   Different witnesses may have signed the illustration (if present)                                                                                              |-   *Name:* Osgood, R. F.                  |
+|                                                                                                                                                                   |-   *Info:* Witness for illustration.      |
+|    -   There are two placeholders with "Witness for illustration." in the info section                                                                            |                                           |
+|    -   If the signatures are readable, add the names of the illustration witnesses                                                                                |                                           |
+|    -   If there are no witnesses, or if any names are illegible, unavailable, or if you aren't certain about them, remove the placeholder(s)                      |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|-   If you have difficulty reading signatures on an illustration page:                                                                                             |                                           |
+|                                                                                                                                                                   |                                           |
+|    -   See if the names look similar to the text witnesses (some signed both) or  assignee names                                                                  |                                           |
+|    -   Check `this list                                                                                                                                           |                                           |
+|        <https://edit.texashistory.unt.edu/facet/?fq=untl_collection%3ATXPT&t=dc_contributor_facet&qualifier=dc_contributor.wit_facet&prefix=&facet_sort=count>`_  |                                           |
+|        of frequent names; some witnesses signed many patents                                                                                                      |                                           |
+|    -   Remember that many signatures contain abbreviations like "Wm" or "Geo" or "Jas"                                                                            |                                           |
+|                                                                                                                                                                   |                                           |
+|-   If you still cannot read the name, remove the placeholder                                                                                                      |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|-   If there is an illustration, include the name at the bottom of the illustration as the "printer"                                                               |-  *Name:* Norris Peters Co.               |
+|                                                                                                                                                                   |-  *Role:* Printer                         |
+|    -   When in doubt as to the type, assume that the name is a company (organization)                                                                             |-  *Info:* N. Peters, Photo-Lithographer,  |
+|    -   If the lithographer is one of these companies, use the exact name below:                                                                                   |   Washington D.C.                         |
+|                                                                                                                                                                   |                                           |
+|        -   A.M. Photo-Lithogr. Co.                                                                                                                                |                                           |
+|        -   Norris Peters Co. (*sometimes written as "N. Peters"*)                                                                                                 |                                           |
+|        -   Andrew B. Graham Co.                                                                                                                                   |                                           |
+|                                                                                                                                                                   |                                           |
+|    -   Add the statement to the information section (as it is printed on the patent)                                                                              |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|-  Delete the place-holder entry for the printer if:                                                                                                               |                                           |
+|                                                                                                                                                                   |                                           |
+|   -   There is not an illustration                                                                                                                                |                                           |
+|   -   The illustration does not include the name of a lithographer/illustrator                                                                                    |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
+|-   *Remember:* Remove an entry by clicking on the x sign at the bottom of the field                                                                               |                                           |
+|                                                                                                                                                                   |                                           |
+|    -   If you only remove the text, there will still be an empty placeholder in the public display                                                                |                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------+
 
 *   :doc:`More contributor guidelines </fields/contributor>`
 
