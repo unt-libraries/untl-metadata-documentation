@@ -44,6 +44,7 @@ Steps
         record
     -   It may be helpful to look at the example values included with the guidelines
         to verify formatting
+    -   `These slides <https://docs.google.com/presentation/d/1qQ2g_ja1w2k37LX-ACQFeT7I68ePNvbNAECYVmduicg/edit?usp=sharing>`__ show visual examples of where to find information in the patents 
     -   There is a :ref:`video tutorial <patent-tutorial>` at the bottom of the page if you
         would like to see an example record from start to finish
         
