@@ -119,58 +119,62 @@ All Names
 -   These are general guidelines for both creators and contributors, but more
     specific information is included for each of those fields individually
 
-+---------------------------------------------------------------+-------------------------------------------+
-|**Guidelines**                                                 |**Examples**                               |
-+===============================================================+===========================================+
-|GENERAL ENTRY PROCESS                                                                                      | 
-+---------------------------------------------------------------+-------------------------------------------+
-|-   There are place-holders for the inventor, 2-4 witnesses,   |                                           |
-|    and the printer (the attorney name is not required and does|                                           |
-|    not need to be included)                                   |                                           |
-|                                                               |                                           |
-|    -   Make sure to remove the "\[\]" or "\{\}" in the name   |                                           |
-|        field                                                  |                                           |
-|    -   You should not need to change information in the       |                                           |
-|        drop-down menus for place-holder values                |                                           |
-+---------------------------------------------------------------+-------------------------------------------+
-|-   If necessary, add additional name entries after the        |-  Assignee                                |
-|    place-holders (e.g., for a second inventor)                |-  Inventor                                |
-|-   Choose the appropriate type/role from the drop-down menus  |-  Illustrator                             |
-+---------------------------------------------------------------+-------------------------------------------+
-|-   Agents can only be listed once per record across both the  |-  *Name:* Blourse, D. B.                  |
-|    creator *and* contributor fields                           |                                           |
-|-   If a person (or organization) has multiple roles, they     |-  *Info:* Witness for text and            |
-|    should be listed once, with the most import or first-named |   illustration                            |
-|    role; the info section can be used to clarify additional   |                                           |
-|    roles                                                      |                                           |
-+---------------------------------------------------------------+-------------------------------------------+
-|NAME FORMATTING                                                                                            |
-+---------------------------------------------------------------+-------------------------------------------+
-|-  For persons:                                                |                                           |
-|                                                               |                                           |
-|    -   Invert names (last, first)                             |                                           |
-|    -   Add a space between initials                           |                                           |
-|    -   Put necessary suffixes at the end                      |                                           |
-|                                                               |                                           |
-|-   Write out standard abbreviations but include the alternate |-  *Name:* Thomas, George C.               |
-|    (abbreviated) form in the creator/contributor information, |                                           |
-|    e.g.:                                                      |-  *Info:* Geo C. Thomas                   |
-|                                                               |                                           |
-|    -   Chas. = Charles                                        |                                           |
-|    -   Geo. = George                                          |                                           |
-|    -   Jas. = James                                           |                                           |
-|    -   Jno. = John                                            |                                           |
-|    -   Thos. = Thomas                                         |                                           |
-|    -   Wm. = William                                          |                                           |
-+---------------------------------------------------------------+-------------------------------------------+
-|-  For organizations:                                          |                                           |
-|                                                               |                                           |
-|   -   Use a standard version, if known                        |                                           |
-|       (see the :ref:`Contributor <patent-contributor>` section|                                           |
-|       since many of the names occur frequently)               |                                           |
-|   -   Write the name of the organization as it is printed on  |                                           |
-|       the patent                                              |                                           |
-+---------------------------------------------------------------+-------------------------------------------+
++-------------------------------------------------------------------+-------------------------------------------+
+|**Guidelines**                                                     |**Examples**                               |
++===================================================================+===========================================+
+|GENERAL ENTRY PROCESS                                                                                          | 
++-------------------------------------------------------------------+-------------------------------------------+
+|-   There are place-holders for the inventor, 2-4 witnesses,       |                                           |
+|    and the printer (the attorney name is not required and does    |                                           |
+|    not need to be included)                                       |                                           |
+|                                                                   |                                           |
+|    -   Make sure to remove the "\[\]" or "\{\}" in the name       |                                           |
+|        field                                                      |                                           |
+|    -   You should not need to change information in the           |                                           |
+|        drop-down menus for place-holder values                    |                                           |
++-------------------------------------------------------------------+-------------------------------------------+
+|-   If necessary, add additional name entries after the            |-  Assignee                                |
+|    place-holders (e.g., for a second inventor)                    |-  Inventor                                |
+|-   Choose the appropriate type/role from the drop-down menus      |-  Illustrator                             |
++-------------------------------------------------------------------+-------------------------------------------+
+|-   Agents can only be listed once per record across both the      |-  *Name:* Blourse, D. B.                  |
+|    creator *and* contributor fields                               |                                           |
+|-   If a person (or organization) has multiple roles, they         |-  *Info:* Witness for text and            |
+|    should be listed once, with the most import or first-named     |   illustration                            |
+|    role; the info section can be used to clarify additional       |                                           |
+|    roles                                                          |                                           |
++-------------------------------------------------------------------+-------------------------------------------+
+|NAME FORMATTING                                                                                                |
++-------------------------------------------------------------------+-------------------------------------------+
+|-  For persons:                                                    |                                           |
+|                                                                   |                                           | 
+|    -   Invert names (last, first)                                 |                                           |
+|    -   Add a space between initials                               |                                           |
+|    -   Put necessary suffixes at the end                          |                                           |
+|                                                                   |                                           |
+|-   Write out standard abbreviations but include the alternate     |-  *Name:* Thomas, George C.               |
+|    (abbreviated) form in the creator/contributor information,     |                                           |
+|    e.g.:                                                          |-  *Info:* Geo C. Thomas                   |
+|                                                                   |                                           |
+|    -   Chas. = Charles                                            |                                           |
+|    -   Geo. = George                                              |                                           |
+|    -   Jas. = James                                               |                                           |
+|    -   Jno. = John                                                |                                           |
+|    -   Thos. = Thomas                                             |                                           |
+|    -   Wm. = William                                              |                                           |
+|                                                                   |                                           | 
+|-  Also see `this list                                             |                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth806914/m1/60/>`_|                                           |
+|   of less-common abbreviations of given names                     |                                           |
++-------------------------------------------------------------------+-------------------------------------------+
+|-  For organizations:                                              |                                           |
+|                                                                   |                                           |
+|   -   Use a standard version, if known                            |                                           |
+|       (see the :ref:`Contributor <patent-contributor>` section    |                                           |
+|       since many of the names occur frequently)                   |                                           |
+|   -   Write the name of the organization as it is printed on      |                                           |
+|       the patent                                                  |                                           |
++-------------------------------------------------------------------+-------------------------------------------+
 
 
 .. _patent-creator:
