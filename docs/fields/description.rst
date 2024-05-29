@@ -333,7 +333,7 @@ Books, pamphlets, and printed sheets
 |-  if the item does not have page numbers, the total pages of content can be   |                                             |
 |   included in [brackets]                                                      |A-M p.                                       |
 |                                                                               |                                             |
-|   -   also see :doc:`citation </fields/citation>` when this applies to serials|[41 p.]                                      |
+|   -   also see :doc:`citation </fields/citation>` when this applies to serials|[41] p.                                      |
 |       with continuous pagination                                              |                                             |
 |                                                                               |182-536 p.                                   |
 |-  folded pamphlets may be described as "1 pamphlet" with an option to include |                                             |
