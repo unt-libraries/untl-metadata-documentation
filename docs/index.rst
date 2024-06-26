@@ -14,7 +14,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started:
-   
+
    /guides/quick-start-guide
 
 .. toctree::
@@ -44,22 +44,22 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    /fields/degree
    /fields/note
    /fields/meta
-   
+
 .. toctree::
    :maxdepth: 1
    :caption: Content-Specific Guidelines
 
    /guides/serials
    /guides/correspondence
-   
+
 .. toctree::
    :maxdepth: 1
    :caption: Project-Specific Guidelines
-   
+
    /guides/trail
    /guides/patent
    /guides/comr
-      
+
 .. toctree::
    :maxdepth: 1
    :caption: Supplementary Documentation
@@ -74,8 +74,13 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
 
    /technical-guidelines
    /technical/metadata-workflow
-   
-   
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Vocabularies
+
+   /vocab/tabletop-game-genres
+
 
 Indices and tables
 ==================
