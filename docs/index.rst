@@ -7,10 +7,6 @@ The UNT Libraries actively promotes metadata-based digital resource management, 
 Our goal is to provide optimum searching, discovery, and retrieval of information by users of our digital collections, while ensuring long-term preservation and viability of the digital objects in our systems. 
 We employ a system of metadata developed in-house and based on qualified Dublin Core metadata elements that is called UNTL Metadata.
 
-.. note::
-
-   This project is under active development.
-
 .. toctree::
    :maxdepth: 2
    :caption: Getting Started:
