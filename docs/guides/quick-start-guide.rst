@@ -38,19 +38,22 @@ If you are working on metadata and discover that you have questions or come acro
 *****
 Title
 *****
-.. note:: 
+
+.. admonition:: Field requirement
    
    This field is **required**.
    
 
 What Do You Need to Know About Title?
 =====================================
-
+.. note:: 
+   
    * The title is what people usually see first, identifying the item
    * Every item must have a "Main Title"
    * The "Main Title" qualifier cannot be repeated: only 1 title entry can be labeled "Main Title"
    * It may help to look at the glossary (in the :ref:`Comments <title-comments>` section) if you want to know more about other types of titles
-
+   
+   
 Formatting Information
 ======================
 
@@ -95,20 +98,21 @@ Additional Information
 Creator
 *******
 
-.. note:: 
+.. admonition:: Field requirement
 
    This field is **optional** -- if the creator is unknown, leave it blank.
    
    
 What Do You Need to Know About Creator?
 =======================================
+.. note:: 
 
-* The creator field describes "who made this item"
-* There is no limit on the number of creators (but they should have an equal level of responsibility)
-* Each creator can only be listed once and may not also be a contributor
-* Creators have two required labels: type & role
-* Roles should explain "what the creator did" to make the item
-* Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
+    * The creator field describes "who made this item"
+    * There is no limit on the number of creators (but they should have an equal level of responsibility)
+    * Each creator can only be listed once and may not also be a contributor
+    * Creators have two required labels: type & role
+    * Roles should explain "what the creator did" to make the item
+    * Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
 
 Formatting Information
 ======================
@@ -159,7 +163,7 @@ Additional Information
 Contributor
 ***********
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** -- if there are no contributors or the contributors are unknown, leave it blank.
    
@@ -167,13 +171,14 @@ Contributor
 
 What Do You Need to Know About Contributor?
 ===========================================
-  
-* Contributors assist with creating part of the item, or have a tangential relationship to the item (e.g., donor of archival materials)
-* There is no limit on the number of contributors
-* Each contributor can only be listed once and may not also be a creator
-* Contributors have two required labels: type & role
-* Roles should explain "how the contributor helped" to make the item or the contributor's relationship to it
-* Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
+.. note:: 
+
+    * Contributors assist with creating part of the item, or have a tangential relationship to the item (e.g., donor of archival materials)
+    * There is no limit on the number of contributors
+    * Each contributor can only be listed once and may not also be a creator
+    * Contributors have two required labels: type & role
+    * Roles should explain "how the contributor helped" to make the item or the contributor's relationship to it
+    * Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
 
 Formatting Information
 ======================
@@ -228,7 +233,7 @@ Publisher
 *********
 
 
-.. note:: 
+.. admonition:: Field requirement
 
    This field is **optional** -- if there is no publisher or the publisher is unknown, leave it blank.
    
@@ -236,10 +241,11 @@ Publisher
 
 What Do You Need to Know About Publisher?
 =========================================
-   
-* The publisher field reflects "who formally published the item," generally for public sale or use
-* Some items could have multiple publishers, but consider whether additional publishers fit better as contributors
-* Creators who are also publishers can be included in both fields
+.. note:: 
+
+    * The publisher field reflects "who formally published the item," generally for public sale or use
+    * Some items could have multiple publishers, but consider whether additional publishers fit better as contributors
+    * Creators who are also publishers can be included in both fields
 
 Formatting Information
 ======================
@@ -280,17 +286,18 @@ Additional Information
 Date
 ****
 
-.. note:: 
+.. admonition:: Field requirement 
 
    This field is **optional** -- if the creation date is unknown, leave it blank.
 
 
 What Do You Need to Know About Date?
 ====================================
+.. note:: 
 
-* A creation date explains "when the original item was made"
-* The "Creation" qualifier cannot be repeated: only 1 date entry can be labeled "Creation"
-* Some items have multiple types of dates, but other date types should not occur without a creation date
+    * A creation date explains "when the original item was made"
+    * The "Creation" qualifier cannot be repeated: only 1 date entry can be labeled "Creation"
+    * Some items have multiple types of dates, but other date types should not occur without a creation date
 
 Formatting Information
 ======================
@@ -342,7 +349,7 @@ Additional Information
 Language
 ********
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **required**.
    
@@ -350,9 +357,10 @@ Language
 
 What Do You Need to Know About Language?
 ========================================
+.. note:: 
 
-* Language(s) reflect words that are not names, anywhere in the content of the item
-* The language field can be used to filter results when people are searching for materials
+    * Language(s) reflect words that are not names, anywhere in the content of the item
+    * The language field can be used to filter results when people are searching for materials
 
 Formatting Information
 ======================
@@ -393,18 +401,19 @@ Additional Information
 Description: Content Description
 ********************************
 
-.. note:: 
+.. admonition:: Field requirement
    
    This field is **required**.
 
 
 What Do You Need to Know About Content Description?
 ===================================================
+.. note:: 
 
-* The content description displays in search results and provides information for users about "what the item is"
-* The "Content Description" qualifier cannot be repeated: only 1 description entry can be labeled "Content Description"
-* Descriptions should describe the known content as objectively as possible
-* Contextual information should be used sparingly, but may be put in a note instead
+    * The content description displays in search results and provides information for users about "what the item is"
+    * The "Content Description" qualifier cannot be repeated: only 1 description entry can be labeled "Content Description"
+    * Descriptions should describe the known content as objectively as possible
+    * Contextual information should be used sparingly, but may be put in a note instead
 
 Formatting Information
 ======================
@@ -444,15 +453,17 @@ Additional Information
 Description: Physical Description
 *********************************
 
-.. note::
+.. admonition:: Field requirement
    
    This field is VERY strongly recommended.
    
 
 What Do You Need to Know About Physical Description?
 ====================================================
-   
-* Physical descriptions tell users "how long is the content?" (e.g., number of pages or minutes of runtime) or "how big is the item, physically?"
+.. note:: 
+
+    * Physical descriptions tell users "how long is the content?" (e.g., number of pages or minutes of runtime) or "how big is the item, physically?"
+    * The "Physical Description" qualifier cannot be repeated: only 1 description entry can be labeled "Physical Description"
 
 Formatting Information
 ======================
@@ -541,17 +552,18 @@ Additional Information
 Subjects and Keywords
 *********************
 
-.. note:: 
+.. admonition:: Field requirement 
 
    This field is **required**.
    
 
 What Do You Need to Know About Subject?
 =======================================
-   
-* Subjects assist users to search for items by topic or find "more items like this one"
-* Different kinds of subjects can be included, but controlled terms must be labeled and follow formatting rules
-* University of North Texas Libraries Browse Subject (UNTL-BS) terms can be used by public users in The Portal to Texas History to `"browse" by topics <https://texashistory.unt.edu/explore/subjects/>`_
+.. note:: 
+
+    * Subjects assist users to search for items by topic or find "more items like this one"
+    * Different kinds of subjects can be included, but controlled terms must be labeled and follow formatting rules
+    * University of North Texas Libraries Browse Subject (UNTL-BS) terms can be used by public users in The Portal to Texas History to `"browse" by topics <https://texashistory.unt.edu/explore/subjects/>`_
 
 Formatting Information
 ======================
@@ -598,16 +610,17 @@ Additional Information
 Primary Source
 **************
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** - if you are unsure whether something is a primary source, choose "N/A" (not applicable).
    
 
 What Do You Need to Know About Primary Source?
 ==============================================
+.. note:: 
 
-* Primary sources are first-hand accounts of historical subjects
-* Marking an item as a "primary source" sets a flag that displays to the public, but it does not affect searching or filtering
+    * Primary sources are first-hand accounts of historical subjects
+    * Marking an item as a "primary source" sets a flag that displays to the public, but it does not affect searching or filtering
 
 Formatting Information
 ======================
@@ -642,28 +655,29 @@ Additional Information
 Coverage
 ********
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** -- if the coverage information is unknown, leave it blank.
    
 
 What Do You Need to Know About Coverage?
 ========================================
-   
-*   Coverage information describes the place(s) and time(s) in the content: "when/where it is about"
-*   For some items (like original photos) creation and coverage information may be the same, but for most other items these may be different
-*   Locations, dates, and time periods can be used by public users to "browse" or filter search results
-*   Geographic coverage:
+.. note:: 
 
-    * Place names reflect current locations (but an older name may be a "Historic Place Name")
-    * Locations more specific than "city" should be keywords rather than place names
-    * For items that have an extremely precise known location, a place point (e.g., the spot where a photo was taken) or place box (e.g, the coordinate boundaries of a map) can be added along with a place name
-
-*   Temporal coverage:
-
-    * The "Coverage Date" qualifier cannot be repeated: only 1 coverage entry can be labeled "Coverage Date"
-    * The "Start Date" and "End Date" qualifiers are being phased out -- use "Coverage Date" instead
-    * Time periods align with coverage dates, but are only used in The Portal to Texas History
+    *   Coverage information describes the place(s) and time(s) in the content: "when/where it is about"
+    *   For some items (like original photos) creation and coverage information may be the same, but for most other items these may be different
+    *   Locations, dates, and time periods can be used by public users to "browse" or filter search results
+    *   Geographic coverage:
+    
+        * Place names reflect current locations (but an older name may be a "Historic Place Name")
+        * Locations more specific than "city" should be keywords rather than place names
+        * For items that have an extremely precise known location, a place point (e.g., the spot where a photo was taken) or place box (e.g, the coordinate boundaries of a map) can be added along with a place name
+    
+    *   Temporal coverage:
+    
+        * The "Coverage Date" qualifier cannot be repeated: only 1 coverage entry can be labeled "Coverage Date"
+        * The "Start Date" and "End Date" qualifiers are being phased out -- use "Coverage Date" instead
+        * Time periods align with coverage dates, but are only used in The Portal to Texas History
 
 Formatting Information
 ======================
@@ -715,16 +729,17 @@ Additional Information
 Source
 ******
 
-.. note::
+.. admonition:: Field requirement
 
   This field is **optional** -- if there is no source or the source is unknown, leave it blank.
 
 
 What Do You Need to Know About Source?
 ======================================
+.. note:: 
 
-* Source can be used to cite the "source material" (when an item comes from a larger work) or an originating event (e.g, a conference or exhibit that produced the item)
-* This is not a commonly-used field
+    * Source can be used to cite the "source material" (when an item comes from a larger work) or an originating event (e.g, a conference or exhibit that produced the item)
+    * This is not a commonly-used field
 
 Formatting Information
 ======================
@@ -762,17 +777,18 @@ Additional Information
 Relation
 ********
 
-.. note::
+.. admonition:: Field requirement
 
   This field is **optional** - if there is no relation or the relation is unknown, leave it blank.
   
 
 What Do You Need to Know About Relation?
 ========================================
+.. note:: 
 
-* Relation is used to link together two or more items in the Digital Collections when they are versions of the same content, such as formats (e.g., a negative and a print made from it) or different languages (e.g., a letter in German and a translation in English)
-* Related items display in the public record so that users can see how they are connected
-* Most of the time relationships should be reciprocal so that one item "has version" and the other "is version of"
+    * Relation is used to link together two or more items in the Digital Collections when they are versions of the same content, such as formats (e.g., a negative and a print made from it) or different languages (e.g., a letter in German and a translation in English)
+    * Related items display in the public record so that users can see how they are connected
+    * Most of the time relationships should be reciprocal so that one item "has version" and the other "is version of"
 
 Formatting Information
 ======================
@@ -825,18 +841,19 @@ Additional Information
 Institution and Collection
 **************************
 
-.. note::
+.. admonition:: Field requirement
 
    These fields are **required**.
 
 
 What Do You Need to Know About Institution and Collection?
 ==========================================================
+.. note:: 
 
-* Institution and collection should generally be edited only by administrators
-* Some items will have more than one collection but each item can have only one institution
-* These fields collocate large groups of items based on the partner that owns the materials or various topics
-* Users can view descriptive pages that provide more information based on these fields, or use them to filter search results
+    * Institution and collection should generally be edited only by administrators
+    * Some items will have more than one collection but each item can have only one institution
+    * These fields collocate large groups of items based on the partner that owns the materials or various topics
+    * Users can view descriptive pages that provide more information based on these fields, or use them to filter search results
 
 Formatting Information
 ======================
@@ -854,7 +871,7 @@ Examples
 
 Additional Information
 ======================
-
+     
 * If you want to see the full guidelines for institution, see the :doc:`Institution </fields/institution>` page
 * To see additional institution examples, see :ref:`Other Examples <institution-examples>`
 * If you want to see the full guidelines for collection, see the :doc:`Collection </fields/collection>` page
@@ -873,16 +890,17 @@ Additional Information
 Resource Type and Format
 ************************
 
-.. note::
+.. admonition:: Field requirement
 
    These fields are **required**.
 
 
 What Do You Need to Know About Resource Type and Format?
 ========================================================
+.. note:: 
 
-* Resource type helps users "browse" or filter results by kinds of materials, such as images versus text
-* Format makes records more shareable when our metadata is searched externally
+    * Resource type helps users "browse" or filter results by kinds of materials, such as images versus text
+    * Format makes records more shareable when our metadata is searched externally
 
 Formatting Information
 ======================
@@ -923,20 +941,21 @@ Additional Information
 Identifier
 **********
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** - if there is no identifier or if the identifier is unknown, leave it blank.
    
 
 What Do You Need to Know About Identifier?
 ==========================================
-   
-* These are numbers, URLs, or alphanumeric codes that have been assigned to an item
-* Identifiers may serve various purposes such as
+.. note:: 
 
-  * identifying a specific item (e.g., a report number or ISBN)
-  * pointing to more context (e.g., a catalog record)
-  * connecting digital and physical items (e.g., call numbers or accession numbers)
+    * These are numbers, URLs, or alphanumeric codes that have been assigned to an item
+    * Identifiers may serve various purposes such as
+    
+      * identifying a specific item (e.g., a report number or ISBN)
+      * pointing to more context (e.g., a catalog record)
+      * connecting digital and physical items (e.g., call numbers or accession numbers)
   
 Formatting Information
 ======================
@@ -977,16 +996,17 @@ Additional Information
 Note
 ****
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** -- if there are no notes, leave it blank.
   
 
 What Do You Need to Know About Note?
 ====================================
- 
-* Notes can be used to document any additional information about the item for users (Display Note) or administrators (Non-Display Note)
-* Display notes are searchable and visible to the public but non-display notes are not
+.. note:: 
+
+    * Notes can be used to document any additional information about the item for users (Display Note) or administrators (Non-Display Note)
+    * Display notes are searchable and visible to the public but non-display notes are not
 
 Formatting Information
 ======================
@@ -1031,7 +1051,7 @@ These fields are much less common and tend to be used in specific circumstances.
 Citation
 ========
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** — this field applies to serial issues or parts
    
@@ -1044,7 +1064,7 @@ Citation
 Rights
 ======
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** to note access and usage permissions
 
@@ -1058,7 +1078,7 @@ Rights
 Degree Information
 ==================
 
-.. note::
+.. admonition:: Field requirement
 
    This field is **optional** — these fields should be used for products of the UNT community, only
    
@@ -1077,3 +1097,4 @@ Resources
 
 -   `Metadata Home <https://library.unt.edu/metadata/>`_
 -   :doc:`Explanation of Required Fields </minimally-viable-records>`
+
