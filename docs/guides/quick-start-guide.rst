@@ -38,18 +38,18 @@ If you are working on metadata and discover that you have questions or come acro
 *****
 Title
 *****
+.. note:: 
+   
+   This field is **required**.
+   
 
 What Do You Need to Know About Title?
 =====================================
 
-.. note:: 
-   
-   This field is **required**.
-
-* The title is what people usually see first, identifying the item
-* Every item must have a "Main Title"
-* The "Main Title" qualifier cannot be repeated: only 1 title entry can be labeled "Main Title"
-* It may help to look at the glossary (in the :ref:`Comments <title-comments>` section) if you want to know more about other types of titles
+   * The title is what people usually see first, identifying the item
+   * Every item must have a "Main Title"
+   * The "Main Title" qualifier cannot be repeated: only 1 title entry can be labeled "Main Title"
+   * It may help to look at the glossary (in the :ref:`Comments <title-comments>` section) if you want to know more about other types of titles
 
 Formatting Information
 ======================
@@ -95,12 +95,13 @@ Additional Information
 Creator
 *******
 
-What Do You Need to Know About Creator?
-=======================================
-
 .. note:: 
 
    This field is **optional** -- if the creator is unknown, leave it blank.
+   
+   
+What Do You Need to Know About Creator?
+=======================================
 
 * The creator field describes "who made this item"
 * There is no limit on the number of creators (but they should have an equal level of responsibility)
@@ -158,12 +159,14 @@ Additional Information
 Contributor
 ***********
 
-What Do You Need to Know About Contributor?
-===========================================
-
 .. note::
 
    This field is **optional** -- if there are no contributors or the contributors are unknown, leave it blank.
+   
+   
+
+What Do You Need to Know About Contributor?
+===========================================
   
 * Contributors assist with creating part of the item, or have a tangential relationship to the item (e.g., donor of archival materials)
 * There is no limit on the number of contributors
@@ -224,12 +227,15 @@ Additional Information
 Publisher
 *********
 
-What Do You Need to Know About Publisher?
-=========================================
 
 .. note:: 
 
    This field is **optional** -- if there is no publisher or the publisher is unknown, leave it blank.
+   
+   
+
+What Do You Need to Know About Publisher?
+=========================================
    
 * The publisher field reflects "who formally published the item," generally for public sale or use
 * Some items could have multiple publishers, but consider whether additional publishers fit better as contributors
@@ -274,12 +280,13 @@ Additional Information
 Date
 ****
 
-What Do You Need to Know About Date?
-====================================
-
 .. note:: 
 
    This field is **optional** -- if the creation date is unknown, leave it blank.
+
+
+What Do You Need to Know About Date?
+====================================
 
 * A creation date explains "when the original item was made"
 * The "Creation" qualifier cannot be repeated: only 1 date entry can be labeled "Creation"
@@ -335,12 +342,14 @@ Additional Information
 Language
 ********
 
-What Do You Need to Know About Language?
-========================================
-
 .. note::
 
    This field is **required**.
+   
+   
+
+What Do You Need to Know About Language?
+========================================
 
 * Language(s) reflect words that are not names, anywhere in the content of the item
 * The language field can be used to filter results when people are searching for materials
@@ -384,12 +393,13 @@ Additional Information
 Description: Content Description
 ********************************
 
-What Do You Need to Know About Content Description?
-===================================================
-
 .. note:: 
    
    This field is **required**.
+
+
+What Do You Need to Know About Content Description?
+===================================================
 
 * The content description displays in search results and provides information for users about "what the item is"
 * The "Content Description" qualifier cannot be repeated: only 1 description entry can be labeled "Content Description"
@@ -434,12 +444,13 @@ Additional Information
 Description: Physical Description
 *********************************
 
-What Do You Need to Know About Physical Description?
-====================================================
-
 .. note::
    
    This field is VERY strongly recommended.
+   
+
+What Do You Need to Know About Physical Description?
+====================================================
    
 * Physical descriptions tell users "how long is the content?" (e.g., number of pages or minutes of runtime) or "how big is the item, physically?"
 
@@ -530,12 +541,13 @@ Additional Information
 Subjects and Keywords
 *********************
 
-What Do You Need to Know About Subject?
-=======================================
-
 .. note:: 
 
    This field is **required**.
+   
+
+What Do You Need to Know About Subject?
+=======================================
    
 * Subjects assist users to search for items by topic or find "more items like this one"
 * Different kinds of subjects can be included, but controlled terms must be labeled and follow formatting rules
@@ -586,13 +598,14 @@ Additional Information
 Primary Source
 **************
 
-What Do You Need to Know About Primary Source?
-==============================================
-
 .. note::
 
    This field is **optional** - if you are unsure whether something is a primary source, choose "N/A" (not applicable).
    
+
+What Do You Need to Know About Primary Source?
+==============================================
+
 * Primary sources are first-hand accounts of historical subjects
 * Marking an item as a "primary source" sets a flag that displays to the public, but it does not affect searching or filtering
 
@@ -629,12 +642,13 @@ Additional Information
 Coverage
 ********
 
-What Do You Need to Know About Coverage?
-========================================
-
 .. note::
 
    This field is **optional** -- if the coverage information is unknown, leave it blank.
+   
+
+What Do You Need to Know About Coverage?
+========================================
    
 *   Coverage information describes the place(s) and time(s) in the content: "when/where it is about"
 *   For some items (like original photos) creation and coverage information may be the same, but for most other items these may be different
@@ -701,12 +715,13 @@ Additional Information
 Source
 ******
 
-What Do You Need to Know About Source?
-======================================
-
 .. note::
 
   This field is **optional** -- if there is no source or the source is unknown, leave it blank.
+
+
+What Do You Need to Know About Source?
+======================================
 
 * Source can be used to cite the "source material" (when an item comes from a larger work) or an originating event (e.g, a conference or exhibit that produced the item)
 * This is not a commonly-used field
@@ -747,13 +762,14 @@ Additional Information
 Relation
 ********
 
-What Do You Need to Know About Relation?
-========================================
-
 .. note::
 
   This field is **optional** - if there is no relation or the relation is unknown, leave it blank.
   
+
+What Do You Need to Know About Relation?
+========================================
+
 * Relation is used to link together two or more items in the Digital Collections when they are versions of the same content, such as formats (e.g., a negative and a print made from it) or different languages (e.g., a letter in German and a translation in English)
 * Related items display in the public record so that users can see how they are connected
 * Most of the time relationships should be reciprocal so that one item "has version" and the other "is version of"
@@ -809,12 +825,13 @@ Additional Information
 Institution and Collection
 **************************
 
-What Do You Need to Know About Institution and Collection?
-==========================================================
-
 .. note::
 
    These fields are **required**.
+
+
+What Do You Need to Know About Institution and Collection?
+==========================================================
 
 * Institution and collection should generally be edited only by administrators
 * Some items will have more than one collection but each item can have only one institution
@@ -856,12 +873,13 @@ Additional Information
 Resource Type and Format
 ************************
 
-What Do You Need to Know About Resource Type and Format?
-========================================================
-
 .. note::
 
    These fields are **required**.
+
+
+What Do You Need to Know About Resource Type and Format?
+========================================================
 
 * Resource type helps users "browse" or filter results by kinds of materials, such as images versus text
 * Format makes records more shareable when our metadata is searched externally
@@ -905,12 +923,13 @@ Additional Information
 Identifier
 **********
 
-What Do You Need to Know About Identifier?
-==========================================
-
 .. note::
 
    This field is **optional** - if there is no identifier or if the identifier is unknown, leave it blank.
+   
+
+What Do You Need to Know About Identifier?
+==========================================
    
 * These are numbers, URLs, or alphanumeric codes that have been assigned to an item
 * Identifiers may serve various purposes such as
@@ -958,13 +977,14 @@ Additional Information
 Note
 ****
 
-What Do You Need to Know About Note?
-====================================
-
 .. note::
 
    This field is **optional** -- if there are no notes, leave it blank.
-   
+  
+
+What Do You Need to Know About Note?
+====================================
+ 
 * Notes can be used to document any additional information about the item for users (Display Note) or administrators (Non-Display Note)
 * Display notes are searchable and visible to the public but non-display notes are not
 

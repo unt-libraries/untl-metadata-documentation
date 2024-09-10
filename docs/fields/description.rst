@@ -373,6 +373,8 @@ Books, pamphlets, and printed sheets
 - xi, 83 p. : col. ill., maps ; 36 cm.
 - 1 pamphlet : ill. ; 22 x 28 cm., folded to 22 x 14 cm.
 - [3] p. 
+- 6, [32] p. : ill. ; 28 cm.
+- 5 sheets, 3 p. : ill. ; 23 cm.
 
 (If the text is not illustrated and the dimensions are unknown, only the number of pages will be in the description.)
 

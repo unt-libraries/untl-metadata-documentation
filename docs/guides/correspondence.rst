@@ -363,7 +363,7 @@ Subject
 |Named Person (named_person)                                                                                                    |
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 |-  When the sender/recipient are individual people, add    | | Spies, John W.                                                  |
-|   them as named persons (last, first)                     |                                                                   |
+|   them as named persons if they are discussing themselves |                                                                   |
 |-  This may apply to any individual person who is important| | Turner, Susan Ellen                                             |
 |   to the content (i.e., it is "about" them not just every |                                                                   |
 |   person mentioned in passing)                            | | Phillips                                                        |

@@ -103,6 +103,8 @@ General Creator Rules
 
 -   Include as many creators as are readily available
 
+    -   A creator name can only entered once per record; if an agent acts in multiple capacities, see
+        the :ref:`Role <creator-role>` section for clarification
     -   Place them in order of importance
     -   If creators are equally important, list them in the order that they appear
     -   If a document lists individuals as "et al." include names of
@@ -166,8 +168,12 @@ Personal Names
 |   h.  Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
 |       of the last name                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|If it is unclear which part of the name is the surname,    |                                       |
-|enter the name as it appears on the item                   |                                       |
+|   i.  If a given name is unknown, the surname can be      |Goldstein                              |
+|       entered alone, but names cannot be a given name only|                                       |
+|       e.g., "Miss Susie" or "Uncle Roger"                 |                                       |
++-----------------------------------------------------------+---------------------------------------+
+|-  If it is unclear which part of the name is the surname, |                                       |
+|   enter the name as it appears on the item                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
@@ -279,13 +285,18 @@ Organization Names
 |       as the secondary level in "United States. National  |                                       |
 |       Security Council. Central Intelligence Agency."     |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|For non-U.S. agencies:                                                                             |
+|-  If an agency name has been translated for a non-English-| | *Name:* Texas. Parks and Wildlife   |
+|   language publication, the name should still be entered  |   Department.                         |
+|   in it's original form                                   | | *Version on text:* Departamento     |
+|                                                           |   de Parques y Vida Silvestre de Texas|
++-----------------------------------------------------------+---------------------------------------+
+|For non-U.S. organization:                                                                         |
 +-----------------------------------------------------------+---------------------------------------+
 |-  When using an authorized form of the name, it may be    | | *Name:* Han'guk Kwahak Kisurwŏn     |
 |   appropriate to add notes to the "info" section:         | | *Info:* Korea Advanced Institute of |
 |                                                           |   Science and Technology              |
 |   -   If the name is written in a language other than     |                                       |
-|       English, add the English translation (if known)     +---------------------------------------+
+|       English, add the English translation (if relevant)  +---------------------------------------+
 |   -   If the name is written in English, additional forms |China (Republic : 1949- ). Huan jing   |
 |       from the item may be added                          |bao hu shu.                            |
 +-----------------------------------------------------------+---------------------------------------+

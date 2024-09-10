@@ -102,6 +102,8 @@ General Contributor Rules
             
 -   Include as many contributors as are readily available
 
+    -   A contributor name can only be entered once per record; if an agent acts in multiple capacities, see
+        the :ref:`Role <contributor-role>` section for clarification
     -   Place them in order of importance
     -   If contributors are equally important, list them in the order that they appear
     -   If a document has an excessively large number of creators or
@@ -161,6 +163,10 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |   h.  Consider multiple parts (von, de la, etc.) as part  |de Almeida Lobo, Adriana               |
 |       of the last name                                    |                                       |
++-----------------------------------------------------------+---------------------------------------+
+|   i.  If a given name is unknown, the surname can be      |Huffman                                |
+|       entered alone, but names cannot be a given name only|                                       |
+|       e.g., "Miss Susie" or "Uncle Roger"                 |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If it is unclear which part of the name is the surname, |                                       |
 |   enter the name as it appears on the item                |                                       |
@@ -276,21 +282,25 @@ Organization Names
 |       as the secondary level in "United States. National  |                                       |
 |       Security Council. Central Intelligence Agency."     |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|For non-U.S. agencies:                                                                             |
+|-  If an agency name has been translated for a non-English-| | *Name:* Texas. Department of State  |
+|   language publication, the name should still be entered  |   Health Services.                    |
+|   in it's original form                                   | | *Version on text:* Departamento     |
+|                                                           |   Estatal de Servicios de Salud       |
++-----------------------------------------------------------+---------------------------------------+
+|For non-U.S. organizations:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
 |-  When using an authorized form of the name, it may be    | | *Name:* Han'guk Kich'o Kwahak Chiwŏn|
 |   appropriate to add notes to the "info" section:         |   Yŏn'guwŏn                           |
 |                                                           | | *Info:* Korea Basic Science         |
 |   -   If the name is written in a language other than     |   Institute; Taejon, Republic of Korea|
-|       English, add the English translation (if known)     +---------------------------------------+
+|       English, add the English translation (if relevant)  +---------------------------------------+
 |   -   If the name is written in English, additional forms |Instituto de Investigaciones Geológicas|
 |       from the item may be added                          |(Chile)                                |
 +-----------------------------------------------------------+---------------------------------------+
 |-  If there is no authorized form, follow general          |Mexico. Secretaría de la Economia      |
 |   formatting rules                                        |Nacional Direccion General de Minas y  |
 |                                                           |Petoleo.                               |
-+-----------------------------------------------------------+---------------------------------------+
-
++-----------------------------------------------------------+---------------------------------------+ 
 
 .. _contributor-type:
 
