@@ -109,7 +109,8 @@ What Do You Need to Know About Creator?
 
     * The creator field describes "who made this item"
     * There is no limit on the number of creators (but they should have an equal level of responsibility)
-    * Each creator can only be listed once and may not also be a contributor
+    * Each creator name can only be listed once per record
+    * A creator cannot also be a contributor in the same record
     * Creators have two required labels: type & role
     * Roles should explain "what the creator did" to make the item
     * Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
@@ -175,7 +176,8 @@ What Do You Need to Know About Contributor?
 
     * Contributors assist with creating part of the item, or have a tangential relationship to the item (e.g., donor of archival materials)
     * There is no limit on the number of contributors
-    * Each contributor can only be listed once and may not also be a creator
+    * Each contributor name can only be listed once per record
+    * A contributor cannot also be a creator in the same record
     * Contributors have two required labels: type & role
     * Roles should explain "how the contributor helped" to make the item or the contributor's relationship to it
     * Each role term is defined in the `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ -- before assigning a new kind of role, it may help to review this
