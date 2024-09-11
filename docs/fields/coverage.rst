@@ -193,8 +193,8 @@ Place Name(s)
 |-   Other forms of the name (e.g., with the CDP note) can be added as keywords |                                                |
 |                                                                               | | *Coverage Place:* United States - Webb County|
 |                                                                               |   - Village East Colonia                       |
-|*Note: A CDP is defined according the `U.S. Census Bureau                      |                                                |
-|<https://data.census.gov>`_ and is noted in their database*                    | | *Keyword:* Ranchitos Las Lomas CDP, Texas    |
+|*Note:* A CDP is defined according the `U.S. Census Bureau                     |                                                |
+|<https://data.census.gov>`_ and is noted in their database                     | | *Keyword:* Ranchitos Las Lomas CDP, Texas    |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Name Changes*                                                                                                                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+
