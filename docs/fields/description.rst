@@ -56,7 +56,7 @@ however, generally, the item must be read/examined to describe the content, such
 |                                           |- abstracts                                  |
 |                                           |- tables of contents                         |
 |                                           |- section/chapter headings                   |
-|                                           |- text (e.g., ,introduction, scope, etc.)    |
+|                                           |- text (e.g., introduction, scope, etc.)     |
 +-------------------------------------------+---------------------------------------------+
 |For images                                 |- bottom or back of a photograph             |
 |                                           |- visible elements (people, surroundings,    |
