@@ -780,8 +780,8 @@ The Bronco, Yearbook of Hardin-Simmons University, 2007
 Legacies: A History Journal for Dallas and North Central Texas, Volume 1, Number 1, Spring, 1989
    *Physical Description:* 40 p. ; 26 cm.
 
-Photograph: Cattle
-   *Physical Description:* 1 photograph : b&w ; 11 x 7 in.
+Print photograph: Cattle
+   *Physical Description:* 1 photograph : b&w ; 11 x 7 cm.
 
 [Map showing the geographical location of Fort Worth, Tex. and Rail Roads]
    *Physical Description:* 1 map : col. ; 26 x 36 cm.
