@@ -845,6 +845,9 @@ Overview:
 |- Call number                                                                  |                                             |
 |- SuDOC or TxDOC number                                                        |*TxDOC:* A900.3 ST82                         |
 |- Report number                                                                |                                             |
+|                                                                               |                                             |
+|Note that most identifiers will be the same for every item record in the same  |                                             |
+|serial                                                                         |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
 
@@ -859,7 +862,13 @@ Common Issues:
 |                                              |appropriate labels; otherwise, leave the field  |                                                    |
 |                                              |blank                                           |                                                    |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
-
+|If you are using an LCCN from an OCLC or      |You will need to verify that it has been        |*LCCN:* 2001201316                                  |
+|catalog record:                               |normalized to a :ref:`standardized format       |                                                    |
+|                                              |<identifier-comments>` (e.g., no spaces         |                                                    |
+|                                              |or punctuation) and that it is still a valid    |*LCCN:* sf93091440                                  |
+|                                              |identifier in the `LC catalog                   |                                                    |
+|                                              |<https://www.loc.gov/search/?all=true>`_        |                                                    |
++----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
 .. _serial_resources:
 

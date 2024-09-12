@@ -93,6 +93,7 @@ How Should the Identifier be Filled in?
 +-----------------------------------------------------------------------------------+------------------------------------------------+
 
 
+
 .. _identifier-examples:
 
 **************
@@ -138,6 +139,15 @@ Office of Technology Assessment report: Informing the Nation: Federal Informatio
     -   *OCLC:* 18605251
     -   *REP-NO:* OTA-CIT-397
 
+Binodini's Crimson Rainclouds: A Learning Module
+    -   *DOI:* 10.12794/corsal-cop-3
+    -   *SERIESNO:* 3
+    
+Stumpage Price Trends in Texas: Annual Summary for 2004 
+    -   *UNT-TITLE-ID:* t03934
+    -   *TXDOC:* F 1400.6
+
+
 
 .. _identifier-comments:
 
@@ -148,7 +158,8 @@ Comments
 -   Identifiers provide information needed to retrieve a file from the
     storage system, to access a bitstream within a file, or to locate a
     physical object.
--   Library of Congress Control Numbers should be verified as current, then normalized by:
+-   Library of Congress Control Numbers should be verified as current in the `LC catalog <https://www.loc.gov/search/?all=true>`_, 
+    then normalized by:
 
     -   zero-padding the right-most number if necessary to make it 6 digits long
     -   removing all spaces and punctuation
@@ -163,6 +174,25 @@ Comments
 +---------------+----+--------------+----+--------------+
 |sc 85-7042     |    |sc 85 007042  |    |sc85007042    |
 +---------------+----+--------------+----+--------------+
+
+
+
+-   UNT Title Identifiers are automatically assigned when an administrator creates a
+    title record for a series or serial
+    
+    -   Title records will automatically aggregate items based on an OCLC or LCCN corresponding
+        to the title, if that identifier is in each of the item records
+    -   In some cases we may choose to add the title identifier to item records if:
+    
+        -   the title has no LCCN or OCLC assigned
+        -   there are multiple LCCN or OCLC numbers that might apply to a title we want to unify
+        -   the record is for a series (i.e., each item may correspond to a different OCLC record)
+    
+    -   Title records are viewable in the public interfaces at:
+
+        -   `Portal title list <https://texashistory.unt.edu/explore/titles/curated/>`_
+        -   `Digital Library title list <https://digital.library.unt.edu/explore/titles/curated/>`_
+        -   `Gateway title list <https://gateway.okhistory.org/explore/titles/curated/>`_
 
 
 .. _identifier-glossary:
@@ -248,6 +278,10 @@ Glossary of Identifier Qualifiers
 |                               |                               |<http://www.tsl.state.tx.us/statepubs/classmanual.html>`_      |
 |                               |                               |(TxDoc) numbers are assigned to Texas state documents as unique|
 |                               |                               |identifiers for publications of teh state government           |
++-------------------------------+-------------------------------+---------------------------------------------------------------+
+|UNT-TITLE-ID                   |UNT Title Identifier           |A unique number corresponding to a series or serial title      |
+|                               |                               |record in the Digital Collections (primarily used when a       |
+|                               |                               |standardized OCLC or LCCN is not available for the title)      |
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
 |UNTCAT                         |UNT Catalog Number             |The bibliographic record number for a specific UNT library     |
 |                               |                               |record                                                         |
