@@ -394,14 +394,16 @@ Dates
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |-  To represent a particular date within a known range, use one-of-a-set       |A photograph taken at an event held September   |[1974-09-12..1974-|
 |   notation                                                                    |12-15, 1974                                     |09-15]            |
+|                                                                               |                                                |                  |
 |   (This generally applies to photos, where the content matches the creation   |                                                |                  |
 |   date)                                                                       |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 |-  For multiple (inclusive) dates or date ranges that are *not consecutive*,   |Report documenting data collected in  1900,     |{1900,1950,2000}  |
 |   use multiple date notation with {curly brackets}                            |1950, and 2000                                  |                  |
 |                                                                               +------------------------------------------------+------------------+
-|                                                                               |Thesis comparing various aspects of WWI and WWII|{1914-07..1918-11,|
-|                                                                               |                                                |1939-09..1945-09} |
+|   (This is primarily applicable when it is important to emphasize that the    |Thesis comparing various aspects of WWI and WWII|{1914-07..1918-11,|
+|   content is *only* about multiple separate dates that are significant.  In   |                                                |1939-09..1945-09} |
+|   most cases a general or approximate range is sufficient.)                   |                                                |                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+------------------+
 
 
@@ -417,8 +419,8 @@ Other Examples
 
 Drawing: Bird's eye view of Denton, Denton County, Texas: 1883
    -    *Place Name:* United States - Texas - Denton County - Denton
-   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
    -    *Coverage Date:* 1883
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
 
 Map: Hispania nova
    -    *Place Name:* Spain
@@ -442,9 +444,9 @@ Photograph: 1918 Morning After
 
 Map: Bachman Lake Park: Hike and Bike Trail Plan
    -    *Place Name:* United States - Texas - Dallas County - Dallas
-   -    *Place Box:* N:32.8683058054, E:-96.8294005002, S: 32.8437915023, W:-96.8905119504
-   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
    -    *Coverage Date:* 1983-03
+   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
+   -    *Place Box:* N:32.8683058054, E:-96.8294005002, S: 32.8437915023, W:-96.8905119504
 
 [Letter to Johnson Moorhead from H. T. Hathaway]
    -    *Place Name:* United States - Kansas - Reno County - Turon
@@ -457,9 +459,9 @@ French World War I poster
 
 [House at 911 N. Sycamore]
     -   *Place Name:* United States - Texas - Anderson County - Palestine
-    -   *Place Point:* 31.7671795871, -95.6326822933
-    -   *Time Period:* mod-tim: Into Modern Times, 1939-Present
     -   *Coverage Date:* 1991-06
+    -   *Time Period:* mod-tim: Into Modern Times, 1939-Present
+    -   *Place Point:* 31.7671795871, -95.6326822933
 
 Map: Abernathy Quadrangle
    -    *Place Name:* United States - Texas - Lubbock County - Abernathy
@@ -479,7 +481,18 @@ Photograph: The Arsenal - Kremlin offices
    -    *Historic Place Name:* U.S.S.R.
    -    *Coverage Date:* 1985
    -    *Place Point:* 55.752042, 37.617935 
-   -    *Time Period:* mod-tim: Into Moder Times, 1939-Present
+   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
+
+1988 Historical Calendar: Mayors of Denton
+   -    *Place Name:* United States - Texas - Denton County - Denton
+   -    *Coverage Date:* 1848-08~/1988
+   -    *Time Period:* new-sou: New South, Populism, Progressivism, and the Great Depression, 1876-1939
+   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
+
+Newsletter: Division Log, Number 7158, July 14, 1987
+   -    *Place Name:* United States - Tarrant County - Fort Worth
+   -    *Coverage Date:* 1978/1987-07-14
+   -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
 
 
 .. _coverage-comments:
