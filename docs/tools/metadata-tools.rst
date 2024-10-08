@@ -32,3 +32,15 @@ About the Tools
 -	As a general rule, the tools cannot tell editors when something is "wrong," but they 
 	reorganize information to help editors see outliers or values that do not match what is 
 	expected for the selected criteria
+	
+	
+********************************
+Related Explanations & Tutorials
+********************************
+These are presentations that we have done in the past about the edit tools; although some features have changed they can provide some information about how the tools work:
+
+-	`UNT Libraries Metadata Quality Interfaces <https://digital.library.unt.edu/ark:/67531/metadc1393760/>`_ [video] (2018)
+-	`Experiments with Metadata Quality Interfaces <https://digital.library.unt.edu/ark:/67531/metadc1164518/>`_ [presentation] (2018)
+-	`Experiments in Operationalizing Metadata Quality Interfaces: A Case Study at the University of North Texas Libraries <https://digital.library.unt.edu/ark:/67531/metadc1281824/>`_ [presentation] (2018)
+-	`New Interfaces for Metadata Quality Improvement in the UNT Libraries' Digital Collections <https://digital.library.unt.edu/ark:/67531/metadc1281808/>`_ [presentation] (2017)
+-	`Tools and Workflows for Managing Metadata at the UNT Libraries <https://digital.library.unt.edu/ark:/67531/metadc1281814/>`_ [presentation] (2017)

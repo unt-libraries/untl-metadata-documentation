@@ -37,6 +37,15 @@ Facet is most useful for finding:
 
 	-	controlled subject terms not formatted according to vocabulary rules
 	-	series or serial titles that are not all the same
-	
--	Identifying most-frequently-used values, especially controlled names or terms (i.e., by sorting according to "Records High to Low")
 
+****************
+Special Features
+****************
+
+-	To limit values alphabetically, entering letters up to a full word (before a space) will show only values that start with that prefix 
+	(e.g., "Mc" to see any name value beginning with "Mc" or "United" to see government names starting with United States)
+-	For certain controlled fields, values are highlighted when they don't match formatting (dates) or vocabularies (certain subjects)
+- 	Sorting values according to "Records High to Low" could help to identify most-frequently-used values, especially controlled names or terms
+-	There are options to highlight certain kinds of symbols and spacing
+- 	A spellchecking button lets you use the browser spell-checker to double-check displayed terms
+-	On the right side of the screen, a "diff" option allows you to choose two facet values and see an explanation highlighting the differences between them

@@ -41,6 +41,12 @@ Count is most useful for finding:
 
 -	Missing qualifiers (i.e., a value in a qualified field with "No Qualifier Selected")
 
+****************
+Special Features
+****************
+
+-	For required fields, counts are highlighted when they don't meet minimum requirements
+
 
 ****************
 Tool Limitations

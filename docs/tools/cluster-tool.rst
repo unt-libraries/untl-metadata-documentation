@@ -41,7 +41,13 @@ Cluster is most useful for finding:
 	-	Extreme outliers in length, particularly in text fields
 	-	Incorrect formatting for fields that have specific patterns 
 		(e.g., dates and physical descriptions)
+		
+****************
+Special Features
+****************
 
+-	Experimenting with different algorithms can show different clusters
+-	On the right side of the screen, a "diff" option allows you to choose two values and see an explanation highlighting the differences between them
 
 ****************
 Tool Limitations
