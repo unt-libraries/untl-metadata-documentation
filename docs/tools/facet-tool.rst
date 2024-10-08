@@ -1,5 +1,5 @@
 ==========
-Edit Facet
+Facet Tool
 ==========
 
 The "Facet" tool in the edit interface provides a listing of the unique values in a field and how often each one occurs (i.e., number of records containing the value).
@@ -19,6 +19,8 @@ General Notes
 	-	Note that creator and contributor have two options: the role 		
 		(main qualifier) and the type, listed at the bottom of the list as per-type (personal 
 		name) and org-type (organizational name)
+		
+-	Clicking on a facet value will open a search for all records matching the criteria and unique value
 
 *********
 Tool Uses

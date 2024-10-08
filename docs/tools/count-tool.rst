@@ -1,8 +1,9 @@
 ==========
-Edit Count
+Count Tool
 ==========
 
-The "Count" tool in the edit interface provides a listing of the number of entries in a field, i.e., how many records have 0, 1, 2, etc. entries in that field.
+The "Count" tool in the edit interface provides a listing of the number of entries in a field, i.e., how many re
+cords have 0, 1, 2, etc. entries in that field.
 
 *************
 General Notes
@@ -19,6 +20,8 @@ General Notes
 	-	Note that creator and contributor have two options: the role 		
 		(main qualifier) and the type, listed at the bottom of the list as per-type (personal 
 		name) and org-type (organizational name)
+
+-	Clicking on a count value will open a search for all records matching the criteria and count
 
 *********
 Tool Uses

@@ -1,6 +1,6 @@
-=========
-Dashboard
-=========
+==============
+Edit Dashboard
+==============
 
 The default Dashboard interface (also labeled "Search" in the tools) has a number of features to identify specific sub-sets of records.  In particular, there are a number of filters on the left side of the screen.
 

@@ -1,11 +1,11 @@
-==========
-Edit Count
-==========
+============
+Cluster Tool
+============
 
 The "Cluster" tool in the edit interface takes all of the values that match the criteria and recorganizes them according to two general functions:
 
-#	Values are run through an algorithm to create a normalized key (e.g., Smith, John A. > a john smith); only keys with multiple unique values are displayed as clusters.
-#	Values are sorted using a length or pattern as the key; clusters include all values but only display 100 per cluster.
+1.	Values are run through an algorithm to create a normalized key (e.g., Smith, John A. > a john smith); only keys with multiple unique values are displayed as clusters.
+2.	Values are sorted using a length or pattern as the key; clusters include all values but only display 100 per cluster.
 
 
 *************
@@ -23,6 +23,8 @@ General Notes
 	-	Note that creator and contributor have two options: the role 		
 		(main qualifier) and the type, listed at the bottom of the list as per-type (personal 
 		name) and org-type (organizational name)
+		
+-	Clicking on a value will open a search for all records matching the criteria and unique value
 
 *********
 Tool Uses
