@@ -43,9 +43,23 @@ Special Features
 ****************
 
 -	To limit values alphabetically, entering letters up to a full word (before a space) will show only values that start with that prefix 
-	(e.g., "Mc" to see any name value beginning with "Mc" or "United" to see government names starting with United States)
+	(e.g., "United" to see government names starting with United States)
+	
+.. image:: ../_static/images/facet-prefix.png
+   :alt: Screenshot of a facet example for names starting with "Mc".
+	
 -	For certain controlled fields, values are highlighted when they don't match formatting (dates) or vocabularies (certain subjects)
-- 	Sorting values according to "Records High to Low" could help to identify most-frequently-used values, especially controlled names or terms
+
+.. image:: ../_static/images/facet-invalid.png
+   :alt: Screenshot of a facet example with invalid terms highlighted.
+
+
 -	There are options to highlight certain kinds of symbols and spacing
+
+.. image:: ../_static/images/facet-highlight.png
+   :alt: Screenshot of the menu options for highlighting values.
+   
+   
 - 	A spellchecking button lets you use the browser spell-checker to double-check displayed terms
 -	On the right side of the screen, a "diff" option allows you to choose two facet values and see an explanation highlighting the differences between them
+- 	Sorting values according to "Records High to Low" could help to identify most-frequently-used values, especially controlled names or terms

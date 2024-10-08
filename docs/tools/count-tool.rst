@@ -2,8 +2,7 @@
 Count Tool
 ==========
 
-The "Count" tool in the edit interface provides a listing of the number of entries in a field, i.e., how many re
-cords have 0, 1, 2, etc. entries in that field.
+The "Count" tool in the edit interface provides a listing of the number of entries in a field, i.e., how many records have 0, 1, 2, etc. entries in that field.
 
 *************
 General Notes
@@ -39,13 +38,21 @@ Count is most useful for finding:
 	-	0 UNTL-BS subject entries in Portal records
 	-	0 creator entries for published text
 
--	Missing qualifiers (i.e., a value in a qualified field with "No Qualifier Selected")
+-	Missing qualifiers (i.e., a value in a qualified field with "No Qualifier Selected"); in this situation, a "0" count is correct
+
+
+.. image:: ../_static/images/count-missingq.png
+   :alt: Screenshot of a count example for title values with no qualifiers.
+
 
 ****************
 Special Features
 ****************
 
 -	For required fields, counts are highlighted when they don't meet minimum requirements
+
+.. image:: ../_static/images/count-invalid.png
+   :alt: Screenshot of an example for incomplete subject counts.
 
 
 ****************
