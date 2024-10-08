@@ -76,6 +76,17 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    :caption: Vocabularies
 
    /vocab/tabletop-game-genres
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Tools and Quality Control
+   
+   /tools/metadata-tools
+   /tools/dashboard
+   /tools/count-tool
+   /tools/facet-tool
+   /tools/cluster-tool
+   
 
 
 Indices and tables
