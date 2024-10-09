@@ -37,6 +37,39 @@ Facet is most useful for finding:
 
 	-	controlled subject terms not formatted according to vocabulary rules
 	-	series or serial titles that are not all the same
+	
+
+Quality Control Example
+=======================
+Here are some examples of what to check specifically in a collection or set of items using the facet tool:
+
+-	Look at general values for any field in use
+
+	-	Do you see typos?
+	-	Are there extremely similar values (e.g., a name with or without an initial)?
+	-	Do counts seem reasonable (e.g., a specific topical subject value should rarely be in every record)?
+	
+-	See if values match qualifiers, e.g.:
+
+	-	Look at (creator/contributor) personal names -- are there any organizations in the list? -- and vice versa
+	-	Check subjects by qualifier -- does the formatting match each type?  Are any values marked invalid?
+	
+-	Check for duplication in values, e.g.:
+
+	-	Main titles for serials should generally not repeat
+	-	Local identifiers that are unique
+
+-	Make sure that corresponding fields match, e.g.:
+
+	-	Format values match resource types
+	-	Serials have an LCGFT for Periodicals
+
+
+Any combination can be checked, based on what you know about the set of records or want to verify. 
+
+Although the facet tool can be used at any time, if you are planning a general or comprehensive check of a collection, it may be best to use facet last, after missing values (from count) are entered and you have done a first normalization of values (using cluster).
+
+
 
 ****************
 Special Features
@@ -61,5 +94,16 @@ Special Features
    
    
 - 	A spellchecking button lets you use the browser spell-checker to double-check displayed terms
--	On the right side of the screen, a "diff" option allows you to choose two facet values and see an explanation highlighting the differences between them
-- 	Sorting values according to "Records High to Low" could help to identify most-frequently-used values, especially controlled names or terms
+
+.. image:: ../_static/images/facet-scbutton.png
+   :alt: Screenshot of the button to turn on spell checking.
+
+-	On the right side of the screen, a "diff" option allows you to choose two facet values and see an explanation highlighting the differences between them; 
+	for name values, there are also search options for authorities
+
++-----------------------------------------------------------+-------------------------------------------------------+-----------------------------------------------+
+|.. image:: ../_static/images/facet-icon1.png               |.. image:: ../_static/images/facet-icon2.png           |.. image:: ../_static/images/facet-icon3.png   |
+|   :alt: Screenshot of hover text for external authorities.|   :alt: Screenshot of hover text for UNT Name App.    |   :alt: Screenshot of hover text for diff.    |
++-----------------------------------------------------------+-------------------------------------------------------+-----------------------------------------------+
+
+- 	Sorting values according to number of record ("Records High to Low") could help to identify duplicated values and also most-frequently-used values (especially controlled names or terms)

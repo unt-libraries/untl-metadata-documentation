@@ -21,11 +21,16 @@ Tool Uses
 	-	incomplete records
 	-	invalid dates
 	-	records without place names / place boxes / place points (that should have them) or vice versa
+	
+-	Sorting can also be relevant, especially sorting by creation date, e.g.:
+
+	-	sort serials to see if the dates in main titles match the order
+	-	for publications that have a name change (e.g., NTSU vs. UNT), verify whether items at the beginning/end of the list fall in the range
 
 
 ****************
 Tool Limitations
 ****************
 
--	Filters show records fitting the criteria but do not provide information about what is wrong without looking at individual records
+-	Filters show records that have invalid/misisng values but do not provide information about what is wrong without looking at individual records
 
