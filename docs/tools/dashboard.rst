@@ -28,6 +28,20 @@ Tool Uses
 	-	for publications that have a name change (e.g., NTSU vs. UNT), verify whether items at the beginning/end of the list fall in the range
 
 
+Quality Control Example
+=======================
+Here are some examples of what to check specifically from the Dashboard:
+
+-	Are all records visible (or the number expected)?
+-	Visible records are complete
+-	The numbers for collection/institution seem correct
+-	Collection usage is correct (especially if some/all items should be in multiple collections)
+-	Dates for visible records are valid
+-	Resource types match expectations
+
+
+
+
 ****************
 Tool Limitations
 ****************
