@@ -25,9 +25,15 @@ About the Tools
 	
 -	Data values are compared across the system, but can be limited to specific critera 
 	(e.g., a resource type or collection) using the filters on the left side of the screen
--	All tools provide information based on a field or field-qualifier combination, e.g.:
+-	All tools provide information based on a field or field-qualifier combination
 
-	-	A field only (any qualifiers, or non-qualified)
+.. image:: ../_static/images/tools-field.png
+   :alt: Screenshot of drop-down menus to choose a field and/or qualifier.
+
+
+-   The qualifier drop-down menu is only active if a qualified field is chosen and can be left blank or used in various ways:
+
+	-	A field only (no qualifier option chosen) to include entries with any qualifiers, or non-qualified
 	-	Field values with missing qualifiers (i.e., "No Qualifier Selected")
 	-	A field with a specific qualifier 
 		(e.g., creators labeled "author" or subjects labeled "UNTL-BS")
@@ -35,10 +41,12 @@ About the Tools
 		(main qualifier) and the type, listed at the bottom of the list as per-type (personal 
 		name) and org-type (organizational name)
 
-
-.. image:: ../_static/images/tools-field.png
-   :alt: Screenshot of drop-down menus to choose a field and/or qualifier.
-   
++---------------------------+-----------------------------------------------------------------------------------+
+|-  Type: missing qualifier |.. image:: ../_static/images/dash-name.png                                         |
+|-  Role: missing qualifier |   :alt: Screenshot of non-normative qualifier options for creator/contributor.    |
+|-  Type: Organization      |                                                                                   |
+|-  Type: Personal          |                                                                                   |
++---------------------------+-----------------------------------------------------------------------------------+
    
 *************
 Tool Features
