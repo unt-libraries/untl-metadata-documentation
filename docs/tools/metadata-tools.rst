@@ -13,7 +13,7 @@ Editing tools are accessible to anyone with an account to edit in the Digital Co
 .. image:: ../_static/images/tools-menu.png
    :alt: Screenshot of tools menu in the metadata editing system.
 
-
+Information on this page provides general explanations about functions that work the same across all of the individual tools.  The other pages in this set describe features and example quality control usage that are specific to each tool. 
 
 ***************
 About the Tools

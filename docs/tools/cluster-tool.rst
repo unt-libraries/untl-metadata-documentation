@@ -50,11 +50,11 @@ Here are some examples of what to check specifically in a collection or set of i
 
 -	Use normalizing algorithms to do a general check fields that are likely to have repeated values that should be the same, e.g.:
 
-	 -	serial/series titles
-	 -	names (creator, contributor, publisher)
-	 -	subjects -- is there a mix of controlled and uncontrolled values that are the same?
-	 -	identifiers (e.g., for serials)
-	 -	notes (if standardized information is added)
+	-	serial/series titles
+	-	names (creator, contributor, publisher)
+	-	subjects -- is there a mix of controlled and uncontrolled values that are the same?
+	-	identifiers (e.g., for serials)
+	-	notes (if standardized information is added)
 
 -	Use pattern mask to check relevant fields that tend to follow strict formatting, e.g.:
 
