@@ -40,6 +40,41 @@ Here are some examples of what to check specifically from the Dashboard:
 -	Resource types match expectations
 
 
+****************
+Special Features
+****************
+
+-	The menu to the right of the search bar lets editors sort by title, dates, ARKs, or completeness
+
+.. image:: ../_static/images/dash-sort.png
+   :alt: Screenshot of the sort menu on the Dashboard.
+   
+-	Below the search box, there are buttons to change the way records are displayed; each display shows a different number of records per page and 
+	can make it easier to see different kinds of information
+
++-----------------------------------------------------------+-------------------------------------------------------+----------------------------------------------------+
+|.. image:: ../_static/images/dash-icon1.png                |.. image:: ../_static/images/dash-icon2.png            |.. image:: ../_static/images/dash-icon3.png         |
+|   :alt: Screenshot of hover text default list display.    |   :alt: Screenshot of hover text grid display.        |   :alt: Screenshot of hover text for brief display.|
++-----------------------------------------------------------+-------------------------------------------------------+----------------------------------------------------+
+   
+-	Any filters that have more than 7 options include a "view more" link at the bottom of the filter box that opens a search interface to see all possible list items
+
+.. image:: ../_static/images/dash-filter.png
+   :alt: Screenshot of the resource type filter.
+   
+-	An icon next to each item ARK on the Dashboard lets editors copy the "title, ARK" value, which can be pasted directly into the relation field of a related item
+
+.. image:: ../_static/images/dash-copy.png
+   :alt: Screenshot of the hover text for the copy icon.
+
+-	When viewing reocrds in the "brief" view, there are icons below the page links (upper-right above the record titles) to download a .csv file of information for the 99 
+	items on that page; either the ARKS or the information that is displayed in the list view (title, metaid, type, system, collection, institution, modification date, and 
+	accession date)
+
++-----------------------------------------------------------+-------------------------------------------------------+
+|.. image:: ../_static/images/dash-icon4.png                |.. image:: ../_static/images/dash-icon5.png            |
+|   :alt: Screenshot of hover text for ARK download.        |   :alt: Screenshot of hover text for data download.   |
++-----------------------------------------------------------+-------------------------------------------------------+
 
 
 ****************
