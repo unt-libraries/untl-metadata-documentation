@@ -31,6 +31,16 @@ If you are working on metadata and discover that you have questions or come acro
 * **If you find an unusual item**, it may be helpful to search in the Digital Collections for similar items to see how they have been described before or check to see if there are project-specific guidelines
 * **To get more context about an item**, you may be able to find other records or information online by looking in the library catalog or WorldCat (for formally published books, reports, pamphlets, etc.), by searching finding aids or similar documentation (for archival materials), or by using a search engine (if you want contextual information about an artist, personal collector, etc.)
 
+
+General Considerations
+======================
+
+A couple of notes about entering metadata and records in general:
+
+* There is no way to add mark-up or styling to any of the text in metadata fields (e.g., italics or bold)
+* Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.)
+* Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed
+
 ====
 
 .. _quick-title:
