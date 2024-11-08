@@ -145,7 +145,7 @@ Personal Names
 |complete version of the name that is known using proper    |                                       |
 |formatting:                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   a.  Invert names (Last, First, Middle)                  |McCaleb, Walter Flavius                |
+|   a.  Invert names (Last, First Middle)                   |McCaleb, Walter Flavius                |
 +-----------------------------------------------------------+---------------------------------------+
 |   b.  Use initials if the full name(s) are not known      |Henderson, Charles V.                  |
 +-----------------------------------------------------------+---------------------------------------+

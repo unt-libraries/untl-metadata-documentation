@@ -85,8 +85,12 @@ Special Features
 
 .. image:: ../_static/images/facet-invalid.png
    :alt: Screenshot of a facet example with invalid terms highlighted.
+   
+-	When consecutive values are extremely similar, a notation will display the level of similarity between them as a percentage to draw attention (not all similar values are incorrect)
 
-
+.. image:: ../_static/images/facet-comparison.png
+   :alt: Screenshot of a facet example with a percentage comparison note.
+   
 -	There are options to highlight certain kinds of symbols and spacing
 
 .. image:: ../_static/images/facet-highlight.png

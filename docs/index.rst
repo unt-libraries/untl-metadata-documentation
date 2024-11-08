@@ -11,6 +11,7 @@ We employ a system of metadata developed in-house and based on qualified Dublin 
    :maxdepth: 2
    :caption: Getting Started:
 
+   /overview
    /guides/quick-start-guide
 
 .. toctree::

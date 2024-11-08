@@ -149,7 +149,7 @@ Personal Names
 |complete version of the name that is known using proper    |                                       |
 |formatting:                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   a.  Invert names (Last, First, Middle)                  |Hébert, Rachel Bluntzer                |
+|   a.  Invert names (Last, First Middle)                   |Hébert, Rachel Bluntzer                |
 +-----------------------------------------------------------+---------------------------------------+
 |   b.  Use initials if the full name(s) are not known      |Reid, Samuel C.                        |
 +-----------------------------------------------------------+---------------------------------------+
