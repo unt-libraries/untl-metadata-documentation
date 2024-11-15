@@ -121,6 +121,7 @@ There are a number of tools built into the metadata editing system to assist wit
 
    /technical-guidelines
    /technical/metadata-workflow
+   /technical/completing-records
 
 .. toctree::
    :maxdepth: 1

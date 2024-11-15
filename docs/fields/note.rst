@@ -106,7 +106,10 @@ Metadata (Non-Displaying) Note
 -   Non-display notes are not visible to the public, but are used for any
     information important to internal maintenance of records or relevant
     to the original items
-
+-   In the rare cases that a record has been public and is later hidden for any 
+    reason (e.g., due to privacy concerns, copyright issues, etc.), the administrator
+    hiding the record *should always* include a note explaining why the record is 
+    being made non-public with any relevant information or documentation
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
@@ -120,7 +123,50 @@ Metadata (Non-Displaying) Note
 |               contact information) that should not be public                  +------------------------------------------------+
 |       -       sources of information found by editor                          |Date of image based on movie release in 1953,   |
 |       -       administrative or digitization information                      |per imdb.                                       |
+|       -       changes based on information received in feedback comments      +------------------------------------------------+
+|               (especially containing personal e-mail addresses or other       |Per feedback from [name/e-mail address]: the    |
+|               information that should not be public)                          |person in this photo is Bob Johnson.            |
+|                                                                               +------------------------------------------------+
+|                                                                               |Removed due to factual/production errors.       |
 +-------------------------------------------------------------------------------+------------------------------------------------+
+
+
+.. _note-preservation:
+
+
+Digital Preservation Note
+=========================
+
+-   Digital preservation notes are not explicitly included in the primary public
+    display, but they are also not fully hidden from the public (like non-display
+    notes) and may be included in certain kinds of metadata formats used for 
+    harvesting or sharing information
+-   This field also contains a number of "legacy" values that documented digitization
+    and metadata creator, software, and hardware information prior to 2009
+
+    
++-------------------------------------------------------------------------------+------------------------------------------------+
+|**Guidelines**                                                                 |**Examples**                                    |
++===============================================================================+================================================+
+|This may be an appropriate place to include notes about:                       |This material was digitized by SceneSavers in   |
+|                                                                               |the Fall of 2023.                               |
+|       -       who digitized an item, especially if it was done by a vendor    +------------------------------------------------+
+|       -       when items were digitized                                       |This material was digitized by DataBank.        |
+|       -       hardware/software used to digitize an item, if it is important  +------------------------------------------------+
+|               to document something specific                                  |Transferred via direct capture. Source was      |
+|       -       general statements about the quality or peculiarities about the |recorded in 16:9 Aspect Ratio                   |
+|               digital copies for staff to know about                          |                                                |
++-------------------------------------------------------------------------------+------------------------------------------------+
+|This may *not* be an appropriate place to include:                             |*Non-Displaying Note:* This user: [name/e-mail] |
+|                                                                               |provided additional context about this image.   |
+|       -       any information that should not ever be public (e.g., containing+------------------------------------------------+
+|               external contact information}                                   |*Display Note:* Tape begins in black, then cuts |
+|       -       depending on the specific collection and context, information   |to program.                                     |
+|               about the quality of digitized copies *may* serve users better  +------------------------------------------------+
+|               when formatted as a display note to let them know what to expect|*Display Note:* Audio is garbled at the 3:05    |
+|               when viewing a digital object                                   |mark.                                           |
++-------------------------------------------------------------------------------+------------------------------------------------+
+
 
 .. _note-examples:
 
@@ -131,8 +177,7 @@ Other Examples
 Display Notes
 =============
 
--   Digitization completed by Digital Daring Inc. under contract to the
-    University of North Texas Libraries.
+
 -   Performed in Hebrew with English subtitles.
 -   "Volume II."
 -   Pages numbered consecutively though each volume.
@@ -151,6 +196,18 @@ Non-Displaying Notes
 -   There was accompanying information not included in the record because it did not appear to match the item.
 -   Unverified creator due to conflicting information on duplicate copies.
 -   This does not appear to actually be a photo of the Livingston-Hess House, though it is similar.
+-   Hidden at the request of project owner because of privacy concerns with the model.
+
+
+Digital Preservation Notes
+==========================
+
+-   Digitization completed by Digital Daring Inc. under contract to the
+    University of North Texas Libraries.
+-   2 channels of audio, dubbed from betamax. Picture is grainy and tracking 
+    issues from transfer are recorded in.
+-   This material was digitized by Scene Savers in the Spring of 2022. Transferred via DVD rip.
+-   Digitized from microfilm.
 
 .. _note-resources:
 
