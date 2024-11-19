@@ -66,24 +66,27 @@ General (Display) Note
 |-      As appropriate, include a contextual statement to clarify the           |                                                |
 |       information source                                                      |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Put information in quotations when it is copied directly from the source|-  "Issued May 11, 1918."                       |
-|                                                                               |-  Text at top of map: "A three-mile breakwater,|
+|-      Put information in quotations when it is copied directly from the source| | "Issued May 11, 1918."                       |
+|                                                                               |                                                |
+|                                                                               | | Text at top of map: "A three-mile breakwater,|
 |                                                                               |   seventeen feet above mean low tide, sixteen  |
 |                                                                               |   feet at the base and five feet at top."      |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Include Roman numerals from the title                                   |-  "Vol. IV."                                   |
-|                                                                               |-  "Vol. II, No. 3."                            |
-|(Also see :doc:`Serials and Series </guides/serials>` regarding normalized     |                                                |
+|-      Include Roman numerals from the title                                   | | "Vol. IV."                                   |
+|                                                                               |                                                |
+|(Also see :doc:`Serials and Series </guides/serials>` regarding normalized     | | "Vol. II, No. 3."                            |
 |titles.)                                                                       |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      Include notes about non-standard or inconsistent page numbers, missing  |-  The original document is missing pages 15 and|
+|-      Include notes about non-standard or inconsistent page numbers, missing  | | The original document is missing pages 15 and|
 |       pages or other oddities                                                 |   16.                                          |
-|                                                                               |-  "Volume LXX" on title page is a misprint.  It|
+|                                                                               |                                                |
+|                                                                               | | "Volume LXX" on title page is a misprint.  It|
 |                                                                               |   should be "Volume LXXI."                     |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-      When relevant, include accompanying information that may have come from |-   "S1-JR-41" written on sleeve.               |
-|       another source or physical container, e.g., text written on the sleeve  |-   Accompanying information: "Tractor given to |
-|       of a negative                                                           |    him by Mrs. Dick Mitchell."                 |
+|-      When relevant, include accompanying information that may have come from | |  "S1-JR-41" written on sleeve.               |
+|       another source or physical container, e.g., text written on the sleeve  |                                                |
+|       of a negative                                                           | |  Accompanying information: "Tractor given to |
+|                                                                               |    him by Mrs. Dick Mitchell."                 |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |-      It might be useful to include background information that relates to the|Additional historical context: The Tower of     |
 |       item that is not directly part of the content, e.g.:                    |Americas was constructed for the World's Fair of|
@@ -96,6 +99,18 @@ General (Display) Note
 |                                                                               |particularly known for "toy books" - short,     |
 |                                                                               |small pamphlets and chapbooks with simple wood  |
 |                                                                               |cut illustrations.                              |
+|                                                                               +------------------------------------------------+
+|                                                                               |This is one of a series of photographs taken    |
+|                                                                               |during the One O'Clock Lab Band's tour to       |
+|                                                                               |Mexico, January 26 to February 21, 1967.  The   |
+|                                                                               |United States Department of State sponsored the |
+|                                                                               |tour, and the band traveled as representatives  |
+|                                                                               |of the United States.  Directed by Leon Breeden,|
+|                                                                               |the 20 member band and their guests, vocalist   |
+|                                                                               |Carol Lurie and pianist-organist Linda De Leon, |
+|                                                                               |toured for 26 days, giving 19 scheduled concerts|
+|                                                                               |and two impromptu shows at venues throughout    |
+|                                                                               |Mexico.                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 .. _note-nondisplay:
@@ -148,23 +163,24 @@ Digital Preservation Note
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
 +===============================================================================+================================================+
-|This may be an appropriate place to include notes about:                       |This material was digitized by SceneSavers in   |
-|                                                                               |the Fall of 2023.                               |
-|       -       who digitized an item, especially if it was done by a vendor    +------------------------------------------------+
-|       -       when items were digitized                                       |This material was digitized by DataBank.        |
-|       -       hardware/software used to digitize an item, if it is important  +------------------------------------------------+
-|               to document something specific                                  |Transferred via direct capture. Source was      |
-|       -       general statements about the quality or peculiarities about the |recorded in 16:9 Aspect Ratio                   |
+|This may be an appropriate place to include notes about:                       | | This material was digitized by SceneSavers in|
+|                                                                               |  the Fall of 2023.                             |
+|       -       who digitized an item, especially if it was done by a vendor    |                                                |
+|       -       when items were digitized                                       | | This material was digitized by DataBank.     |
+|       -       hardware/software used to digitize an item, if it is important  |                                                |
+|               to document something specific                                  | | Transferred via direct capture. Source was   |
+|       -       general statements about the quality or peculiarities about the |  recorded in 16:9 Aspect Ratio                 |
 |               digital copies for staff to know about                          |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|This may *not* be an appropriate place to include:                             |*Non-Displaying Note:* This user: [name/e-mail] |
-|                                                                               |provided additional context about this image.   |
-|       -       any information that should not ever be public (e.g., containing+------------------------------------------------+
-|               external contact information}                                   |*Display Note:* Tape begins in black, then cuts |
-|       -       depending on the specific collection and context, information   |to program.                                     |
-|               about the quality of digitized copies *may* serve users better  +------------------------------------------------+
-|               when formatted as a display note to let them know what to expect|*Display Note:* Audio is garbled at the 3:05    |
-|               when viewing a digital object                                   |mark.                                           |
+|This may *not* be an appropriate place to include:                             | | *Non-Displaying Note:* This user:            |
+|                                                                               |   [name/e-mail] provided additional context    |
+|       -       any information that should not ever be public (e.g., containing|   about this image.                            |
+|               external contact information}                                   |                                                |
+|       -       depending on the specific collection and context, information   | | *Display Note:* Tape begins in black, then   |
+|               about the quality of digitized copies *may* serve users better  |   cuts to program.                             |
+|               when formatted as a display note to let them know what to expect|                                                |
+|               when viewing a digital object                                   | | *Display Note:* Audio is garbled at the 3:05 |
+|                                                                               |   mark.                                        |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 
@@ -188,6 +204,8 @@ Display Notes
 -   Does not show western Texas beyond 7 miles west of San Antonio.
 -   Purchased with funds provided by the Friends of the UNT Libraries.
 -   "HR-2555"
+-   This letter is written on stationery that has a blue image near the top of the page of an airplane flying across a globe with the text "Air Mail," 
+    as well as a red stripe pattern at the top and bottom of the page.
 
 
 Non-Displaying Notes
