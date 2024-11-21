@@ -22,12 +22,35 @@ Overview
 ========
 
 The primary goal when we create metadata in the Digital Collections is to help users find items that they will find interesting or useful. 
-We do this by:
 
-* Describing an item as accurately as possible (e.g., not describing a clipping as a whole newspaper, or using a title that only applies to part of the content)
-* Including any information that is relevant to explain what the item is
-* Limiting duplication of information, unless it serves a purpose
-* Following formatting and usage guidelines so that information matches across items
+**What Information Should Be Included?**
+
+-   Information should match the item and represent it as accurately as possible (e.g., not describing a clipping as a whole newspaper, or using a title that only applies to part of the content)
+-   Any available information about how the item was made and what is in the content to help a user find a specific item or know if it has the information they need
+
+**Why Is Information Split Into So Many Fields?**
+
+-   Some information primarily describes what the item is and how it was made -- e.g., creator, contributor, publisher, creation date, resource type
+-   Some fields primarily describe what kind of content the item has and whether it will be useful to the user -- e.g., content description, subjects, coverage
+-   We mainly try not keep this information separate and not duplicate it across these fields
+-   *Occasionally* information in could overlap and may be duplicated to reflect that in *specific* cases, e.g.:
+
+    -   A self-portrait is made by the person who is in the image (creator and named person would be the same)
+    -   A report could say "this is what happened today" (creation date and coverage date would be the same)
+    -   Most photographs will have a creation date and covereage date that are the same (since the time of creation captures what is happening at that time)
+  
+**Why Are There So Many Rules About Formatting?**
+
+-   We want information to be added consistently because there may be overlap between items in different collections or we may want to use the values for interface features
+
+    -   Values entered in some fields are used for filtering and browsing (e.g., explore by...location, subject, date, etc.), but this relies on standardized formatting
+    -   Many types of values are "clickable" in records if a user wants to find "more items" that have the same subject, the same creator, are in the same series etc. -- 
+        but this only works if terms are entered the same way -- and these often apply across items described by many different people
+
+**Where Should I Even Start?**
+
+-   This page gives a general overview of what you should think about when doing metadata
+-   The Quick-Start Guide (linked in the left menu) gives a summary of the most important things to know about every field
 
 
 Questions or Issues
@@ -44,9 +67,9 @@ If you are working on metadata and discover that you have questions or come acro
 | - Whether certain information should be included in a particular field            | - Using the navigation at left                     |
 | - An unusual date                                                                 | - Looking at the top of the field in the edit      |
 | - Information for an infrequently-used field (like source)                        |   system and clicking on a link:                   |
-|                                                                                   |                                                    |
-|                                                                                   |   - "Help" to see the "Quick-Start" summary of     |
-|                                                                                   |     the field highlights and most frequently-used  |
+| - A field that you aren't sure applies (like citation/publication title)          |                                                    |
+| - A qualifier that you haven't used before (like a creator role, such as          |   - "Help" to see the "Quick-Start" summary of     |
+|   "attributed name" that you want to verify before using)                         |     the field highlights and most frequently-used  |
 |                                                                                   |     examples                                       |
 |                                                                                   |   - "Guide" to see the full guidelines including   |
 |                                                                                   |     detailed suggestions and examples, additional  |
@@ -91,7 +114,7 @@ A couple of notes about entering metadata and records in general:
 Completing Records from Templates
 *********************************
 
-Most records are uploaded with at least some pre-filled values or placeholders and may also have notes or reminders.  The goal of these values is to save time so that editors don't have to enter the same value frequently (e.g., if all of the items in a collection have the same creator), to suggest options for greater consistency (e.g., subject values from controlled vocabularies that may apply), and to remind editors to check whether information applies to a specific item.  
+Most records are uploaded with at least some pre-filled values or placeholders and may also have notes or reminders.  The goal of these values is to save time so that editors don't have to enter the same value frequently (e.g., if all of the items in a collection have the same creator) and placeholders are intended to: [1] highlight information that is required or expected for the record (e.g., titles or descriptions), [2] remind editors to check whether information applies to a specific item, especially for less-frequently-used fields (like source, which may apply to clippings), and [3] to suggest formatting or values for greater consistency (e.g., subject values from controlled vocabularies that may apply).  
 
 
 
@@ -114,11 +137,16 @@ Some things to keep in mind:
 |                                                                                   |                                                    |
 |                                                                                   | | {x, #} p.  > > vii, 300 p.  (i.e., Roman numerals|
 |                                                                                   |   and pagination are likely)                       |
+|                                                                                   |                                                    |
+|                                                                                   | | Fiscal Year YYYY > >  Fiscal Year 1965  (for a   |
+|                                                                                   |   series title, the format must match other titles |
+|                                                                                   |   in the series, in this case it *requires* a      |
+|                                                                                   |   single year)                                     |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
 | - Some values may apply frequently, but not to every item in a collection; for example, we might include a creator name that applies to|
 |   90% of the records so that editors do not have to add it every time, but there are still a handful of records where the creator name |
-|   should be changed or removed.  This also applies to suggested subject values that should be removed or changed if they do not apply  |
-|   to the **specific item**.                                                                                                            |
+|   should be changed or removed.                                                                                                        |
+| - This also applies to suggested subject values that should be removed or changed if they do not apply to the **specific item**.       |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
 | - For certain collections, there may be additional notes included as placeholders |Examples of notes:                                  |
 |   to remind editors about special issues                                          |                                                    |
@@ -126,6 +154,15 @@ Some things to keep in mind:
 |                                                                                   |   that are already completed}}}                    |
 |                                                                                   |                                                    |
 |                                                                                   | | {{{add relevant subjects}}}                      |
++-----------------------------------------------------------------------------------+----------------------------------------------------+
+| - Some placeholders have notes to proved suggestions about how to enter           |Examples:                                           |
+|   information or where to find values                                             |                                                    |
+| - The notes should be deleted and values need to be verified, entered, or         | | "Issue #."  -- whole number issue                |
+|   removed                                                                         |                                                    |
+|                                                                                   | | Bowman, Inci A. {{{or name}}}                    |
+|                                                                                   |                                                    |
+|                                                                                   | | "Issued {{{Quarterly}}}."  ---  adjust this based|
+|                                                                                   |   on cover/title page                              |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
 | - When removing an existing value or placeholder that does not apply, use the "x" | .. image:: ../_static/images/x-button.png          |
 |   button to completely remove the **whole** entry                                 |   :alt: Screenshot of the add/remove buttons.      |
