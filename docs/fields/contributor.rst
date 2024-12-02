@@ -215,9 +215,11 @@ Personal Names
 |-  If the name changes and it is *certainly* the same      | | *Name:* Gaines, Ann                 |
 |   person:                                                 | | *Info:* Ann Sanders                 |
 |                                                           |                                       |
-|   -   Use the later/most current version                  |                                       |
-|   -   Include the former name in the info section if that |                                       |
-|       version is used in the text                         |                                       |
+|   -   Use the later/most current version and include the  |                                       |
+|       former name in the info section if that version is  | | Davis, Catherine Dawe               |
+|       used in the text                                    |                                       |
+|   -   Alternately, for married names, use the maiden name | | Kempner, Mary Josephine Carroll     |
+|       at the end of the full name                         |                                       |
 |                                                           |                                       |
 |-  When in doubt, enter the name as it appears on the item |                                       |
 +-----------------------------------------------------------+---------------------------------------+
