@@ -171,14 +171,15 @@ Other suggestions:
 |                                                                               |providing and maintaining an excellent park system; and to         |
 |                                                                               |improving hunting and fishing in Texas" (p. 2).                    |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|If the text has an index, include a statement at the end of the description    |-  Index starts on page 254.                                       |
-|                                                                               |-  Index starts after page 18.                                     |
+|If the text has an index, include a statement at the end of the description    | | Index starts on page 254.                                       |
+|                                                                               |                                                                   |
+|                                                                               | | Index starts after page 18.                                     |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |When referring to a company, organization, school, military installation, etc.,|Photograph of the central stairs inside the North Texas State      |
 |the abbreviated version of the name can be used, but the full name must appear |University A. M. Willis, Jr. Library. The photograph was taken on  |
 |at least once in the record (preferably the content description or as a        |the first floor looking up at the second.                          |
 |:ref:`keyword <subject-keywords>`                                              +-------------------------------------------------------------------+
-|                                                                               |*Description:* Postcard of buildings at Ft. McIntosh. [...]        |
+|                                                                               |*Description:* Postcard of buildings at Ft. McIntosh [...]         |
 |                                                                               |                                                                   |
 |                                                                               |*Keyword:* Fort McIntosh                                           |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+

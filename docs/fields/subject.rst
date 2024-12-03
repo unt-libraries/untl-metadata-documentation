@@ -124,8 +124,8 @@ Formatting Keywords
 +-----------------------------------------------------------+---------------------------------------+
 |-  Use punctuation when applicable                         |long-range planning                    |
 +-----------------------------------------------------------+---------------------------------------+
-|-  If needed, including multiple versions with different   |-  man-made lakes                      |
-|   spacing/punctuation                                     |-  manmade lakes                       |
+|-  If needed, including multiple versions with different   | | man-made lakes                      |
+|   spacing/punctuation                                     | | manmade lakes                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Do not add quotation marks to titles                    |Romeo and Juliet                       |
 +-----------------------------------------------------------+---------------------------------------+
@@ -134,15 +134,17 @@ Formatting Keywords
 |-  The singular form may be used when there is no          |quilting                               |
 |   reasonable plural                                       |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|When referring to a company, organization, school, military|*  *Description:* Postcard of buildings|
+|When referring to a company, organization, school, military| | *Description:* Postcard of buildings|
 |installation, etc., the abbreviated version of the name can|   at Ft. McIntosh.                    |
-|be used, but the full name must appear at least once in the|*  *Keyword:* Fort McIntosh            |
-|record (e.g., the content description or subject)          +---------------------------------------+
-|                                                           |UNT                                    |
+|be used, but the full name must appear at least once in the| | *Keyword:* Fort McIntosh            |
+|record (e.g., the content description or subject)          |                                       |
+|                                                           | | UNT                                 |
 +-----------------------------------------------------------+---------------------------------------+
-|Prefer applicable controlled terms when they are readily-  |-  *LCGFT:* Portraits                  |
-|available (e.g., for more specific material information)   |-  *TGM:* Cabinet photographs          |
-|                                                           |-  *Keyword:* quarterly reports        |
+|Prefer applicable controlled terms when they are readily-  | | *LCGFT:* Portraits                  |
+|available (e.g., for more specific material information)   |                                       |
+|                                                           | | *Keyword:* quarterly reports        |
+|                                                           |                                       |
+|                                                           | | *TGM:* Cabinet photographs          |
 +-----------------------------------------------------------+---------------------------------------+
 
 .. _subject-kwdassign:
@@ -157,19 +159,19 @@ Assigning Keywords
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
 | **Guideline**                                             | **Instead of:**                          | **Consider:**                  |
 +===========================================================+==========================================+================================+
-|Keep keywords short -- break up long, complex phrases      |ACI service awards for Austin and Dallas  |-  Airport Council International|
-|                                                           |airports                                  |-  ACI                          |
-|                                                           |                                          |-  service awards               |
-|                                                           |                                          |-  airports                     |
+|Keep keywords short -- break up long, complex phrases      |ACI service awards for Austin and Dallas  | | Airport Council International|
+|                                                           |airports                                  | | ACI                          |
+|                                                           |                                          | | service awards               |
+|                                                           |                                          | | airports                     |
 |                                                           +------------------------------------------+--------------------------------+
-|                                                           |crude oil and petroleum products markets  |-  crude oil                    |
-|                                                           |                                          |-  oil products                 |
-|                                                           |                                          |-  petroleum products           |
-|                                                           |                                          |-  fuel markets                 |
+|                                                           |crude oil and petroleum products markets  | | crude oil                    |
+|                                                           |                                          | | oil products                 |
+|                                                           |                                          | | petroleum products           |
+|                                                           |                                          | | fuel markets                 |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
-|Split up proper names and abbreviations/acronyms           |National Environmental Policy Act (NEPA)  |-  National Environmental Policy|
+|Split up proper names and abbreviations/acronyms           |National Environmental Policy Act (NEPA)  | | National Environmental Policy|
 |                                                           |                                          |   Act                          |
-|                                                           |                                          |-  NEPA                         |
+|                                                           |                                          | | NEPA                         |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
 |Remove unnecessary articles                                |the DREAM Act                             |DREAM Act                       |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
@@ -177,14 +179,14 @@ Assigning Keywords
 |                                                           +------------------------------------------+--------------------------------+
 |                                                           |books in astronomy                        |astronomy books                 |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
-|Every keyword should have a noun                           |horseback                                 |-  horseback riding             |
-|                                                           |                                          |-  horseback riders             |
+|Every keyword should have a noun                           |horseback                                 | | horseback riding             |
+|                                                           |                                          | | horseback riders             |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
-|Add descriptors if the term is extremely vague             |processing                                |-  data processing              |
-|                                                           |                                          |-  grain processing             |
-|                                                           |                                          |-  water processing             |
-|                                                           |                                          |-  financial processing         |
-|                                                           |                                          |-  agricultural processing      |
+|Add descriptors if the term is extremely vague             |processing                                | | data processing              |
+|                                                           |                                          | | grain processing             |
+|                                                           |                                          | | water processing             |
+|                                                           |                                          | | financial processing         |
+|                                                           |                                          | | agricultural processing      |
 +-----------------------------------------------------------+------------------------------------------+--------------------------------+
 
 .. _subject-animal:
@@ -198,11 +200,11 @@ Named Animals (namedAnimal)
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|Include the name exactly as written/punctuated             |Rolph                                  |
-|                                                           +---------------------------------------+
-|                                                           |Dox Happy Rx                           |
-|                                                           +---------------------------------------+
-|                                                           |Bit O'Man                              |
+|Include the name exactly as written/punctuated             | | Rolph                               |
+|                                                           |                                       |
+|                                                           | | Dox Happy Rx                        |
+|                                                           |                                       |
+|                                                           | | Bit O'Man                           |
 +-----------------------------------------------------------+---------------------------------------+
 
 .. _subject-person:
@@ -231,32 +233,34 @@ Named Persons (named_person)
 +-----------------------------------------------------------+-------------------------------------------+
 |Include additional names as middle names                   |Williams, Mary Deline Xenia Buchanan       |
 +-----------------------------------------------------------+-------------------------------------------+
-|Names that are hyphenated or have multiple parts are all   |-  Smith-Jones, John                       |
-|considered "last names"                                    |-  van Tyen, Jan                           |
+|Names that are hyphenated or have multiple parts are all   | | Smith-Jones, John                       |
+|considered "last names"                                    |                                           |
+|                                                           | | van Tyen, Jan                           |
 +-----------------------------------------------------------+-------------------------------------------+
-|-  Include known titles before the first name (optional    |-  Steever, Col. Edgar Z.                  |
-|   when not necessary to identify the specific person, as  |-  Petersen, Mrs. P. J.                    |
-|   these may change over time)                             |-  Stolte, Hugo C., Jr.                    |
+|-  Include known titles before the first name (optional    | | Steever, Col. Edgar Z.                  |
+|   when not necessary to identify the specific person, as  |                                           |
+|   these may change over time)                             | | Stolte, Hugo C., Jr.                    |
 |-  Include known suffixes at the end of the name after a   |                                           |
-|   second comma                                            |                                           |
+|   second comma                                            | | Petersen, Mrs. P. J.                    |
 +-----------------------------------------------------------+-------------------------------------------+
 |Nicknames can be included in parentheses at the end of the |Wind, Ellis (Pee Wee)                      |
 |name                                                       |                                           |
 +-----------------------------------------------------------+-------------------------------------------+
-|If a person has an alternate name or alias, include their  |-  *Named Person:* Cody, William Frederick |
-|real name under "named person" and aliases as keywords     |-  *Keyword:* Buffalo Bill                 |
+|If a person has an alternate name or alias, include their  | | *Named Person:* Cody, William Frederick |
+|real name under "named person" and aliases as keywords     | | *Keyword:* Buffalo Bill                 |
 +-----------------------------------------------------------+-------------------------------------------+
 |-  If an authorized name (from the `Library of Congress    |*Named Person:* Austin, Stephen F.         |
 |   <https://id.loc.gov/>`_ ) is known, it may be used in   |(Stephen Fuller), 1793-1836                |
 |   the named person entry                                  +-------------------------------------------+
-|-  Alternately, if the authorized version does not include |-  *LCSH:* Johnson, Lady Bird, 1912-2007   |
-|   information (such as "Jr.") that could be helpful, it   |-  *Named Person:* Johnson, Claudia Alta   |
+|-  Alternately, if the authorized version does not include | | *LCSH:* Johnson, Lady Bird, 1912-2007   |
+|   information (such as "Jr.") that could be helpful, it   | | *Named Person:* Johnson, Claudia Alta   |
 |   may be included as an LCSH term, with fuller version    |   Taylor (Lady Bird)                      |
 |   in named person                                         |                                           |
 +-----------------------------------------------------------+-------------------------------------------+
-|If a person is identified with both a married name and a   |-  Buchanan, Menvil Mae                    |
-|prior name, include a separate named person entry for each |-  Seastrunk, Menvil Mae                   |
-|surname                                                    |                                           |
+|If a person is identified with both a married name and a   | | Buchanan, Menvil Mae                    |
+|prior name, a separate named person entry for each surname | | Seastrunk, Menvil Mae                   |
+|may be entered, or the maiden name may be incorporated     |                                           |
+|                                                           | | Quinby, Georgianna G. Richardson        |
 +-----------------------------------------------------------+-------------------------------------------+
 
 
@@ -316,10 +320,10 @@ UNT Libraries Browse Subjects (UNTL-BS)
 |   -   Social Life and Customs - Customs *and*             |                                       |
 |   -   Social Life and Customs - Customs - Weddings        |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Only use UNTL-BS terms starting with "Places" when:     |Places - United States - Midwestern    |
-|                                                           |Region                                 |
-|   -   The place itself is important to the content of the +---------------------------------------+
-|       item -- i.e., it is "about" the place" -- such as a |Places - Republic of Texas             |
+|-  Only use UNTL-BS terms starting with "Places" when:     | | Places - United States - Midwestern |
+|                                                           |   Region                              |
+|   -   The place itself is important to the content of the |                                       |
+|       item -- i.e., it is "about" the place" -- such as a | | Places - Republic of Texas          |
 |       map or travel book                                  |                                       |
 |   -   The place is not duplicated in the coverage place   |                                       |
 |       field -- such as U.S. regions or historic locations |                                       |
@@ -359,9 +363,11 @@ Library of Congress Subject Headings (LCSH)
 +-----------------------------------------------------------+-----------------------------------------+
 | **Guideline**                                             | **Examples**                            |
 +===========================================================+=========================================+
-|-  Subject strings must be formulated according to Library |-  Bee culture \-- Equipment and supplies|
-|   of Congress rules                                       |-  Fort Wolters (Tex.)                   |
-|-  Terms are separated by a double dash (Term -- Term)     |-  Capote, Truman, 1924-                 |
+|-  Subject strings must be formulated according to Library | | Bee culture \-- Equipment and supplies|
+|   of Congress rules                                       |                                         |
+|-  Terms are separated by a double dash (Term -- Term)     | | Capote, Truman, 1924-                 |
+|                                                           |                                         |
+|                                                           | | Fort Wolters (Tex.)                   |
 +-----------------------------------------------------------+-----------------------------------------+
 |-  If the item has been previously described in a library  |Costume \-- China \-- History \--        |
 |   catalog record, that may be a good source of relevant   |Ming-Qing dynasties, 1368-1912           |
@@ -369,15 +375,14 @@ Library of Congress Subject Headings (LCSH)
 |-  You may need to tweak the formatting depending on how   |                                         |
 |   the subjects are displayed                              |                                         |
 +-----------------------------------------------------------+-----------------------------------------+
-|-  Generally prefer terms that don't duplicate other       |-  *LCSH:* Texas. Department of          |
+|-  Generally prefer terms that don't duplicate other       | | *LCSH:* Texas. Department of          |
 |   information, e.g.:                                      |   Transportation \-- Evaluation         |
-|                                                           |-  *LCGFT:* Periodicals                  |
-|   -   Consider leaving out geographic subdivisions that   |-  *LCGFT:* Annual reports               |
+|                                                           | | *LCGFT:* Periodicals                  |
+|   -   Consider leaving out geographic subdivisions that   | | *LCGFT:* Annual reports               |
 |       overlap with coverage place(s)                      |                                         |
 |   -   Use separate LCGFT terms rather than form           |                                         |
 |       subdivisions                                        |                                         |
 +-----------------------------------------------------------+-----------------------------------------+
-
 
 .. _subject-lcgft:
 

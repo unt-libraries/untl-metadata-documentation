@@ -162,8 +162,9 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |   f.  Put additional middle names after the first name    |Briscoe, Mary Jane Harris              |
 +-----------------------------------------------------------+---------------------------------------+
-|   g.  Keep hyphenated "last names" and compound surnames  |-  Donahue-Smith, James A.             |
-|       together                                            |-  Hasanul Basher, A. M.               |
+|   g.  Keep hyphenated "last names" and compound surnames  | | Donahue-Smith, James A.             |
+|       together                                            |                                       |
+|                                                           | | Hasanul Basher, A. M.               |
 +-----------------------------------------------------------+---------------------------------------+
 |   h.  Consider multiple parts (von, de la, etc.) as part  |de la Peña, L. R.                      |
 |       of the last name                                    |                                       |
@@ -177,9 +178,9 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|a.   Only include known titles (Dr., Rev., Capt., etc.)    |-  Morris, Mrs. Harry Joseph           |
-|     before the first name if:                             |-  Ross, Lieutenant                    |
-|                                                           |                                       |
+|a.   Only include known titles (Dr., Rev., Capt., etc.)    | | Morris, Mrs. Harry Joseph           |
+|     before the first name if:                             |                                       |
+|                                                           | | Ross, Lieutenant                    |
 |     -   The title is necessary for clarification of the   |                                       |
 |         name (e.g., if the given name for a married       |                                       |
 |         woman is unknown)                                 |                                       |
@@ -403,19 +404,19 @@ Assigning Roles
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |               |Agents                                                     |Role               |Field          |Example                                   |
 +===============+===========================================================+===================+===============+==========================================+
-|"Director"     |director of a performance (film, play, concert, etc.)      |Director           |Creator        | | *Name:* Homer, Paula                   |
+|"Director"     |-  director of a performance (film, play, concert, etc.)   |Director           |Creator        | | *Name:* Homer, Paula                   |
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Director                       |
 |               |                                                           |                   |               | | *Info:* UNT Opera Theater              |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |executive director of an agency with no apparent personal  |n/a                |Creator        | | *Name:* Texas. Department of           |
-|               |contribution to the item                                   |                   |               |   Transportation.                        |
+|               |-  executive director of an agency with no apparent        |n/a                |Creator        | | *Name:* Texas. Department of           |
+|               |   personal contribution to the item                       |                   |               |   Transportation.                        |
 |               |                                                           |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Phil Wilson, Executive Director|
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |executive director of an agency with a described or        |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
-|               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               | | *Type:* Personal                       |
+|               |-  executive director of an agency with a described or     |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
+|               |   understandable role (e.g., author of transmittal letter)|introduction, etc. |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author of introduction, etc.   |
 |               |                                                           |(or another        |               | | *Info:* Director of Building           |
 |               |                                                           |appropriate role)  |               |   Inspections                            |
@@ -424,15 +425,15 @@ Assigning Roles
 |               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Performer                      |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |a person/organization that "performed" work or research    |Originator,        |Creator        | | *Name:* Quigg, Antonietta Salvatrice   |
-|               |(aside from, or in addition to, specific person/s who      |Researcher, or     |               | | *Type:* Personal                       |
-|               |authored a report or created some product of the work)     |another appropriate|               | | *Role:* Author                         |
+|               |-  a person/organization that "performed" work or research |Originator,        |Creator        | | *Name:* Quigg, Antonietta Salvatrice   |
+|               |   (aside from, or in addition to, specific person/s who   |Researcher, or     |               | | *Type:* Personal                       |
+|               |   authored a report or created some product of the work)  |another appropriate|               | | *Role:* Author                         |
 |               |                                                           |role               +---------------+------------------------------------------+
 |               |                                                           |                   |Contributor    | | *Name:* Texas Water Development Board  |
 |               |                                                           |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Originator                     |
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|"Consultant"   |a consulting company or person that authors a report       |Author             |Creator        | | *Name:* Kerley, Gerald Irwin           |
+|"Consultant"   |-  a consulting company or person that authors a report    |Author             |Creator        | | *Name:* Kerley, Gerald Irwin           |
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
@@ -465,33 +466,35 @@ Creator Info
 |-  Include information that clarifies the role of the      |Co-Editor                              |
 |   creator                                                 |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Include other relevant information known about the      |-  Geo. S. Anderson                    |
-|   creator that relates to the object, such as:            |-  1906-2005                           |
-|                                                           |-  Ph.D.; Texas A &amp; M University   |
-|   -   Additional forms of the creator's name              |   Real Estate Center                  |
-|   -   Addresses                                           |-  "By his son, the late Wilson Gregg" |
-|   -   Birth and death dates (not part of an authorized    |   (d. 1899)                           |
+|-  Include other relevant information known about the      | | Geo. S. Anderson                    |
+|   creator that relates to the object, such as:            |                                       |
+|                                                           | | 1906-2005                           |
+|   -   Additional forms of the creator's name              |                                       |
+|   -   Addresses                                           | | Ph.D.; Texas A &amp; M University   |
+|   -   Birth and death dates (not part of an authorized    |   Real Estate Center                  |
 |       name)                                               |                                       |
-|   -   Organizational affiliations                         |                                       |
-|   -   Other information associated with the name          |                                       |
+|   -   Organizational affiliations                         | | "By his son, the late Wilson Gregg" |
+|   -   Other information associated with the name          |   (d. 1899)                           |
 +-----------------------------------------------------------+---------------------------------------+
-|-  For an agency, the info may include:                    |-  LLNL                                |
-|                                                           |-  U.S. Department of Agriculture,     |
-|   -   Persons associated with the organization who did not|   Office of Experiment Stations; W. O.|
-|       have another role (e.g., directors)                 |   Atwater, Director                   |
-|   -   Acronyms, abbreviations, or alternative name forms  |                                       |
+|-  For an agency, the info may include:                    | | LLNL                                |
+|                                                           |                                       |
+|   -   Persons associated with the organization who did not| | U.S. Department of Agriculture,     |
+|       have another role (e.g., directors)                 |   Office of Experiment Stations; W. O.|
+|   -   Acronyms, abbreviations, or alternative name forms  |   Atwater, Director                   |
 |   -   Additional omitted hierarchical components (e.g.,   |                                       |
-|       for some federal agencies)                          |                                       |
+|       for some federal agencies)                          | | Susan Combs, Comptroller of Public  |
+|                                                           |   Accounts                            |
 +-----------------------------------------------------------+---------------------------------------+
-|-  There are no strict formatting requirements for info,   |-  California Univ., Berkeley, CA      |
+|-  There are no strict formatting requirements for info,   | | California Univ., Berkeley, CA      |
 |   but here are some suggestions:                          |   (United States). Dept. of Geology   |
 |                                                           |   and Geophysics Lawrence Berkeley    |
 |   -   List each name, fact, or statement individually and |   Lab., CA (United States)            |
-|       separate them with semicolons or periods            |-  Freegift Vandervoort, of Carrizo    |
-|   -   Use sentence form when relevant, or when taken      |   Springs, Texas ; F. Vandervoort     |
-|       directly from the item                              |-  Member of the Association of        |
-|   -   Quotation marks may be used when quoting information|   American Directory Publishers"      |
-|       directly from the item                              |                                       |
+|       separate them with semicolons or periods            |                                       |
+|   -   Use sentence form when relevant, or when taken      | | Freegift Vandervoort, of Carrizo    |
+|       directly from the item                              |   Springs, Texas ; F. Vandervoort     |
+|   -   Quotation marks may be used when quoting information|                                       |
+|       directly from the item                              | | Member of the Association of        |
+|                                                           |   American Directory Publishers"      |
 +-----------------------------------------------------------+---------------------------------------+
 
 

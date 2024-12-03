@@ -115,11 +115,14 @@ Publisher Names
 +-----------------------------------------------------------+---------------------------------------+
 |For United States agencies:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Spell out "United States" unless there is an authorized |-  [United States.] Army Information   |
+|-  Spell out "United States" unless there is an authorized | | [United States.] Army Information   |
 |   version that abbreviates it                             |   Branch.                             |
-|                                                           |-  United States. Department of        |
+|                                                           |                                       |
+|                                                           | | United States. Department of        |
 |                                                           |   Commerce. Office of Technical       |
 |                                                           |   Services.                           |
+|                                                           |                                       |
+|                                                           | | U.S. Atomic Energy Commission       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  In the case of a long (well-known) name, it may be      |United States. Central Intelligence    |
 |   shortened by eliminating unnecessary parts              |Agency.                                |

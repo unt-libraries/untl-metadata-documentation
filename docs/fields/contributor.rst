@@ -159,7 +159,8 @@ Personal Names
 |   f.  Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |
 +-----------------------------------------------------------+---------------------------------------+
 |   g.  Keep hyphenated "last names" and compound surnames  | | Ala'i-Rosales, Shahla S.            |
-|       together                                            | | Martinez Fischer, Ferdinand Frank   |
+|       together                                            |                                       |
+|                                                           | | Martinez Fischer, Ferdinand Frank   |
 +-----------------------------------------------------------+---------------------------------------+
 |   h.  Consider multiple parts (von, de la, etc.) as part  |de Almeida Lobo, Adriana               |
 |       of the last name                                    |                                       |
@@ -173,9 +174,9 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |Use appropriate abbreviations:                             |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|   a.  Only include known titles (Dr., Rev., Capt., etc.)  |-  Hastings, Mrs. F. S.                |
-|       before the first name if:                           |-  Jones, Dr.                          |
-|                                                           |                                       |
+|   a.  Only include known titles (Dr., Rev., Capt., etc.)  | | Hastings, Mrs. F. S.                |
+|       before the first name if:                           |                                       |
+|                                                           | | Jones, Dr.                          |
 |       -   The title is necessary for clarification of the |                                       |
 |           name (e.g., if the given name for a married     |                                       |
 |           woman is unknown)                               |                                       |
@@ -272,9 +273,10 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |For United States agencies:                                                                        |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Spell out "United States" unless there is an authorized |-  United States. Navy. Training       |
+|-  Spell out "United States" unless there is an authorized | | United States. Navy. Training       |
 |   version that abbreviates it                             |   Division. Bureau of Aeronautics.    |
-|                                                           |-  U.S. Coast and Geodetic Survey      |
+|                                                           |                                       |
+|                                                           | | U.S. Coast and Geodetic Survey      |
 +-----------------------------------------------------------+---------------------------------------+
 |-  In the case of a long (well-known) name, it may be      |United States. Central Intelligence    |
 |   shortened by eliminating unnecessary parts              |Agency.                                |
@@ -302,7 +304,7 @@ Organization Names
 |-  If there is no authorized form, follow general          |Mexico. Secretaría de la Economia      |
 |   formatting rules                                        |Nacional Direccion General de Minas y  |
 |                                                           |Petoleo.                               |
-+-----------------------------------------------------------+---------------------------------------+ 
++-----------------------------------------------------------+---------------------------------------+
 
 .. _contributor-type:
 
@@ -399,19 +401,19 @@ Assigning Roles
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |               |Agents                                                     |Role               |Field          |Example                                   |
 +===============+===========================================================+===================+===============+==========================================+
-|"Director"     |director of a performance (film, play, concert, etc.)      |Director           |Creator        | | *Name:* Homer, Paula                   |
+|"Director"     |-  director of a performance (film, play, concert, etc.)   |Director           |Creator        | | *Name:* Homer, Paula                   |
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Director                       |
 |               |                                                           |                   |               | | *Info:* UNT Opera Theater              |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |executive director of an agency with no apparent personal  |n/a                |Creator        | | *Name:* Texas. Department of           |
-|               |contribution to the item                                   |                   |               |   Transportation.                        |
+|               |-  executive director of an agency with no apparent        |n/a                |Creator        | | *Name:* Texas. Department of           |
+|               |   personal contribution to the item                       |                   |               |   Transportation.                        |
 |               |                                                           |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Phil Wilson, Executive Director|
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |executive director of an agency with a described or        |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
-|               |understandable role (e.g., author of transmittal letter)   |introduction, etc. |               | | *Type:* Personal                       |
+|               |-  executive director of an agency with a described or     |Author of          |Contributor    | | *Name:* Camargo, Gene                  |
+|               |   understandable role (e.g., author of transmittal letter)|introduction, etc. |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author of introduction, etc.   |
 |               |                                                           |(or another        |               | | *Info:* Director of Building           |
 |               |                                                           |appropriate role)  |               |   Inspections                            |
@@ -420,15 +422,15 @@ Assigning Roles
 |               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Performer                      |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |a person/organization that "performed" work or research    |Originator,        |Creator        | | *Name:* Quigg, Antonietta Salvatrice   |
-|               |(aside from, or in addition to, specific person/s who      |Researcher, or     |               | | *Type:* Personal                       |
-|               |authored a report or created some product of the work)     |another appropriate|               | | *Role:* Author                         |
+|               |-  a person/organization that "performed" work or research |Originator,        |Creator        | | *Name:* Quigg, Antonietta Salvatrice   |
+|               |   (aside from, or in addition to, specific person/s who   |Researcher, or     |               | | *Type:* Personal                       |
+|               |   authored a report or created some product of the work)  |another appropriate|               | | *Role:* Author                         |
 |               |                                                           |role               +---------------+------------------------------------------+
 |               |                                                           |                   |Contributor    | | *Name:* Texas Water Development Board  |
 |               |                                                           |                   |               | | *Type:* Organization                   |
 |               |                                                           |                   |               | | *Role:* Originator                     |
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|"Consultant"   |a consulting company or person that authors a report       |Author             |Creator        | | *Name:* Kerley, Gerald Irwin           |
+|"Consultant"   |-  a consulting company or person that authors a report    |Author             |Creator        | | *Name:* Kerley, Gerald Irwin           |
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
@@ -458,38 +460,39 @@ Contributor Info
 +-----------------------------------------------------------+---------------------------------------+
 | **Guideline**                                             | **Examples**                          |
 +===========================================================+=======================================+
-|-  Include information that clarifies the role of the      |-  Consulting Engineer                 |
-|   contributor, e.g.:                                      |-  Trio for Piano, Violin and Cello in |
-|                                                           |   C Major, K. 548 (1788)              |
-|   -   For composers, the name of the piece(s)             |-  Baby Lore: The Why and Wherefore of |
-|   -   For journals or compiled documents, the title(s) of |   It                                  |
-|       pieces authored by the contributor                  |                                       |
+|-  Include information that clarifies the role of the      | | Consulting Engineer                 |
+|   contributor, e.g.:                                      |                                       |
+|                                                           | | Trio for Piano, Violin and Cello in |
+|   -   For composers, the name of the piece(s)             |   C Major, K. 548 (1788)              |
+|   -   For journals or compiled documents, the title(s) of |                                       |
+|       pieces authored by the contributor                  | | Baby Lore: The Why and Wherefore of |
+|                                                           |   It                                  |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Include other relevant information known about the      |-  Judge Sam'l A. Roberts              |
-|   contributor that relates to the object, such as:        |-  LMSW; Manager, Purchased Health     |
-|                                                           |   Services Unit                       |
-|   -   Additional forms of the contributor's name          |-  Houston, Texas                      |
+|-  Include other relevant information known about the      | | Judge Sam'l A. Roberts              |
+|   contributor that relates to the object, such as:        |                                       |
+|                                                           | | LMSW; Manager, Purchased Health     |
+|   -   Additional forms of the contributor's name          |   Services Unit                       |
 |   -   Addresses                                           |                                       |
-|   -   Birth and death dates (not part of an authorized    |                                       |
+|   -   Birth and death dates (not part of an authorized    | | Houston, Texas                      |
 |       name)                                               |                                       |
 |   -   Organizational affiliations                         |                                       |
 |   -   Other information associated with the name          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  For an agency, the info may include:                    |-  CEA                                 |
-|                                                           |-  U.S. Department of the Interior,    |
-|   -   Persons associated with the organization who did not|   Bureau of Mines                     |
-|       have another role (e.g., directors)                 |                                       |
+|-  For an agency, the info may include:                    | | CEA                                 |
+|                                                           |                                       |
+|   -   Persons associated with the organization who did not| | U.S. Department of the Interior,    |
+|       have another role (e.g., directors)                 |   Bureau of Mines                     |
 |   -   Acronyms, abbreviations, or alternative name forms  |                                       |
 |   -   Additional omitted hierarchical components (e.g.,   |                                       |
 |       for some federal agencies)                          |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  There are no strict formatting requirements for info,   |-  Rev. R. G. Mood, M.A., D.D. ;       |
+|-  There are no strict formatting requirements for info,   | | Rev. R. G. Mood, M.A., D.D. ;       |
 |   but here are some suggestions:                          |   Secretary and Editor of the North   |
 |                                                           |   Texas Conference                    |
-|   -   List each name, fact, or statement individually and |-  "Under Four Flags on Texas Soil, By |
-|       separate them with semicolons or periods            |   A. Garland Adair, Editor, The Mexia |
-|   -   Use sentence form when relevant, or when taken      |   Daily News"                         |
-|       directly from the item                              |                                       |
+|   -   List each name, fact, or statement individually and |                                       |
+|       separate them with semicolons or periods            | | "Under Four Flags on Texas Soil, By |
+|   -   Use sentence form when relevant, or when taken      |   A. Garland Adair, Editor, The Mexia |
+|       directly from the item                              |   Daily News"                         |
 |   -   Quotation marks may be used when quoting information|                                       |
 |       directly from the item                              |                                       |
 +-----------------------------------------------------------+---------------------------------------+

@@ -80,31 +80,31 @@ How Should the Language be Filled in?
 |-  Choose the appropriate language(s) from the `controlled                 |eng - English                          |
 |   vocabulary <https://digital2.library.unt.edu/vocabularies/languages/>`_ |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  Include all relevant languages                                          |-  spa - Spanish                       |
-|                                                                           |-  ger - German                        |
+|-  Include all relevant languages                                          | | spa - Spanish                       |
+|                                                                           | | ger - German                        |
 |   -   (do not include languages that are merely referenced or only appear |                                       |
 |       as single words of text in another language)                        |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
 |-  For visual images that do not have a textual caption or text within the |nol - No Language                      |
 |   image, choose "no language"                                             |                                       |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  If there are special circumstances or additional information about the  |-  eng - English                       |
-|   language uses of the item, include it in the :doc: `note <note>` field  |-  spa - Spanish                       |
-|   of :doc: `description <description>` field, as appropriate              |-  *Note:* Book is printed in two      |
+|-  If there are special circumstances or additional information about the  | | eng - English                       |
+|   language uses of the item, include it in the :doc: `note <note>` field  | | spa - Spanish                       |
+|   of :doc: `description <description>` field, as appropriate              | | *Note:* Book is printed in two      |
 |                                                                           |   sections, the first is Spanish and  |
 |                                                                           |   the second is the English           |
 |                                                                           |   translation                         |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  If the only text on the item consists of persons' names, choose "no     |-  nol - No Language                   |
-|   language" and the text can be described in the :ref:`content description|-  *Note:* The name "Bartimaeus" is    |
+|-  If the only text on the item consists of persons' names, choose "no     | | nol - No Language                   |
+|   language" and the text can be described in the :ref:`content description| | *Note:* The name "Bartimaeus" is    |
 |   <description-content>` or a :ref:`display note <note-display>`          |   carved into the top of the box.     |
 +---------------------------------------------------------------------------+---------------------------------------+
-|-  If the language of the item is not on the controlled vocabulary list (or|oth - Other                            |
-|   cannot be determined from available resources), choose "other" and      +---------------------------------------+
-|   include a :ref:`display note <note-display>` in the record              |*Note:* Language is unknown.           |
-|-  Notify the `metadata administrators                                     +---------------------------------------+
-|   <https://library.unt.edu/digital-projects-unit/contacts/>`_ if the      |*Note:* Text is in the Kutenai Indian  |
-|   language is not on the list                                             |language.                              |
+|-  If the language of the item is not on the controlled vocabulary list (or| | oth - Other                         |
+|   cannot be determined from available resources), choose "other" and      |                                       |
+|   include a :ref:`display note <note-display>` in the record              | | *Note:* Language is unknown.        |
+|-  Notify the `metadata administrators                                     |                                       |
+|   <https://library.unt.edu/digital-projects-unit/contacts/>`_ if the      | | *Note:* Text is in the Kutenai      |
+|   language is not on the list                                             |   Indian language.                    |
 +---------------------------------------------------------------------------+---------------------------------------+
 
 
