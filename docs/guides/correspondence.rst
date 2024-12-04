@@ -17,8 +17,11 @@ Guidelines to create metadata for letters and other correspondence.
 Title
 *****
 
--   Every letter should have one main title that describes known recipient(s)/sender(s) and date
--   Only include information that is known (e.g., some letters may not have a date, or may not use proper names)
+.. note:: 
+
+   -   Every letter should have one main title that describes known recipient(s)/sender(s) and date
+   -   Only include information that is known (e.g., some letters may not have a date, or may not use proper names)
+   -   More :doc:`Title </fields/title>` formatting and examples
 
 
 Main Title
@@ -112,14 +115,19 @@ Other Titles
 -   If names include organizational acronyms, it *may* be appropriate to include an alternate title (though generally the name should just be written out elsewhere in the record)
 
 
+
 *******************
 Creator/Contributor
 *******************
 
--   For original letters: creator = letter writer; contributor = letter recipient
+.. note::
 
--   Entries may only include a single name; for multiple names (e.g., two senders), you will need a separate entry for each name
--   Remember that a name can only be a creator **or** contributor (not both) so for multiple letters, all parties may be listed only as authors/creators
+   -   For original letters: creator = letter writer; contributor = letter recipient
+
+   -   Entries may only include a single name; for multiple names (e.g., two senders), you will need a separate entry for each name
+   -   Remember that a name can only be a creator **or** contributor (not both) so for multiple letters, all parties may be listed only as authors/creators
+   
+   -   More :doc:`Creator </fields/creator>` and :doc:`Contributor </fields/contributor>` formatting and examples 
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
@@ -190,7 +198,10 @@ Creator/Contributor Roles
 Creation Date
 *************
 
--   Check the date guidelines if you need more formatting options or examples
+.. note::
+
+   -   More :doc:`Date </fields/date>` formatting and examples
+
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
@@ -226,6 +237,11 @@ Creation Date
 Language
 ********
 
+.. note::
+
+   -   More :doc:`Language </fields/language>` formatting and examples
+   
+   
 -   Choose the appropriate language from the list that matches the text
 -   Add multiple languages if needed
 
@@ -233,11 +249,15 @@ Language
 Content Description
 *******************
 
--   Start the content description with "Letter ... " or other relevant descriptor ("E-mail ..." / "Telegram ... " / etc.)
--   When important, other descriptive elements can be included at the start, e.g., "Photocopy of a letter ..." or "Transcript of a letter ..."
--   Most descriptions will be around 1-2 sentences 
--   Adjust the description based on known information and type of content
--   Always mention/describe enclosures (when applicable)
+.. note::
+
+   -   Start the content description with "Letter ... " or other relevant descriptor ("E-mail ..." / "Telegram ... " / etc.)
+   -   When important, other descriptive elements can be included at the start, e.g., "Photocopy of a letter ..." or "Transcript of a letter ..."
+   -   Most descriptions will be around 1-2 sentences 
+   -   Adjust the description based on known information and type of content
+   -   Always mention/describe enclosures (when applicable)
+   -   More :doc:`Description </fields/description>` formatting and examples
+
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
@@ -325,9 +345,12 @@ Physical Description
 Subject
 *******
 
--   2 subject values (any type) are required for every record
--   1 UNTL-BS term is required for all Portal records
--   Ideally, at least one subject should be added that is "more specific" to the individual item content
+.. note::
+
+   -   2 subject values (any type) are required for every record
+   -   1 UNTL-BS term is required for all Portal records
+   -   Ideally, at least one subject should be added that is "more specific" to the individual item content
+   -   More :doc:`Subject </fields/subject>` formatting and examples
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
@@ -383,6 +406,11 @@ Subject
 Primary Source
 **************
 
+.. note::
+
+   -   More :doc:`Primary Source </fields/primary-source>` formatting and examples
+   
+   
 -   Original letters are considered primary sources
 -   When in doubt, mark "N/A" (not applicable)
 
@@ -391,8 +419,11 @@ Primary Source
 Coverage
 ********
 
--   Add information about the places/dates that the content is *about*
--   This may or may not match creation information
+.. note::
+
+   -   Add information about the places/dates that the content is *about*
+   -   This may or may not match creation information
+   -   More :doc:`Coverage </fields/coverage>` formatting and examples
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
@@ -430,8 +461,11 @@ Coverage
 Relation
 ********
 
--   Relationships only apply when we have multiple items in the Digital Collections that should be connected
--   If you are unsure whether this applies, look at the relation field guidelines for a description of the types of appropriate relations 
+.. note::
+
+   -   Relationships only apply when we have multiple items in the Digital Collections that should be connected
+   -   If you are unsure whether this applies, look at the relation field guidelines for a description of the types of appropriate relations 
+   -   More :doc:`Relation </fields/relation>` formatting and examples
 
 
 -   For each entry, choose the appropriate relation type and add {{{title, ARK}}} for the *related item*
@@ -485,6 +519,11 @@ Relation
 Resource Type
 *************
 
+.. note::
+
+   -   More :doc:`Resoure Type </fields/resource-type>` formatting and examples
+   
+   
 -   Original letters and transcripts should be labeled as "Letter" (text_letter)
 -   For other correspondence that is primarily text/solely communication (e.g., telegrams), also use "Letter"
 -   For postcards (with or without correspondence) use "Postcard" (image_postcard)
@@ -498,12 +537,23 @@ Resource Type
 Format
 ******
 
+.. note::
+
+   -   More :doc:`Format </fields/format>` formatting and examples
+   
+   
 -   Generally "text" but will match type prefix (e.g., "image" for postcards)
 
 
 **********
 Identifier
 **********
+
+.. note::
+
+   -   More :doc:`Identifier </fields/identifier>` formatting and examples
+ 
+   
 
 -   Correspondence may have partner-assigned identifiers (to match physical and digital items)
 -   These are added (or left in records) as Local Control Numbers (LOCAL-CONT-NO), e.g.:
