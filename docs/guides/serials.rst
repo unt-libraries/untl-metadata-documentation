@@ -253,7 +253,7 @@ Common Issues:
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
 
-
+*   :doc:`More title guidelines </fields/title>`
 
 
 
@@ -377,6 +377,9 @@ Common Issues:
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 
 
+*   :doc:`More creator guidelines </fields/creator>` | :doc:`More contributor guidelines </fields/contributor>`
+
+
 .. _serial-publisher:
 
 Publisher
@@ -416,6 +419,8 @@ Common Issues:
 |printed on the item:                          |                                                |                                                    |
 |                                              |                                                |*Location:* [Washington D.C.]                       |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
+
+*   :doc:`More publisher guidelines </fields/publisher>`
 
 
 .. _serial-date:
@@ -478,6 +483,8 @@ Common Issues:
 |                                              |the year/month/etc.)                            |                                                    |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More date guidelines </fields/date>`
+
 
 .. _serial-language:
 
@@ -511,7 +518,10 @@ Common Issues:
 |                                              |                                                |*Display Note:* Language of the text is unknown     |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More language guidelines </fields/language>`
 
+
+.. _serial-description:
 
 Description
 -----------
@@ -600,6 +610,9 @@ Common Issues:
 |                                              |                                                |volumes.                                            |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More description guidelines </fields/description>`
+
+
 
 .. _serial-subject:
 
@@ -673,6 +686,8 @@ Common Issues:
 |                                              |  metadata administrators about adding a new term |                                                    |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More subject guidelines </fields/subject>`
+
 
 .. _serial-coverage:
 
@@ -740,6 +755,8 @@ Common Issues:
 |                                              |  spring or summer 2017)                          |                                                    |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More coverage guidelines </fields/coverage>`
+
 
 .. _serial-citation:
 
@@ -798,6 +815,8 @@ Common Issues:
 |                                              |                                                |*Issue:* 12                                         |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
+*   :doc:`More citation guidelines </fields/citaiton>`
+
 
 .. _serial-type:
 
@@ -824,6 +843,8 @@ Common Issues:
 |If you are uncertain about the type:                                           |Choose the type that most closely matches,   |
 |                                                                               |based on the :ref:`glossary <type-comments>` |
 +-------------------------------------------------------------------------------+---------------------------------------------+
+
+*   :doc:`More resource type guidelines </fields/resource-type>` | :doc:`More format guidelines </fields/format>`
 
 
 .. _serial-identifier:
@@ -862,13 +883,16 @@ Common Issues:
 |                                              |appropriate labels; otherwise, leave the field  |                                                    |
 |                                              |blank                                           |                                                    |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
-|If you are using an LCCN from an OCLC or      |You will need to verify that it has been        |*LCCN:* 2001201316                                  |
+|If you are using an LCCN from an OCLC or      |You will need to verify that it has been        | | *LCCN:* 2001201316                               |
 |catalog record:                               |normalized to a :ref:`standardized format       |                                                    |
 |                                              |<identifier-comments>` (e.g., no spaces         |                                                    |
-|                                              |or punctuation) and that it is still a valid    |*LCCN:* sf93091440                                  |
+|                                              |or punctuation) and that it is still a valid    | | *LCCN:* sf93091440                               |
 |                                              |identifier in the `LC catalog                   |                                                    |
 |                                              |<https://www.loc.gov/search/?all=true>`_        |                                                    |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
+
+*   :doc:`More identifier guidelines </fields/identifier>`
+
 
 .. _serial_resources:
 
