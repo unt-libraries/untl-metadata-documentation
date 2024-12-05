@@ -553,19 +553,19 @@ Resources for Selected Vocabularies:
 |Art and Architecture Thesaurus     |AAT            |`Art and Architecture Thesaurus                                                        |
 |(Getty)                            |               |<https://www.getty.edu/research/tools/vocabularies/aat/>`_                             |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
-|Library of Congress (LC)           |               |`Thesauri and Controlled Vocabularies <https://id.loc.gov/>`_                          |
-|                                   |               +---------------------------------------------------------------------------------------+
-|                                   |               |`Classification Web                                                                    |
-|                                   |               |<https://discover.library.unt.edu/catalog/b2659614>`_                                  |
-|                                   |               |(Accessible to UNT staff/students)                                                     |
+|Library of Congress (LC)           |               | | `Thesauri and Controlled Vocabularies <https://id.loc.gov/>`_                       |
+|                                   |               |                                                                                       |
+|                                   |               | | `Classification Web                                                                 |
+|                                   |               |   <https://discover.library.unt.edu/catalog/b2659614>`_                               |
+|                                   |               |   (Accessible to UNT staff/students)                                                  |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  Legislative Subject Terms       |LST            |`Legislative Subject Terms                                                             |
 |                                   |               |<https://www.congress.gov/help/field-values/legislative-subject-terms>`_               |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
-|-  Library of Congress Subject     |LCSH           |`Library of Congress Authorities <https://authorities.loc.gov>`_                       |
-|   Headings                        |               +---------------------------------------------------------------------------------------+
-|                                   |               |`Library of Congress Subject Headings                                                  |
-|                                   |               |<https://id.loc.gov/authorities/subjects.html>`_                                       |
+|-  Library of Congress Subject     |LCSH           | | `Library of Congress Authorities <https://authorities.loc.gov>`_                    |
+|   Headings                        |               |                                                                                       |
+|                                   |               | | `Library of Congress Subject Headings                                               |
+|                                   |               |   <https://id.loc.gov/authorities/subjects.html>`_                                    |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 |-  LC Genre/Form Terms             |LCGFT          |`Library of Congress Genre/Form Terms                                                  |
 |                                   |               |<https://id.loc.gov/authorities/genreForms.html>`_                                     |
@@ -573,11 +573,11 @@ Resources for Selected Vocabularies:
 |-  LC Medium of Performance        |LCMPT          |`Library of Congress Medium of Performance Thesaurus                                   |
 |   Thesaurus                       |               |<https://id.loc.gov/authorities/performanceMediums.html>`_                             |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
-|-  LC Thesaurus for Graphic        |TGM            |`Thesaurus for Graphic Materials I: Subject Terms                                      |
-|   Materials                       |               |<https://www.loc.gov/rr/print/tgm1/>`_                                                 |
-|                                   |               +---------------------------------------------------------------------------------------+
-|                                   |               |`Thesaurus for Graphic Materials                                                       |
-|                                   |               |<https://id.loc.gov/vocabulary/graphicMaterials.html>`_                                |
+|-  LC Thesaurus for Graphic        |TGM            | | `Thesaurus for Graphic Materials I: Subject Terms                                   |
+|   Materials                       |               |   <https://www.loc.gov/rr/print/tgm1/>`_                                              |
+|                                   |               |                                                                                       |
+|                                   |               | | `Thesaurus for Graphic Materials                                                    |
+|                                   |               |   <https://id.loc.gov/vocabulary/graphicMaterials.html>`_                             |
 +-----------------------------------+---------------+---------------------------------------------------------------------------------------+
 
 

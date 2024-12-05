@@ -128,21 +128,21 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*General Format*                                                                                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-  Separate elements of the hierarchy with a space followed by a hyphen and    |Canada - Ontario Province                       |
-|   then another space ([text] - [text])                                        +------------------------------------------------+
-|                                                                               |England - Brighton and Hove Unitary Authority - |
-|-  Begin with the largest ("country" level) and proceed to the smallest        |Brighton                                        |
-|   relevant geographical unit                                                  +------------------------------------------------+
-|                                                                               |Poland - Lower Silesia Province -               |
-|                                                                               |Lubin County - Lubin Gmina - Lubin              |
+|-  Separate elements of the hierarchy with a space followed by a hyphen and    | | Canada - Ontario Province                    |
+|   then another space ([text] - [text])                                        |                                                |
+|                                                                               | | England - Brighton and Hove Unitary          |
+|-  Begin with the largest ("country" level) and proceed to the smallest        |   Authority - Brighton                         |
+|   relevant geographical unit                                                  |                                                |
+|                                                                               | | Poland - Lower Silesia Province -            |
+|                                                                               |   Lubin County - Lubin Gmina - Lubin           |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-  Write out "County", "Parish", "Province", and other relevant descriptors    |Italy - Latium Region - Rome Province - Rome    |
-|   (*not* "State")                                                             +------------------------------------------------+
-|-  For most places in the United States, this form should be used:             |United States - Louisiana - Caddo Parish -      |
-|   United States - [state] - [county] County - [city]                          |Shreveport                                      |
-|                                                                               +------------------------------------------------+
-|                                                                               |United States - Illinois - Cook County -        |
-|                                                                               |Chicago                                         |
+|-  Write out "County", "Parish", "Province", and other relevant descriptors    | | Italy - Latium Region - Rome Province - Rome |
+|   (*not* "State")                                                             |                                                |
+|-  For most places in the United States, this form should be used:             | | United States - Louisiana - Caddo Parish -   |
+|   United States - [state] - [county] County - [city]                          |   Shreveport                                   |
+|                                                                               |                                                |
+|                                                                               | | United States - Illinois - Cook County -     |
+|                                                                               |   Chicago                                      |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Levels of Specificity*                                                                                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
@@ -163,27 +163,27 @@ Place Name(s)
 |                                                                               | | etc.                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |For bodies of water (lakes, rivers, oceans, etc.) and geographic landmarks     | | *Coverage Place:* United States - Texas      |
-|(e.g., mountains):                                                             |                                                |
-|                                                                               | | *Keyword:* Neches River                      |
+|(e.g., mountains):                                                             | | *Keyword:* Neches River                      |
+|                                                                               |                                                |
 |- Include the most specific location that is relevant (e.g., country, region,  |                                                |
-|  county, state, etc.) *or*                                                    +------------------------------------------------+
-|- Leave the coverage place blank for oceans or landmarks that are not          |*Keyword:* Atlantic Ocean                       |
+|  county, state, etc.) *or*                                                    |                                                |
+|- Leave the coverage place blank for oceans or landmarks that are not          | | *Keyword:* Atlantic Ocean                    |
 |  contained in a specific region                                               |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |Do not include:                                                                | | *Coverage Place:* United States - Texas -    |
 |                                                                               |   Palo Pinto County - Mineral Wells            |
-|- Any levels smaller than the "city" or populated place levels (parks,         |                                                |
-|  neighborhoods, etc.)                                                         | | *Keyword:* Crazy Park                        |
+|- Any levels smaller than the "city" or populated place levels (parks,         | | *Keyword:* Crazy Park                        |
+|  neighborhoods, etc.)                                                         |                                                |
 |- Names of military installations that are not also designated as "populated   |                                                |
-|  places"                                                                      +------------------------------------------------+
-|- Geographic regions other than continents (e.g., Midwest)                     |*Keyword:* New England                          |
+|  places"                                                                      |                                                |
+|- Geographic regions other than continents (e.g., Midwest)                     | | *Keyword:* New England                       |
 |                                                                               |                                                |
 |Proper names can be included as :ref:`keywords <subject-keywords>`             |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |For a neighborhood, subdivision, or other non-populated place:                 | | *Coverage Place:* United States - Texas -    |
 |                                                                               |   Taylor County - Abilene                      |
 |- Use the smallest appropriate level (usually a county or city)                | | *Keyword:* Brook Hollow Subdivision          |
-|- Add the name of the area as a keyword, using the full name/designation       +------------------------------------------------+
+|- Add the name of the area as a keyword, using the full name/designation       |                                                |
 |                                                                               | | *Coverage Place:* United States - Texas -    |
 |                                                                               |   Taylor County                                |
 |                                                                               | | *Keyword:* Camp Barkeley                     |
@@ -198,14 +198,14 @@ Place Name(s)
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Name Changes*                                                                                                                  |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-   If the region being described has changed names or restructured, use the   |*Coverage Place:* Puerto Rico                   |
-|    current name                                                               |                                                |
-|                                                                               |*Keyword:* Porto Rico                           |
-|-   Variant names may be included as :ref:`keywords <subject-keywords>` and may+------------------------------------------------+
+|-   If the region being described has changed names or restructured, use the   | | *Coverage Place:* Puerto Rico                |
+|    current name                                                               | | *Keyword:* Porto Rico                        |
+|                                                                               |                                                |
+|-   Variant names may be included as :ref:`keywords <subject-keywords>` and may|                                                |
 |    be used in other text fields when describing the item/content              | | *Coverage Place:* Vietnam - Ho Chi Minh      |
 |                                                                               |   Municipality - Ho Chi Mihn City              |
-|If the previous hierarchy or version of a place name is important, it may also |                                                |
-|be added as a :ref:`historic place name <coverage-historic>`                   | | *Historic Place Name:* Vietnam - Saigon      |
+|If the previous hierarchy or version of a place name is important, it may also | | *Historic Place Name:* Vietnam - Saigon      |
+|be added as a :ref:`historic place name <coverage-historic>`                   |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 
 Exceptions

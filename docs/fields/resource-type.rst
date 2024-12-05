@@ -45,18 +45,18 @@ Required?
 How Should the Resource Type be Filled in?
 ******************************************
 
-+-----------------------------------------------------------------------+----------------------------------------+
-| **Guideline**                                                         | **Examples**                           |
-+=======================================================================+========================================+
-|Select the correct resource type from the `controlled vocabulary       |image_score - Musical Score/Notation    |
-|<https://digital2.library.unt.edu/vocabularies/resource-types/>`_      |                                        |
-+-----------------------------------------------------------------------+----------------------------------------+
-|Use the most specific resource type that is relevant                   |- image_photo - Photograph (not "image")|
-|                                                                       |- text_letter - Letter (not "text")     |
-+-----------------------------------------------------------------------+----------------------------------------+
-|If the particular kind of resource is not on the list, use a generic   |- image - Image                         |
-|type                                                                   |- text - Text                           |
-+-----------------------------------------------------------------------+----------------------------------------+
++-----------------------------------------------------------------------+-----------------------------------------+
+| **Guideline**                                                         | **Examples**                            |
++=======================================================================+=========================================+
+|Select the correct resource type from the `controlled vocabulary       |image_score - Musical Score/Notation     |
+|<https://digital2.library.unt.edu/vocabularies/resource-types/>`_      |                                         |
++-----------------------------------------------------------------------+-----------------------------------------+
+|Use the most specific resource type that is relevant                   | | image_photo - Photograph (not "image")|
+|                                                                       | | text_letter - Letter (not "text")     |
++-----------------------------------------------------------------------+-----------------------------------------+
+|If the particular kind of resource is not on the list, use a generic   | | image - Image                         |
+|type                                                                   | | text - Text                           |
++-----------------------------------------------------------------------+-----------------------------------------+
 
 
 **If it is difficult to determine the resource type:**

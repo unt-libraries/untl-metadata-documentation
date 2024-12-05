@@ -194,13 +194,13 @@ Other Examples:
 **Detailed volumes with a separate summary**
 
 +---------------------------------------+-------------------------------------------------------------------+
-|The summary report:                    |*Is based on*: Texas House Legislative Budget Estimates: 2016-2017 |
-|                                       |Biennium, Articles 1-3, `ark:/67531/metapth641220                  |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth641220/>`_         |
-|                                       +-------------------------------------------------------------------+
-|                                       |*Is based on*: Texas House Legislative Budget Estimates: 2016-2017 |
-|                                       |Biennium, Articles 4-10, `ark:/67531/metapth640727                 |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth640727/>`_         |
+|The summary report:                    | | *Is based on*: Texas House Legislative Budget Estimates:        |
+|                                       |   2016-2017 Biennium, Articles 1-3, `ark:/67531/metapth641220     |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth641220/>`_      |
+|                                       |                                                                   |
+|                                       | | *Is based on*: Texas House Legislative Budget Estimates:        |
+|                                       |   2016-2017 Biennium, Articles 4-10, `ark:/67531/metapth640727    |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth640727/>`_      |
 +---------------------------------------+-------------------------------------------------------------------+
 |Each complete report:                  |*Is basis for*: Summary of Texas House Legislative Budget Board    |
 |                                       |Estimates: 2016-17 Biennium, `ark:/67531/metapth839391             |
@@ -210,42 +210,42 @@ Other Examples:
 **Map with copies in multiple formats**
 
 +---------------------------------------+-------------------------------------------------------------------+
-|Map of North Park Addition to Abilene, |*Has format:* Map of North Park Addition to Abilene, Texas [#2],   |
-|Texas [#1]:                            |OKHPB_0470, `ark:/67531/metapth77939                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77939/>`_          |
-|                                       +-------------------------------------------------------------------+
-|                                       |*Has format:* Map of North Park Addition to Abilene, Texas [#3],   |
-|                                       |OKHPB_0491, `ark:/67531/metapth77960                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77960/>`_          |
+|Map of North Park Addition to Abilene, | | *Has format:* Map of North Park Addition to Abilene, Texas [#2],|
+|Texas [#1]:                            |   OKHPB_0470, `ark:/67531/metapth77939                            |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77939/>`_       |
+|                                       |                                                                   |
+|                                       | | *Has format:* Map of North Park Addition to Abilene, Texas [#3],|
+|                                       |   OKHPB_0491, `ark:/67531/metapth77960                            |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77960/>`_       |
 +---------------------------------------+-------------------------------------------------------------------+
-|Map of North Park Addition to Abilene, |*Is format of:* Map of North Park Addition to Abilene, Texas [#1], |
-|Texas [#2]:                            |OKHPB_0468, `ark:/67531/metapth77936                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77936/>`_          |
-|                                       +-------------------------------------------------------------------+
-|                                       |*Is format of:* Map of North Park Addition to Abilene, Texas [#3], |
-|                                       |OKHPB_0491, `ark:/67531/metapth77960                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77960/>`_          |
+|Map of North Park Addition to Abilene, | | *Is format of:* Map of North Park Addition to Abilene, Texas    |
+|Texas [#2]:                            |   [#1], OKHPB_0468, `ark:/67531/metapth77936                      |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77936/>`_       |
+|                                       |                                                                   |
+|                                       | | *Is format of:* Map of North Park Addition to Abilene, Texas    |
+|                                       |   [#3], OKHPB_0491, `ark:/67531/metapth77960                      |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77960/>`_       |
 +---------------------------------------+-------------------------------------------------------------------+
-|Map of North Park Addition to Abilene, |*Is format of:* Map of North Park Addition to Abilene, Texas [#1], |
-|Texas [#3]:                            |OKHPB_0468, `ark:/67531/metapth77936                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77936/>`_          |
-|                                       +-------------------------------------------------------------------+
-|                                       |*Is format of:* Map of North Park Addition to Abilene, Texas [#2]  |
-|                                       |OKHPB_0470, `ark:/67531/metapth77939                               |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth77939/>`_          |
+|Map of North Park Addition to Abilene, | | *Is format of:* Map of North Park Addition to Abilene, Texas    |
+|Texas [#3]:                            |   [#1], OKHPB_0468, `ark:/67531/metapth77936                      |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77936/>`_       |
+|                                       |                                                                   |
+|                                       | | *Is format of:* Map of North Park Addition to Abilene, Texas    |
+|                                       |   [#2], OKHPB_0470, `ark:/67531/metapth77939                      |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth77939/>`_       |
 +---------------------------------------+-------------------------------------------------------------------+
 
 
 **Application materials with photos duplicated as separate items**
 
 +---------------------------------------+-------------------------------------------------------------------+
-|For complete application document:     |*Has part:* [Alexander Lowe House Photograph #1],                  |
-|                                       |`ark:/67531/metapth495135                                          |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth495135/>`_         |
-|                                       +-------------------------------------------------------------------+
-|                                       |*Has part:* [Alexander Lowe House Photograph #2],                  |
-|                                       |`ark:/67531/metapth495293                                          |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metapth495293/>`_         |
+|For complete application document:     | | *Has part:* [Alexander Lowe House Photograph #1],               |
+|                                       |   `ark:/67531/metapth495135                                       |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth495135/>`_      |
+|                                       |                                                                   |
+|                                       | | *Has part:* [Alexander Lowe House Photograph #2],               |
+|                                       |   `ark:/67531/metapth495293                                       |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metapth495293/>`_      |
 +---------------------------------------+-------------------------------------------------------------------+
 |For each individual photo:             |*Is part of:* [Historic Marker Application: Alexander Lowe House], |
 |                                       |`ark:/67531/metapth477613                                          |
@@ -269,11 +269,11 @@ Other Examples:
 **A series of volumes with a cumulative index**
 
 +---------------------------------------+-------------------------------------------------------------------+
-|For the general index:                 |*References:* Experiment Station Record Volume 61,                 |
-|                                       |`ark:/67531/metadc5095                                             |
-|                                       |<https://texashistory.unt.edu/ark:/67531/metadc5095/>`_            |
-|                                       +-------------------------------------------------------------------+
-|                                       |(repeated with information for each volume)                        |
+|For the general index:                 | | *References:* Experiment Station Record Volume 61,              |
+|                                       |   `ark:/67531/metadc5095                                          |
+|                                       |   <https://texashistory.unt.edu/ark:/67531/metadc5095/>`_         |
+|                                       |                                                                   |
+|                                       | | (repeated with information for each volume)                     |
 +---------------------------------------+-------------------------------------------------------------------+
 |For each volume:                       |*Is referenced by:* Experiment Station Record General Index to     |
 |                                       |Volumes 61-70, `ark:/67531/metadc5055                              |
@@ -307,7 +307,6 @@ Other Examples:
 |                                       |`ark:/67531/metapth653584                                          |
 |                                       |<https://texashistory.unt.edu/ark:/67531/metapth653584/>`_         |
 +---------------------------------------+-------------------------------------------------------------------+
-
 
 .. _relation-comments:
 
