@@ -815,7 +815,7 @@ Common Issues:
 |                                              |                                                |*Issue:* 12                                         |
 +----------------------------------------------+------------------------------------------------+----------------------------------------------------+
 
-*   :doc:`More citation guidelines </fields/citaiton>`
+*   :doc:`More citation guidelines </fields/citation>`
 
 
 .. _serial-type:

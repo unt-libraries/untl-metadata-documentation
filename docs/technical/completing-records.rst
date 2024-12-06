@@ -110,9 +110,111 @@ A couple of notes about entering metadata and records in general:
 * Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed
 
 
-*********************************
+*****************************
+Navigating the Editing System
+*****************************
+This provides an overview of some of the features in the editing system; to see context about
+using edit system features for quality control, see the page on :doc: `the Edit Dashboard </tools/dashboard>`.
+
+Dashboard
+=========
+The Dashboard (also called the "search" interface) is the main interface view when an editor logs in.  
+It will display any records that a user has permission to edit.  The displayed records can be adjusted by using
+the filters on the left side of the screen (e.g., by resource type, public visibility, etc.), by searching for a 
+particular term in the search box at the top of the screen, or by sorting in various ways.
+
+
+Changing Views
+--------------
+**Filters.**  A filter will only display if at least two options are available, depending
+on permissions and other criteria.  For example, if an editor only has access to photograph collections,
+they will not see the "resource type" filter; if the search term (or other set filters) only apply to public
+records, the "visibility" filter will not display.  Here is a full list of possible filters:
+
+.. image:: ../_static/images/all-filters.png
+    :alt: Screenshot of all filters, collapsed to show headings
+
+
+Each filter shows up to 7 options, clicking one will change the Dashboard results to show records matching 
+that option and it will display above the filter list 
+
++-----------------------------------------------------------------------+---------------------------------------------------------------+
+|Example of filter options                                              |Example of display message                                     |
++-----------------------------------------------------------------------+---------------------------------------------------------------+
+| .. image:: ../_static/images/rt-filter.png                            | .. image:: ../_static/images/filter-note.png                  |
+|   :alt: Screenshot of the resource type filter                        |    :alt: Screenshot of the display message for a chosen filter|
++-----------------------------------------------------------------------+---------------------------------------------------------------+
+
+
+For filters that have more than 7 options, a link at the bottom of the filter box lets you search all available values:
+
+.. image:: ../_static/images/rt-full.png
+   :alt: Screenshot of the resource type filter search box
+
+
+**Searching.**  Entering terms in the search box will look for matching text in any records displaying in the Dashboard 
+(i.e., based on filters and editor permissions).  The search can be general,
+limited to a specific field, or in the item text (using the OCR for printed text items).
+
+
+.. image:: ../_static/images/dash-search.png
+   :alt: Screenshot of the search box at the top of the Dashboard with field options
+
+
+**Sorting.**  The result list of records sorts alphabetically by title as a default but can also be sorted by 
+date created, added, or modified; ARK identifier; or completeness.
+
+
+.. image:: ../_static/images/sort-list.png
+   :alt: Screenshot of the menu options to sort Dashboard results
+
+
+Record Listings
+----------------
+In the default view, each record listing includes a thumbnail and summary information; clicking the title or thumbnail will open the record summary:
+
+.. image:: ../_static/images/record-entry.png
+   :alt: Screenshot of a record entry on the Dashboard
+
+
+Several parts of the record listing are links to various functionality:
+
+.. image:: ../_static/images/record-1.png
+   :alt: Screenshot of the far left part of a single record entry with links labeled
+
+
+.. image:: ../_static/images/record-2.png
+   :alt: Screenshot of the center part of a single record entry with links labeled
+
+
+.. image:: ../_static/images/record-3.png
+   :alt: Screenshot of the far right part of a single record entry with links labeled
+   
+   
+   
+Below the search box, there are radio buttons to change the results to a list (default), grid, or brief view
+
+.. image:: ../_static/images/radio-buttons.png
+   :alt: Screenshot of the radio buttons to change the Dashboard view
+
+
+The grid view displays much of the same information in a condensed format, with 30 records per page:
+
+
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+|Example of a single record entry in brief view                         |Single record entry with features listed                        |
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+| .. image:: ../_static/images/record-brief.png                         | .. image:: ../_static/images/record-b.png                      |
+|   :alt: Screenshot of a single record entry in brief view             |    :alt: Screenshot of a brief view entry with labeled features|
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+
+
+***************
+Editing Records
+***************
+
 Completing Records from Templates
-*********************************
+=================================
 
 Most records are uploaded with at least some pre-filled values or placeholders and may also have notes or reminders.  The goal of these values is to save time so that editors don't have to enter the same value frequently (e.g., if all of the items in a collection have the same creator) and placeholders are intended to: [1] highlight information that is required or expected for the record (e.g., titles or descriptions), [2] remind editors to check whether information applies to a specific item, especially for less-frequently-used fields (like source, which may apply to clippings), and [3] to suggest formatting or values for greater consistency (e.g., subject values from controlled vocabularies that may apply).  
 
@@ -173,9 +275,9 @@ Some things to keep in mind:
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
 	
 
-****************************
+
 Issues with Items or Records
-****************************
+============================
 
 Here are some general guidelines to make things easier for administrators and other editors who may be looking at items in the edit system:
 
