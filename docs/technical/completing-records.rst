@@ -114,7 +114,7 @@ A couple of notes about entering metadata and records in general:
 Navigating the Editing System
 *****************************
 This provides an overview of some of the features in the editing system; to see context about
-using edit system features for quality control, see the page on :doc: `the Edit Dashboard </tools/dashboard>`.
+using edit system features for quality control, see the page on :doc:`the Edit Dashboard </tools/dashboard>`.
 
 Dashboard
 =========
@@ -208,10 +208,15 @@ The grid view displays much of the same information in a condensed format, with 
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
 
 
-The brief view shows 99 records per page and only lists the meta id, edit button (link directly to the editing view), and title (linking to the summary view) for each record:
+The brief view shows 99 records per page and only lists the meta id, edit button (linking directly to the editing interface), and title (linking to the summary view) for each record:
 
 .. image:: ../_static/images/record-brief.png
    :alt: Screenshot of records on in the brief Dashboard view
+
+
+Record Summary
+==============
+The record summary displays a large view of the item thumbnail along with a summary of information about the record.  It also includes a full, condensed view of the metadata record; this can be useful for proofreading.
 
 
 
