@@ -171,6 +171,12 @@ date created, added, or modified; ARK identifier; or completeness.
 
 Record Listings
 ----------------
+Below the search box, there are radio buttons to change the results to a list (default), grid, or brief view
+
+.. image:: ../_static/images/radio-buttons.png
+   :alt: Screenshot of the radio buttons to change the Dashboard view
+   
+
 In the default view, each record listing includes a thumbnail and summary information; clicking the title or thumbnail will open the record summary:
 
 .. image:: ../_static/images/record-entry.png
@@ -189,24 +195,24 @@ Several parts of the record listing are links to various functionality:
 
 .. image:: ../_static/images/record-3.png
    :alt: Screenshot of the far right part of a single record entry with links labeled
-   
-   
-   
-Below the search box, there are radio buttons to change the results to a list (default), grid, or brief view
-
-.. image:: ../_static/images/radio-buttons.png
-   :alt: Screenshot of the radio buttons to change the Dashboard view
 
 
 The grid view displays much of the same information in a condensed format, with 30 records per page:
 
 
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
-|Example of a single record entry in brief view                         |Single record entry with features listed                        |
+|Example of a single record entry in grid view                          |Single record entry with features listed                        |
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
-| .. image:: ../_static/images/record-brief.png                         | .. image:: ../_static/images/record-b.png                      |
-|   :alt: Screenshot of a single record entry in brief view             |    :alt: Screenshot of a brief view entry with labeled features|
+| .. image:: ../_static/images/record-grid.png                          | .. image:: ../_static/images/record-b.png                      |
+|   :alt: Screenshot of a single record entry in grid view              |    :alt: Screenshot of a grid view entry with labeled features |
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
+
+
+The brief view shows 99 records per page and only lists the meta id, edit button (link directly to the editing view), and title (linking to the summary view) for each record:
+
+.. image:: ../_static/images/record-brief.png
+   :alt: Screenshot of records on in the brief Dashboard view
+
 
 
 ***************
