@@ -216,9 +216,61 @@ The brief view shows 99 records per page and only lists the meta id, edit button
 
 Record Summary
 ==============
-The record summary displays a large view of the item thumbnail along with a summary of information about the record.  It also includes a full, condensed view of the metadata record; this can be useful for proofreading.
+The record summary displays a large view of the item thumbnail along with a summary of information about the record: 
+
+.. image:: ../_static/images/record-summary.png
+   :alt: Screenshot of a record summary
 
 
+Several parts of the record summary are links to various functionality or highlight information:
+
+.. image:: ../_static/images/summary-1.png
+   :alt: Screenshot of the information at the top of the summary page links labeled
+
+
+.. image:: ../_static/images/summary-2.png
+   :alt: Screenshot of the center part of the summary page with labels
+
+
+.. image:: ../_static/images/summary-3.png
+   :alt: Screenshot of the edit timeline on the summary page
+   
+   
+Below the edit timeline there is a full, condensed view of the metadata record; this can be useful for proofreading (including checking if values and qualifers match).
+
+.. image:: ../_static/images/summary-info.png
+   :alt: Screenshot of the summary record
+
+
+Record Edit Form
+================
+The edit view shows all of the metadata fields available in the record with any values that have been entered:
+
+.. image:: ../_static/images/record-edit.png
+   :alt: Screenshot of the top of edit screen for a record
+
+
+There are several features in the "side-car" at the right side of the screen:
+
+.. image:: ../_static/images/edit-1.png
+   :alt: Screenshot of the thumnail and links at the top of the "side-car"
+
+
+.. image:: ../_static/images/edit-2.png
+   :alt: Screenshot of the field list in the "side-car"
+
+
+Each field is in a separate box:
+
+.. image:: ../_static/images/edit-3.png
+   :alt: Screenshot of the creator field in edit
+
+
+There are several links in the title bar and in the bottom-right corner of each field box:
+
+.. image:: ../_static/images/edit-4.png
+   :alt: Screenshot of the creator field in edit, with labels
+    
 
 ***************
 Editing Records
