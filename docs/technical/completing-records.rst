@@ -242,8 +242,13 @@ Below the edit timeline there is a full, condensed view of the metadata record; 
    :alt: Screenshot of the summary record
 
 
+<<<<<<< HEAD
+Editing View
+============
+=======
 Record Edit Form
 ================
+>>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
 The edit view shows all of the metadata fields available in the record with any values that have been entered:
 
 .. image:: ../_static/images/record-edit.png
@@ -270,11 +275,45 @@ There are several links in the title bar and in the bottom-right corner of each 
 
 .. image:: ../_static/images/edit-4.png
    :alt: Screenshot of the creator field in edit, with labels
+<<<<<<< HEAD
+
+
+
+Validation and Helper-Tools
+---------------------------
+There are a number of tools built into the system to make suggestions or highlight values that do not match expectations.
+
+**Warning Messages**
+For validation, if a field value seems wrong, the field will be highlighted in the sidecar along with a message explaining what needs to be checked:
+
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+| .. image:: ../_static/images/warning-1.png                            | | This warning appears if a title, creator, contributor, or    |
+|   :alt: Screenshot of a title-case warning                            |   publisher value is more than 50% capitalized.                |
+|                                                                       |                                                                |
+|                                                                       | | In rare instances, these values may be correct               |
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+| .. image:: ../_static/images/warning-2.png                            |This warning appears if a value in the date or coverage date    |
+|   :alt: Screenshot of a date warning                                  |field does not conform to EDTF specifications (check guidelines |
+|                                                                       |for more info}                                                  |
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+| .. image:: ../_static/images/warning-3.png                            |This warning appears if a subject value does not match the      |
+|   :alt: Screenshot of a subject warning                               |vocabulary qualifier -- this only works for vocabularies that   |
+|                                                                       |have search modals                                              |
++-----------------------------------------------------------------------+----------------------------------------------------------------+
+
+
+
+=======
+>>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
     
 
 ***************
 Editing Records
 ***************
+
+
+
+
 
 Completing Records from Templates
 =================================
@@ -389,3 +428,14 @@ Here are some general guidelines to make things easier for administrators and ot
 |                                                                                   | | To remain hidden due to personal contact         |
 |                                                                                   |   information -- and possible copyright issues     |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
+<<<<<<< HEAD
+
+
+
+********************************
+Related Explanations & Tutorials
+********************************
+
+-   This presentation provides an overview of metadata and various features in the edit system as of November 2024: `UNT Libraries Metadata Environment <https://digital.library.unt.edu/ark:/67531/metadc2405132/>`_
+=======
+>>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
