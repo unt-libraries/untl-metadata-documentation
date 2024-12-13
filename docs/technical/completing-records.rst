@@ -420,7 +420,7 @@ Here are some general guidelines to make things easier for administrators and ot
 |                                                                                   | | To remain hidden due to personal contact         |
 |                                                                                   |   information -- and possible copyright issues     |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
-<<<<<<< HEAD
+
 
 
 
@@ -429,5 +429,4 @@ Related Explanations & Tutorials
 ********************************
 
 -   This presentation provides an overview of metadata and various features in the edit system as of November 2024: `UNT Libraries Metadata Environment <https://digital.library.unt.edu/ark:/67531/metadc2405132/>`_
-=======
->>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
+
