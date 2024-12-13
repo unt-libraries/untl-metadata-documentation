@@ -242,13 +242,10 @@ Below the edit timeline there is a full, condensed view of the metadata record; 
    :alt: Screenshot of the summary record
 
 
-<<<<<<< HEAD
-Editing View
-============
-=======
+
 Record Edit Form
 ================
->>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
+
 The edit view shows all of the metadata fields available in the record with any values that have been entered:
 
 .. image:: ../_static/images/record-edit.png
@@ -275,7 +272,6 @@ There are several links in the title bar and in the bottom-right corner of each 
 
 .. image:: ../_static/images/edit-4.png
    :alt: Screenshot of the creator field in edit, with labels
-<<<<<<< HEAD
 
 
 
@@ -303,15 +299,11 @@ For validation, if a field value seems wrong, the field will be highlighted in t
 
 
 
-=======
->>>>>>> 6eb97b3566b146869768f37bfc3f42418bb58ec7
     
 
 ***************
 Editing Records
 ***************
-
-
 
 
 
