@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+  <meta charset="utf-8" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Facet Tool &mdash; University Libraries - UNT</title>
+      <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+      <link rel="stylesheet" href="../_static/css/custom.css" type="text/css" />
+    <link rel="shortcut icon" href="../_static/favicon-32x32.png"/>
+    <link rel="canonical" href="https://library.unt.edu/metadata/tools/facet-tool.html" />
+  <!--[if lt IE 9]>
+    <script src="../_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+        <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+        <script src="../_static/jquery.js"></script>
+        <script src="../_static/underscore.js"></script>
+        <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+        <script src="../_static/doctools.js"></script>
+        <script src="../_static/sphinx_highlight.js"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Cluster Tool" href="cluster-tool.html" />
+    <link rel="prev" title="Count Tool" href="count-tool.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search"  style="background: #006a31" >
+            <a href="../index.html" class="icon icon-home"> UNTL Metadata Documentation
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Getting Started:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../guides/quick-start-guide.html">UNTL Metadata Quick Start Guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Metadata Input Guidelines:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../input-guidelines-descriptive.html">Input Guidelines for Descriptive Metadata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/title.html">Title</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/creator.html">Creator</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/contributor.html">Contributor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/publisher.html">Publisher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/date.html">Date</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/language.html">Language</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/description.html">Description</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/subject.html">Subject</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/primary-source.html">Primary Source</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/coverage.html">Coverage</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/source.html">Source</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/citation.html">Citation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/relation.html">Relation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/collection.html">Collection</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/institution.html">Institution</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/rights.html">Rights</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/resource-type.html">Resource Type</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/format.html">Format</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/identifier.html">Identifier</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/degree.html">Degree</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/note.html">Note</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fields/meta.html">Meta</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Content-Specific Guidelines</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../guides/serials.html">Series &amp; Serials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../guides/correspondence.html">Correspondence Guidelines</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Project-Specific Guidelines</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../guides/trail.html">Technical Report Archive and Image Library Metadata Guidelines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../guides/patent.html">Patent Collection Metadata Guidelines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../guides/comr.html">College of Music Recordings Metadata Guide</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Supplementary Documentation</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../minimally-viable-records.html">Minimally-Viable Records</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../primary-sources-definition.html">Scholars’ Definitions of Primary Sources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../creator-contributor-definitions.html">Creator and Contributor Definitions</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Technical Guidelines</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../technical-guidelines.html">UNT Technical Guidelines</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../technical/metadata-workflow.html">Metadata Workflows</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../technical/navigation.html">Using the UNTL Editing System</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../technical/completing-records.html">Completing Metadata</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Vocabularies</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../vocab/tabletop-game-genres.html">Genre Terms for Tabletop Games</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Tools and Quality Control</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="metadata-tools.html">Quality Control in Metadata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dashboard.html">Edit Dashboard</a></li>
+<li class="toctree-l1"><a class="reference internal" href="count-tool.html">Count Tool</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Facet Tool</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#general-notes">General Notes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#tool-uses">Tool Uses</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#quality-control-example">Quality Control Example</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#special-features">Special Features</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="cluster-tool.html">Cluster Tool</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu"  style="background: #006a31" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">UNTL Metadata Documentation</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home"></a></li>
+      <li class="breadcrumb-item active">Facet Tool</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/tools/facet-tool.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="facet-tool">
+<h1>Facet Tool<a class="headerlink" href="#facet-tool" title="Permalink to this heading"></a></h1>
+<p>The “Facet” tool in the edit interface provides a listing of the unique values in a field and how often each one occurs (i.e., number of records containing the value).</p>
+<section id="general-notes">
+<h2>General Notes<a class="headerlink" href="#general-notes" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>Data values are compared across the system, but can be limited to specific critera
+(e.g., a resource type or collection) using the filters on the left side of the screen</p></li>
+<li><p>All tools provide information based on a field or field-qualifier combination, e.g.:</p>
+<ul>
+<li><p>A field only (any qualifiers, or non-qualified)</p></li>
+<li><p>Field values with missing qualifiers (i.e., “No Qualifier Selected”)</p></li>
+<li><p>A field with a specific qualifier
+(e.g., creators labeled “author” or subjects labeled “UNTL-BS”)</p></li>
+<li><p>Note that creator and contributor have two options: the role
+(main qualifier) and the type, listed at the bottom of the list as per-type (personal
+name) and org-type (organizational name)</p></li>
+</ul>
+</li>
+<li><p>Clicking on a facet value will open a search for all records matching the criteria and unique value</p></li>
+</ul>
+</section>
+<section id="tool-uses">
+<h2>Tool Uses<a class="headerlink" href="#tool-uses" title="Permalink to this heading"></a></h2>
+<p>Facet is most useful for finding:</p>
+<ul class="simple">
+<li><p>Typos, misspellings, or odd/unexpected values</p></li>
+<li><p>Values mis-matched with qualifiers, e.g.:</p>
+<ul>
+<li><p>personal names labeled as organizations</p></li>
+<li><p>subjects labeled with the incorrect vocabulary type</p></li>
+</ul>
+</li>
+<li><p>Incorrect or inconsistent formatting, e.g.:</p>
+<ul>
+<li><p>controlled subject terms not formatted according to vocabulary rules</p></li>
+<li><p>series or serial titles that are not all the same</p></li>
+</ul>
+</li>
+</ul>
+<section id="quality-control-example">
+<h3>Quality Control Example<a class="headerlink" href="#quality-control-example" title="Permalink to this heading"></a></h3>
+<p>Here are some examples of what to check specifically in a collection or set of items using the facet tool:</p>
+<ul class="simple">
+<li><p>Look at general values for any field in use</p>
+<ul>
+<li><p>Do you see typos?</p></li>
+<li><p>Are there extremely similar values (e.g., a name with or without an initial)?</p></li>
+<li><p>Do counts seem reasonable (e.g., a specific topical subject value should rarely be in every record)?</p></li>
+</ul>
+</li>
+<li><p>See if values match qualifiers, e.g.:</p>
+<ul>
+<li><p>Look at (creator/contributor) personal names – are there any organizations in the list? – and vice versa</p></li>
+<li><p>Check subjects by qualifier – does the formatting match each type?  Are any values marked invalid?</p></li>
+</ul>
+</li>
+<li><p>Check for duplication in values, e.g.:</p>
+<ul>
+<li><p>Main titles for serials should generally not repeat</p></li>
+<li><p>Local identifiers that are unique</p></li>
+</ul>
+</li>
+<li><p>Make sure that corresponding fields match, e.g.:</p>
+<ul>
+<li><p>Format values match resource types</p></li>
+<li><p>Serials have an LCGFT for Periodicals</p></li>
+</ul>
+</li>
+</ul>
+<p>Any combination can be checked, based on what you know about the set of records or want to verify.</p>
+<p>Although the facet tool can be used at any time, if you are planning a general or comprehensive check of a collection, it may be best to use facet last, after missing values (from count) are entered and you have done a first normalization of values (using cluster).</p>
+</section>
+</section>
+<section id="special-features">
+<h2>Special Features<a class="headerlink" href="#special-features" title="Permalink to this heading"></a></h2>
+<ul class="simple">
+<li><p>To limit values alphabetically, entering letters up to a full word (before a space) will show only values that start with that prefix
+(e.g., “United” to see government names starting with United States)</p></li>
+</ul>
+<img alt="Screenshot of a facet example for names starting with &quot;Mc&quot;." src="../_images/facet-prefix.png" />
+<ul class="simple">
+<li><p>For certain controlled fields, values are highlighted when they don’t match formatting (dates) or vocabularies (certain subjects)</p></li>
+</ul>
+<img alt="Screenshot of a facet example with invalid terms highlighted." src="../_images/facet-invalid.png" />
+<ul class="simple">
+<li><p>When consecutive values are extremely similar, a notation will display the level of similarity between them as a percentage to draw attention (not all similar values are incorrect)</p></li>
+</ul>
+<img alt="Screenshot of a facet example with a percentage comparison note." src="../_images/facet-comparison.png" />
+<ul class="simple">
+<li><p>There are options to highlight certain kinds of symbols and spacing</p></li>
+</ul>
+<img alt="Screenshot of the menu options for highlighting values." src="../_images/facet-highlight.png" />
+<ul class="simple">
+<li><p>A spellchecking button lets you use the browser spell-checker to double-check displayed terms</p></li>
+</ul>
+<img alt="Screenshot of the button to turn on spell checking." src="../_images/facet-scbutton.png" />
+<ul class="simple">
+<li><p>On the right side of the screen, a “diff” option allows you to choose two facet values and see an explanation highlighting the differences between them;
+for name values, there are also search options for authorities</p></li>
+</ul>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 34%" />
+<col style="width: 29%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><img alt="Screenshot of hover text for external authorities." src="../_images/facet-icon1.png" />
+</td>
+<td><img alt="Screenshot of hover text for UNT Name App." src="../_images/facet-icon2.png" />
+</td>
+<td><img alt="Screenshot of hover text for diff." src="../_images/facet-icon3.png" />
+</td>
+</tr>
+</tbody>
+</table>
+<ul class="simple">
+<li><p>Sorting values according to number of record (“Records High to Low”) could help to identify duplicated values and also most-frequently-used values (especially controlled names or terms)</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="count-tool.html" class="btn btn-neutral float-left" title="Count Tool" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="cluster-tool.html" class="btn btn-neutral float-right" title="Cluster Tool" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+      &#169; Copyright 2022, University of North Texas.</br>
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" />
+      </a>
+      This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
