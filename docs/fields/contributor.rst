@@ -153,7 +153,7 @@ Personal Names
 +-----------------------------------------------------------+---------------------------------------+
 |   d.  Use spaces between initials                         |Blackburn, J. K. P.                    |
 +-----------------------------------------------------------+---------------------------------------+
-|   e.  Separate hyphenated first names with a hyphe        |Fang, H.-C.                            |
+|   e.  Separate hyphenated first names with a hyphen       |Fang, H.-C.                            |
 |       instead of a space if only initials are known       |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |   f.  Put additional middle names after the first name    |Sonneck, Oscar George Theodore         |

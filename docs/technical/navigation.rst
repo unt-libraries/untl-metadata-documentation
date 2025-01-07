@@ -128,7 +128,7 @@ Several parts of the record summary are links to various functionality or highli
    :alt: Screenshot of the edit timeline on the summary page
    
    
-Below the edit timeline there is a full, condensed view of the metadata record; this can be useful for proofreading (including checking if values and qualifers match).
+Below the edit timeline there is a full, condensed view of the metadata record; this can be useful for proofreading (including checking if values and qualifiers match).
 
 .. image:: ../_static/images/summary-info.png
    :alt: Screenshot of the summary record

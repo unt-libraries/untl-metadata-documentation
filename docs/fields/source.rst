@@ -73,7 +73,7 @@ How Should the Source be Filled in?
 |                                                               |                                                       |
 |   -   title                                                   |                                                       |
 |   -   format                                                  |                                                       |
-|   -   standardiszed number/identifier                         |                                                       |
+|   -   standardized number/identifier                          |                                                       |
 |   -   publisher and/or publication date                       |                                                       |
 |   -   etc.                                                    |                                                       |
 +---------------------------------------------------------------+-------------------------------------------------------+

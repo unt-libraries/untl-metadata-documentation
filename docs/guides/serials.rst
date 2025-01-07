@@ -571,7 +571,7 @@ Overview:
 |  any known information                                                |                                                    |
 |                                                                       |82 p. ; 23 cm.                                      |
 |- The general format template for text items is:                       |                                                    |
-|  # p : {ill./col.ill./ports./etc.} ; h cm.                            |12, HC12 p. : ill. ; 27 cm.                         |
+|  # p : {ill./col. ill./ports./etc.} ; h cm.                           |12, HC12 p. : ill. ; 27 cm.                         |
 |                                                                       |                                                    |
 |                                                                       |iv, [141] p.                                        |
 |                                                                       |                                                    |

@@ -9,7 +9,7 @@ Format
 Definition
 **********
 
-The digital manifestion of the resource
+The digital manifestation of the resource
 
 
 .. _format-sources:

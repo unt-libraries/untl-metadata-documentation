@@ -37,7 +37,7 @@ The primary goal when we create metadata in the Digital Collections is to help u
 
     -   A self-portrait is made by the person who is in the image (creator and named person would be the same)
     -   A report could say "this is what happened today" (creation date and coverage date would be the same)
-    -   Most photographs will have a creation date and covereage date that are the same (since the time of creation captures what is happening at that time)
+    -   Most photographs will have a creation date and coverage date that are the same (since the time of creation captures what is happening at that time)
   
 **Why Are There So Many Rules About Formatting?**
 

@@ -81,5 +81,5 @@ Special Features
 Tool Limitations
 ****************
 
--	Filters show records that have invalid/misisng values but do not provide information about what is wrong without looking at individual records
+-	Filters show records that have invalid/missing values but do not provide information about what is wrong without looking at individual records
 

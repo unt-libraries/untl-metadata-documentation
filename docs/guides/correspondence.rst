@@ -35,7 +35,7 @@ Main Title
 |-  Leave out any unknown information                       | | [Letter from McCarty Moore to John E. Surratt - December 31,    |
 |-  Do not include salutations or nicknames (e.g., "My      |   1925]                                                           |
 |   Dearest Mother")                                        | | [Letter from Samuel B. Foster - December 18, 1865]              |
-|-  A relationship may be used in place of a name           | | [Letter from Paul Ossterhout to his Grandmother - October 24,   |
+|-  A relationship may be used in place of a name           | | [Letter from Paul Osterhout to his Grandmother - October 24,    |
 |-  Names may be abbreviated as initials, especially if the |   1874]                                                           |
 |   title is very long or the name is irregular             | | [Letter from Sterling Houston to San Antonio Light Editor -     |
 |-  Dates may be set off with a comma or dash, depending on |   August 15, 1990]                                                |

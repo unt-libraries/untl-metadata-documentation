@@ -6,7 +6,7 @@ Quality Control in Metadata
 Introduction
 ************
 
-Metadata in the UNT Libraries' Digital Collections is always being updated, corrected, and enhanced as needed or when new information ecomes available.  To aid in identifying areas where records may need review or adjustments (e.g., typos, missing information, etc.), a number of tools and features have been built into the interface.
+Metadata in the UNT Libraries' Digital Collections is always being updated, corrected, and enhanced as needed or when new information becomes available.  To aid in identifying areas where records may need review or adjustments (e.g., typos, missing information, etc.), a number of tools and features have been built into the interface.
 
 Editing tools are accessible to anyone with an account to edit in the Digital Collections using the menu in the upper-left corner.
 

@@ -55,7 +55,7 @@ In some cases the date may come from accompanying or supplementary information.
 |*For computer files*                                                                           |
 +---------------------------------------+-------------------------------------------------------+
 |- title page/screen                    |                                                       |
-|- satement in a header/footer          |the content was finished                               |
+|- statement in a header/footer         |the content was finished                               |
 +---------------------------------------+-------------------------------------------------------+
 
 
