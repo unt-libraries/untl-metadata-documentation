@@ -99,7 +99,7 @@ Examples:
 |                               |-  a librettist (in some   |-  a printer               |   Basse &amp; une Basse en Musette. Recueil I. 6 liv. broché.  |
 |                               |   cases)                  |-  a translator            |   <https://digital.library.unt.edu/ark:/67531/metadc6497/>`_   |
 |                               |                           |                           |-  `Daisy: Opera in Two Acts                                    |
-|                               |                           |                           |   <https://digital.library.unt.eduark:/67531/metadc11083/>`_   |
+|                               |                           |                           |   <https://digital.library.unt.edu/ark:/67531/metadc11083/>`_  |
 +-------------------------------+---------------------------+---------------------------+----------------------------------------------------------------+
 |a single essay                 |-  an author               |-  author of an            |`San Felipe de Austin: Capital of Austin's Colony               |
 |                               |-  an illustrator (if the  |   introduction            |<https://texashistory.unt.edu/ark:/67531/metapth32351/>`_       |
