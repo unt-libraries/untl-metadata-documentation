@@ -10,7 +10,7 @@ These are the current UNT Libraries’ guidelines for creating metadata, broken 
 They are based on a modified Dublin Core structure, but include more specific local instructions and precedents that wider standards do not address.
 
 
-If you are new to the UNTL format, the :doc:`Quick-Start Guide </guides/quick-start-guide>`_ may be a good place to start for a general overview with highlighted notes and suggestions about approaching metadata.
+If you are new to the UNTL format, the :doc:`Quick-Start Guide </guides/quick-start-guide>` may be a good place to start for a general overview with highlighted notes and suggestions about approaching metadata.
 
 ***********
 Field Guide
