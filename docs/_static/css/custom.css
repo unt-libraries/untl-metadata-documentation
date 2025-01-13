@@ -29,12 +29,16 @@
 
 /* Styling for better consistency with UNT Libraries site */
 a {
-    color: #00853e;
+    color: #005326;
 }
 
 a:hover,
 a:visited {
-    color: #00391a;
+    color: #00421e;
+}
+
+.document a {
+    text-decoration: underline;
 }
 
 .wy-side-nav-search a,
@@ -48,12 +52,14 @@ a:visited {
 
 .wy-menu-vertical p.caption {
     color: #7AC143;
+    overflow: auto;
 }
 
 .wy-menu-vertical a,
 .wy-menu-vertical a:hover,
 .wy-menu-vertical a:visited {
     color: #FFFFFF;
+    overflow: auto;
 }
 
 .rst-content .note .admonition-title {
@@ -62,4 +68,8 @@ a:visited {
 
 .rst-content .note {
     background: rgba(22, 162, 184, 0.25);
+}
+
+footer {
+    color: #595959;
 }
