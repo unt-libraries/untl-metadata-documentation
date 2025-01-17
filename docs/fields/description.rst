@@ -335,7 +335,7 @@ Books, pamphlets, handwritten documents, miscellaneous text
 |                                                                               |A-M p.                                       |
 |   -   the item does not have page numbers                                     |                                             |
 |   -   page numbers do not start at "1" -- also see :ref:`serial description   |[41] p.                                      |
-|       <guides/serials.html#description>` when this applies to serials with    |                                             |
+|       <serial-description>` when this applies to serials with                 |                                             |
 |       continuous pagination -- or list #-# for clarification                  |[24] leaves, bound                           |
 |   -   the document has a large number of different paginations (e.g., when    |                                             |
 |       every chapter in a report has separate pagination) that would be        |19 leaves (2 columns, 32-56 lines)           |
