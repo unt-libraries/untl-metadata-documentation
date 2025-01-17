@@ -328,21 +328,21 @@ Books, pamphlets, handwritten documents, miscellaneous text
 +===============================================================================+=============================================+
 |extent = number of pages of content                                                                                          |
 +-------------------------------------------------------------------------------+---------------------------------------------+
-|-  total numbered pages (or leaves, if relevant)                               |30 p.                                        |
+|-  total numbered pages (or leaves, if relevant)                               | | 30 p.                                     |
 |-  different kinds of pagination (e.g., Roman numbers, numbers, etc.) can be   |                                             |
-|   separated by commas in the order that they appear                           |iv, 320 p.                                   |
+|   separated by commas in the order that they appear                           | | iv, 320 p.                                |
 |-  it may be appropriate to list the total pages of content in [brackets] if:  |                                             |
-|                                                                               |A-M p.                                       |
+|                                                                               | | A-M p.                                    |
 |   -   the item does not have page numbers                                     |                                             |
-|   -   page numbers do not start at "1" -- also see :ref:`serial description   |[41] p.                                      |
+|   -   page numbers do not start at "1" -- also see :ref:`serial description   | | [41] p.                                   |
 |       <serial-description>` when this applies to serials with                 |                                             |
-|       continuous pagination -- or list #-# for clarification                  |[24] leaves, bound                           |
+|       continuous pagination -- or list #-# for clarification                  | | [24] leaves, bound                        |
 |   -   the document has a large number of different paginations (e.g., when    |                                             |
-|       every chapter in a report has separate pagination) that would be        |19 leaves (2 columns, 32-56 lines)           |
+|       every chapter in a report has separate pagination) that would be        | | 19 leaves (2 columns, 32-56 lines)        |
 |       onerous or unhelpful to list out                                        |                                             |
-|                                                                               |182-536 p.                                   |
+|                                                                               | | 182-536 p.                                |
 |-  when applicable for manuscripts include number of lines or columns in       |                                             |
-|   parentheses                                                                 |1 pamphlet (12 p.)                           |
+|   parentheses                                                                 | | 1 pamphlet (12 p.)                        |
 |-  folded pamphlets may be described as "1 pamphlet" with an option to include |                                             |
 |   the number of pages in parentheses (e.g., if there are numbered panels or   |                                             |
 |   pages rather than a single folded sheet)                                    |                                             |
