@@ -134,15 +134,19 @@ Place Name(s)
 |-  Begin with the largest ("country" level) and proceed to the smallest        |   Authority - Brighton                         |
 |   relevant geographical unit                                                  |                                                |
 |                                                                               | | Poland - Lower Silesia Province -            |
-|                                                                               |   Lubin County - Lubin Gmina - Lubin           |
+|-  Unless it is a stated exception, the last unit should not be smaller than a |   Lubin County - Lubin Gmina - Lubin           |
+|   "populated place" -- i.e., a city or town, not a neighborhood or section of |                                                |
+|   a populated place                                                           |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-  Write out "County", "Parish", "Province", and other relevant descriptors    | | Italy - Latium Region - Rome Province - Rome |
-|   (*not* "State")                                                             |                                                |
-|-  For most places in the United States, this form should be used:             | | United States - Louisiana - Caddo Parish -   |
-|   United States - [state] - [county] County - [city]                          |   Shreveport                                   |
+|-  Write out "County", "Parish", "Province", and other relevant descriptors,   | | Italy - Latium Region - Rome Province - Rome |
+|   but *not*:                                                                  |                                                |
+|                                                                               | | United States - Louisiana - Caddo Parish -   |
+|   -   state                                                                   |   Shreveport                                   |
+|   -   city/town designations for populated places, unless it is part of the   |                                                |
+|       official name, e.g., "Mexico City"                                      |                                                |
 |                                                                               |                                                |
-|                                                                               | | United States - Illinois - Cook County -     |
-|                                                                               |   Chicago                                      |
+|-  For most places in the United States, this form should be used:             | | United States - Illinois - Cook County -     |
+|   United States - [state] - [county] County - [city]                          |   Chicago                                      |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |*Levels of Specificity*                                                                                                         |
 +-------------------------------------------------------------------------------+------------------------------------------------+
