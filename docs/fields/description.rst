@@ -319,8 +319,8 @@ How Should the Physical Description be Filled in?
 
 .. _description-books:
 
-Books, pamphlets, and printed sheets
-------------------------------------
+Books, pamphlets, handwritten documents, miscellaneous text
+-----------------------------------------------------------
 
 
 +-------------------------------------------------------------------------------+---------------------------------------------+
@@ -328,17 +328,23 @@ Books, pamphlets, and printed sheets
 +===============================================================================+=============================================+
 |extent = number of pages of content                                                                                          |
 +-------------------------------------------------------------------------------+---------------------------------------------+
-|-  total numbered pages                                                        |30 p.                                        |
+|-  total numbered pages (or leaves, if relevant)                               |30 p.                                        |
 |-  different kinds of pagination (e.g., Roman numbers, numbers, etc.) can be   |                                             |
 |   separated by commas in the order that they appear                           |iv, 320 p.                                   |
-|-  if the item does not have page numbers, the total pages of content can be   |                                             |
-|   included in [brackets]                                                      |A-M p.                                       |
-|                                                                               |                                             |
-|   -   also see :doc:`citation </fields/citation>` when this applies to serials|[41] p.                                      |
-|       with continuous pagination                                              |                                             |
+|-  it may be appropriate to list the total pages of content in [brackets] if:  |                                             |
+|                                                                               |A-M p.                                       |
+|   -   the item does not have page numbers                                     |                                             |
+|   -   page numbers do not start at "1" -- also see :ref:`serial description   |[41] p.                                      |
+|       <guides/serials.html#description>` when this applies to serials with    |                                             |
+|       continuous pagination -- or list #-# for clarification                  |[24] leaves, bound                           |
+|   -   the document has a large number of different paginations (e.g., when    |                                             |
+|       every chapter in a report has separate pagination) that would be        |19 leaves (2 columns, 32-56 lines)           |
+|       onerous or unhelpful to list out                                        |                                             |
 |                                                                               |182-536 p.                                   |
+|-  when applicable for manuscripts include number of lines or columns in       |                                             |
+|   parentheses                                                                 |1 pamphlet (12 p.)                           |
 |-  folded pamphlets may be described as "1 pamphlet" with an option to include |                                             |
-|   the number of pages in parentheses (e.g., if there are numbered panels or   |1 pamphlet (12 p.)                           |
+|   the number of pages in parentheses (e.g., if there are numbered panels or   |                                             |
 |   pages rather than a single folded sheet)                                    |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |physical details = illustrations within the text, including photographs                                                      |
@@ -351,11 +357,16 @@ Books, pamphlets, and printed sheets
 |   :ref:`LC Genre/Form Terms <subject-lcgft>` may also be helpful for searching|                                             |
 | - if the item is entirely or mostly illustrations: "all [ill. or type]" or    |: ill., col. maps                            |
 |   "chiefly [ill. or type]"                                                    |                                             |
-|                                                                               |: all ill.                                   |
+| - include the material, if it is not printed on paper                         |: all ill.                                   |
 |                                                                               |                                             |
 |                                                                               |: chiefly ports.                             |
 |                                                                               |                                             |
 |                                                                               |: ill.                                       |
+|                                                                               |                                             |
+|                                                                               |: vellum, ill.                               |
+|                                                                               |                                             |
+|                                                                               |: parchment, ill., maps                      |
+|                                                                               |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |dimensions = height, or height x width in cm.                                                                                |
 +-------------------------------------------------------------------------------+---------------------------------------------+
@@ -364,6 +375,11 @@ Books, pamphlets, and printed sheets
 | - if the width is much less than the height, give: h x w cm.                  |; 28 x 10 cm.                                |
 | - if the text is folded (e.g., a pamphlet), include total dimensions and      |                                             |
 |   folded dimensions                                                           |; 22 x 28 cm., folded to 22 x 10 cm.         |
+| - if the item includes a number of pages that are different sizes, include    |                                             |
+|   the largest dimensions "or smaller"                                         |; 31 x 21 cm., or smaller                    |
+|                                                                               |                                             |
+|   -   optionally, include individual dimensions in a non-display note for     |                                             |
+|       future reference (when readily available)                               |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
 
@@ -376,6 +392,9 @@ Books, pamphlets, and printed sheets
 - [3] p. 
 - 6, [32] p. : ill. ; 28 cm.
 - 5 sheets, 3 p. : ill. ; 23 cm.
+- 60 p. ; 26 cm.
+- [3] p. : parchment ; 29 cm., folded to 12 x 22 cm.
+- [5] p. ; 28 cm., or smaller, + 1 envelope (8 x 14 cm.)
 
 (If the text is not illustrated and the dimensions are unknown, only the number of pages will be in the description.)
 
@@ -499,49 +518,6 @@ Maps and other cartographic materials
 - 3 maps on 1 sheet ; 47 x 77 cm.
 - 1 atlas (30 p.) : some col. ; 52 cm.
 
-
-Also see :ref:`Other Examples <description-pexamples>`.
-
-.. _description-manuscripts:
-
-Manuscripts (maps, musical scores, and other documents that are handwritten)
-----------------------------------------------------------------------------
-
--   Formatting is essentially the same as for books and other texts:
-
-+-------------------------------------------------------------------------------+---------------------------------------------+
-|**Guidelines**                                                                 |**Examples**                                 |
-+===============================================================================+=============================================+
-|extent = number of pages of content                                                                                          |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-| - list the number of leaves or pages using brackets when necessary            |vi, 25 p.                                    |
-| - include number of lines or columns in parentheses when applicable           |                                             |
-|                                                                               |[24] leaves, bound                           |
-|                                                                               |                                             |
-|                                                                               |19 leaves (2 columns, 32-56 lines)           |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-|physical details = illustrations within the text, materials                                                                  |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-| - include notes about illustrations in the same way as they are used for text |: col. ill., maps                            |
-| - include the material, if it is not printed on paper                         |                                             |
-|                                                                               |: vellum, ill.                               |
-|                                                                               |                                             |
-|                                                                               |: parchment, ill., maps                      |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-|dimensions = height, or height x width in cm.                                                                                |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-|                                                                               |; 36 cm.                                     |
-| - height, rounded up to the next whole centimeter (cm.)                       |                                             |
-| - if the width is much less than the height, give: h x w cm.                  |; 31 x 15 cm.                                |
-| - if it is kept folded, include total dimensions and folded dimensions        |                                             |
-|                                                                               |; 42 x 71 cm., folded to 11 x 16 cm.         |
-+-------------------------------------------------------------------------------+---------------------------------------------+
-
-
-**Examples:**
-
-- 60 p. ; 26 cm.
-- [3] p. : parchment ; 29 cm., folded to 12 x 22 cm.
 
 Also see :ref:`Other Examples <description-pexamples>`.
 
