@@ -237,5 +237,3 @@ Related Explanations & Tutorials
 ********************************
 
 -   This presentation provides an overview of metadata and various features in the edit system as of November 2024: `UNT Libraries Metadata Environment <https://digital.library.unt.edu/ark:/67531/metadc2405132/>`_
-
->>>>>>> 0bbe6db6c18e14103a5279e908d595980bdf1bff
