@@ -182,7 +182,7 @@ For validation, if a field value seems wrong, the field will be highlighted in t
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
 | .. image:: ../_static/images/warning-2.png                            |This warning appears if a value in the date or coverage date    |
 |   :alt: Screenshot of a date warning                                  |field does not conform to EDTF specifications (check guidelines |
-|                                                                       |for more info}                                                  |
+|                                                                       |for more info)                                                  |
 +-----------------------------------------------------------------------+----------------------------------------------------------------+
 | .. image:: ../_static/images/warning-3.png                            |This warning appears if a subject value does not match the      |
 |   :alt: Screenshot of a subject warning                               |vocabulary qualifier -- this only works for vocabularies that   |
