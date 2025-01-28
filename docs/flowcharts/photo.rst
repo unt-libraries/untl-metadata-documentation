@@ -24,6 +24,7 @@ This page refers to records for photographs, which may include:
     or researchers, etc.), and should be incorporated appropriately.  For example, if a question says "do you
     know when the photograph was taken" the answer could be "yes" if you have it from a known source, even if
     the date isn't written on the item.
+-   Example values link to public record but not everything in the full metadata will necessarily apply.
 -   In some cases, it may also help to look for similar items or collections that are already publicly visible.
 -   *Note:* If you are not familiar with the UNTL metadata editing system or have not used it recently, it may
     also help to review some of the other general information such as the page about :doc:`navigating the system </technical/navigation>`
@@ -139,12 +140,15 @@ Creator
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
-| |Thurman's Studio                                         |                                                           |
+| |`Thurman Studio                                          |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth744244/>`|                                                           |
 |                                                           |                                                           |
-| |Archer, Sellars G.                                       |                                                           |
+| |`Anderson, Robert M. D.                                  |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth17/>`    |                                                           |
 |                                                           |                                                           |
-| |Texas. Department of Transportation. (for Staff          |                                                           |
-|  photographer)                                            |                                                           |
+| |`Texas. Department of Transportation.                    |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth129054/>`|                                                           |
+|  (for Staff photographer)                                 |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More creator guidelines </fields/creator>`
@@ -183,12 +187,59 @@ Contributor
 |                                                           |                                                           |
 |   This is not particularly common, and tends to be        |                                                           |
 |   applicable for specific collections                     |                                                           |
+|                                                           |                                                           |
+|.. warning::                                               |                                                           |
+|                                                           |                                                           |
+|   A name can only be listed once total in creator AND     |                                                           |
+|   contributor, even if a person or organization has       |                                                           |
+|   multiple roles (e.g., photographer and donor) -- i.e.,  |                                                           |
+|   a contributor name cannot be repeated and a creator     |                                                           |
+|   cannot also be listed as a contributor                  |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |                                                           |                                                           |
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+.. admonition:: Question
+   
+   **Does the content of the image contain an artwork, building, or item for which the creator is known & important?**
+
+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Enter the name in the contributor text box; invert          |Go to the next field.                                      |
+|   personal names (last, first)                                |                                                           |
+|-  Choose the type: Personal or Organization                   |                                                           |
+|-  Choose the most appropriate role, such as "Architect,"      |                                                           |
+|   "Artist," "Sculptor," etc. from the second drop-down        |                                                           |
+|   menu                                                        |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   This is also not common and generally used specifically     |                                                           |
+|   for architecture or artworks that are the primary           |                                                           |
+|   content                                                     |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `Jiménez, Luis Alfonso, Jr.                                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth538013/>`   |                                                           |
+|   (sculptor)                                                  |                                                           |
+|                                                               |                                                           |
+| | `Giesecke, Kuehne and Brooks                                |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth856747/>`   |                                                           |
+|   (architects)                                                |                                                           |
+|                                                               |                                                           |
+| | `Kahlo, Frida                                               |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth304085/>`   |                                                           |
+|   (artist)                                                    |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+
+
 
 *   :doc:`More contributor guidelines </fields/contributor>`
 
@@ -203,28 +254,28 @@ Publisher
    **Was the photograph formally published?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Enter the name in the publisher text box; personal names|Skip the publisher field.  Use the "x" if there are        |
-|   are *not* inverted in this field                        |placeholder values to clear the entire entry.              |
-|-  Add the location, if known -- this may be a general     |                                                           |
-|   place like "United States" or "Texas" rather than a city|                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   This field almost never applies to photographs, but may |                                                           |
-|   be relevant for advertising or promotional images       |                                                           |
-|   released by government agencies, corporations, etc.     |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-| | United States. Army.                                    |                                                           |
-|                                                           |                                                           |
-| | Texas. Department of Agriculture.                       |                                                           |
-|                                                           |                                                           |
-| | Leonard's Department Store                              |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Enter the name in the publisher text box; personal names    |Skip the publisher field.  Use the "x" if there are        |
+|   are *not* inverted in this field                            |placeholder values to clear the entire entry.              |
+|-  Add the location, if known -- this may be a general         |                                                           |
+|   place like "United States" or "Texas" rather than a city    |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   This field almost never applies to photographs, but may     |                                                           |
+|   be relevant for advertising or promotional images           |                                                           |
+|   released by government agencies, corporations, etc.         |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `KXAS-TV (Television station : Fort Worth, Tex.)            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc1794711/>`   |                                                           |
+|                                                               |                                                           |
+| | `Texas. Department of Agriculture.                          |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth90976/>`    |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More publisher guidelines </fields/publisher>`
 
@@ -235,7 +286,7 @@ Date
 
 .. admonition:: Question
    
-   **Do you know when the physical photograph was taken?**
+   **Do you know when the photograph was taken?**
 
 
 
@@ -301,8 +352,97 @@ Language
 *   :doc:`More language guidelines </fields/language>`
 
 
-description
-subject
+
+***********
+Description
+***********
+
+Content Description
+===================
+-   The content description is required; it is based on looking at the photo and describing what is visible in the image
+-   There will generally be a placeholder entry labeled "content description" in the record
+
+
+
+
+
+
+
++-----------------------------------------------------------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+
+Physical Description
+===================
+-   The physical description is not required, but is encouraged and is easy to include at least in part
+-   There will generally be a placeholder entry labeled "physical description" in the record; details in the placeholder should
+    be checked for the individual photograph and changed (if different) or removed if they cannot be verified (e.g., if dimensions
+    are unknown)
+
+
+**Step 1.**  List the number of photograph(s)
+
+-   This ia almost always 1 photograph
+-   *Occasionally* there might be more than one photo, e.g., multiple photos printed on or affixed to a page, two daguerreotypes in a case, etc.
+
+
+**Step 2.**  Add any details about format and color after " : "
+
+-   Is this image any format other than a photo printed on paper?  E.g.:
+
+    -   negative (on film), positive (slide), glass photonegative (negative on glass)
+    -   digital
+    -   daguerreotype (printed on silver-plated copper), tintype (printed on metal)
+    -   ambrotype (negative on glass in a dark case)
+
+-   Is the image color (col.) or black-and-white (b&w)?
+
+
+**Step 3.**  If known, add dimensions after " ; " in h x w using appropriate units
+
+-   Is the image a "standard size"?  (See the full list.)
+
+    -   for prints: 8 x 10 in. / 5 x 7 in. / 4 x 6 in.
+    -   for negatives: 35 mm. (also applies to slides) / 4 x 5 in. / 6 x 6 cm. / 6 x 9 cm.
+    -   cabinet cards: 17 x 12 cm. (this is 4.5 x 6.5 in.)
+    -   cartes de visite: 11 x 7 cm. (this is 4 x 2.5 in.)
+    -   if it is NOT a standard size, measure total dimensions rounding up to the next whole cm.
+    -   for born-digital images: h x w px. (pixels)
+
+-   Is the image in something (like a frame or folder), or affixed to something (like a page or mat)?  If yes:
+
+    -   add a comma after initial dimensions and add additional details, such as:
+    
+        -   on sheet h x w cm.
+        -   in frame h x w cm.
+        -   in folder h x w cm., folded to h x w cm.
+        -   on mat h x w cm.
+        -   in case h x w cm., folded to h x w cm.
+
+
+
++-----------------------------------------------------------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+
+
+*******
+Subject
+*******
+
+-   At least two (2) subjects are required for every metadata record
+-   There may be suggested placeholder terms in the record; any terms that are not useful to find that *specific* photo should be changed or removed
+-   
+
+
 
 
 ********
@@ -409,26 +549,24 @@ Note
 ****
 
 .. admonition:: Question
-   
-   **Do you have additional information about the item that doesn't fit elsewhere?**  For example:
+
+   **Do you have additional information about the item that doesn't fit elsewhere and would he helpful for public users?**  For example:
    
    -    contextual information about the image content (such as biographical information about a person,
         previous ownership of a house or history of a store, etc.)
    -    unclear information or variations that cannot be clarified (such as multiple possible photographers without a 
         known creator, multiple possible locations, etc.)
-   -    notes about information discrepancies or research related to the item
-   -    archival information about the photo's accession, preservation, location, etc.
 
 
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                        |No                                                         |
 +===========================================================+===========================================================+
-|                                                           |Do not include a note.                                     |
-|                                                           |                                                           |
-|                                                           |                                                           |
-|                                                           |                                                           |
-|                                                           |                                                           |
-|                                                           |                                                           |
+|-  Add relevant information to the text box                |Do not include a note.                                     |
+|-  It may be appropriate to add different kinds of         |                                                           |
+|   information in separate entries                         |                                                           |
+|-  Use the drop-down menu to mark the note entry           |                                                           |
+|   "Display" so that it will be publicly visible and       |                                                           |
+|   searchable for users                                    |                                                           |
 |                                                           |                                                           |
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
@@ -437,6 +575,29 @@ Note
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
+
+.. admonition:: Question
+   
+   **Do you have additional information about the item that would be important for administrators or curators?**  For example:
+   
+   -    notes about information discrepancies or research related to the item
+   -    archival information about the photo's accession, preservation, location, etc.
+
+
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                        |No                                                         |
++===========================================================+===========================================================+
+|-  Add relevant information to the text box                |Do not include a note.                                     |
+|-  It may be appropriate to add different kinds of         |                                                           |
+|   information in separate entries                         |                                                           |
+|-  Use the drop-down menu to mark the note entry           |                                                           |
+|   "Non-Display" so that it will show up for administrators|                                                           |
+|   with editing access but not be publicly visible         |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
 
 
 
