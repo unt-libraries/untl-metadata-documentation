@@ -360,13 +360,55 @@ Description
 Content Description
 ===================
 -   The content description is required; it is based on looking at the photo and describing what is visible in the image
+-   Generally the description should not repeat information from other parts of the record (e.g., creator, creation date)
+    and should provide more detail than the title
 -   There will generally be a placeholder entry labeled "content description" in the record
 
+**Step 1.** Start with "Photograph of"
+
+-   We do this to help orient users when they view a list of search results and to provide more context when metadata
+    is harvested to other locations (like DPLA)
+-   When applicable, this could be modified slightly, e.g., "Portrait of" / "Aerial photograph of" / etc.
 
 
+**Step 2.** Describe anything of significance in the image, usually around 1-3 sentences, for example:
+
+-   Are there people or animals in the image?
+
+    -   Do you know names and/or identities (e.g., pictured from left to right)?
+    -   What are the people doing in the image?
+    -   If it is a portrait (usually taken in a studio), how is the person posing and are they fully visible?
+
+-   Are there buildings in the image?
+
+    -   What kind of building is it (school building, store, house, etc.)?
+    -   Is the name or address of the building known?
+    -   Are there distinguishing features?
+
+-   Was the photo taken inside or outside?  At a particular angle, looking up or down?
+-   Is there anything taking up a large amount of space (e.g., left/right side of the image, foreground/background, etc.)?
+
+    -   It is generally helpful to focus on anything that is the focus of the image, but most of the time there should also
+        be at least a brief mention of anything else (e.g., something partially visible on one side of the photo, something
+        in the background, etc.)
+    -   What else is visible around the people, buildings, etc.?
 
 
+**Step 3.** When relevant, it may also be helpful to include additional information on the item, such as a handwritten
+note on the back
 
+    -   This information may also be appropriate in a display note, especially if the description is already long
+    -   It is not necessary to incorporate information in the description and repeat it as quoted text
+
+
+.. note::
+
+    Remember that *contextual* information generally belongs in a note, unless it is very brief, for example:
+    
+    -   additional information about how/when a photo was taken
+    -   biographical information about a person in a photo
+    -   details about locations in the image (e.g., when a house was built and its ownership history)
+    
 
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
@@ -386,7 +428,7 @@ Physical Description
 
 **Step 1.**  List the number of photograph(s)
 
--   This ia almost always 1 photograph
+-   This is almost always 1 photograph
 -   *Occasionally* there might be more than one photo, e.g., multiple photos printed on or affixed to a page, two daguerreotypes in a case, etc.
 
 
