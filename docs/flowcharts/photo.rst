@@ -332,22 +332,27 @@ Language
 
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  For any text visible in the image (e.g., signs) or      |Choose "No Language" from the drop-down menu.              |
-|   written on the back, choose the appropriate language    |                                                           |
-|   from the drop-down menu                                 |.. note::                                                  |
-|-  Add multiple entries if there is more than one language |                                                           |
-|   "Printer" from the second drop-down menu                |   Names are not considered "language" so if the only text |
-|                                                           |   is names -- e.g., identifying persons in the image or   |
-|                                                           |   pictured signage with store names -- choose "No         |
-|                                                           |   Language"                                               |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|English                                                    | No Language                                               |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+---------------------------------------------------------------+
+|Yes                                                            |No                                                             |
++===============================================================+===============================================================+
+|-  For any text visible in the image (e.g., signs) or          |Choose "No Language" from the drop-down menu.                  |
+|   written on the back, choose the appropriate language        |                                                               |
+|   from the drop-down menu                                     |.. note::                                                      |
+|-  Add multiple entries if there is more than one language     |                                                               |
+|   "Printer" from the second drop-down menu                    |   Names are not considered "language" so if the only text     |
+|                                                               |   is names -- e.g., identifying persons in the image or       |
+|                                                               |   pictured signage with store names -- choose "No             |
+|                                                               |   Language"                                                   |
++---------------------------------------------------------------+---------------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++---------------------------------------------------------------+---------------------------------------------------------------+
+| | `English                                                    | | `No Language                                                |
+|   <https://texashistory.unt.edu/ark:/67531/metapth58010/>`    |   <https://texashistory.unt.edu/ark:/67531/metapth10715/>`    |
+|                                                               |                                                               |
+| | `French                                                     | | `No Language                                                |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1560372/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth556590/>`   |
+|                                                               |   (names only)                                                |
++---------------------------------------------------------------+---------------------------------------------------------------+
 
 *   :doc:`More language guidelines </fields/language>`
 
@@ -386,6 +391,7 @@ Content Description
     -   Are there distinguishing features?
 
 -   Was the photo taken inside or outside?  At a particular angle, looking up or down?
+
 -   Is there anything taking up a large amount of space (e.g., left/right side of the image, foreground/background, etc.)?
 
     -   It is generally helpful to focus on anything that is the focus of the image, but most of the time there should also
@@ -397,8 +403,8 @@ Content Description
 **Step 3.** When relevant, it may also be helpful to include additional information on the item, such as a handwritten
 note on the back
 
-    -   This information may also be appropriate in a display note, especially if the description is already long
-    -   It is not necessary to incorporate information in the description and repeat it as quoted text
+-   This information may also be appropriate in a display note, especially if the description is already long
+-   It is not necessary to incorporate information in the description and repeat it as quoted text
 
 
 .. note::
@@ -480,9 +486,10 @@ Physical Description
 Subject
 *******
 
--   At least two (2) subjects are required for every metadata record
+-   At least two (2) subjects of any type are required for every metadata record
 -   There may be suggested placeholder terms in the record; any terms that are not useful to find that *specific* photo should be changed or removed
--   
+
+
 
 
 
@@ -533,23 +540,18 @@ Coverage
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                        |No                                                         |
 +===========================================================+===========================================================+
-|-  Choose "Place Name" from the drop-down menu             |Do not include a coverage date.  Use the "x" if there is a |
-|-  Add the name of the location using the hierarchical     |placeholder value to clear the entire entry.               |
-|   formatting (this can be a specific city, like Chicago,  |                                                           |
-|   or a more general location, like a country)             |                                                           |
-|-  Previously-used locations are in a searchable list that |                                                           |
-|   pops up when "Place Name" is chosen; most locations will|                                                           |
-|   already be on the list, but you can also use it to find |                                                           |
-|   similar locations if you need to add a new place name   |                                                           |
-|                                                           |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   A single photo can only have content from one location. |                                                           |
-|   If an image may have been taken in multiple possible    |                                                           |
-|   locations, use a less specific place if there is a      |                                                           |
-|   common denominator and add a display note with more     |                                                           |
-|   details                                                 |                                                           |
+|-  Choose "Coverage Date" from the drop-down menu          |Do not include a coverage date.  Use the "x" if there is a |
+|-  Add the date of the content for the image               |placeholder value to clear the entire entry.               |
+|-  The date will almost always be identical to the creation|                                                           |
+|   date (i.e., content is captured at the time the photo is|                                                           |
+|   taken) unless it is a copy photo (i.e., a photo or      |                                                           |
+|   reproduction of another photograph, where the older     |                                                           |
+|   image is the content of a later image)                  |                                                           |
+|-  Add an entry for "Time Period" and choose the           |                                                           |
+|   corresponding option (generally "Into Modern Times" if  |                                                           |
+|   taken after 1939 or "New South" if taken before 1939)   |                                                           |
+|-  An appropriate time period can be added even if the     |                                                           |
+|   exact date isn't known                                  |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
@@ -560,25 +562,30 @@ Coverage
 
 .. admonition:: Question
    
-   **Do you know EXACTLY where the photograph was taken, e.g., an address?**
+   **Do you know EXACTLY where the photograph was taken, e.g., an address or landmark?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Choose "Place Point" from the drop-down menu            |Do not include a coverage place point or box.              |
-|-  Use the Google map interface to drop a pin marking the  |                                                           |
-|   vantage point where the photo was taken (or the center  |                                                           |
-|   of a building for interior images)                      |                                                           |
-|-  IF the content encompasses a large area (usually applies|                                                           |
-|   to aerial photos), choose "Place Box" and use the       |                                                           |
-|   Google map to draw a box that matches the area in the   |                                                           |
-|   image                                                   |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Choose "Place Point" from the drop-down menu                |Do not include a coverage place point or box.              |
+|-  Use the Google map interface to drop a pin marking the      |                                                           |
+|   vantage point where the photo was taken (or the center      |                                                           |
+|   of a building for interior images)                          |                                                           |
+|-  IF the content encompasses a large area (usually applies    |                                                           |
+|   to aerial photos), choose "Place Box" and use the           |                                                           |
+|   Google map to draw a box that matches the area in the       |                                                           |
+|   image                                                       |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `north=30.272512; east=-97.742635;                          |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth124027/>`   |                                                           |
+|                                                               |                                                           |
+| | `northlimit=32.759050; eastlimit=-96.804672;                |                                                           |
+|   southlimit=32.753781; westlimit=-96.822396;                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1411711/>`  |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 *   :doc:`More coverage guidelines </fields/coverage>`
@@ -676,60 +683,63 @@ Possible Exceptions
 
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |If YES:                                                    |Examples of what these values might look like:             |
-+===========================================================+===========================================================+===========================================================+
-|.. admonition:: Question                                   |-  You may want to add a source value to reference the     |                                                           |
-|                                                           |   event or source material                                |                                                           |
-|   **Was the photograph part of an art exhibit?**          |-  Choose the appropriate type of source from the drop-down|                                                           |
-+-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                           |
-|.. admonition:: Question                                   |-  The source text value does not have strict formatting   |                                                           |
-|                                                           |   requirements, but should provide enough information for |                                                           |
-|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |                                                           |
-+-----------------------------------------------------------+   information known)                                      |                                                           |
-|.. admonition:: Question                                   |                                                           |                                                           |
-|                                                           |                                                           |                                                           |
-|   **Was this photograph originally part of a larger item  |.. note::                                                  |                                                           |
-|   such as a book, report, etc.**                          |                                                           |                                                           |
-|                                                           |   If the original source is an item that is also available|                                                           |
-|                                                           |   the Digital Collections, the relation field is likely   |                                                           |
-|                                                           |   more appropriate                                        |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |                                                           |
-|                                                           |   other item                                              |                                                           |
-|   **Do you have multiple similar copies of the photograph |-  Relationships are reciprocal, so you will need to add   |                                                           |
-|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     |                                                           |
-|   in the Digital Collections?**                           |   title and ARK of the first item)                        |                                                           |
-+-----------------------------------------------------------+-  Choose the appropriate type of relationship, e.g.:      |                                                           |
-|.. admonition:: Question                                   |                                                           |                                                           |
-|                                                           |   -   a negative <<has format>> photo print               |                                                           |
-|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |                                                           |
-|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |                                                           |
-|   or other text?**                                        |       from the same negative (these may be identical, or  |                                                           |
-|                                                           |       slightly edited, such as an enlargement)            |                                                           |
-|                                                           |   -   the second print <<is version of>> the first print  |                                                           |
-|                                                           |   -   a photo <<is referenced by>> a text                 |                                                           |
-|                                                           |   -   a text <<references>> a photograph                  |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add any applicable parts:                               |                                                           |
-|                                                           |                                                           |                                                           |
-|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         |                                                           |
-|   Commons (CC) license?**                                 |       appropriate CC license from the list                |                                                           |
-+-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      |                                                           |
-|.. admonition:: Question                                   |       organization that holds the copyright               |                                                           |
-|                                                           |   -   *rights statement*: quote any explicit statement    |                                                           |
-|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |                                                           |
-|                                                           |                                                           |                                                           |
-|   **Is the photo printed as a postcard?**                 |                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that |                                                           |
-|                                                           |   applies                                                 |                                                           |
-|   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                           |
-|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  |                                                           |
-|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+-----------------------------------------------------------+
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|                                                           |If YES:                                                    |Examples of what these values might look like:                 |
++===========================================================+===========================================================+===============================================================+
+|.. admonition:: Question                                   |-  You may want to add a source value to reference the     |                                                               |
+|                                                           |   event or source material                                |                                                               |
+|   **Was the photograph part of an art exhibit?**          |-  Choose the appropriate type of source from the drop-down|                                                               |
++-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                               |
+|.. admonition:: Question                                   |-  The source text value does not have strict formatting   |                                                               |
+|                                                           |   requirements, but should provide enough information for |                                                               |
+|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |                                                               |
++-----------------------------------------------------------+   information known)                                      |                                                               |
+|.. admonition:: Question                                   |                                                           |                                                               |
+|                                                           |                                                           |                                                               |
+|   **Was this photograph originally part of a larger item  |.. note::                                                  |                                                               |
+|   such as a book, report, etc.**                          |                                                           |                                                               |
+|                                                           |   If the original source is an item that is also available|                                                               |
+|                                                           |   the Digital Collections, the relation field is likely   |                                                               |
+|                                                           |   more appropriate                                        |                                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|.. admonition:: Question                                   | << preferred citation>>                                   |                                                               |
+|                                                           |                                                           |                                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |                                                               |
+|                                                           |   other item                                              |                                                               |
+|   **Do you have multiple similar copies of the photograph |-  Relationships are reciprocal, so you will need to add   |                                                               |
+|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     |                                                               |
+|   in the Digital Collections?**                           |   title and ARK of the first item)                        |                                                               |
++-----------------------------------------------------------+-  Choose the appropriate type of relationship, e.g.:      |                                                               |
+|.. admonition:: Question                                   |                                                           |                                                               |
+|                                                           |   -   a negative <<has format>> photo print               |                                                               |
+|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |                                                               |
+|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |                                                               |
+|   or other text?**                                        |       from the same negative (these may be identical, or  |                                                               |
+|                                                           |       slightly edited, such as an enlargement)            |                                                               |
+|                                                           |   -   the second print <<is version of>> the first print  |                                                               |
+|                                                           |   -   a photo <<is referenced by>> a text                 |                                                               |
+|                                                           |   -   a text <<references>> a photograph                  |                                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add any applicable parts:                               | | *License:* `Attribution                                     |
+|                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`  |
+|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         | | *Statement:* Please Credit: USDA--Soil Conservation         |
+|   Commons (CC) license?**                                 |       appropriate CC license from the list                |   Service                                                     |
++-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      |                                                               |
+|.. admonition:: Question                                   |       organization that holds the copyright               | | *License:* `Copyright                                       |
+|                                                           |   -   *rights statement*: quote any explicit statement    |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`  |
+|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         | | *Holder:* Denton Record-Chronicle                           |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |                                                               |
+|                                                           |                                                           |                                                               |
+|   **Is the photo printed as a postcard?**                 |                                                           |                                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that |                                                               |
+|                                                           |   applies                                                 |                                                               |
+|   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                               |
+|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  |                                                               |
+|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |                                                               |
++-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
 
 
 
