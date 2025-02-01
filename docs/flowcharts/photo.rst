@@ -559,25 +559,34 @@ Other Subjects
     **Is the content related to a famous person, event, or location?** or
     **Do you already have relevant LCSH terms available?**
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  There may be appropriate, authorized Library of Congress|Do not add LCSH terms.                                     |
-|   Subject Headings (LCSH) that could be useful to find the|                                                           |
-|   photo                                                   |                                                           |
-|-  Using LCSH terms *may* help users find some items across|                                                           |
-|   collections from multiple places since they are often   |                                                           |
-|   used in libraries                                       |                                                           |
-|-  If you want to find/verify that a term is valid, the    |                                                           |
-|   terms are searchable at <https://id.loc.gov> (but make  |                                                           |
-|   sure you limit results to "Subject Headings" or to      |                                                           |
-|   "Name Authority" (for proper names)                     |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  There may be appropriate, authorized Library of Congress    |Do not add LCSH terms.                                     |
+|   Subject Headings (LCSH) that could be useful to find the    |                                                           |
+|   photo                                                       |                                                           |
+|-  Using LCSH terms *may* help users find some items across    |                                                           |
+|   collections from multiple places since they are often       |                                                           |
+|   used in libraries                                           |                                                           |
+|-  If you want to find/verify that a term is valid, the        |                                                           |
+|   terms are searchable at <https://id.loc.gov> (but make      |                                                           |
+|   sure you limit results to "Subject Headings" or to          |                                                           |
+|   "Name Authority" (for proper names)                         |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `HemisFair (1968 : San Antonio, Tex.)                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66174/>`    |                                                           |
+|                                                               |                                                           |
+| | `Wichita Mountains Wildlife Refuge (Okla.)                  |                                                           |                 
+|   <https://gateway.okhistory.org/ark:/67531/metadc1773662/>`  |                                                           |
+|                                                               |                                                           |
+| | `Johnson, Lady Bird, 1912-2007                              |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1275575/>`  |                                                           |
+|                                                               |                                                           |
+| | `World War, 1939-1945                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth388338/>`   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 .. admonition:: Question
@@ -602,8 +611,20 @@ Other Subjects
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
+| | `sculpture (visual works)                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc2304026/>`   |                                                           |
 |                                                               |                                                           |
+| | `aerial views                                               |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc2310221/>`   |                                                           |
 |                                                               |                                                           |
+| | `interior views                                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth279174/>`   |                                                           |
+|                                                               |                                                           |
+| | `group portraits                                            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1519708/>`  |                                                           |
+|                                                               |                                                           |
+| | `public buildings (governmental buildings)                  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450701/>`  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -719,6 +740,12 @@ Coverage
 |   to aerial photos), choose "Place Box" and use the           |                                                           |
 |   Google map to draw a box that matches the area in the       |                                                           |
 |   image                                                       |                                                           |
+|                                                               |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   Coordinates are automatically entered by the system after a |                                                           |
+|   point or box is marked on the map interface                 |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -788,7 +815,11 @@ Note
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
+| | Creator name based on info online, including            |                                                           |
+|   photographer homepage                                   |                                                           |
 |                                                           |                                                           |
+| | It is unclear whether the location is the Brownwood in  |                                                           |
+|   Brown County or Orange County.                          |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
 
