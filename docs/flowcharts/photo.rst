@@ -87,24 +87,27 @@ Title
    **Does the photograph belong to an archival series?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Use the "+" to add a title entry and choose "Series     |Continue to the next field                                 |
-|   Title" from the drop-down menu                          |                                                           |
-|-  Enter the series title in the text box; it must be the  |                                                           |
-|   same in every record belonging to the series            |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   It is uncommon to have multiple titles for photographs  |                                                           |
-|   unless they are part of archival collections            |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Use the "+" to add a title entry and choose "Series         |Continue to the next field                                 |
+|   Title" from the drop-down menu                              |                                                           |
+|-  Enter the series title in the text box; it must be the      |                                                           |
+|   same in every record belonging to the series                |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   It is uncommon to have multiple titles for photographs      |                                                           |
+|   unless they are part of archival collections                |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `Catherine Parker Collection                                |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1177038/>`  |                                                           |
+|                                                               |                                                           |
+| | `Molly Behannon Collection                                  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc1484116/>`   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More title guidelines </fields/title>`
 
@@ -169,38 +172,43 @@ Contributor
         not used for commercial entities like "Kodak")
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Enter the name in the contributor text box; invert      |Skip the contributor field.  Use the "x" if there are      |
-|   personal names (last, first)                            |placeholder values to clear the entire entry.              |
-|-  Choose the type: Personal or Organization               |                                                           |
-|-  Choose the most appropriate role, such as "Donor" or    |                                                           |
-|   "Printer" from the second drop-down menu                |                                                           |
-|-  If there are multiple contributors (e.g., a photograph  |                                                           |
-|   donated by a married couple), use the "+" at the bottom |                                                           |
-|   of the field to add a new entry so that each person is  |                                                           |
-|   entered separately; name, type, and role must be added  |                                                           |
-|   for each                                                |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   This is not particularly common, and tends to be        |                                                           |
-|   applicable for specific collections                     |                                                           |
-|                                                           |                                                           |
-|.. warning::                                               |                                                           |
-|                                                           |                                                           |
-|   A name can only be listed once total in creator AND     |                                                           |
-|   contributor, even if a person or organization has       |                                                           |
-|   multiple roles (e.g., photographer and donor) -- i.e.,  |                                                           |
-|   a contributor name cannot be repeated and a creator     |                                                           |
-|   cannot also be listed as a contributor                  |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Enter the name in the contributor text box; invert          |Skip the contributor field.  Use the "x" if there are      |
+|   personal names (last, first)                                |placeholder values to clear the entire entry.              |
+|-  Choose the type: Personal or Organization                   |                                                           |
+|-  Choose the most appropriate role, such as "Donor" or        |                                                           |
+|   "Printer" from the second drop-down menu                    |                                                           |
+|-  If there are multiple contributors (e.g., a photograph      |                                                           |
+|   donated by a married couple), use the "+" at the bottom     |                                                           |
+|   of the field to add a new entry so that each person is      |                                                           |
+|   entered separately; name, type, and role must be added      |                                                           |
+|   for each                                                    |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   This is not particularly common, and tends to be            |                                                           |
+|   applicable for specific collections                         |                                                           |
+|                                                               |                                                           |
+|.. warning::                                                   |                                                           |
+|                                                               |                                                           |
+|   A name can only be listed once total in creator AND         |                                                           |
+|   contributor, even if a person or organization has           |                                                           |
+|   multiple roles (e.g., photographer and donor) -- i.e.,      |                                                           |
+|   a contributor name cannot be repeated and a creator         |                                                           |
+|   cannot also be listed as a contributor                      |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `Danevang Lutheran Church                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth222959/>`   |                                                           |
+|   (donor)                                                     |                                                           |
+|                                                               |                                                           |
+| | `Hatch, Carol Kirkham                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1319397/>`  |                                                           |
+|   (owner)                                                     |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 .. admonition:: Question
@@ -477,7 +485,7 @@ Physical Description
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                       |
-+-----------------------------------------------------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------------------------------------------+ 
 
 
 
@@ -488,10 +496,145 @@ Subject
 
 -   At least two (2) subjects of any type are required for every metadata record
 -   There may be suggested placeholder terms in the record; any terms that are not useful to find that *specific* photo should be changed or removed
+-   The use of controlled vocabularies is not required (except UNTL-BS for photos in the Portal and Gateway), but *when available* they may be
+    helpful in some circumstances outlined below
+
+Keywords & Names
+================
+
+-   Keywords can be used for any term that would be helpful to someone searching for *this particular* photo
+-   They should be lowercase and plural (unless they are proper names)
+-   Do not duplicate information from other fields (e.g., creator, coverage place, resource type) or from other subject terms
+
+
++-----------------------------------------------------------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+-   If a person or animal is *physically visible* in an image and you know their name, add a named person or named animal entry
+-   When a person is related to the content (e.g., John Smith's house) but not visible, the name can be a keyword
+-   Invert personal names (last, first)
+
++-----------------------------------------------------------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------+
+
+
+Other Subjects
+==============
+
+.. admonition:: Question
+
+    **Will this photograph be visible in The Portal to Texas History or the Gateway to Oklahoma History?**
+
+
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                        |No                                                         |
++===========================================================+===========================================================+
+|-  Add at least one term from the University of North Texas|If this photo will *only* be available in the UNT Digital  |
+|   Browse Subjects (UNTL-BS) by marking it in the drop-    |Library, do not include UNTL-BS terms.                     |
+|   down menu                                               |                                                           |
+|-  When you click in the text field, a pop-up modal will   |                                                           |
+|   open so that you can search all valid terms             |                                                           |
+|-  The full list is also available `here                   |                                                           |
+|   <https://digital2.library.unt.edu/subjects/list/>`      |                                                           |
+|-  Generally do not include a "Place" subject unless no    |                                                           |
+|   other terms apply (the location of the photo will go in |                                                           |
+|   coverage)                                               |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |
+|                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+.. admonition:: Question
+
+    **Is the content related to a famous person, event, or location?** or
+    **Do you already have relevant LCSH terms available?**
+
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                        |No                                                         |
++===========================================================+===========================================================+
+|-  There may be appropriate, authorized Library of Congress|Do not add LCSH terms.                                     |
+|   Subject Headings (LCSH) that could be useful to find the|                                                           |
+|   photo                                                   |                                                           |
+|-  Using LCSH terms *may* help users find some items across|                                                           |
+|   collections from multiple places since they are often   |                                                           |
+|   used in libraries                                       |                                                           |
+|-  If you want to find/verify that a term is valid, the    |                                                           |
+|   terms are searchable at <https://id.loc.gov> (but make  |                                                           |
+|   sure you limit results to "Subject Headings" or to      |                                                           |
+|   "Name Authority" (for proper names)                     |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |
+|                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+.. admonition:: Question
+
+    **Does a primary part of the content include buildings, sculpture, or artworks?** or
+    **Is the photograph a particular kind of "view"?**
+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  It may be appropriate to include term(s) from the Getty     |Do not add AAT terms.                                      |
+|   `Art and Architecture Thesaurus                             |                                                           |
+|   <https://www.getty.edu/research/tools/vocabularies/aat/>`   |                                                           |
+|-  These terms are primarily used in the Digital Collections   |                                                           |
+|   for broad categories that provide additional information    |                                                           |
+|   (e.g., buildings that are "residential structures" vs.      |                                                           |
+|   "commercial buildings")                                     |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   Only the preferred (linked) term is valid                   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|                                                               |                                                           |
+|                                                               |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 
+.. admonition:: Question
 
+    **Is the image a particular kind of photograph?**
+
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                        |No                                                         |
++===========================================================+===========================================================+
+|-  There is a Library of Congress Genre/Form Term (LCGFT)  |Do not add LCGFT or TGM terms.                             |
+|   for "Portraits" (when applicable)                       |                                                           |
+|-  For other "types" of photos -- either physical type     |                                                           |
+|   (e.g., Cabinet photographs) or type of content (e.g.,   |.. note::                                                  |
+|   Night photographs) -- there may be appropriate          |                                                           |
+|   `Thesaurus of Graphic Materials (TGM)                   |   Some groups choose to use TGM terms to describe the     |
+|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`  |   content of photos instead of relying on keywords; this  |
+|   terms                                                   |   is not an issue so long as the terms are appropriate,   |
+|                                                           |   TGM terms do not duplicate other subjects, and UNTL-BS  |
+|.. note::                                                  |   terms are also added (when required)                    |
+|                                                           |                                                           |
+|   Both LCGFT and TGM also have searchable pop-up modals in|                                                           |
+|   the edit system when those options are chosen in the    |                                                           |
+|   drop-down menu                                          |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+|                                                           |                                                           |
+|                                                           |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
 
 
 ********
@@ -702,8 +845,13 @@ Possible Exceptions
 |                                                           |   the Digital Collections, the relation field is likely   |                                                               |
 |                                                           |   more appropriate                                        |                                                               |
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   | << preferred citation>>                                   |                                                               |
-|                                                           |                                                           |                                                               |
+|.. admonition:: Question                                   |-  For some photographs, a "preferred citation" is included| | `Ensemble Theatre records (MS 533), Woodson Research Center,|
+|                                                           |   in the citation field as a way to cite the archival     |   Fondren Library, Rice University                            |
+|   **Is the photo part of a formal archival collection?**  |   collection, generally including the title and identifier|   <https://texashistory.unt.edu/ark:/67531/metapth1544975/>`  |
+|                                                           |   code used in a finding aid or similar documentation     |                                                               |
+|                                                           |                                                           | | `Denton Chamber of Commerce Collection (AR0845), University |
+|                                                           |                                                           |   of North Texas Special Collections                          |
+|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metadc1996990/>`   |
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
 |.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |                                                               |
 |                                                           |   other item                                              |                                                               |
