@@ -40,46 +40,49 @@ Title
    **Does the photograph have an official title assigned by the photographer?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Choose "Main Title" in the drop-down menu if it is not  |-  Create a title that briefly describes the photograph    |
-|   already marked                                          |-  Enclose the title in [square brackets] to show that it  |
-|-  Enter the official title in the text box using the same |   was assigned by the editor and not the photo's creator  |
-|   capitalization and punctuation as the photographer      |                                                           |
-|                                                           |                                                           |
-|                                                           |-  Some things that may be helpful to consider when        |
-|                                                           |   creating a title:                                       |
-|                                                           |                                                           |
-|                                                           |   -   When possible, keep details brief (there is a       |
-|                                                           |       description to provide more information; it should  |
-|                                                           |       not all be in the title)                            |
-|                                                           |   -   Titles should be relatively unique to assist search |
-|                                                           |       engines with distinguishing between items           |
-|                                                           |   -   Try to include *some* details, especially if there  |
-|                                                           |       are a number of photos with similar subjects, e.g., |
-|                                                           |       the same building from different elevations,        |
-|                                                           |       portraits of unknown person(s) could include age    |
-|                                                           |       ranges or noticeable features like a uniform, etc.  |
-|                                                           |   -   Include name(s) in titles unless there are a lot of |
-|                                                           |       them (i.e., one or two known people rather than 20) |
-|                                                           |   -   If there are multiple photos that are all nearly the|
-|                                                           |       same (e.g., a series of portraits or event photos   |
-|                                                           |       taken in succession), the same title may be used    |
-|                                                           |       with numerals designating #1, #2, etc., but other   |
-|                                                           |       identifying features or differences should be       |
-|                                                           |       considered first                                    |
-|.. note::                                                  |   -   When adding dates to titles, e.g., when there are   |
-|                                                           |       multiple images from different years for a school   |
-|   This is extremely uncommon, unless the photograph is an |       class, or a building, etc., it *may* be useful to   |
-|   artwork by a professional photographer                  |       not put the dates at the start of the title for     |
-|                                                           |       sorting purposes                                    |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+---------------------------------------------------------------+
+|Yes                                                            |No                                                             |
++===============================================================+===============================================================+
+|-  Choose "Main Title" in the drop-down menu if it is not      |-  Create a title that briefly describes the photograph        |
+|   already marked                                              |-  Enclose the title in [square brackets] to show that it      |
+|-  Enter the official title in the text box using the same     |   was assigned by the editor and not the photo's creator      |
+|   capitalization and punctuation as the photographer          |                                                               |
+|                                                               |                                                               |
+|                                                               |-  Some things that may be helpful to consider when            |
+|                                                               |   creating a title:                                           |
+|                                                               |                                                               |
+|                                                               |   -   When possible, keep details brief (there is a           |
+|                                                               |       description to provide more information; it should      |
+|                                                               |       not all be in the title)                                |
+|                                                               |   -   Titles should be relatively unique to assist search     |
+|                                                               |       engines with distinguishing between items               |
+|                                                               |   -   Try to include *some* details, especially if there      |
+|                                                               |       are a number of photos with similar subjects, e.g.,     |
+|                                                               |       the same building from different elevations,            |
+|                                                               |       portraits of unknown person(s) could include age        |
+|                                                               |       ranges or noticeable features like a uniform, etc.      |
+|                                                               |   -   Include name(s) in titles unless there are a lot of     |
+|                                                               |       them (i.e., one or two known people rather than 20)     |
+|                                                               |   -   If there are multiple photos that are all nearly the    |
+|                                                               |       same (e.g., a series of portraits or event photos       |
+|                                                               |       taken in succession), the same title may be used        |
+|                                                               |       with numerals designating #1, #2, etc., but other       |
+|                                                               |       identifying features or differences should be           |
+|                                                               |       considered first                                        |
+|.. note::                                                      |   -   When adding dates to titles, e.g., when there are       |
+|                                                               |       multiple images from different years for a school       |
+|   This is extremely uncommon, unless the photograph is an     |       class, or a building, etc., it *may* be useful to       |
+|   artwork by a professional photographer                      |       not put the dates at the start of the title for         |
+|                                                               |       sorting purposes                                        |
++---------------------------------------------------------------+---------------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++---------------------------------------------------------------+---------------------------------------------------------------+
+| | `Wrangling a Colt                                           | | `[Close-Up Detail of Ox in Sodbuster]                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth43603/>`    |   <https://texashistory.unt.edu/ark:/67531/metapth536853/>`   |
+|                                                               |                                                               |
+| | `Exterior of the Front of a House in Oklahoma City, Oklahoma| | `[A&M Cadets in Formation]                                  |
+|   <https://gateway.okhistory.org/ark:/67531/metadc1119955/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth1338742/>`  |
++---------------------------------------------------------------+---------------------------------------------------------------+
 
 
 .. admonition:: Question
@@ -122,37 +125,37 @@ Creator
    **Is there a photographer name on the item, or do you know who took the photo?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Enter the name of the photographer in the creator text  |Skip the creator field.  Use the "x" if there are          |
-|   box; invert personal names (last, first)                |placeholder values to clear the entire entry.              |
-|-  Choose the type: Personal (specific individual          |                                                           |
-|   photographer) or Organization (photography studio)      |                                                           |
-|-  Choose "Photographer" as the role in the second drop-   |                                                           |
-|   down menu                                               |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   In some less-common situations, a photograph may have   |                                                           |
-|   been taken under the auspices of a known organization   |                                                           |
-|   by an un-nammed "staff photographer."  If that applies, |                                                           |
-|   list the known entity as the organizational creator     |                                                           |
-|   and add "Staff photographer" in the info text box at the|                                                           |
-|   bottom of the field                                     |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-| |`Thurman Studio                                          |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth744244/>`|                                                           |
-|                                                           |                                                           |
-| |`Anderson, Robert M. D.                                  |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth17/>`    |                                                           |
-|                                                           |                                                           |
-| |`Texas. Department of Transportation.                    |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth129054/>`|                                                           |
-|  (for Staff photographer)                                 |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Enter the name of the photographer in the creator text      |Skip the creator field.  Use the "x" if there are          |
+|   box; invert personal names (last, first)                    |placeholder values to clear the entire entry.              |
+|-  Choose the type: Personal (specific individual              |                                                           |
+|   photographer) or Organization (photography studio)          |                                                           |
+|-  Choose "Photographer" as the role in the second drop-       |                                                           |
+|   down menu                                                   |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   In some less-common situations, a photograph may have       |                                                           |
+|   been taken under the auspices of a known organization       |                                                           |
+|   by an un-nammed "staff photographer."  If that applies,     |                                                           |
+|   list the known entity as the organizational creator         |                                                           |
+|   and add "Staff photographer" in the info text box at the    |                                                           |
+|   bottom of the field                                         |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| |`Thurman Studio                                              |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth744244/>`    |                                                           |
+|                                                               |                                                           |
+| |`Conniff, Dennis E., III                                     |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth853332 />`   |                                                           |
+|                                                               |                                                           |
+| |`Texas. Department of Transportation.                        |                                                           |
+|  <https://texashistory.unt.edu/ark:/67531/metapth129054/>`    |                                                           |
+|  (for Staff photographer)                                     |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More creator guidelines </fields/creator>`
 
@@ -219,7 +222,7 @@ Contributor
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                            |No                                                         |
 +===============================================================+===========================================================+
-|-  Enter the name in the contributor text box; invert          |Go to the next field.                                      |
+|-  Enter the name in the contributor text box; invert          |Skip the contributor field.                                |
 |   personal names (last, first)                                |                                                           |
 |-  Choose the type: Personal or Organization                   |                                                           |
 |-  Choose the most appropriate role, such as "Architect,"      |                                                           |
@@ -265,8 +268,8 @@ Publisher
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                            |No                                                         |
 +===============================================================+===========================================================+
-|-  Enter the name in the publisher text box; personal names    |Skip the publisher field.  Use the "x" if there are        |
-|   are *not* inverted in this field                            |placeholder values to clear the entire entry.              |
+|-  Enter the name in the publisher text box; personal names    |Skip the publisher field.                                  |
+|   are *not* inverted in this field                            |                                                           |
 |-  Add the location, if known -- this may be a general         |                                                           |
 |   place like "United States" or "Texas" rather than a city    |                                                           |
 |                                                               |                                                           |
@@ -298,33 +301,42 @@ Date
 
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Choose "Creation" as the type from the drop-down menu   |Skip the date field.  Use the "x" if there are             |
-|-  Enter the date using YYYY-DD-MM format for any part that|placeholder values to clear the entire entry.              |
-|   is known (may be just a year or month)                  |                                                           |
-|-  More complex dates that are common for photos:          |                                                           |
-|                                                           |                                                           |
-|   -   Approximate/circa dates: add a ~ at the end         |                                                           |
-|   -   A photo taken during a known range, such as the     |                                                           |
-|       dates of an event: use "one of a set" notation such |                                                           |
-|       as [YYYY-MM-DD..YYYY-MM-DD] (between first date and |                                                           |
-|       second date, inclusive) or [YYYY-MM-DD,YYYY-MM-DD]  |                                                           |
-|       (either first date or second date)                  |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   There is one special case: if the photo is a copy photo |                                                           |
-|   or reproduction, the creation date should be when that  |                                                           |
-|   item was made, not the original (which will be reflected|                                                           |
-|   as content/coverage)                                    |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Choose "Creation" as the type from the drop-down menu       |Skip the date field.  Use the "x" if there are             |
+|-  Enter the date using YYYY-DD-MM format for any part that    |placeholder values to clear the entire entry.              |
+|   is known (may be just a year or month)                      |                                                           |
+|-  More complex dates that are common for photos:              |                                                           |
+|                                                               |                                                           |
+|   -   Approximate/circa dates: add a ~ at the end             |                                                           |
+|   -   A photo taken during a known range, such as the         |                                                           |
+|       dates of an event: use "one of a set" notation such     |                                                           |
+|       as [YYYY-MM-DD..YYYY-MM-DD] (between first date and     |                                                           |
+|       second date, inclusive) or [YYYY-MM-DD,YYYY-MM-DD]      |                                                           |
+|       (either first date or second date)                      |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   There is one special case: if the photo is a copy photo     |                                                           |
+|   or reproduction, the creation date should be when that      |                                                           |
+|   item was made, not the original (which will be reflected    |                                                           |
+|   as content/coverage)                                        |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `[1979-08-02..1979-08-05]                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth300131/>`   |                                                           |
+|                                                               |                                                           |
+| | `1976-05                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1138806/>`  |                                                           |
+|                                                               |                                                           |
+| | `2019-09-26T22:11:10                                        |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1211919/>`  |                                                           |
+|                                                               |                                                           |
+| | `1955~                                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth388344/>`   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More date guidelines </fields/date>`
 
@@ -431,6 +443,8 @@ note on the back
 +-----------------------------------------------------------------------------------------------------------------------+
 
 
+*   :ref:`More content description guidelines <description-cfill>`
+
 
 Physical Description
 ===================
@@ -460,7 +474,7 @@ Physical Description
 
 **Step 3.**  If known, add dimensions after " ; " in h x w using appropriate units
 
--   Is the image a "standard size"?  (See the full list.)
+-   Is the image a "standard size"?  (See the :ref:`full list <description-comments>`.)
 
     -   for prints: 8 x 10 in. / 5 x 7 in. / 4 x 6 in.
     -   for negatives: 35 mm. (also applies to slides) / 4 x 5 in. / 6 x 6 cm. / 6 x 9 cm.
@@ -481,12 +495,22 @@ Physical Description
 
 
 
-+-----------------------------------------------------------------------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                       |
-+-----------------------------------------------------------------------------------------------------------------------+ 
++-------------------------------------------------------------------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------+
+| | `1 photograph : b&w ; 8 x 10 in. <https://texashistory.unt.edu/ark:/67531/metapth618805/>` (print, standard size)           |
+|                                                                                                                               |
+| | `1 photograph : positive, col. ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth1542712/>` (slide)                  |
+|                                                                                                                               |
+| | `1 photograph : negative, b&w ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth227592/>` (film negative)            |
+|                                                                                                                               |
+| | `1 photograph : tintype, b&w ; 4 x 3 cm., in frame 10 x 6 cm. <https://texashistory.unt.edu/ark:/67531/metapth1754167/>`    |
+|                                                                                                                               |
+| | `1 photograph : col. ; 9 x 9 cm., on mat 26 x 31 cm. <https://texashistory.unt.edu/ark:/67531/metapth822658/>`              |
++-------------------------------------------------------------------------------------------------------------------------------+
 
+
+*   :ref:`More physical description guidelines <description-photos>`
 
 
 
@@ -516,13 +540,19 @@ Keywords & Names
 
 -   If a person or animal is *physically visible* in an image and you know their name, add a named person or named animal entry
 -   When a person is related to the content (e.g., John Smith's house) but not visible, the name can be a keyword
--   Invert personal names (last, first)
+-   Invert personal names (last, first); nicknames may be included in subjects (but not in creator/contributor)
 
-+-----------------------------------------------------------------------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                       |
-+-----------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------+---------------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++---------------------------------------------------------------+---------------------------------------------------------------+
+|*Named Persons*                                                |*Named Animals*                                                |
+|                                                               |                                                               |
+| | `Harris, Lowell Larkin (Red)                                | | `Snafu                                                      |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1372214/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth437127/>`   |
+|                                                               |                                                               |
+| | `Gilreath, Tonia                                            | | `Hard Luck Hank                                             |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`    |
++-----------------------------------------------------------+-------------------------------------------------------------------+
 
 
 Other Subjects
@@ -578,7 +608,7 @@ Other Subjects
 | | `HemisFair (1968 : San Antonio, Tex.)                       |                                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth66174/>`    |                                                           |
 |                                                               |                                                           |
-| | `Wichita Mountains Wildlife Refuge (Okla.)                  |                                                           |                 
+| | `Wichita Mountains Wildlife Refuge (Okla.)                  |                                                           |
 |   <https://gateway.okhistory.org/ark:/67531/metadc1773662/>`  |                                                           |
 |                                                               |                                                           |
 | | `Johnson, Lady Bird, 1912-2007                              |                                                           |
@@ -602,8 +632,10 @@ Other Subjects
 |   <https://www.getty.edu/research/tools/vocabularies/aat/>`   |                                                           |
 |-  These terms are primarily used in the Digital Collections   |                                                           |
 |   for broad categories that provide additional information    |                                                           |
-|   (e.g., buildings that are "residential structures" vs.      |                                                           |
-|   "commercial buildings")                                     |                                                           |
+|   (e.g., buildings that are "`residential structures          |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth26397/>`"   |                                                           |
+|   vs. "`commercial buildings                                  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450624/>`")|                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -625,6 +657,9 @@ Other Subjects
 |                                                               |                                                           |
 | | `public buildings (governmental buildings)                  |                                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1450701/>`  |                                                           |
+|                                                               |                                                           |
+| | `mural paintings (visual works)                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450350/>   |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -633,29 +668,34 @@ Other Subjects
 
     **Is the image a particular kind of photograph?**
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  There is a Library of Congress Genre/Form Term (LCGFT)  |Do not add LCGFT or TGM terms.                             |
-|   for "Portraits" (when applicable)                       |                                                           |
-|-  For other "types" of photos -- either physical type     |                                                           |
-|   (e.g., Cabinet photographs) or type of content (e.g.,   |.. note::                                                  |
-|   Night photographs) -- there may be appropriate          |                                                           |
-|   `Thesaurus of Graphic Materials (TGM)                   |   Some groups choose to use TGM terms to describe the     |
-|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`  |   content of photos instead of relying on keywords; this  |
-|   terms                                                   |   is not an issue so long as the terms are appropriate,   |
-|                                                           |   TGM terms do not duplicate other subjects, and UNTL-BS  |
-|.. note::                                                  |   terms are also added (when required)                    |
-|                                                           |                                                           |
-|   Both LCGFT and TGM also have searchable pop-up modals in|                                                           |
-|   the edit system when those options are chosen in the    |                                                           |
-|   drop-down menu                                          |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  There is a Library of Congress Genre/Form Term (LCGFT)      |Do not add LCGFT or TGM terms.                             |
+|   for "`Portraits                                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`" |                                                           |
+|   (when applicable)                                           |                                                           |
+|-  For other "types" of photos -- either physical type         |                                                           |
+|   (e.g., `Cabinet photographs                                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth17/>`)or    |                                                           |
+|   type of content (e.g., `Night photographs                   |.. note::                                                  |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`    |                                                           |
+|   -- there may be appropriate                                 |   Some groups choose to use TGM terms to describe the     |
+|   `Thesaurus of Graphic Materials (TGM)                       |   content of photos instead of relying on keywords; this  |
+|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`      |   is not an issue so long as the terms are appropriate,   |
+|   terms                                                       |   TGM terms do not duplicate other subjects, and UNTL-BS  |
+|                                                               |   terms are also added (when required)                    |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   Both LCGFT and TGM also have searchable pop-up modals in    |                                                           |
+|   the edit system when those options are chosen in the        |                                                           |
+|   drop-down menu                                              |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|                                                               |                                                           |
+|                                                               |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 ********
@@ -701,26 +741,39 @@ Coverage
    **Do you know when the photograph was taken, or a rough time period?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Choose "Coverage Date" from the drop-down menu          |Do not include a coverage date.  Use the "x" if there is a |
-|-  Add the date of the content for the image               |placeholder value to clear the entire entry.               |
-|-  The date will almost always be identical to the creation|                                                           |
-|   date (i.e., content is captured at the time the photo is|                                                           |
-|   taken) unless it is a copy photo (i.e., a photo or      |                                                           |
-|   reproduction of another photograph, where the older     |                                                           |
-|   image is the content of a later image)                  |                                                           |
-|-  Add an entry for "Time Period" and choose the           |                                                           |
-|   corresponding option (generally "Into Modern Times" if  |                                                           |
-|   taken after 1939 or "New South" if taken before 1939)   |                                                           |
-|-  An appropriate time period can be added even if the     |                                                           |
-|   exact date isn't known                                  |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Choose "Coverage Date" from the drop-down menu              |Do not include a coverage date.  Use the "x" if there is a |
+|-  Add the date of the content for the image                   |placeholder value to clear the entire entry.               |
+|-  The date will almost always be identical to the creation    |                                                           |
+|   date (i.e., content is captured at the time the photo is    |                                                           |
+|   taken) unless it is a copy photo (i.e., a photo or          |                                                           |
+|   reproduction of another photograph, where the older         |                                                           |
+|   image is the content of a later image)                      |                                                           |
+|-  Add an entry for "Time Period" and choose the               |                                                           |
+|   corresponding option (generally "Into Modern Times" if      |                                                           |
+|   taken after 1939 or "New South" if taken before 1939)       |                                                           |
+|                                                               |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   An appropriate time period can be added even if the         |                                                           |
+|   exact date is unknown; however, time period is *only*       |                                                           |
+|   used for items that will display in The Portal to Texas     |                                                           |
+|   History                                                     |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `1961-05                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth769473/>`   |                                                           |
+| | Into Modern Times, 1939-Present                             |                                                           |
+|                                                               |                                                           |
+| | `1920~                                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth182585/>`   |                                                           |
+| | New South, Populism, Progressivism, and the Great           |                                                           |
+|   Depression, 1877-1939                                       |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 
@@ -790,7 +843,7 @@ Note
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++-----------------------------------------------------------+-----------------------------------------------------------+                                                               
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
@@ -909,15 +962,15 @@ Possible Exceptions
 |                                                           |   -   *rights statement*: quote any explicit statement    |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`  |
 |   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         | | *Holder:* Denton Record-Chronicle                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |                                                               |
-|                                                           |                                                           |                                                               |
+|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |`Postcard                                                      |
+|                                                           |                                                           |<https://texashistory.unt.edu/ark:/67531/metapth1731666/>`     |
 |   **Is the photo printed as a postcard?**                 |                                                           |                                                               |
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that |                                                               |
-|                                                           |   applies                                                 |                                                               |
+|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that | | `Negative# 38                                               |
+|                                                           |   applies                                                 |   <https://texashistory.unt.edu/ark:/67531/metapth222615/>`   |
 |   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                               |
-|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  |                                                               |
-|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |                                                               |
+|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  | | `Okla-5376                                                  |
+|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |   <https://gateway.okhistory.org/ark:/67531/metadc1926566/>`  |
 +-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
 
 
