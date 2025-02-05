@@ -93,7 +93,7 @@ Title
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                            |No                                                         |
 +===============================================================+===========================================================+
-|-  Use the "+" to add a title entry and choose "Series         |Continue to the next field                                 |
+|-  Use the "+" to add a title entry and choose "Series         |Continue to the next field.                                |
 |   Title" from the drop-down menu                              |                                                           |
 |-  Enter the series title in the text box; it must be the      |                                                           |
 |   same in every record belonging to the series                |                                                           |
@@ -310,11 +310,20 @@ Date
 |-  More complex dates that are common for photos:              |                                                           |
 |                                                               |                                                           |
 |   -   Approximate/circa dates: add a ~ at the end             |                                                           |
+|   -   Tildes can also be used in an inclusive range for "ca.  |                                                           |
+|       year-year": YYYY~/YYYY~                                 |                                                           |
+|   -   A known *decade*: replace the last digit with "X"       |                                                           |
 |   -   A photo taken during a known range, such as the         |                                                           |
-|       dates of an event: use "one of a set" notation such     |                                                           |
-|       as [YYYY-MM-DD..YYYY-MM-DD] (between first date and     |                                                           |
-|       second date, inclusive) or [YYYY-MM-DD,YYYY-MM-DD]      |                                                           |
+|       dates of an event: use "one of a set" notation with     |                                                           |
+|       periods for a range [YYYY-MM-DD..YYYY-MM-DD] (between   |                                                           |
+|       first date and second date, inclusive)                  |                                                           |
+|   -   A photo taken on one of several dates (e.g., summer or  |                                                           |
+|       Christmas either YYYY or YYYY): use "one of a           |                                                           |
+|       set" notation with commas [YYYY-MM-DD,YYYY-MM-DD]       |                                                           |
 |       (either first date or second date)                      |                                                           |
+|   -   For born-digital photos, you *might* know the exact time|                                                           |
+|       a photo was taken and you can add the timestamp:        |                                                           |
+|       YYYY-MM-DDT00:00:00                                     |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -552,7 +561,7 @@ Keywords & Names
 |                                                               |                                                               |
 | | `Gilreath, Tonia                                            | | `Hard Luck Hank                                             |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`    |
-+-----------------------------------------------------------+-------------------------------------------------------------------+
++---------------------------------------------------------------+---------------------------------------------------------------+
 
 
 Other Subjects
@@ -599,7 +608,7 @@ Other Subjects
 |   collections from multiple places since they are often       |                                                           |
 |   used in libraries                                           |                                                           |
 |-  If you want to find/verify that a term is valid, the        |                                                           |
-|   terms are searchable at <https://id.loc.gov> (but make      |                                                           |
+|   terms are searchable at <https://id.loc.gov> -- make        |                                                           |
 |   sure you limit results to "Subject Headings" or to          |                                                           |
 |   "Name Authority" (for proper names)                         |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -659,7 +668,7 @@ Other Subjects
 |   <https://texashistory.unt.edu/ark:/67531/metapth1450701/>`  |                                                           |
 |                                                               |                                                           |
 | | `mural paintings (visual works)                             |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1450350/>   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450350/>`  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -727,7 +736,7 @@ Coverage
 |   If an image may have been taken in multiple possible    |                                                           |
 |   locations, use a less specific place if there is a      |                                                           |
 |   common denominator and add a display note with more     |                                                           |
-|   details                                                 |                                                           |
+|   details.                                                |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
@@ -915,7 +924,7 @@ Possible Exceptions
 +===========================================================+===========================================================+===============================================================+
 |.. admonition:: Question                                   |-  You may want to add a source value to reference the     |                                                               |
 |                                                           |   event or source material                                |                                                               |
-|   **Was the photograph part of an art exhibit?**          |-  Choose the appropriate type of source from the drop-down|                                                               |
+|   **Was the photograph taken at/part of an art exhibit?** |-  Choose the appropriate type of source from the drop-down|                                                               |
 +-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                               |
 |.. admonition:: Question                                   |-  The source text value does not have strict formatting   |                                                               |
 |                                                           |   requirements, but should provide enough information for |                                                               |
