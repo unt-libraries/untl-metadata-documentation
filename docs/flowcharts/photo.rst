@@ -132,8 +132,8 @@ Creator
 |   box; invert personal names (last, first)                    |placeholder values to clear the entire entry.              |
 |-  Choose the type: Personal (specific individual              |                                                           |
 |   photographer) or Organization (photography studio)          |                                                           |
-|-  Choose "Photographer" as the role in the second drop-       |                                                           |
-|   down menu                                                   |                                                           |
+|-  Choose "Photographer" as the role in the second drop-down   |                                                           |
+|   menu                                                        |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -232,8 +232,7 @@ Contributor
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
 |   This is also not common and generally used specifically     |                                                           |
-|   for architecture or artworks that are the primary           |                                                           |
-|   content                                                     |                                                           |
+|   when architecture or artworks are the primary content       |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -543,8 +542,19 @@ Keywords & Names
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
+| | `barbers' poles                                                                                                     |
+|   <https://gateway.okhistory.org/ark:/67531/metadc960967/>`                                                           |
 |                                                                                                                       |
+| | `                                                                                                                   |
+|   <https://>`                                                                                                         |
+|                                                                                                                       |
+| | `                                                                                                                   |
+|   <https://>`                                                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
+
+
+*   :ref:`More keyword guidelines <subject-kwdformat>`
+
 
 
 -   If a person or animal is *physically visible* in an image and you know their name, add a named person or named animal entry
@@ -562,6 +572,9 @@ Keywords & Names
 | | `Gilreath, Tonia                                            | | `Hard Luck Hank                                             |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`    |
 +---------------------------------------------------------------+---------------------------------------------------------------+
+
+
+*   :ref:`More named subject guidelines <subject-animal>`
 
 
 Other Subjects
@@ -591,6 +604,9 @@ Other Subjects
 |                                                           |                                                           |
 |                                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
+
+
+*   :ref:`More UNTL-BS guidelines <subject-untlbs>`
 
 
 .. admonition:: Question
@@ -626,6 +642,9 @@ Other Subjects
 | | `World War, 1939-1945                                       |                                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth388338/>`   |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
+
+
+*   :ref:`More LCSH guidelines <subject-lcsh>`
 
 
 .. admonition:: Question
@@ -677,34 +696,42 @@ Other Subjects
 
     **Is the image a particular kind of photograph?**
 
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                            |No                                                         |
-+===============================================================+===========================================================+
-|-  There is a Library of Congress Genre/Form Term (LCGFT)      |Do not add LCGFT or TGM terms.                             |
-|   for "`Portraits                                             |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`" |                                                           |
-|   (when applicable)                                           |                                                           |
-|-  For other "types" of photos -- either physical type         |                                                           |
-|   (e.g., `Cabinet photographs                                 |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth17/>`)or    |                                                           |
-|   type of content (e.g., `Night photographs                   |.. note::                                                  |
-|   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`    |                                                           |
-|   -- there may be appropriate                                 |   Some groups choose to use TGM terms to describe the     |
-|   `Thesaurus of Graphic Materials (TGM)                       |   content of photos instead of relying on keywords; this  |
-|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`      |   is not an issue so long as the terms are appropriate,   |
-|   terms                                                       |   TGM terms do not duplicate other subjects, and UNTL-BS  |
-|                                                               |   terms are also added (when required)                    |
-|.. note::                                                      |                                                           |
-|                                                               |                                                           |
-|   Both LCGFT and TGM also have searchable pop-up modals in    |                                                           |
-|   the edit system when those options are chosen in the        |                                                           |
-|   drop-down menu                                              |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                             |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|                                                               |                                                           |
-|                                                               |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
++-----------------------------------------------------------------------+-----------------------------------------------------------------------+
+|Yes                                                                    |No                                                                     |
++=======================================================================+=======================================================================+
+|-  There is a Library of Congress Genre/Form Term (LCGFT)              |Do not add LCGFT or TGM terms.                                         |
+|   for "`Portraits                                                     |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`"         |                                                                       |
+|   (when applicable)                                                   |                                                                       |
+|-  For other "types" of photos -- either physical type                 |                                                                       |
+|   (e.g., `Cabinet photographs                                         |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth17/>`)or            |                                                                       |
+|   type of content (e.g., `Night photographs                           |.. note::                                                              |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`            |                                                                       |
+|   -- there may be appropriate                                         |   Some groups choose to use TGM terms to describe the                 |
+|   `Thesaurus of Graphic Materials (TGM)                               |   content of photos instead of relying on keywords; this              |
+|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`              |   is not an issue so long as the terms are appropriate,               |
+|   terms                                                               |   TGM terms do not duplicate other subjects, and UNTL-BS              |
+|-  Reminder: only include terms that add information not elsewhere in  |   terms are also added (when required)                                |
+|   the record (e.g., not "Photographs")                                |                                                                       |
+|                                                                       |                                                                       |
+|.. note::                                                              |                                                                       |
+|                                                                       |                                                                       |
+|   Both LCGFT and TGM also have searchable pop-up modals in            |                                                                       |
+|   the edit system when those options are chosen in the                |                                                                       |
+|   drop-down menu                                                      |                                                                       |
++-----------------------------------------------------------------------+-----------------------------------------------------------------------+
+|Examples of what these values might look like:                                                                                                 |
++-----------------------------------------------------------------------+-----------------------------------------------------------------------+
+| | `Landscape photographs                                              | | `Cities & towns                                                     |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1457981/>`          |   <https://https://gateway.okhistory.org/ark:/67531/metadc1725014/>`  |
+|                                                                       |                                                                       |
+| | `Panoramic photographs                                              |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth891082/>`           |                                                                       |
++-----------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+
+*   :doc:`More subject guidelines </fields/subject>`
 
 
 ********
@@ -717,31 +744,41 @@ Coverage
    **Do you know where the photograph was taken?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Choose "Place Name" from the drop-down menu             |Do not include a coverage place.  Use the "x" if there is a|
-|-  Add the name of the location using the hierarchical     |placeholder value to clear the entire entry.               |
-|   formatting (this can be a specific city, like Chicago,  |                                                           |
-|   or a more general location, like a country)             |                                                           |
-|-  Previously-used locations are in a searchable list that |                                                           |
-|   pops up when "Place Name" is chosen; most locations will|                                                           |
-|   already be on the list, but you can also use it to find |                                                           |
-|   similar locations if you need to add a new place name   |                                                           |
-|                                                           |                                                           |
-|                                                           |                                                           |
-|.. note::                                                  |                                                           |
-|                                                           |                                                           |
-|   A single photo can only have content from one location. |                                                           |
-|   If an image may have been taken in multiple possible    |                                                           |
-|   locations, use a less specific place if there is a      |                                                           |
-|   common denominator and add a display note with more     |                                                           |
-|   details.                                                |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Choose "Place Name" from the drop-down menu                 |Do not include a coverage place.  Use the "x" if there is a|
+|-  Add the name of the location using the hierarchical         |placeholder value to clear the entire entry.               |
+|   formatting (this can be a specific city, like Chicago,      |                                                           |
+|   or a more general location, like a country)                 |                                                           |
+|-  Previously-used locations are in a searchable list that     |                                                           |
+|   pops up when "Place Name" is chosen; most locations will    |                                                           |
+|   already be on the list, but you can also use it to find     |                                                           |
+|   similar locations if you need to add a new place name       |                                                           |
+|                                                               |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   A single photo can only have content from one location.     |                                                           |
+|   If an image may have been taken in multiple possible        |                                                           |
+|   locations, use a less specific place if there is a          |                                                           |
+|   common denominator and add a display note with more         |                                                           |
+|   details.                                                    |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `United States - Texas - El Paso County - El Paso           |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth875780/>`   |                                                           |
+|                                                               |                                                           |
+| | `United States - Arizona - Yavapai County                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth860394/>`   |                                                           |
+|                                                               |                                                           |
+| | `Germany                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth436797/>`   |                                                           |
+|                                                               |                                                           |
+| | `United States - Washington D.C.                            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth255234/>`   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 
@@ -782,6 +819,10 @@ Coverage
 |   <https://texashistory.unt.edu/ark:/67531/metapth182585/>`   |                                                           |
 | | New South, Populism, Progressivism, and the Great           |                                                           |
 |   Depression, 1877-1939                                       |                                                           |
+|                                                               |                                                           |
+| | `200X                                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth573523/>`   |                                                           |
+| | Into Modern Times, 1939-Present                             |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -820,7 +861,7 @@ Coverage
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
-*   :doc:`More coverage guidelines </fields/coverage>`
+*   :doc:`More coverage guidelines </fields/coverage>` 
 
 
 
@@ -919,68 +960,68 @@ Possible Exceptions
 
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|                                                           |If YES:                                                    |Examples of what these values might look like:                 |
-+===========================================================+===========================================================+===============================================================+
-|.. admonition:: Question                                   |-  You may want to add a source value to reference the     |                                                               |
-|                                                           |   event or source material                                |                                                               |
-|   **Was the photograph taken at/part of an art exhibit?** |-  Choose the appropriate type of source from the drop-down|                                                               |
-+-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                               |
-|.. admonition:: Question                                   |-  The source text value does not have strict formatting   |                                                               |
-|                                                           |   requirements, but should provide enough information for |                                                               |
-|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |                                                               |
-+-----------------------------------------------------------+   information known)                                      |                                                               |
-|.. admonition:: Question                                   |                                                           |                                                               |
-|                                                           |                                                           |                                                               |
-|   **Was this photograph originally part of a larger item  |.. note::                                                  |                                                               |
-|   such as a book, report, etc.**                          |                                                           |                                                               |
-|                                                           |   If the original source is an item that is also available|                                                               |
-|                                                           |   the Digital Collections, the relation field is likely   |                                                               |
-|                                                           |   more appropriate                                        |                                                               |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  For some photographs, a "preferred citation" is included| | `Ensemble Theatre records (MS 533), Woodson Research Center,|
-|                                                           |   in the citation field as a way to cite the archival     |   Fondren Library, Rice University                            |
-|   **Is the photo part of a formal archival collection?**  |   collection, generally including the title and identifier|   <https://texashistory.unt.edu/ark:/67531/metapth1544975/>`  |
-|                                                           |   code used in a finding aid or similar documentation     |                                                               |
-|                                                           |                                                           | | `Denton Chamber of Commerce Collection (AR0845), University |
-|                                                           |                                                           |   of North Texas Special Collections                          |
-|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metadc1996990/>`   |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |                                                               |
-|                                                           |   other item                                              |                                                               |
-|   **Do you have multiple similar copies of the photograph |-  Relationships are reciprocal, so you will need to add   |                                                               |
-|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     |                                                               |
-|   in the Digital Collections?**                           |   title and ARK of the first item)                        |                                                               |
-+-----------------------------------------------------------+-  Choose the appropriate type of relationship, e.g.:      |                                                               |
-|.. admonition:: Question                                   |                                                           |                                                               |
-|                                                           |   -   a negative <<has format>> photo print               |                                                               |
-|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |                                                               |
-|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |                                                               |
-|   or other text?**                                        |       from the same negative (these may be identical, or  |                                                               |
-|                                                           |       slightly edited, such as an enlargement)            |                                                               |
-|                                                           |   -   the second print <<is version of>> the first print  |                                                               |
-|                                                           |   -   a photo <<is referenced by>> a text                 |                                                               |
-|                                                           |   -   a text <<references>> a photograph                  |                                                               |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add any applicable parts:                               | | *License:* `Attribution                                     |
-|                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`  |
-|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         | | *Statement:* Please Credit: USDA--Soil Conservation         |
-|   Commons (CC) license?**                                 |       appropriate CC license from the list                |   Service                                                     |
-+-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      |                                                               |
-|.. admonition:: Question                                   |       organization that holds the copyright               | | *License:* `Copyright                                       |
-|                                                           |   -   *rights statement*: quote any explicit statement    |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`  |
-|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         | | *Holder:* Denton Record-Chronicle                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |`Postcard                                                      |
-|                                                           |                                                           |<https://texashistory.unt.edu/ark:/67531/metapth1731666/>`     |
-|   **Is the photo printed as a postcard?**                 |                                                           |                                                               |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that | | `Negative# 38                                               |
-|                                                           |   applies                                                 |   <https://texashistory.unt.edu/ark:/67531/metapth222615/>`   |
-|   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                               |
-|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  | | `Okla-5376                                                  |
-|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |   <https://gateway.okhistory.org/ark:/67531/metadc1926566/>`  |
-+-----------------------------------------------------------+-----------------------------------------------------------+---------------------------------------------------------------+
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|                                                           |If YES:                                                    |Examples of what these values might look like:                     |
++===========================================================+===========================================================+===================================================================+
+|.. admonition:: Question                                   |-  You may want to add a source value to reference the     | | `Young Latino Artists, Mexic-Arte Museum, Austin, Texas, 2000   |
+|                                                           |   event or source material                                |   <https://texashistory.unt.edu/ark:/67531/metapth852318/>`       |
+|   **Was the photograph taken at/part of an art exhibit?** |-  Choose the appropriate type of source from the drop-down|   (exhibition)                                                    |
++-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                                   |
+|.. admonition:: Question                                   |-  The source text value does not have strict formatting   | | `Church and Synagogue Library Association 39th Annual           |
+|                                                           |   requirements, but should provide enough information for |   Conference, Greensboro, North Carolina, 2006                    |
+|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |   <https://digital.library.unt.edu/ark:/67531/metadc1128971/>`    |
++-----------------------------------------------------------+   information known)                                      |   (conference)                                                    |
+|.. admonition:: Question                                   |                                                           |                                                                   |
+|                                                           |                                                           | | `Gibbs, Warmoth T.  President Matthew W. Dogan of Wiley College;|
+|   **Was this photograph originally part of or published in|.. note::                                                  |   a Biography.  Marshall: Firmin-Greer, n.d.                      |
+|   a larger item such as a book, report, newspaper, etc.** |                                                           |   <https://texashistory.unt.edu/ark:/67531/metapth17974/>` (book) |
+|                                                           |   If the original source is an item that is also available|                                                                   |
+|                                                           |   the Digital Collections, the relation field is likely   |                                                                   |
+|                                                           |   more appropriate                                        |                                                                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|.. admonition:: Question                                   |-  For some photographs, a "preferred citation" is included| | `Ensemble Theatre records (MS 533), Woodson Research Center,    |
+|                                                           |   in the citation field as a way to cite the archival     |   Fondren Library, Rice University                                |
+|   **Is the photo part of a formal archival collection?**  |   collection, generally including the title and identifier|   <https://texashistory.unt.edu/ark:/67531/metapth1544975/>`      |
+|                                                           |   code used in a finding aid or similar documentation     |                                                                   |
+|                                                           |                                                           | | `Denton Chamber of Commerce Collection (AR0845), University     |
+|                                                           |                                                           |   of North Texas Special Collections                              |
+|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metadc1996990/>`       |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |                                                                   |
+|                                                           |   other item                                              |                                                                   |
+|   **Do you have multiple similar copies of the photograph |-  Relationships are reciprocal, so you will need to add   |                                                                   |
+|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     |                                                                   |
+|   in the Digital Collections?**                           |   title and ARK of the first item)                        |                                                                   |
++-----------------------------------------------------------+-  Choose the appropriate type of relationship, e.g.:      |                                                                   |
+|.. admonition:: Question                                   |                                                           |                                                                   |
+|                                                           |   -   a negative <<has format>> photo print               |                                                                   |
+|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |                                                                   |
+|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |                                                                   |
+|   or other text?**                                        |       from the same negative (these may be identical, or  |                                                                   |
+|                                                           |       slightly edited, such as an enlargement)            |                                                                   |
+|                                                           |   -   the second print <<is version of>> the first print  |                                                                   |
+|                                                           |   -   a photo <<is referenced by>> a text                 |                                                                   |
+|                                                           |   -   a text <<references>> a photograph                  |                                                                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add any applicable parts:                               | | *License:* `Attribution                                         |
+|                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`      |
+|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         | | *Statement:* Please Credit: USDA--Soil Conservation             |
+|   Commons (CC) license?**                                 |       appropriate CC license from the list                |   Service                                                         |
++-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      |                                                                   |
+|.. admonition:: Question                                   |       organization that holds the copyright               | | *License:* `Copyright                                           |
+|                                                           |   -   *rights statement*: quote any explicit statement    |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`      |
+|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         | | *Holder:* Denton Record-Chronicle                               |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |`Postcard                                                          |
+|                                                           |                                                           |<https://texashistory.unt.edu/ark:/67531/metapth1731666/>`         |
+|   **Is the photo printed as a postcard?**                 |                                                           |                                                                   |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
+|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that | | `Negative# 38                                                   |
+|                                                           |   applies                                                 |   <https://texashistory.unt.edu/ark:/67531/metapth222615/>`       |
+|   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                                   |
+|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  | | `Okla-5376                                                      |
+|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |   <https://gateway.okhistory.org/ark:/67531/metadc1926566/>`      |
++-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
 
 
 
