@@ -146,13 +146,13 @@ Creator
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| |`Thurman Studio                                              |                                                           |
+| | `Thurman Studio                                             |                                                           |
 |  <https://texashistory.unt.edu/ark:/67531/metapth744244/>`    |                                                           |
 |                                                               |                                                           |
-| |`Conniff, Dennis E., III                                     |                                                           |
+| | `Conniff, Dennis E., III                                    |                                                           |
 |  <https://texashistory.unt.edu/ark:/67531/metapth853332 />`   |                                                           |
 |                                                               |                                                           |
-| |`Texas. Department of Transportation.                        |                                                           |
+| | `Texas. Department of Transportation.                       |                                                           |
 |  <https://texashistory.unt.edu/ark:/67531/metapth129054/>`    |                                                           |
 |  (for Staff photographer)                                     |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -447,7 +447,33 @@ note on the back
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
+| | `Photograph of a field <https://texashistory.unt.edu/ark:/67531/metapth1450617/>` of dark green vegetation, with    |
+|   brush and bushes, taken from a dirt trail or path that is partially visible at the bottom of the image. The field   |
+|   is bordered by thick trees in the background and the sky is filled with light, fluffy clouds.                       |
 |                                                                                                                       |
+| | `Full-length wedding portrait <https://texashistory.unt.edu/ark:/67531/metapth1678444/>` of the Viertels, standing  |
+|   together in front of a painted background and looking toward the camera. Mr. Viertel (left) is wearing a            |
+|   dark-colored suit with a ribbon on his right lapel, holding his wife's right hand in his; Mrs. Viertel (right) is   |
+|   wearing an ornate wedding dress with a veil attached to a headdress.                                                |
+|                                                                                                                       |
+| | `Photograph of a Seventh Day Adventist church <https://texashistory.unt.edu/ark:/67531/metapth1542727/>` on the     |
+|   north corner of 17th Street and Avenue M 1/2, looking east. The building has two vaulted gable ends set at a right  |
+|   angle, with the entrance on the interior corner surrounded by a porch and topped by a square tower with a striped,  |
+|   pointed roof. Homes are visible along the north side of Avenue M 1/2 in the background, and cars are parked along   |
+|   the side of the road.                                                                                               |
+|                                                                                                                       |
+| | `Photograph of light-colored calf <https://texashistory.unt.edu/ark:/67531/metapth44071/>` standing in front of a   |
+|   large black Angus dam in a grassy field.  In the background, other cattle are grazing and calves are resting on the |
+|   ground.  Typed on the bottom margin is, "Commercial Angus Dam with Typical 1/2 Blood Beefalo Heifer (120 Day Old)." |
+|                                                                                                                       |
+| | `Photograph of watermelons <https://gateway.okhistory.org/ark:/67531/metadc1613420/>`growing on the ground in a     |
+|   large open field of Minco silt loam (7m-A).  Near the center of the image, a man is driving a tractor attached to a |
+|   flat-bed where another man is riding and two other men are walking next to and far ahead of the tractor.  Trees are |
+|   visible in the far distance and scrubby plants are growing along the edge of the field in the lower-left corner of  |
+|   the image.                                                                                                          |
+|                                                                                                                       |
+| | `Copy portrait <https://texashistory.unt.edu/ark:/67531/metapth35259/>` of Bess Scrivner Lewis seated with her hands|
+|   clasped in her lap, wearing a dark-colored, sleeveless dress that has decorative rings on the left side.            |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 
@@ -548,8 +574,8 @@ Keywords & Names
 | | `                                                                                                                   |
 |   <https://>`                                                                                                         |
 |                                                                                                                       |
-| | `                                                                                                                   |
-|   <https://>`                                                                                                         |
+| | `lineworkers                                                                                                        |
+|   <https://texashistory.unt.edu/ark:/67531/metapth54850/>`                                                            |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 
@@ -585,25 +611,46 @@ Other Subjects
     **Will this photograph be visible in The Portal to Texas History or the Gateway to Oklahoma History?**
 
 
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                        |No                                                         |
-+===========================================================+===========================================================+
-|-  Add at least one term from the University of North Texas|If this photo will *only* be available in the UNT Digital  |
-|   Browse Subjects (UNTL-BS) by marking it in the drop-    |Library, do not include UNTL-BS terms.                     |
-|   down menu                                               |                                                           |
-|-  When you click in the text field, a pop-up modal will   |                                                           |
-|   open so that you can search all valid terms             |                                                           |
-|-  The full list is also available `here                   |                                                           |
-|   <https://digital2.library.unt.edu/subjects/list/>`      |                                                           |
-|-  Generally do not include a "Place" subject unless no    |                                                           |
-|   other terms apply (the location of the photo will go in |                                                           |
-|   coverage)                                               |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                         |
-+-----------------------------------------------------------+-----------------------------------------------------------+
-|                                                           |                                                           |
-|                                                           |                                                           |
-+-----------------------------------------------------------+-----------------------------------------------------------+
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                            |No                                                         |
++===============================================================+===========================================================+
+|-  Add at least one term from the University of North Texas    |If this photo will *only* be available in the UNT Digital  |
+|   Browse Subjects (UNTL-BS) by marking it in the drop-        |Library, do not include UNTL-BS terms.                     |
+|   down menu                                                   |                                                           |
+|-  When you click in the text field, a pop-up modal will       |                                                           |
+|   open so that you can search all valid terms                 |                                                           |
+|-  The full list is also available `here                       |                                                           |
+|   <https://digital2.library.unt.edu/subjects/list/>`          |                                                           |
+|-  Generally do not include a "Place" subject unless no        |                                                           |
+|   other terms apply (the location of the photo will go in     |                                                           |
+|   coverage)                                                   |                                                           |
+|-  Appropriate terms may be very specific or a general,        |                                                           |
+|   top-level term, like "People"                               |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   Do not repeat terms to include different parts of the       |                                                           |
+|   hierarchy, e.g., if `Business, Economics and Finance -      |                                                           |
+|   Transportation - Railroads - Trains                         |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth436916/>`   |                                                           |
+|   is an appropriate term, do not also include "Business,      |                                                           |
+|   Economics and Finance - Transportation - Railroads" or      |                                                           |
+|   "Business, Economics and Finance - Transportation", etc.    |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                             |
++---------------------------------------------------------------+-----------------------------------------------------------+
+| | `Landscape and Nature                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450727/>`  |                                                           |
+|                                                               |                                                           |
+| | `Architecture - Buildings                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66167/>`    |                                                           |
+|                                                               |                                                           |
+| | `People - Ethnic Groups - African Americans                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1222811/>`  |                                                           |
+|                                                               |                                                           |
+| | `Agriculture - Farming                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth690932/>`   |                                                           |
++---------------------------------------------------------------+-----------------------------------------------------------+
 
 
 *   :ref:`More UNTL-BS guidelines <subject-untlbs>`
