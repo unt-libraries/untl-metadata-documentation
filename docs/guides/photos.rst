@@ -1,6 +1,6 @@
-==============================
-Create Records for Photographs
-==============================
+===================================================
+Guided Instructions: Create Records for Photographs
+===================================================
 
 This page refers to records for photographs, which may include:
 
