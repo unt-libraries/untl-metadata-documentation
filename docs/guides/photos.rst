@@ -77,11 +77,11 @@ Title
 +---------------------------------------------------------------+---------------------------------------------------------------+
 |Examples of what these values might look like:                                                                                 |
 +---------------------------------------------------------------+---------------------------------------------------------------+
-| | `Wrangling a Colt                                           | | `[Close-Up Detail of Ox in Sodbuster]                       |
-|   <https://texashistory.unt.edu/ark:/67531/metapth43603/>`    |   <https://texashistory.unt.edu/ark:/67531/metapth536853/>`   |
+|-  `Wrangling a Colt                                           |-  `[Close-Up Detail of Ox in Sodbuster]                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth43603/>`_   |   <https://texashistory.unt.edu/ark:/67531/metapth536853/>`_  |
 |                                                               |                                                               |
-| | `Exterior of the Front of a House in Oklahoma City, Oklahoma| | `[A&M Cadets in Formation]                                  |
-|   <https://gateway.okhistory.org/ark:/67531/metadc1119955/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth1338742/>`  |
+|-  `Exterior of the Front of a House in Oklahoma City, Oklahoma|-  `[A&M Cadets in Formation]                                  |
+|   <https://gateway.okhistory.org/ark:/67531/metadc1119955/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth1338742/>`_ |
 +---------------------------------------------------------------+---------------------------------------------------------------+
 
 
@@ -105,11 +105,11 @@ Title
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `Catherine Parker Collection                                |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1177038/>`  |                                                           |
+|-  `Catherine Parker Collection                                |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1177038/>`_ |                                                           |
 |                                                               |                                                           |
-| | `Molly Behannon Collection                                  |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metadc1484116/>`   |                                                           |
+|-  `Molly Behannon Collection                                  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc1484116/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More title guidelines </fields/title>`
@@ -146,15 +146,15 @@ Creator
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `Thurman Studio                                             |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth744244/>`    |                                                           |
+|-  `Thurman Studio                                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth744244/>`_  |                                                           |
 |                                                               |                                                           |
-| | `Conniff, Dennis E., III                                    |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth853332 />`   |                                                           |
+|-  `Conniff, Dennis E., III                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth853332 />`_ |                                                           |
 |                                                               |                                                           |
-| | `Texas. Department of Transportation.                       |                                                           |
-|  <https://texashistory.unt.edu/ark:/67531/metapth129054/>`    |                                                           |
-|  (for Staff photographer)                                     |                                                           |
+|-  `Texas. Department of Transportation.                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth129054/>`_  |                                                           |
+|   (for Staff photographer)                                    |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More creator guidelines </fields/creator>`
@@ -204,12 +204,12 @@ Contributor
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `Danevang Lutheran Church                                   |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth222959/>`   |                                                           |
+|-  `Danevang Lutheran Church                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth222959/>`_  |                                                           |
 |   (donor)                                                     |                                                           |
 |                                                               |                                                           |
-| | `Hatch, Carol Kirkham                                       |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1319397/>`  |                                                           |
+|-  `Hatch, Carol Kirkham                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1319397/>`_ |                                                           |
 |   (owner)                                                     |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
@@ -236,16 +236,16 @@ Contributor
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `Jiménez, Luis Alfonso, Jr.                                 |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth538013/>`   |                                                           |
+|-  `Jiménez, Luis Alfonso, Jr.                                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth538013/>`_  |                                                           |
 |   (sculptor)                                                  |                                                           |
 |                                                               |                                                           |
-| | `Giesecke, Kuehne and Brooks                                |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth856747/>`   |                                                           |
+|-  `Giesecke, Kuehne and Brooks                                |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth856747/>`_  |                                                           |
 |   (architects)                                                |                                                           |
 |                                                               |                                                           |
-| | `Kahlo, Frida                                               |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth304085/>`   |                                                           |
+|-  `Kahlo, Frida                                               |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth304085/>`_  |                                                           |
 |   (artist)                                                    |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
@@ -279,11 +279,11 @@ Publisher
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `KXAS-TV (Television station : Fort Worth, Tex.)            |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metadc1794711/>`   |                                                           |
+|-  `KXAS-TV (Television station : Fort Worth, Tex.)            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc1794711/>`_  |                                                           |
 |                                                               |                                                           |
-| | `Texas. Department of Agriculture.                          |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth90976/>`    |                                                           |
+|-  `Texas. Department of Agriculture.                          |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth90976/>`_   |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More publisher guidelines </fields/publisher>`
@@ -332,17 +332,17 @@ Date
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `[1979-08-02..1979-08-05]                                   |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth300131/>`   |                                                           |
+|-  `[1979-08-02..1979-08-05]                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth300131/>`_  |                                                           |
 |                                                               |                                                           |
-| | `1976-05                                                    |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1138806/>`  |                                                           |
+|-  `1976-05                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1138806/>`_ |                                                           |
 |                                                               |                                                           |
-| | `2019-09-26T22:11:10                                        |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1211919/>`  |                                                           |
+|-  `2019-09-26T22:11:10                                        |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1211919/>`_ |                                                           |
 |                                                               |                                                           |
-| | `1955~                                                      |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth388344/>`   |                                                           |
+|-  `1955~                                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth388344/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More date guidelines </fields/date>`
@@ -373,11 +373,11 @@ Language
 +---------------------------------------------------------------+---------------------------------------------------------------+
 |Examples of what these values might look like:                                                                                 |
 +---------------------------------------------------------------+---------------------------------------------------------------+
-| | `English                                                    | | `No Language                                                |
-|   <https://texashistory.unt.edu/ark:/67531/metapth58010/>`    |   <https://texashistory.unt.edu/ark:/67531/metapth10715/>`    |
+|-  `English                                                    |-  `No Language                                                |
+|   <https://texashistory.unt.edu/ark:/67531/metapth58010/>`_   |   <https://texashistory.unt.edu/ark:/67531/metapth10715/>`_   |
 |                                                               |                                                               |
-| | `French                                                     | | `No Language                                                |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1560372/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth556590/>`   |
+|-  `French                                                     |-  `No Language                                                |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1560372/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth556590/>`_  |
 |                                                               |   (names only)                                                |
 +---------------------------------------------------------------+---------------------------------------------------------------+
 
@@ -446,33 +446,33 @@ note on the back
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
-| | `Photograph of a field <https://texashistory.unt.edu/ark:/67531/metapth1450617/>` of dark green vegetation, with    |
+|-  `Photograph of a field <https://texashistory.unt.edu/ark:/67531/metapth1450617/>`_ of dark green vegetation, with   |
 |   brush and bushes, taken from a dirt trail or path that is partially visible at the bottom of the image. The field   |
 |   is bordered by thick trees in the background and the sky is filled with light, fluffy clouds.                       |
 |                                                                                                                       |
-| | `Full-length wedding portrait <https://texashistory.unt.edu/ark:/67531/metapth1678444/>` of the Viertels, standing  |
+|-  `Full-length wedding portrait <https://texashistory.unt.edu/ark:/67531/metapth1678444/>`_ of the Viertels, standing |
 |   together in front of a painted background and looking toward the camera. Mr. Viertel (left) is wearing a            |
 |   dark-colored suit with a ribbon on his right lapel, holding his wife's right hand in his; Mrs. Viertel (right) is   |
 |   wearing an ornate wedding dress with a veil attached to a headdress.                                                |
 |                                                                                                                       |
-| | `Photograph of a Seventh Day Adventist church <https://texashistory.unt.edu/ark:/67531/metapth1542727/>` on the     |
+|-  `Photograph of a Seventh Day Adventist church <https://texashistory.unt.edu/ark:/67531/metapth1542727/>`_ on the    |
 |   north corner of 17th Street and Avenue M 1/2, looking east. The building has two vaulted gable ends set at a right  |
 |   angle, with the entrance on the interior corner surrounded by a porch and topped by a square tower with a striped,  |
 |   pointed roof. Homes are visible along the north side of Avenue M 1/2 in the background, and cars are parked along   |
 |   the side of the road.                                                                                               |
 |                                                                                                                       |
-| | `Photograph of light-colored calf <https://texashistory.unt.edu/ark:/67531/metapth44071/>` standing in front of a   |
+|-  `Photograph of light-colored calf <https://texashistory.unt.edu/ark:/67531/metapth44071/>`_ standing in front of a  |
 |   large black Angus dam in a grassy field.  In the background, other cattle are grazing and calves are resting on the |
 |   ground.  Typed on the bottom margin is, "Commercial Angus Dam with Typical 1/2 Blood Beefalo Heifer (120 Day Old)." |
 |                                                                                                                       |
-| | `Photograph of watermelons <https://gateway.okhistory.org/ark:/67531/metadc1613420/>`growing on the ground in a     |
+|-  `Photograph of watermelons <https://gateway.okhistory.org/ark:/67531/metadc1613420/>`_ growing on the ground in a   |
 |   large open field of Minco silt loam (7m-A).  Near the center of the image, a man is driving a tractor attached to a |
 |   flat-bed where another man is riding and two other men are walking next to and far ahead of the tractor.  Trees are |
 |   visible in the far distance and scrubby plants are growing along the edge of the field in the lower-left corner of  |
 |   the image.                                                                                                          |
 |                                                                                                                       |
-| | `Copy portrait <https://texashistory.unt.edu/ark:/67531/metapth35259/>` of Bess Scrivner Lewis seated with her hands|
-|   clasped in her lap, wearing a dark-colored, sleeveless dress that has decorative rings on the left side.            |
+|-  `Copy portrait <https://texashistory.unt.edu/ark:/67531/metapth35259/>`_ of Bess Scrivner Lewis seated with her     |
+|   hands clasped in her lap, wearing a dark-colored, sleeveless dress that has decorative rings on the left side.      |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 *   :ref:`More content description guidelines <description-cfill>`
@@ -530,15 +530,15 @@ Physical Description
 +-------------------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                                 |
 +-------------------------------------------------------------------------------------------------------------------------------+
-| | `1 photograph : b&w ; 8 x 10 in. <https://texashistory.unt.edu/ark:/67531/metapth618805/>` (print, standard size)           |
+|-  `1 photograph : b&w ; 8 x 10 in. <https://texashistory.unt.edu/ark:/67531/metapth618805/>`_ (print, standard size)          |
 |                                                                                                                               |
-| | `1 photograph : positive, col. ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth1542712/>` (slide)                  |
+|-  `1 photograph : positive, col. ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth1542712/>`_ (slide)                 |
 |                                                                                                                               |
-| | `1 photograph : negative, b&w ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth227592/>` (film negative)            |
+|-  `1 photograph : negative, b&w ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth227592/>`_ (film negative)           |
 |                                                                                                                               |
-| | `1 photograph : tintype, b&w ; 4 x 3 cm., in frame 10 x 6 cm. <https://texashistory.unt.edu/ark:/67531/metapth1754167/>`    |
+|-  `1 photograph : tintype, b&w ; 4 x 3 cm., in frame 10 x 6 cm. <https://texashistory.unt.edu/ark:/67531/metapth1754167/>`_   |
 |                                                                                                                               |
-| | `1 photograph : col. ; 9 x 9 cm., on mat 26 x 31 cm. <https://texashistory.unt.edu/ark:/67531/metapth822658/>`              |
+|-  `1 photograph : col. ; 9 x 9 cm., on mat 26 x 31 cm. <https://texashistory.unt.edu/ark:/67531/metapth822658/>`_             |
 +-------------------------------------------------------------------------------------------------------------------------------+
 
 *   :ref:`More physical description guidelines <description-photos>`
@@ -565,13 +565,13 @@ Keywords & Names
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
-| | `barbers' poles  <https://gateway.okhistory.org/ark:/67531/metadc960967/>`                                          |
+|-  `barbers' poles  <https://gateway.okhistory.org/ark:/67531/metadc960967/>`_                                         |
 |                                                                                                                       |
-| | `Baxter Building <https://texashistory.unt.edu/ark:/67531/metapth473372/>`                                          |
+|-  `Baxter Building <https://texashistory.unt.edu/ark:/67531/metapth473372/>`_                                         |
 |                                                                                                                       |
-| | `lineworkers <https://texashistory.unt.edu/ark:/67531/metapth54850/>`                                               |
+|-  `lineworkers <https://texashistory.unt.edu/ark:/67531/metapth54850/>`_                                              |
 |                                                                                                                       |
-| | `prickly pear cactus <https://texashistory.unt.edu/ark:/67531/metapth5545/>`                                        |
+|-  `prickly pear cactus <https://texashistory.unt.edu/ark:/67531/metapth5545/>`_                                       |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 
@@ -588,11 +588,11 @@ Keywords & Names
 +---------------------------------------------------------------+---------------------------------------------------------------+
 |*Named Persons*                                                |*Named Animals*                                                |
 |                                                               |                                                               |
-| | `Harris, Lowell Larkin (Red)                                | | `Snafu                                                      |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1372214/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth437127/>`   |
+|-  `Harris, Lowell Larkin (Red)                                |-  `Snafu                                                      |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1372214/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth437127/>`_  |
 |                                                               |                                                               |
-| | `Gilreath, Tonia                                            | | `Hard Luck Hank                                             |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`  |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`    |
+|-  `Gilreath, Tonia                                            |-  `Hard Luck Hank                                             |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`_   |
 +---------------------------------------------------------------+---------------------------------------------------------------+
 
 
@@ -616,7 +616,7 @@ Other Subjects
 |-  When you click in the text field, a pop-up modal will       |                                                           |
 |   open so that you can search all valid terms                 |                                                           |
 |-  The full list is also available `here                       |                                                           |
-|   <https://digital2.library.unt.edu/subjects/list/>`          |                                                           |
+|   <https://digital2.library.unt.edu/subjects/list/>`_         |                                                           |
 |-  Generally do not include a "Place" subject unless no        |                                                           |
 |   other terms apply (the location of the photo will go in     |                                                           |
 |   coverage)                                                   |                                                           |
@@ -628,24 +628,32 @@ Other Subjects
 |   Do not repeat terms to include different parts of the       |                                                           |
 |   hierarchy, e.g., if `Business, Economics and Finance -      |                                                           |
 |   Transportation - Railroads - Trains                         |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth436916/>`   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth436916/>`_  |                                                           |
 |   is an appropriate term, do not also include "Business,      |                                                           |
 |   Economics and Finance - Transportation - Railroads" or      |                                                           |
 |   "Business, Economics and Finance - Transportation", etc.    |                                                           |
+|                                                               |                                                           |
+|.. note::                                                      |                                                           |
+|                                                               |                                                           |
+|   There is a term for "Business, Economics and Finance -      |                                                           |
+|   Service Industries - Photography" but this ONLY applies when|                                                           |
+|   the content of the image is about photography (e.g., a      |                                                           |
+|   person taking a photograph), not for all photos or photo    |                                                           |
+|   collections loosely related to the photography industry     |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `Landscape and Nature                                       |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1450727/>`  |                                                           |
+|-  `Landscape and Nature                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450727/>`_ |                                                           |
 |                                                               |                                                           |
-| | `Architecture - Buildings                                   |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth66167/>`    |                                                           |
+|-  `Architecture - Buildings                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66167/>`_   |                                                           |
 |                                                               |                                                           |
-| | `People - Ethnic Groups - African Americans                 |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1222811/>`  |                                                           |
+|-  `People - Ethnic Groups - African Americans                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1222811/>`_ |                                                           |
 |                                                               |                                                           |
-| | `Agriculture - Farming                                      |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth690932/>`   |                                                           |
+|-  `Agriculture - Farming                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth690932/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -673,17 +681,17 @@ Other Subjects
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `HemisFair (1968 : San Antonio, Tex.)                       |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth66174/>`    |                                                           |
+|-  `HemisFair (1968 : San Antonio, Tex.)                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66174/>`_   |                                                           |
 |                                                               |                                                           |
-| | `Wichita Mountains Wildlife Refuge (Okla.)                  |                                                           |
-|   <https://gateway.okhistory.org/ark:/67531/metadc1773662/>`  |                                                           |
+|-  `Wichita Mountains Wildlife Refuge (Okla.)                  |                                                           |
+|   <https://gateway.okhistory.org/ark:/67531/metadc1773662/>`_ |                                                           |
 |                                                               |                                                           |
-| | `Johnson, Lady Bird, 1912-2007                              |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1275575/>`  |                                                           |
+|-  `Johnson, Lady Bird, 1912-2007                              |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1275575/>`_ |                                                           |
 |                                                               |                                                           |
-| | `World War, 1939-1945                                       |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth388338/>`   |                                                           |
+|-  `World War, 1939-1945                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth388338/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -700,7 +708,7 @@ Other Subjects
 +===============================================================+===========================================================+
 |-  It may be appropriate to include term(s) from the Getty     |Do not add AAT terms.                                      |
 |   `Art and Architecture Thesaurus                             |                                                           |
-|   <https://www.getty.edu/research/tools/vocabularies/aat/>`   |                                                           |
+|   <https://www.getty.edu/research/tools/vocabularies/aat/>`_  |                                                           |
 |-  These terms are primarily used in the Digital Collections   |                                                           |
 |   for broad categories that provide additional information    |                                                           |
 |   (e.g., buildings that are "`residential structures          |                                                           |
@@ -714,23 +722,23 @@ Other Subjects
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `sculpture (visual works)                                   |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metadc2304026/>`   |                                                           |
+|-  `sculpture (visual works)                                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc2304026/>`_  |                                                           |
 |                                                               |                                                           |
-| | `aerial views                                               |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metadc2310221/>`   |                                                           |
+|-  `aerial views                                               |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metadc2310221/>`_  |                                                           |
 |                                                               |                                                           |
-| | `interior views                                             |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth279174/>`   |                                                           |
+|-  `interior views                                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth279174/>`_  |                                                           |
 |                                                               |                                                           |
-| | `group portraits                                            |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1519708/>`  |                                                           |
+|-  `group portraits                                            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1519708/>`_ |                                                           |
 |                                                               |                                                           |
-| | `public buildings (governmental buildings)                  |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1450701/>`  |                                                           |
+|-  `public buildings (governmental buildings)                  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450701/>`_ |                                                           |
 |                                                               |                                                           |
-| | `mural paintings (visual works)                             |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1450350/>`  |                                                           |
+|-  `mural paintings (visual works)                             |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450350/>`_ |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -750,7 +758,7 @@ Other Subjects
 |   (e.g., `Cabinet photographs                                         |                                                                       |
 |   <https://texashistory.unt.edu/ark:/67531/metapth17/>`)or            |                                                                       |
 |   type of content (e.g., `Night photographs                           |.. note::                                                              |
-|   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`            |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`_           |                                                                       |
 |   -- there may be appropriate                                         |   Some groups choose to use TGM terms to describe the                 |
 |   `Thesaurus of Graphic Materials (TGM)                               |   content of photos instead of relying on keywords; this              |
 |   <https://id.loc.gov/vocabulary/graphicMaterials.html>`              |   is not an issue so long as the terms are appropriate,               |
@@ -766,11 +774,11 @@ Other Subjects
 +-----------------------------------------------------------------------+-----------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                                                 |
 +-----------------------------------------------------------------------+-----------------------------------------------------------------------+
-| | `Landscape photographs                                              | | `Cities & towns                                                     |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1457981/>`          |   <https://https://gateway.okhistory.org/ark:/67531/metadc1725014/>`  |
+|-  `Landscape photographs                                              |-  `Cities & towns                                                     |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1457981/>`_         |   <https://https://gateway.okhistory.org/ark:/67531/metadc1725014/>`_ |
 |                                                                       |                                                                       |
-| | `Panoramic photographs                                              |                                                                       |
-|   <https://texashistory.unt.edu/ark:/67531/metapth891082/>`           |                                                                       |
+|-  `Panoramic photographs                                              |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth891082/>`_          |                                                                       |
 +-----------------------------------------------------------------------+-----------------------------------------------------------------------+
 
 
@@ -810,17 +818,17 @@ Coverage
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `United States - Texas - El Paso County - El Paso           |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth875780/>`   |                                                           |
+|-  `United States - Texas - El Paso County - El Paso           |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth875780/>`_  |                                                           |
 |                                                               |                                                           |
-| | `United States - Arizona - Yavapai County                   |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth860394/>`   |                                                           |
+|-  `United States - Arizona - Yavapai County                   |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth860394/>`_  |                                                           |
 |                                                               |                                                           |
-| | `Germany                                                    |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth436797/>`   |                                                           |
+|-  `Germany                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth436797/>`_  |                                                           |
 |                                                               |                                                           |
-| | `United States - Washington D.C.                            |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth255234/>`   |                                                           |
+|-  `United States - Washington D.C.                            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth255234/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -854,18 +862,20 @@ Coverage
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `1961-05                                                    |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth769473/>`   |                                                           |
-| | Into Modern Times, 1939-Present                             |                                                           |
+|-  `1961-05                                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth769473/>`_  |                                                           |
+|-  Into Modern Times, 1939-Present                             |                                                           |
++---------------------------------------------------------------+                                                           |
 |                                                               |                                                           |
-| | `1920~                                                      |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth182585/>`   |                                                           |
-| | New South, Populism, Progressivism, and the Great           |                                                           |
+|-  `1920~                                                      |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth182585/>`_  |                                                           |
+|-  New South, Populism, Progressivism, and the Great           |                                                           |
 |   Depression, 1877-1939                                       |                                                           |
++---------------------------------------------------------------+                                                           |
 |                                                               |                                                           |
-| | `200X                                                       |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth573523/>`   |                                                           |
-| | Into Modern Times, 1939-Present                             |                                                           |
+|-  `200X                                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth573523/>`_  |                                                           |
+|-  Into Modern Times, 1939-Present                             |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -895,12 +905,12 @@ Coverage
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-| | `north=30.272512; east=-97.742635;                          |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth124027/>`   |                                                           |
+|-  `north=30.272512; east=-97.742635;                          |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth124027/>`_  |                                                           |
 |                                                               |                                                           |
-| | `northlimit=32.759050; eastlimit=-96.804672;                |                                                           |
+|-  `northlimit=32.759050; eastlimit=-96.804672;                |                                                           |
 |   southlimit=32.753781; westlimit=-96.822396;                 |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1411711/>`  |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1411711/>`_ |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
@@ -923,43 +933,43 @@ Note
         known creator, multiple possible locations, etc.)
 
 
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                            |No                                                         |
-+===============================================================+===========================================================+
-|-  Add relevant information to the text box                    |Do not include a note.                                     |
-|-  It may be appropriate to add different kinds of             |                                                           |
-|   information in separate entries                             |                                                           |
-|-  Use the drop-down menu to mark the note entry               |                                                           |
-|   "Display" so that it will be publicly visible and           |                                                           |
-|   searchable for users                                        |                                                           |
-|                                                               |                                                           |
-|                                                               |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                             |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-| | `This photograph was taken for use in the 2007-2008         |                                                           |
-|   <https://digital.library.unt.edu/ark:/67531/metadc1637817/>`|                                                           |
-|   University of North Texas yearbook, Aerie. The picture was  |                                                           |
-|   taken for the 92-93 spread about the Women's North Texas    |                                                           |
-|   Volleyball team.                                            |                                                           |
-|                                                               |                                                           |
-| | `Additional historical context:                             |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth10453/>`    |                                                           |
-|   The residential neighborhood north of Palestine’s central   |                                                           |
-|   business district contains a large concentration of late    |                                                           |
-|   19th and early 20th century dwellings. This property is     |                                                           |
-|   among the best-preserved in the neighborhood and is         |                                                           |
-|   significant because it represents a relatively intact       |                                                           |
-|   example of a modified L-plan house, a popular building type |                                                           |
-|   from around the turn of the century. Alvin W. Standifer and |                                                           |
-|   his wife Ethel owned and occupied this house from as early  |                                                           |
-|   as 1926 until at least 1941. Mr. Standifer was an engineer  |                                                           |
-|   for the I an GN Railroad during the 1920s; he later worked  |                                                           |
-|   for Missouri Pacific.                                       |                                                           |
-|                                                               |                                                           |
-| | `Date unknown. Likely 1950s.                                |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1626947/>`  |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                                |No                                                         |
++===================================================================+===========================================================+
+|-  Add relevant information to the text box                        |Do not include a note.                                     |
+|-  It may be appropriate to add different kinds of                 |                                                           |
+|   information in separate entries                                 |                                                           |
+|-  Use the drop-down menu to mark the note entry                   |                                                           |
+|   "Display" so that it will be publicly visible and               |                                                           |
+|   searchable for users                                            |                                                           |
+|                                                                   |                                                           |
+|                                                                   |                                                           |
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|-  `This photograph was taken for use in the 2007-2008             |                                                           |
+|   <https://digital.library.unt.edu/ark:/67531/metadc1637817/>`_   |                                                           |
+|   University of North Texas yearbook, Aerie. The picture was      |                                                           |
+|   taken for the 92-93 spread about the Women's North Texas        |                                                           |
+|   Volleyball team.                                                |                                                           |
+|                                                                   |                                                           |
+|-  `Additional historical context:                                 |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth10453/>`_       |                                                           |
+|   The residential neighborhood north of Palestine’s central       |                                                           |
+|   business district contains a large concentration of late        |                                                           |
+|   19th and early 20th century dwellings. This property is         |                                                           |
+|   among the best-preserved in the neighborhood and is             |                                                           |
+|   significant because it represents a relatively intact           |                                                           |
+|   example of a modified L-plan house, a popular building type     |                                                           |
+|   from around the turn of the century. Alvin W. Standifer and     |                                                           |
+|   his wife Ethel owned and occupied this house from as early      |                                                           |
+|   as 1926 until at least 1941. Mr. Standifer was an engineer      |                                                           |
+|   for the I an GN Railroad during the 1920s; he later worked      |                                                           |
+|   for Missouri Pacific.                                           |                                                           |
+|                                                                   |                                                           |
+|-  `Date unknown. Likely 1950s.                                    |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1626947/>`_     |                                                           |
++-------------------------------------------------------------------+-----------------------------------------------------------+
 
 
 .. admonition:: Question
@@ -982,10 +992,10 @@ Note
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
-| | Creator name based on info online, including            |                                                           |
+|-  Creator name based on info online, including            |                                                           |
 |   photographer homepage                                   |                                                           |
 |                                                           |                                                           |
-| | It is unclear whether the location is the Brownwood in  |                                                           |
+|-  It is unclear whether the location is the Brownwood in  |                                                           |
 |   Brown County or Orange County.                          |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
@@ -1027,69 +1037,72 @@ Possible Exceptions
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
 |                                                           |If YES:                                                    |Examples of what these values might look like:                     |
 +===========================================================+===========================================================+===================================================================+
-|.. admonition:: Question                                   |-  You may want to add a source value to reference the     | | `Young Latino Artists, Mexic-Arte Museum, Austin, Texas, 2000   |
-|                                                           |   event or source material                                |   <https://texashistory.unt.edu/ark:/67531/metapth852318/>`       |
+|.. admonition:: Question                                   |-  You may want to add a source value to reference the     |-  `Young Latino Artists, Mexic-Arte Museum, Austin, Texas, 2000   |
+|                                                           |   event or source material                                |   <https://texashistory.unt.edu/ark:/67531/metapth852318/>`_      |
 |   **Was the photograph taken at/part of an art exhibit?** |-  Choose the appropriate type of source from the drop-down|   (exhibition)                                                    |
 +-----------------------------------------------------------+   menu (e.g., exhibition, conference, book, journal, etc.)|                                                                   |
-|.. admonition:: Question                                   |-  The source text value does not have strict formatting   | | `Church and Synagogue Library Association 39th Annual           |
+|.. admonition:: Question                                   |-  The source text value does not have strict formatting   |-  `Church and Synagogue Library Association 39th Annual           |
 |                                                           |   requirements, but should provide enough information for |   Conference, Greensboro, North Carolina, 2006                    |
-|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |   <https://digital.library.unt.edu/ark:/67531/metadc1128971/>`    |
+|   **Was the photograph taken during a conference?**       |   another user to locate the original item (or any        |   <https://digital.library.unt.edu/ark:/67531/metadc1128971/>`_   |
 +-----------------------------------------------------------+   information known)                                      |   (conference)                                                    |
 |.. admonition:: Question                                   |                                                           |                                                                   |
-|                                                           |                                                           | | `Gibbs, Warmoth T.  President Matthew W. Dogan of Wiley College;|
+|                                                           |                                                           |-  `Gibbs, Warmoth T.  President Matthew W. Dogan of Wiley College;|
 |   **Was this photograph originally part of or published in|.. note::                                                  |   a Biography.  Marshall: Firmin-Greer, n.d.                      |
-|   a larger item such as a book, report, newspaper, etc.** |                                                           |   <https://texashistory.unt.edu/ark:/67531/metapth17974/>` (book) |
+|   a larger item such as a book, report, newspaper, etc.** |                                                           |   <https://texashistory.unt.edu/ark:/67531/metapth17974/>`_ (book)|
 |                                                           |   If the original source is an item that is also available|                                                                   |
 |                                                           |   the Digital Collections, the relation field is likely   |                                                                   |
 |                                                           |   more appropriate                                        |                                                                   |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
-|.. admonition:: Question                                   |-  For some photographs, a "preferred citation" is included| | `Ensemble Theatre records (MS 533), Woodson Research Center,    |
+|.. admonition:: Question                                   |-  For some photographs, a "preferred citation" is included|-  `Ensemble Theatre records (MS 533), Woodson Research Center,    |
 |                                                           |   in the citation field as a way to cite the archival     |   Fondren Library, Rice University                                |
-|   **Is the photo part of a formal archival collection?**  |   collection, generally including the title and identifier|   <https://texashistory.unt.edu/ark:/67531/metapth1544975/>`      |
+|   **Is the photo part of a formal archival collection?**  |   collection, generally including the title and identifier|   <https://texashistory.unt.edu/ark:/67531/metapth1544975/>`_     |
 |                                                           |   code used in a finding aid or similar documentation     |                                                                   |
-|                                                           |                                                           | | `Denton Chamber of Commerce Collection (AR0845), University     |
+|                                                           |                                                           |-  `Denton Chamber of Commerce Collection (AR0845), University     |
 |                                                           |                                                           |   of North Texas Special Collections                              |
-|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metadc1996990/>`       |
+|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metadc1996990/>`_      |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   | | `[Dallas Firefighter Class 59 #2], ark:/67531/metapth1339195    |
-|                                                           |   other item                                              |   <https://texashistory.unt.edu/ark:/67531/metapth1339196/>`      |
+|.. admonition:: Question                                   |-  Add a relation value listing the title and ARK of the   |-  `[Dallas Firefighter Class 59 #2], ark:/67531/metapth1339195    |
+|                                                           |   other item                                              |   <https://texashistory.unt.edu/ark:/67531/metapth1339196/>`_     |
 |   **Do you have multiple similar copies of the photograph |-  Relationships are reciprocal, so you will need to add   |   (negative, has format)                                          |
-|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     | | `[Dallas Firefighter Class 59 #1], ark:/67531/metapth1339196    |
-|   in the Digital Collections?**                           |   title and ARK of the first item)                        |   <https://texashistory.unt.edu/ark:/67531/metapth1339195/>`      |
+|   captured in the same or different mediums that are all  |   the alternate relation to the second item (with the     |-  `[Dallas Firefighter Class 59 #1], ark:/67531/metapth1339196    |
+|   in the Digital Collections?**                           |   title and ARK of the first item)                        |   <https://texashistory.unt.edu/ark:/67531/metapth1339195/>`_     |
 +-----------------------------------------------------------+-  Choose the appropriate type of relationship, e.g.:      |   (print, is format of)                                           |
-|.. admonition:: Question                                   |                                                           |                                                                   |
-|                                                           |   -   a negative <<has format>> photo print               | | `[Aerial Lift Rescue at a Sky Tram #2], DFFM_2015-03-005,       |
-|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |   ark:/67531/metapth803903                                        |
-|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |   <https://texashistory.unt.edu/ark:/67531/metapth803879/>`       |
-|   or other text?**                                        |       from the same negative (these may be identical, or  |   (print #1)                                                      |
-|                                                           |       slightly edited, such as an enlargement)            | | `[Aerial Lift Rescue at a Sky Tram #1], DFFM_2015-03-003,       |
-|                                                           |   -   the second print <<is version of>> the first print  |   ark:/67531/metapth803879                                        |
-|                                                           |   -   a photo <<is referenced by>> a text                 |   <https://texashistory.unt.edu/ark:/67531/metapth803903/>`       |
-|                                                           |   -   a text <<references>> a photograph                  |   (print #2)                                                      |
+|.. admonition:: Question                                   |                                                           +-------------------------------------------------------------------+
+|                                                           |   -   a negative <<has format>> photo print               |                                                                   |
+|   **Is there another digital item that references the     |   -   a photo print <<is format of>> negative             |-  `[Aerial Lift Rescue at a Sky Tram #2], DFFM_2015-03-005,       |
+|   photograph in its content, such as a letter, article,   |   -   a photo print <<has version>> a second print made   |   ark:/67531/metapth803903                                        |
+|   or other text?**                                        |       from the same negative (these may be identical, or  |   <https://texashistory.unt.edu/ark:/67531/metapth803879/>`_      |
+|                                                           |       slightly edited, such as an enlargement)            |   (print #1)                                                      |
+|                                                           |   -   the second print <<is version of>> the first print  |-  `[Aerial Lift Rescue at a Sky Tram #1], DFFM_2015-03-003,       |
+|                                                           |   -   a photo <<is referenced by>> a text                 |   ark:/67531/metapth803879                                        |
+|                                                           |   -   a text <<references>> a photograph                  |   <https://texashistory.unt.edu/ark:/67531/metapth803903/>`_      |
+|                                                           |                                                           |   (print #2)                                                      |
+|                                                           |                                                           +-------------------------------------------------------------------+
 |                                                           |                                                           |                                                                   |
-|                                                           |                                                           | | `Cutting Horse Competition Photo Information: Roll  1991_D-110, |
+|                                                           |                                                           |-  `Cutting Horse Competition Photo Information: Roll  1991_D-110, |
 |                                                           |                                                           |   ark:/67531/metapth244221                                        |
-|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metapth239355/>`       |
+|                                                           |                                                           |   <https://texashistory.unt.edu/ark:/67531/metapth239355/>`_      |
 |                                                           |                                                           |   (photo negative referenced by text)                             |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add any applicable parts:                               | | *License:* `Attribution                                         |
-|                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`      |
-|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         | | *Statement:* Please Credit: USDA--Soil Conservation             |
+|.. admonition:: Question                                   |-  Add any applicable parts:                               |-  *License:* `Attribution                                         |
+|                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`_     |
+|   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         |-  *Statement:* Please Credit: USDA--Soil Conservation             |
 |   Commons (CC) license?**                                 |       appropriate CC license from the list                |   Service                                                         |
-+-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      |                                                                   |
-|.. admonition:: Question                                   |       organization that holds the copyright               | | *License:* `Copyright                                           |
-|                                                           |   -   *rights statement*: quote any explicit statement    |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`      |
-|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         | | *Holder:* Denton Record-Chronicle                               |
++-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      +-------------------------------------------------------------------+
+|.. admonition:: Question                                   |       organization that holds the copyright               |                                                                   |
+|                                                           |   -   *rights statement*: quote any explicit statement    |-  *License:* `Copyright                                           |
+|   **Is there a rights or usage statement on the photo?**  |       documenting copyright or usage instructions         |   <https://texashistory.unt.edu/ark:/67531/metapth1662412/>`_     |
+|                                                           |                                                           |-  *Holder:* Denton Record-Chronicle                               |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
 |.. admonition:: Question                                   |-  Change the resource type to "Postcard"                  |`Postcard                                                          |
-|                                                           |                                                           |<https://texashistory.unt.edu/ark:/67531/metapth1731666/>`         |
+|                                                           |                                                           |<https://texashistory.unt.edu/ark:/67531/metapth1731666/>`_        |
 |   **Is the photo printed as a postcard?**                 |                                                           |                                                                   |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
-|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that | | `Negative# 38                                                   |
-|                                                           |   applies                                                 |   <https://texashistory.unt.edu/ark:/67531/metapth222615/>`       |
+|.. admonition:: Question                                   |-  Add an identifier entry for each additional number that |-  `Negative# 38                                                   |
+|                                                           |   applies                                                 |   <https://texashistory.unt.edu/ark:/67531/metapth222615/>`_      |
 |   **Is there another identifier associated with the       |-  Choose the appropriate label -- generally this would be |                                                                   |
-|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  | | `Okla-5376                                                      |
-|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |   <https://gateway.okhistory.org/ark:/67531/metadc1926566/>`      |
+|   photo that is not in the record, such as a negative or  |   "Accession or Local Control No." which is used for any  |-  `Okla-5376                                                      |
+|   photo number on the photo or container?**               |   uncontrolled or standardized identifier                 |   <https://gateway.okhistory.org/ark:/67531/metadc1926566/>`_     |
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
 
 
@@ -1097,6 +1110,11 @@ Possible Exceptions
 *********************
 Completing the Record
 *********************
+-   Double-check the right side of the screen:
+
+    -   Are there any field counts in red?  (These are required fields that do not contain values)
+    -   Are there any warning messages?  (Check any fields that need review, resolve any issues for dates, subjects, etc.)
+
 -   Clicking the "Publish" button will save any changes you have made to the record
 -   Most of the time you should mark the record "visible" if all information has been entered, to make the record public
 -   If you need to come back to a record later, you can leave the record hidden and publish changes to save the current version
