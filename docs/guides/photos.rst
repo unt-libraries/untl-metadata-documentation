@@ -721,10 +721,10 @@ Other Subjects
 |   <https://www.getty.edu/research/tools/vocabularies/aat/>`_  |                                                           |
 |-  These terms are primarily used in the Digital Collections   |                                                           |
 |   for broad categories that provide additional information    |                                                           |
-|   (e.g., buildings that are "`residential structures          |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth26397/>`"   |                                                           |
-|   vs. "`commercial buildings                                  |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1450624/>`")|                                                           |
+|   (e.g., buildings that are "`commercial buildings            |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1450624/>`_"|                                                           |
+|   vs. "`residential structures                                |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth26397/>`_") |                                                           |
 |                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
@@ -763,16 +763,16 @@ Other Subjects
 +=======================================================================+=======================================================================+
 |-  There is a Library of Congress Genre/Form Term (LCGFT)              |Do not add LCGFT or TGM terms.                                         |
 |   for "`Portraits                                                     |                                                                       |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`"         |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`_"        |                                                                       |
 |   (when applicable)                                                   |                                                                       |
 |-  For other "types" of photos -- either physical type                 |                                                                       |
 |   (e.g., `Cabinet photographs                                         |                                                                       |
-|   <https://texashistory.unt.edu/ark:/67531/metapth17/>`)or            |                                                                       |
+|   <https://texashistory.unt.edu/ark:/67531/metapth17/>`_)or           |                                                                       |
 |   type of content (e.g., `Night photographs                           |.. note::                                                              |
 |   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`_           |                                                                       |
 |   -- there may be appropriate                                         |   Some groups choose to use TGM terms to describe the                 |
 |   `Thesaurus of Graphic Materials (TGM)                               |   content of photos instead of relying on keywords; this              |
-|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`              |   is not an issue so long as the terms are appropriate,               |
+|   <https://id.loc.gov/vocabulary/graphicMaterials.html>`_             |   is not an issue so long as the terms are appropriate,               |
 |   terms                                                               |   TGM terms do not duplicate other subjects, and UNTL-BS              |
 |-  Reminder: only include terms that add information not elsewhere in  |   terms are also added (when required)                                |
 |   the record (e.g., not "Photographs")                                |                                                                       |
