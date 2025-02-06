@@ -98,6 +98,7 @@ Title
 |-  Enter the series title in the text box; it must be the      |                                                           |
 |   same in every record belonging to the series                |                                                           |
 |                                                               |                                                           |
+|                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
 |   It is uncommon to have multiple titles for photographs      |                                                           |
@@ -134,6 +135,7 @@ Creator
 |   photographer) or Organization (photography studio)          |                                                           |
 |-  Choose "Photographer" as the role in the second drop-down   |                                                           |
 |   menu                                                        |                                                           |
+|                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -189,6 +191,7 @@ Contributor
 |   entered separately; name, type, and role must be added      |                                                           |
 |   for each                                                    |                                                           |
 |                                                               |                                                           |
+|                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
 |   This is not particularly common, and tends to be            |                                                           |
@@ -228,6 +231,7 @@ Contributor
 |-  Choose the most appropriate role, such as "Architect,"      |                                                           |
 |   "Artist," "Sculptor," etc. from the second drop-down        |                                                           |
 |   menu                                                        |                                                           |
+|                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -270,6 +274,7 @@ Publisher
 |   are *not* inverted in this field                            |                                                           |
 |-  Add the location, if known -- this may be a general         |                                                           |
 |   place like "United States" or "Texas" rather than a city    |                                                           |
+|                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -323,6 +328,7 @@ Date
 |       a photo was taken and you can add the timestamp:        |                                                           |
 |       YYYY-MM-DDT00:00:00                                     |                                                           |
 |                                                               |                                                           |
+|                                                               |                                                           |
 |.. note::                                                      |.. note::                                                  |
 |                                                               |                                                           |
 |   There is one special case: if the photo is a copy photo     |   This will automatically display publicly as "Creation   |
@@ -364,9 +370,11 @@ Language
 +===============================================================+===============================================================+
 |-  For any text visible in the image (e.g., signs) or          |Choose "No Language" from the drop-down menu.                  |
 |   written on the back, choose the appropriate language        |                                                               |
-|   from the drop-down menu                                     |.. note::                                                      |
+|   from the drop-down menu                                     |                                                               |
 |-  Add multiple entries if there is more than one language     |                                                               |
-|   "Printer" from the second drop-down menu                    |   Names are not considered "language" so if the only text     |
+|   "Printer" from the second drop-down menu                    |.. note::                                                      |
+|                                                               |                                                               |
+|                                                               |   Names are not considered "language" so if the only text     |
 |                                                               |   is names -- e.g., identifying persons in the image or       |
 |                                                               |   pictured signage with store names -- choose "No             |
 |                                                               |   Language"                                                   |
@@ -623,6 +631,7 @@ Other Subjects
 |-  Appropriate terms may be very specific or a general,        |                                                           |
 |   top-level term, like "People"                               |                                                           |
 |                                                               |                                                           |
+|                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
 |   Do not repeat terms to include different parts of the       |                                                           |
@@ -632,6 +641,7 @@ Other Subjects
 |   is an appropriate term, do not also include "Business,      |                                                           |
 |   Economics and Finance - Transportation - Railroads" or      |                                                           |
 |   "Business, Economics and Finance - Transportation", etc.    |                                                           |
+|                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
@@ -716,6 +726,7 @@ Other Subjects
 |   vs. "`commercial buildings                                  |                                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1450624/>`")|                                                           |
 |                                                               |                                                           |
+|                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
 |   Only the preferred (linked) term is valid                   |                                                           |
@@ -765,6 +776,7 @@ Other Subjects
 |   terms                                                               |   TGM terms do not duplicate other subjects, and UNTL-BS              |
 |-  Reminder: only include terms that add information not elsewhere in  |   terms are also added (when required)                                |
 |   the record (e.g., not "Photographs")                                |                                                                       |
+|                                                                       |                                                                       |
 |                                                                       |                                                                       |
 |.. note::                                                              |                                                                       |
 |                                                                       |                                                                       |
