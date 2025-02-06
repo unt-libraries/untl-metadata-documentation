@@ -989,7 +989,7 @@ Note
 |   Brown County or Orange County.                          |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
-
+*   :doc:`More note guidelines </fields/note>`
 
 ******************
 Lesser-Used Fields
