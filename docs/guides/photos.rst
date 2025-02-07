@@ -547,6 +547,8 @@ Physical Description
 |-  `1 photograph : tintype, b&w ; 4 x 3 cm., in frame 10 x 6 cm. <https://texashistory.unt.edu/ark:/67531/metapth1754167/>`_   |
 |                                                                                                                               |
 |-  `1 photograph : col. ; 9 x 9 cm., on mat 26 x 31 cm. <https://texashistory.unt.edu/ark:/67531/metapth822658/>`_             |
+|                                                                                                                               |
+|-  `1 photograph : digital, col. <https://texashistory.unt.edu/ark:/67531/metapth1211918/>`_                                   |
 +-------------------------------------------------------------------------------------------------------------------------------+
 
 *   :ref:`More physical description guidelines <description-photos>`
@@ -607,8 +609,8 @@ Keywords & Names
 *   :ref:`More named subject guidelines <subject-animal>`
 
 
-Other Subjects
-==============
+Other Common Subjects
+=====================
 
 .. admonition:: Question
 
@@ -792,6 +794,17 @@ Other Subjects
 |-  `Panoramic photographs                                              |                                                                       |
 |   <https://texashistory.unt.edu/ark:/67531/metapth891082/>`_          |                                                                       |
 +-----------------------------------------------------------------------+-----------------------------------------------------------------------+
+
+
+Additional Subjects
+===================
+
+-   For certain collections, other kinds of controlled subjects may be used (Chenhall's Nomenclature, Homosaurus, Medical Subject Headings, etc.)
+-   Note that you *should not* include terms that are inappropriate for the collections
+    or material type, even though they may be available, for example:
+
+    -   Library of Congress Medium of Performance Thesaurus: applies to recordings or musical literature (for images of instruments use keywords, AAT, etc.)
+    -   Legislative Indexing Vocabulary/Legislative Subject Terms: applies to government documents and is used in specific collections
 
 
 *   :doc:`More subject guidelines </fields/subject>`
@@ -1039,11 +1052,6 @@ if an exception might apply for a specific item:
 
 Possible Exceptions
 ===================
-
-.. admonition:: Question
-   
-   **Was the photograph part of an art exhibit or taken during an event, such as a conference?**
-
 
 
 +-----------------------------------------------------------+-----------------------------------------------------------+-------------------------------------------------------------------+
