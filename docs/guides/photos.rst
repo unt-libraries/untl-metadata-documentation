@@ -307,8 +307,8 @@ Date
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Yes                                                            |No                                                         |
 +===============================================================+===========================================================+
-|-  Choose "Creation" as the type from the drop-down menu       |Skip the date field.  Use the "x" if there are             |
-|-  Enter the date using YYYY-DD-MM format for any part that    |placeholder values to clear the entire entry.              |
+|-  Choose "Creation" as the type from the drop-down menu       | | Skip the date field.  Use the "x" if there are          |
+|-  Enter the date using YYYY-DD-MM format for any part that    |   placeholder values to clear the entire entry.           |
 |   is known (may be just a year or month)                      |                                                           |
 |-  More complex dates that are common for photos:              |                                                           |
 |                                                               |                                                           |
@@ -368,7 +368,7 @@ Language
 +---------------------------------------------------------------+---------------------------------------------------------------+
 |Yes                                                            |No                                                             |
 +===============================================================+===============================================================+
-|-  For any text visible in the image (e.g., signs) or          |Choose "No Language" from the drop-down menu.                  |
+|-  For any text visible in the image (e.g., signs) or          | | Choose "No Language" from the drop-down menu.               |
 |   written on the back, choose the appropriate language        |                                                               |
 |   from the drop-down menu                                     |                                                               |
 |-  Add multiple entries if there is more than one language     |                                                               |
@@ -458,10 +458,12 @@ note on the back
 |   brush and bushes, taken from a dirt trail or path that is partially visible at the bottom of the image. The field   |
 |   is bordered by thick trees in the background and the sky is filled with light, fluffy clouds.                       |
 |                                                                                                                       |
+|                                                                                                                       |
 |-  `Full-length wedding portrait <https://texashistory.unt.edu/ark:/67531/metapth1678444/>`_ of the Viertels, standing |
 |   together in front of a painted background and looking toward the camera. Mr. Viertel (left) is wearing a            |
 |   dark-colored suit with a ribbon on his right lapel, holding his wife's right hand in his; Mrs. Viertel (right) is   |
 |   wearing an ornate wedding dress with a veil attached to a headdress.                                                |
+|                                                                                                                       |
 |                                                                                                                       |
 |-  `Photograph of a Seventh Day Adventist church <https://texashistory.unt.edu/ark:/67531/metapth1542727/>`_ on the    |
 |   north corner of 17th Street and Avenue M 1/2, looking east. The building has two vaulted gable ends set at a right  |
@@ -469,9 +471,11 @@ note on the back
 |   pointed roof. Homes are visible along the north side of Avenue M 1/2 in the background, and cars are parked along   |
 |   the side of the road.                                                                                               |
 |                                                                                                                       |
+|                                                                                                                       |
 |-  `Photograph of light-colored calf <https://texashistory.unt.edu/ark:/67531/metapth44071/>`_ standing in front of a  |
 |   large black Angus dam in a grassy field.  In the background, other cattle are grazing and calves are resting on the |
 |   ground.  Typed on the bottom margin is, "Commercial Angus Dam with Typical 1/2 Blood Beefalo Heifer (120 Day Old)." |
+|                                                                                                                       |
 |                                                                                                                       |
 |-  `Photograph of watermelons <https://gateway.okhistory.org/ark:/67531/metadc1613420/>`_ growing on the ground in a   |
 |   large open field of Minco silt loam (7m-A).  Near the center of the image, a man is driving a tractor attached to a |
@@ -479,8 +483,14 @@ note on the back
 |   visible in the far distance and scrubby plants are growing along the edge of the field in the lower-left corner of  |
 |   the image.                                                                                                          |
 |                                                                                                                       |
+|                                                                                                                       |
 |-  `Copy portrait <https://texashistory.unt.edu/ark:/67531/metapth35259/>`_ of Bess Scrivner Lewis seated with her     |
 |   hands clasped in her lap, wearing a dark-colored, sleeveless dress that has decorative rings on the left side.      |
+|                                                                                                                       |
+|                                                                                                                       |
+|-  `Photograph of a shirtless soldier <https://texashistory.unt.edu/ark:/67531/metapth690364/>`_ leaning against the   |
+|   stair railing on the front porch of a military camp cabin, with a screen door partially visible at right.           |
+|   Handwritten on back: "Blazewisky from L. I."                                                                        |
 +-----------------------------------------------------------------------------------------------------------------------+
 
 *   :ref:`More content description guidelines <description-cfill>`
@@ -543,6 +553,8 @@ Physical Description
 |-  `1 photograph : positive, col. ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth1542712/>`_ (slide)                 |
 |                                                                                                                               |
 |-  `1 photograph : negative, b&w ; 35 mm. <https://texashistory.unt.edu/ark:/67531/metapth227592/>`_ (film negative)           |
+|                                                                                                                               |
+|-  `1 photograph : b&w <https://gateway.okhistory.org/ark:/67531/metadc1552387/>`_                                             |
 |                                                                                                                               |
 |-  `1 photograph : tintype, b&w ; 4 x 3 cm., in frame 10 x 6 cm. <https://texashistory.unt.edu/ark:/67531/metapth1754167/>`_   |
 |                                                                                                                               |
@@ -763,14 +775,14 @@ Other Common Subjects
 +-----------------------------------------------------------------------+-----------------------------------------------------------------------+
 |Yes                                                                    |No                                                                     |
 +=======================================================================+=======================================================================+
-|-  There is a Library of Congress Genre/Form Term (LCGFT)              |Do not add LCGFT or TGM terms.                                         |
+|-  There is a Library of Congress Genre/Form Term (LCGFT)              | | Do not add LCGFT or TGM terms.                                      |
 |   for "`Portraits                                                     |                                                                       |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1385649/>`_"        |                                                                       |
 |   (when applicable)                                                   |                                                                       |
 |-  For other "types" of photos -- either physical type                 |                                                                       |
 |   (e.g., `Cabinet photographs                                         |                                                                       |
 |   <https://texashistory.unt.edu/ark:/67531/metapth17/>`_)or           |                                                                       |
-|   type of content (e.g., `Night photographs                           |.. note::                                                              |
+|   type of content (e.g., `Night photographs)                          |.. note::                                                              |
 |   <https://texashistory.unt.edu/ark:/67531/metapth66185/>`_           |                                                                       |
 |   -- there may be appropriate                                         |   Some groups choose to use TGM terms to describe the                 |
 |   `Thesaurus of Graphic Materials (TGM)                               |   content of photos instead of relying on keywords; this              |
