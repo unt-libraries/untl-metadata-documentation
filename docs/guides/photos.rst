@@ -24,7 +24,7 @@ This page refers to records for photographs, which may include:
     or researchers, etc.), and should be incorporated appropriately.  For example, if a question says "do you
     know when the photograph was taken" the answer could be "yes" if you have it from a known source, even if
     the date isn't written on the item.
--   Example values link to public record but not everything in the full metadata will necessarily apply.
+-   Example values link to public records but not everything in the full metadata will necessarily apply.
 -   In some cases, it may also help to look for similar items or collections that are already publicly visible.
 -   *Note:* If you are not familiar with the UNTL metadata editing system or have not used it recently, it may
     also help to review some of the other general information such as the page about :doc:`navigating the system </technical/navigation>`
@@ -141,7 +141,7 @@ Creator
 |                                                               |                                                           |
 |   In some less-common situations, a photograph may have       |                                                           |
 |   been taken under the auspices of a known organization       |                                                           |
-|   by an un-nammed "staff photographer."  If that applies,     |                                                           |
+|   by an un-named "staff photographer."  If that applies,      |                                                           |
 |   list the known entity as the organizational creator         |                                                           |
 |   and add "Staff photographer" in the info text box at the    |                                                           |
 |   bottom of the field                                         |                                                           |
@@ -320,8 +320,8 @@ Date
 |       dates of an event: use "one of a set" notation with     |                                                           |
 |       periods for a range [YYYY-MM-DD..YYYY-MM-DD] (between   |                                                           |
 |       first date and second date, inclusive)                  |                                                           |
-|   -   A photo taken on one of several dates (e.g., summer or  |                                                           |
-|       Christmas either YYYY or YYYY): use "one of a           |                                                           |
+|   -   A photo taken on one of several dates (e.g.,            |                                                           |
+|       Christmastime either YYYY or YYYY): use "one of a       |                                                           |
 |       set" notation with commas [YYYY-MM-DD,YYYY-MM-DD]       |                                                           |
 |       (either first date or second date)                      |                                                           |
 |   -   For born-digital photos, you *might* know the exact time|                                                           |
@@ -372,7 +372,7 @@ Language
 |   written on the back, choose the appropriate language        |                                                               |
 |   from the drop-down menu                                     |                                                               |
 |-  Add multiple entries if there is more than one language     |                                                               |
-|   "Printer" from the second drop-down menu                    |.. note::                                                      |
+|                                                               |.. note::                                                      |
 |                                                               |                                                               |
 |                                                               |   Names are not considered "language" so if the only text     |
 |                                                               |   is names -- e.g., identifying persons in the image or       |
@@ -402,6 +402,7 @@ Content Description
 -   The content description is required; it is based on looking at the photo and describing what is visible in the image
 -   Generally the description should not repeat information from other parts of the record (e.g., creator, creation date)
     and should provide more detail than the title
+-   The description should focus on what is in the image rather than context or assumptions about what might be happening
 -   There will generally be a placeholder entry labeled "content description" in the record
 
 **Step 1.** Start with "Photograph of"
@@ -416,7 +417,7 @@ Content Description
 -   Are there people or animals in the image?
 
     -   Do you know names and/or identities (e.g., pictured from left to right)?
-    -   What are the people doing in the image?
+    -   What are the people or animals doing in the image?
     -   If it is a portrait (usually taken in a studio), how is the person posing and are they fully visible?
 
 -   Are there buildings in the image?
@@ -429,7 +430,7 @@ Content Description
 
 -   Is there anything taking up a large amount of space (e.g., left/right side of the image, foreground/background, etc.)?
 
-    -   It is generally helpful to focus on anything that is the focus of the image, but most of the time there should also
+    -   It is generally helpful to mainly describe anything that is the focus of the image, but most of the time there should also
         be at least a brief mention of anything else (e.g., something partially visible on one side of the photo, something
         in the background, etc.)
     -   What else is visible around the people, buildings, etc.?
@@ -449,12 +450,13 @@ note on the back
     -   additional information about how/when a photo was taken
     -   biographical information about a person in a photo
     -   details about locations in the image (e.g., when a house was built and its ownership history)
+    -   other related historical information (e.g., about an event happening in the image)
     
 
 +-----------------------------------------------------------------------------------------------------------------------+
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------------------------------------------------------------------+
-|-  `Photograph of a field <https://texashistory.unt.edu/ark:/67531/metapth1450617/>`_ of dark green vegetation, with   |
+|-  `Photograph of a field <https://texashistory.unt.edu/ark:/67531/metapth1450617/>`_ of dark green vegetation with    |
 |   brush and bushes, taken from a dirt trail or path that is partially visible at the bottom of the image. The field   |
 |   is bordered by thick trees in the background and the sky is filled with light, fluffy clouds.                       |
 |                                                                                                                       |
@@ -659,8 +661,10 @@ Other Common Subjects
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
-|   There is a term for "Business, Economics and Finance -      |                                                           |
-|   Service Industries - Photography" but this ONLY applies when|                                                           |
+|   There is a term for "`Business, Economics and Finance -     |                                                           |
+|   Service Industries - Photography                            |                                                           |
+|   <https://gateway.okhistory.org/ark:/67531/metadc1082933/>`_"|                                                           |
+|   but this ONLY applies when                                  |                                                           |
 |   the content of the image is about photography (e.g., a      |                                                           |
 |   person taking a photograph), not for all photos or photo    |                                                           |
 |   collections loosely related to the photography industry     |                                                           |
@@ -843,6 +847,9 @@ Coverage
 |   pops up when "Place Name" is chosen; most locations will    |                                                           |
 |   already be on the list, but you can also use it to find     |                                                           |
 |   similar locations if you need to add a new place name       |                                                           |
+|-  Places cannot be bodies of water or military installations  |                                                           |
+|   that are also "populated places" (see full guidelines for   |                                                           |
+|   questions about specific locations and exceptions)          |                                                           |
 |                                                               |                                                           |
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
@@ -885,7 +892,8 @@ Coverage
 |   taken) unless it is a copy photo (i.e., a photo or          |                                                           |
 |   reproduction of another photograph, where the older         |                                                           |
 |   image is the content of a later image)                      |                                                           |
-|-  Add an entry for "Time Period" and choose the               |                                                           |
+|-  If the photograph will be in The Portal to Texas History,   |                                                           |
+|   add an entry for "Time Period" and choose the               |                                                           |
 |   corresponding option (generally "Into Modern Times" if      |                                                           |
 |   taken after 1939 or "New South" if taken before 1939)       |                                                           |
 |                                                               |                                                           |
@@ -894,8 +902,7 @@ Coverage
 |                                                               |                                                           |
 |   An appropriate time period can be added even if the         |                                                           |
 |   exact date is unknown; however, time period is *only*       |                                                           |
-|   used for items that will display in The Portal to Texas     |                                                           |
-|   History                                                     |                                                           |
+|   used for items that will display in the Portal              |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -1014,7 +1021,7 @@ Note
    **Do you have additional information about the item that would be important for administrators or curators?**  For example:
    
    -    notes about information discrepancies or research related to the item
-   -    archival information about the photo's accession, preservation, location, etc.
+   -    archival information about the photo's accession, preservation, physical location, etc.
 
 
 +-----------------------------------------------------------+-----------------------------------------------------------+
@@ -1030,10 +1037,14 @@ Note
 |Examples of what these values might look like:                                                                         |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 |-  Creator name based on info online, including            |                                                           |
-|   photographer homepage                                   |                                                           |
+|   photographer homepage [link]                            |                                                           |
 |                                                           |                                                           |
-|-  It is unclear whether the location is the Brownwood in  |                                                           |
-|   Brown County or Orange County.                          |                                                           |
+|-  Two names were different in partner-entered metadata    |                                                           |
+|   from the list on the back of the photo: [names].        |                                                           |
+|                                                           |                                                           |
+|-  The photos were taken off a disc left by the former head|                                                           |
+|   of Archives. Label on disc read "Archives 2007 Treasures|                                                           |
+|   Exhib Files."                                           |                                                           |
 +-----------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More note guidelines </fields/note>`
@@ -1048,11 +1059,11 @@ if an exception might apply for a specific item:
 
 -   :doc:`primary source </fields/primary-source>` - photographs are generally considered primary sources (and this is usually pre-marked)
 -   :doc:`source </fields/source>` - source generally reflects a parent item if we separate a part (e.g., a map from a report)
--   :doc:`citation </fields/citation>` - this is used to parse citation components for items published as serials (like journal articles)
+-   :doc:`citation </fields/citation>` - this is mainly used to parse citation components for items published as serials (like journal articles)
 -   :doc:`relation </fields/relation>` - relationships connect two or more items in the Digital Collections when they are related in specific ways
 -   :doc:`collection </fields/collection>` and :doc:`institution </fields/institution>` - these fields are pre-set and should not be changed because
     they are used to provide editing access; you may lose permissions if you change these values
--   :doc:`rights </fields/rights>` - there is a general rights statement applied systemwide, so most rights information is only added
+-   :doc:`rights </fields/rights>` - there is a general, systemwide rights statement in the public interface, so most rights information is only added
     when there is something explicitly noted for the item
 -   :doc:`resource type </fields/resource-type>` - generally pre-set to "photograph"
 -   :doc:`format </fields/format>` - generally pre-set to "image" (format matches resource type)
@@ -1119,7 +1130,7 @@ Possible Exceptions
 |.. admonition:: Question                                   |-  Add any applicable parts:                               |-  *License:* `Attribution                                         |
 |                                                           |                                                           |   <https://gateway.okhistory.org/ark:/67531/metadc1771681/>`_     |
 |   **Did the photographer copyright or assign a Creative   |   -   *rights license*: choose "copyright" or the         |-  *Statement:* Please Credit: USDA--Soil Conservation             |
-|   Commons (CC) license?**                                 |       appropriate CC license from the list                |   Service                                                         |
+|   Commons (CC) license to the image?**                    |       appropriate CC license from the list                |   Service                                                         |
 +-----------------------------------------------------------+   -   *rights holder*: add the name of the person or      +-------------------------------------------------------------------+
 |.. admonition:: Question                                   |       organization that holds the copyright               |                                                                   |
 |                                                           |   -   *rights statement*: quote any explicit statement    |-  *License:* `Copyright                                           |
@@ -1144,7 +1155,7 @@ Completing the Record
 *********************
 -   Double-check the right side of the screen:
 
-    -   Are there any field counts in red?  (These are required fields that do not contain values)
+    -   Are there any field counts in red?  (These are *required* fields that have missing values.)
     -   Are there any warning messages?  (Check any fields that need review, resolve any issues for dates, subjects, etc.)
 
 -   Clicking the "Publish" button will save any changes you have made to the record
