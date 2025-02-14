@@ -335,6 +335,14 @@ Date
 |   or reproduction, the creation date should be when that      |   Date: Unknown"                                          |
 |   item was made, not the original (which will be reflected    |                                                           |
 |   as content/coverage)                                        |                                                           |
+|                                                               |                                                           |
+|                                                               |                                                           |
+|.. warning::                                                   |                                                           |
+|                                                               |                                                           |
+|   Dates must conform to the ISO Extended Date/Time Format     |                                                           |
+|   (ETDF) standard; a warning will display on the right side of|                                                           |
+|   the edit screen if a non-valid date is entered to alert     |                                                           |
+|   the editor that there is a problem                          |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
