@@ -489,10 +489,11 @@ Formatting Information
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | Extent                       | Phyiscal Details                   | Dimensions                  | Example(s)                       |
 +==============================+====================================+=============================+==================================+
-| *Books and printed text:*                                                                                                          |
+| *Books, printed text, handwritten manuscripts, etc.:*                                                                              |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | number of pages (# p.)       | illustrated? (ill.)                |   height in cm.             | | 30 p. ; 28 cm.                 |
 |                              |                                    |                             | | iv, 320 p. : ill. ; 23 cm.     |
+|                              |                                    |                             | | 25 p. : col. ill. ; 36 cm.     |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | *Photographs and 'graphic' items:*                                                                                                 |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
@@ -505,10 +506,6 @@ Formatting Information
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | number and kind of item      | | special kind (like 'blueprint')? | height x width in cm.       | | 1 map : blueprint ; 41 x 29 cm.|
 |                              | | color? (col., hand col.)         |                             | | 1 map : col. ; 26 x 20 cm.     |
-+------------------------------+------------------------------------+-----------------------------+----------------------------------+
-| *Manuscripts (handwritten items):*                                                                                                 |
-+------------------------------+------------------------------------+-----------------------------+----------------------------------+
-| number of pages (# p.)       | illustrated? (ill.)                | height in cm.               | 25 p. : col. ill. ; 36 cm.       |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
 | *Music (printed):*                                                                                                                 |
 +------------------------------+------------------------------------+-----------------------------+----------------------------------+
@@ -542,10 +539,9 @@ Additional Information
 
 * If you want to see the full guidelines for content description, see :ref:`this section <description-physical>` of the :doc:`Description </fields/description>` page
 * For more information about where to find physical information on an object, see :ref:`Where Can the Physical Description Information be Found? <description-psources>`
-* For additional guidelines regarding text materials, see :ref:`Books, pamphlets, and printed sheets <description-books>`
+* For additional guidelines regarding text materials, see :ref:`Books, pamphlets, handwritten documents, miscellaneous text <description-books>`
 * For additional guidelines regarding graphic materials, see :ref:`Photographs and other “graphic” materials <description-photos>`
 * For additional guidelines regarding maps (including atlases), see :ref:`Maps and other cartographic materials <description-maps>`
-* For additional guidelines regarding manuscripts, see :ref:`Manuscripts (maps, musical scores, and other documents that are handwritten) <description-manuscripts>`
 * For additional guidelines regarding sheet music, see :ref:`Music <description-music>`
 * For additional guidelines regarding audio recordings, see :ref:`Sound recordings <description-sound>`
 * For additional guidelines regarding video recordings, see :ref:`Motion pictures and videorecordings <description-video>`
