@@ -2,7 +2,7 @@
 Guided Instructions: Create Records for Photographs
 ===================================================
 
-This page refers to records for photographs, which may include:
+This page is applicable to records for all photograph types, which may include:
 
 -   images captured on film as negatives or positives (slides, transparencies)
 -   images printed from negatives on paper
@@ -357,6 +357,12 @@ Date
 |                                                               |                                                           |
 |-  `1955~                                                      |                                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth388344/>`_  |                                                           |
+|                                                               |                                                           |
+|-  `1940~/1948~                                                |                                                           |
+|   <https://gateway.okhistory.org/ark:/67531/metadc1624911/>`_ |                                                           |
+|                                                               |                                                           |
+|-  `197X                                                       |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth279225/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 *   :doc:`More date guidelines </fields/date>`
@@ -509,9 +515,13 @@ note on the back
 Physical Description
 ===================
 -   The physical description is not required, but is encouraged and is easy to include at least in part
--   There will generally be a placeholder entry labeled "physical description" in the record; details in the placeholder should
-    be checked for the individual photograph and changed (if different) or removed if they cannot be verified (e.g., if dimensions
+-   There will generally be a placeholder entry labeled "physical description" in the record
+-   Details in the placeholder should be checked for the individual photograph and changed (if different) or removed if they cannot be verified (e.g., if dimensions
     are unknown)
+    
+    -   Format is generally known from looking at the physical item, or from information documented about the image
+    -   Photos that have a single front and back are prints; negatives on glass or film, and born-digital images will only have a single image
+    -   Do not include format details if you do not have information available
 
 
 **Step 1.**  List the number of photograph(s)
