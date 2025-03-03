@@ -534,7 +534,7 @@ Physical Description
 -   *Occasionally* there might be more than one photo, e.g., multiple photos printed on or affixed to a page, two daguerreotypes in a case, etc.
 
 
-**Step 2.**  Add any details about format and color after " : "
+**Step 2.**  Add any known details about format and color after " : "
 
 -   Is this image any format other than a photo printed on paper?  E.g.:
 
