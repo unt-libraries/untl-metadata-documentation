@@ -14,7 +14,7 @@ This page is applicable to records for all photograph types, which may include:
 
 **How to use these instructions:**
 
--   This page walks step-by-step through creating a record for a photograph with yes/no questions 
+ 	-   This page walks step-by-step through creating a record for a photograph with yes/no questions 
     to guide how an editor should enter information for each field.
 -   Although it includes quite a bit of detail, there may be specific situations that are not covered 
     (e.g., formatting for unusual names, less common issues, etc.), so there are links to the full guidelines 
@@ -23,7 +23,8 @@ This page is applicable to records for all photograph types, which may include:
     may be other sources of information (e.g., a spreadsheet, finding aid, notes attached to items by donors
     or researchers, etc.), and should be incorporated appropriately.  For example, if a question says "do you
     know when the photograph was taken" the answer could be "yes" if you have it from a known source, even if
-    the date isn't written on the item.
+    the date isn't written on the item.  By default, only include information that you have available (vs. doing
+    research, adding contextual notes, or making assumptions).
 -   Example values link to public records but not everything in the full metadata will necessarily apply.
 -   In some cases, it may also help to look for similar items or collections that are already publicly visible.
 -   *Note:* If you are not familiar with the UNTL metadata editing system or have not used it recently, it may
