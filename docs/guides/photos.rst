@@ -951,33 +951,38 @@ Coverage
    **Do you know EXACTLY where the photograph was taken, e.g., an address or landmark?**
 
 
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Yes                                                            |No                                                         |
-+===============================================================+===========================================================+
-|-  Choose "Place Point" from the drop-down menu                |Do not include a coverage place point or box.              |
-|-  Use the Google map interface to drop a pin marking the      |                                                           |
-|   vantage point where the photo was taken (or the center      |                                                           |
-|   of a building for interior images)                          |                                                           |
-|-  IF the content encompasses a large area (usually applies    |                                                           |
-|   to aerial photos), choose "Place Box" and use the           |                                                           |
-|   Google map to draw a box that matches the area in the       |                                                           |
-|   image                                                       |                                                           |
-|                                                               |                                                           |
-|                                                               |                                                           |
-|.. note::                                                      |                                                           |
-|                                                               |                                                           |
-|   Coordinates are automatically entered by the system after a |                                                           |
-|   point or box is marked on the map interface                 |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|Examples of what these values might look like:                                                                             |
-+---------------------------------------------------------------+-----------------------------------------------------------+
-|-  `north=30.272512; east=-97.742635;                          |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth124027/>`_  |                                                           |
-|                                                               |                                                           |
-|-  `northlimit=32.759050; eastlimit=-96.804672;                |                                                           |
-|   southlimit=32.753781; westlimit=-96.822396;                 |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1411711/>`_ |                                                           |
-+---------------------------------------------------------------+-----------------------------------------------------------+
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|Yes                                                                |No                                                         |
++===================================================================+===========================================================+
+|-  Choose "Place Point" from the drop-down menu                    |Do not include a coverage place point or box.              |
+|-  Use the Google map interface to drop a pin marking the          |                                                           |
+|   vantage point where the photo was taken (or the center          |                                                           |
+|   of a building for interior images)                              |                                                           |
+|-  IF the content encompasses a large area (usually applies        |                                                           |
+|   to aerial photos), choose "Place Box" and use the               |                                                           |
+|   Google map to draw a box that matches the area in the           |                                                           |
+|   image                                                           |                                                           |
+|                                                                   |                                                           |
+|                                                                   |                                                           |
+|.. note::                                                          |                                                           |
+|                                                                   |                                                           |
+|   Coordinates are automatically entered by the system after a     |                                                           |
+|   point or box is marked on the map interface                     |                                                           |
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|Examples of what these values might look like:                                                                                 |
++-------------------------------------------------------------------+-----------------------------------------------------------+
+|-  `north=30.272512; east=-97.742635;                              |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth124027/>`_      |                                                           |
+|   (exterior point)                                                |                                                           |
+|                                                                   |                                                           |
+|-  `north=33.211013; east=-97.147041;                              |                                                           |
+|   <https://digital.library.unt.edu/ark:/67531/metapth1722459/>`_  |                                                           |
+|   (interior point)                                                |                                                           |
+|                                                                   |                                                           |
+|-  `northlimit=32.759050; eastlimit=-96.804672;                    |                                                           |
+|   southlimit=32.753781; westlimit=-96.822396;                     |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1411711/>`_     |                                                           |
++-------------------------------------------------------------------+-----------------------------------------------------------+
 
 
 *   :doc:`More coverage guidelines </fields/coverage>`
