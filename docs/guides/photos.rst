@@ -968,6 +968,14 @@ Coverage
 |                                                                   |                                                           |
 |   Coordinates are automatically entered by the system after a     |                                                           |
 |   point or box is marked on the map interface                     |                                                           |
+|                                                                   |                                                           |
+|.. note::                                                          |.. note::                                                  |
+|                                                                   |                                                           |
+|   Except in unusual circumstances -- such as a composite photo    |   Place boxes should not be used to mark an approximate   |
+|   with images of multiple locations -- there should be only a     |   area -- if the location where the photo was taken is    |
+|   single place point (if the image was taken from the ground or   |   unknown, do not include a place point or box            |
+|   inside a building) or a single place box (for an aerial view to |                                                           |
+|   show the bounds of the content in the image)                    |                                                           |
 +-------------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                                 |
 +-------------------------------------------------------------------+-----------------------------------------------------------+
