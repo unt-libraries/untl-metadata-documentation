@@ -629,6 +629,9 @@ Keywords & Names
 -   When a person is related to the content (e.g., John Smith's house) but not visible, the name can be a keyword
 -   Invert personal names (last, first); nicknames may be included in subjects (but not in creator/contributor)
 
+    -   Note that a named person can be only a surname if a full name is unknown (e.g., portrait of the Baxter family) but
+        *must* include a surname (e.g., not "Aunt Lydia")
+
 +---------------------------------------------------------------+---------------------------------------------------------------+
 |Examples of what these values might look like:                                                                                 |
 +---------------------------------------------------------------+---------------------------------------------------------------+
@@ -639,9 +642,10 @@ Keywords & Names
 |                                                               |                                                               |
 |-  `Gilreath, Tonia                                            |-  `Hard Luck Hank                                             |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1122306/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth45042/>`_   |
+|                                                               |                                                               |
+|-  `Marberry                                                   |                                                               |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1135986/>`_ |                                                               |
 +---------------------------------------------------------------+---------------------------------------------------------------+
-
-
 *   :ref:`More named subject guidelines <subject-animal>`
 
 
