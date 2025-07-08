@@ -537,6 +537,11 @@ Newsletter: Division Log, Number 7158, July 14, 1987
    -    *Place Name:* United States - Tarrant County - Fort Worth
    -    *Coverage Date:* 1978/1987-07-14
    -    *Time Period:* mod-tim: Into Modern Times, 1939-Present
+   
+[Heian Shrine]
+   -   *Place Name:* Japan - Kyoto Urban Prefecture - Kyōto Municipality - Kyoto
+   -   *Coverage Date:* 1978
+   -   *Place Point:* north=35.016377; east=135.782221;
 
 
 .. _coverage-comments:
