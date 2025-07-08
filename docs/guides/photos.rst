@@ -402,9 +402,8 @@ Language
 |-  `English                                                    |-  `No Language                                                |
 |   <https://texashistory.unt.edu/ark:/67531/metapth58010/>`_   |   <https://texashistory.unt.edu/ark:/67531/metapth10715/>`_   |
 |                                                               |                                                               |
-|-  `French                                                     |-  `No Language                                                |
+|-  `French                                                     |-  `No Language (names only)                                   |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1560372/>`_ |   <https://texashistory.unt.edu/ark:/67531/metapth556590/>`_  |
-|                                                               |   (names only)                                                |
 +---------------------------------------------------------------+---------------------------------------------------------------+
 
 *   :doc:`More language guidelines </fields/language>`
@@ -517,7 +516,7 @@ note on the back
 
 
 Physical Description
-===================
+====================
 -   The physical description is not required, but is encouraged and is easy to include at least in part
 -   There will generally be a placeholder entry labeled "physical description" in the record
 -   Details in the placeholder should be checked for the individual photograph and changed (if different) or removed if they cannot be verified (e.g., if dimensions
@@ -646,6 +645,7 @@ Keywords & Names
 |-  `Marberry                                                   |                                                               |
 |   <https://texashistory.unt.edu/ark:/67531/metapth1135986/>`_ |                                                               |
 +---------------------------------------------------------------+---------------------------------------------------------------+
+
 *   :ref:`More named subject guidelines <subject-animal>`
 
 
