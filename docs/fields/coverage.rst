@@ -276,7 +276,7 @@ Exceptions
 |                                                                               |                                             |
 |       -   For U.S. locations:                                                 |                                             |
 |                                                                               | | *LCSH:* Middle West                       |
-|           -   If an island does not have an appropriate administrative unit,  | | *Keyword:* Midwestern United States       |
+|           -   If an island does not have an appropriate administrative unit,  | | *Keyword:* Midwestern states              |
 |               use the format United States - {state} - {name} Island          |                                             |
 |           -   U.S. regions should be represented as subjects (e.g., Midwest,  |                                             |
 |               New England, etc.)                                              |                                             |
