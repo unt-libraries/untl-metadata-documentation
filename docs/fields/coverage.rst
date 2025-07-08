@@ -133,16 +133,16 @@ Place Name(s)
 |                                                                               | | England - Brighton and Hove Unitary          |
 |-  Begin with the largest ("country" level) and proceed to the smallest        |   Authority - Brighton                         |
 |   relevant geographical unit                                                  |                                                |
-|                                                                               | | Poland - Lower Silesia Province -            |
-|-  Unless it is a stated exception, the last unit should not be smaller than a |   Lubin County - Lubin Gmina - Lubin           |
+|                                                                               | | Poland - Lublin Province - Lubin County -    |
+|-  Unless it is a stated exception, the last unit should not be smaller than a |   Lubin                                        |
 |   "populated place" -- i.e., a city or town, not a neighborhood or section of |                                                |
 |   a populated place                                                           |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
-|-  Write out "County", "Parish", "Province", and other relevant descriptors,   | | Italy - Latium Region - Rome Province - Rome |
-|   but *not*:                                                                  |                                                |
-|                                                                               | | United States - Louisiana - Caddo Parish -   |
-|   -   state                                                                   |   Shreveport                                   |
-|   -   city/town designations for populated places, unless it is part of the   |                                                |
+|-  Write out "County", "Parish", "Province", and other relevant descriptors,   | | Italy - Lazio Region - Rome Metropolitan City|
+|   but *not*:                                                                  |   - Rome                                       |
+|                                                                               |                                                |
+|   -   state                                                                   | | United States - Louisiana - Caddo Parish -   |
+|   -   city/town designations for populated places, unless it is part of the   |   Shreveport                                   |
 |       official name, e.g., "Mexico City"                                      |                                                |
 |                                                                               |                                                |
 |-  For most places in the United States, this form should be used:             | | United States - Illinois - Cook County -     |
@@ -154,7 +154,7 @@ Place Name(s)
 |not include the parent nation in the hierarchy                                 |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |When item content covers continents rather than countries (e.g., maps), use    | | North America                                |
-|continent names based on the `CIA World Factbook                               | | Central America and Caribbean                |
+|continent names based on the `CIA World Factbook                               | | East & Southeast Asia                        |
 |<https://www.cia.gov/the-world-factbook/countries/world>`_ (also listed in the)|                                                |
 |:ref:`Comments <coverage-comments>` section                                    |                                                |
 +-------------------------------------------------------------------------------+------------------------------------------------+
@@ -239,7 +239,47 @@ Exceptions
 +-------------------------------------------------------------------------------+---------------------------------------------+
 |7. There is no need to include a descriptor such as "Department" or "National  | | France - Île-de-France Region -           |
 |   District" if it already appears in the name (Distrito Federal, etc.)        |   Département de Ville de Paris - Paris     |
-|                                                                               | | Portugal - Distrito de Lisboa - Lisbon    |
+|                                                                               |                                             |
+|                                                                               | | Venezuela - Distrito Federal - Libertador |
+|                                                                               |   Municipality - Caracas|                   |
++-------------------------------------------------------------------------------+---------------------------------------------+
+|8. In some rare instances, it may be appropriate to include geographic rather  | | Australia/Oceania                         |
+|   than administrative units according to these general guidelines:            +---------------------------------------------+
+|                                                                               | | *Coverage Place:* United States - Hawaii -|
+|   -   When content encompasses very large regions or the whole Earth (e.g.,   |   Honolulu County                           |
+|       world maps), continents may be included, as noted above                 | | *Keyword:* Oahu Island                    |
+|                                                                               |                                             |
+|   -   Generally prefer administrative units if there is an appropriate        |                                             |
+|       subdivision that applies or if an administrative unit is essentially    | | *Coverage Place:* Germany - Bavaria -     |
+|       equivalent to a geographic one; consider adding a subject heading or    |   Nuremberg Independent City - Nuremberg    |
+|       keyword to represent additional location names, e.g.:                   | | *LCSH:* Mittelfranken (Germany)           |
+|                                                                               | | *Keyword:* Middle Franconia Region        |
+|       -   Hokkaido Prefecture, not Hokkaido Island or Hokkaido Region (which  +---------------------------------------------+
+|           are essentially equivalent)                                         | | Russia - Siberia Region                   |
+|       -   San Francisco, not Treasure Island (essentially a neighborhood      |                                             |
+|           within the city)                                                    | | England - Bedfordshire Region             |
+|       -   Central America and Caribbean (region) vs. West Indies Region       |                                             |
+|           (*only* the Caribbean island group)                                 | | China - Namoa Island                      |
+|                                                                               |                                             |
+|   -   If a region or an island is the most appropriate location, it can be    | | Indonesia - South Kalimantan Province -   |
+|       used in place of an administrative division                             |   Pulau Laut                                |
+|                                                                               |                                             |
+|       -   For non-U.S. locations:                                             | | Borneo Island                             |
+|                                                                               +---------------------------------------------+
+|           -   List regions and islands in the format                          | | United States - Alaska - Kiska Island     |
+|               {country} - {name} Island or {country} - {name} Region          |                                             |
+|           -   Only include additional subdivisions when necessary to          | | United States - Hawaii - Molokai Island   |
+|               distinguish  different locations (e.g., a country that has two  |                                             |
+|               islands with the same name)                                     |                                             |
+|           -   If a geographic island is administratively split among multiple |                                             |
+|               countries, list only the island name                            | | *LCSH:* Northwest, Pacific                |
+|                                                                               |                                             |
+|       -   For U.S. locations:                                                 |                                             |
+|                                                                               | | *LCSH:* Middle West                       |
+|           -   If an island does not have an appropriate administrative unit,  | | *Keyword:* Midwestern United States       |
+|               use the format United States - {state} - {name} Island          |                                             |
+|           -   U.S. regions should be represented as subjects (e.g., Midwest,  |                                             |
+|               New England, etc.)                                              |                                             |
 +-------------------------------------------------------------------------------+---------------------------------------------+
 
 .. _coverage-historic:

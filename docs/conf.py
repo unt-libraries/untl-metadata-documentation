@@ -31,16 +31,11 @@ html_static_path = ['_static']
 html_title = "University Libraries - UNT"
 html_baseurl = "https://library.unt.edu/metadata/"
 html_favicon = "_static/images/favicon-32x32.png"
-html_show_sphinx = False # Hide the "Created using Sphinx" footer because it is not ARIA compliant
 
 # These paths are either relative to html_static_path
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/custom.css',
-]
-
-html_js_files = [
-    'js/custom.js',
 ]
 
 # Spelling check needs an additional module that is not installed by default.
