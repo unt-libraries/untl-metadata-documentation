@@ -1,0 +1,209 @@
+/* Accessibility: replace fixed px line-heights with unitless values */
+:root {
+    --lh-body: 1.5;
+    --lh-head: 1.2;
+    --lh-code: 1.45;
+}
+
+/* Global baseline */
+html {
+    line-height: var(--lh-body);
+}
+body,
+.rst-content {
+    line-height: inherit !important;
+}
+
+/* Body text and lists */
+.rst-content p,
+.rst-content li,
+.rst-content dd,
+.rst-content dt {
+    line-height: inherit !important;
+}
+
+/* Tables */
+.rst-content table,
+.rst-content td,
+.rst-content th,
+.wy-table,
+.wy-table td,
+.wy-table th {
+    line-height: inherit !important;
+}
+
+/* Headings */
+.rst-content h1,
+.rst-content h2,
+.rst-content h3,
+.rst-content h4,
+.rst-content h5,
+.rst-content h6 {
+    line-height: var(--lh-head) !important;
+}
+
+/* Code (inline and blocks) */
+.rst-content code,
+.rst-content tt,
+.rst-content pre,
+.rst-content div[class*="highlight"] pre {
+    line-height: var(--lh-code) !important;
+}
+
+/* Admonitions and blockquotes */
+.rst-content .admonition,
+.rst-content .admonition p,
+.rst-content blockquote {
+    line-height: inherit !important;
+}
+
+/* Navigation and sidebar */
+.wy-nav-top,
+.wy-nav-side,
+.wy-menu-vertical,
+.wy-menu-vertical a,
+.wy-menu-vertical .caption,
+.wy-side-nav-search {
+    line-height: var(--lh-body) !important;
+}
+
+/* Breadcrumbs and footer */
+.wy-breadcrumbs,
+footer,
+footer * {
+    line-height: inherit !important;
+}
+
+/* Forms (search field and button) — keep hit target while removing px line-height */
+.wy-side-nav-search input[type="text"],
+.wy-side-nav-search input[type="search"],
+.wy-side-nav-search button {
+    line-height: var(--lh-body) !important;
+    min-height: 2.25rem; /* ensure accessible target size */
+}
+
+/* Accessibility: replace fixed px font-sizes with scalable rem/em values */
+
+/* 1) Typographic scale (unitless line-heights defined above already) */
+:root {
+    /* Base follows user/browser settings (typically 16px). Do not change this. */
+    --fs-body: 1rem;
+    --fs-small: 0.9375rem;  /* small text when needed, still scalable */
+    --fs-mono: 0.95rem;
+
+    /* Responsive, but bounded, heading sizes */
+    --fs-h1: clamp(1.8rem, 1.2rem + 1.5vw, 2.4rem);
+    --fs-h2: clamp(1.5rem, 1.1rem + 1.0vw, 2.0rem);
+    --fs-h3: clamp(1.3rem, 1.05rem + 0.6vw, 1.6rem);
+    --fs-h4: 1.125rem;
+    --fs-h5: 1rem;
+    --fs-h6: 0.95rem;
+}
+
+/* 2) Respect user default size; ensure no upstream px locks it */
+html {
+    font-size: 100%; /* keep root scalable */
+}
+
+/* 3) Body and general text */
+body,
+.rst-content {
+    font-size: var(--fs-body) !important;
+}
+
+/* Paragraphs, lists, definition lists */
+.rst-content p,
+.rst-content li,
+.rst-content dd,
+.rst-content dt {
+    font-size: inherit !important;
+}
+
+/* 4) Headings */
+.rst-content h1 { font-size: var(--fs-h1) !important; }
+.rst-content h2 { font-size: var(--fs-h2) !important; }
+.rst-content h3 { font-size: var(--fs-h3) !important; }
+.rst-content h4 { font-size: var(--fs-h4) !important; }
+.rst-content h5 { font-size: var(--fs-h5) !important; }
+.rst-content h6 { font-size: var(--fs-h6) !important; }
+
+/* 5) Code and preformatted */
+.rst-content code,
+.rst-content tt,
+.rst-content pre,
+.rst-content div[class*="highlight"] pre {
+    font-size: var(--fs-mono) !important;
+}
+
+/* 6) Tables (cells and headers) */
+.rst-content table,
+.rst-content td,
+.rst-content th,
+.wy-table,
+.wy-table td,
+.wy-table th {
+    font-size: inherit !important;
+}
+
+/* 7) Navigation and sidebar */
+.wy-nav-top,
+.wy-nav-top a,
+.wy-nav-side,
+.wy-menu-vertical,
+.wy-menu-vertical a,
+.wy-menu-vertical .caption,
+.wy-side-nav-search {
+    font-size: var(--fs-body) !important;
+}
+
+/* 8) Breadcrumbs and footer */
+.wy-breadcrumbs,
+footer,
+footer * {
+    font-size: inherit !important;
+}
+
+/* 9) Forms (search field and button) */
+.wy-side-nav-search input[type="text"],
+.wy-side-nav-search input[type="search"],
+.wy-side-nav-search button {
+    font-size: var(--fs-body) !important;
+    /* min-height is set elsewhere for hit target; keep font scalable */
+}
+
+/* 10) Utility: smaller text helper (use sparingly) */
+.rst-content .small,
+.small {
+    font-size: var(--fs-small) !important;
+}
+
+/* Accessibility: Contrast ratio 7:1 or higher */
+a {
+    color: #005223;
+}
+
+a:hover,
+a:visited {
+    color: #003819;
+}
+
+.admonition.admonition-field-requirement .admonition-title {
+    background-color: #0b5394 !important;
+}
+
+.admonition.note .admonition-title {
+    background: #0E606C !important;
+}
+
+.wy-nav-side {
+    background-color: #252323 !important;
+}
+
+footer {
+    color: #545454;
+}
+
+/* Accessibility: Clearly identify links */
+footer a {
+    text-decoration: underline;
+}

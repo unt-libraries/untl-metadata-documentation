@@ -28,15 +28,6 @@
 
 
 /* Styling for better consistency with UNT Libraries site */
-a {
-    color: #005326;
-}
-
-a:hover,
-a:visited {
-    color: #00421e;
-}
-
 .document a {
     text-decoration: underline;
 }
@@ -52,14 +43,26 @@ a:visited {
 
 .wy-menu-vertical p.caption {
     color: #7AC143;
-    overflow: auto;
+    overflow: visible !important;
+    white-space: normal;
+    text-overflow: initial;
+    height: unset;
+    line-height: inherit; /* keep consistent with accessibility line-height */
+}
+
+/* Ensure long words don’t force overflow */
+.wy-menu-vertical p.caption .caption-text {
+    display: block;
+    overflow-wrap: anywhere; /* or 'break-word' for broader support */
 }
 
 .wy-menu-vertical a,
 .wy-menu-vertical a:hover,
 .wy-menu-vertical a:visited {
     color: #FFFFFF;
-    overflow: auto;
+    overflow: visible;
+    white-space: normal;
+    text-overflow: initial;
 }
 
 .rst-content .note .admonition-title {
@@ -68,8 +71,4 @@ a:visited {
 
 .rst-content .note {
     background: rgba(22, 162, 184, 0.25);
-}
-
-footer {
-    color: #595959;
 }
