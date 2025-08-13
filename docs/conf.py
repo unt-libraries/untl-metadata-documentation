@@ -36,8 +36,12 @@ html_favicon = "_static/images/favicon-32x32.png"
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/custom.css',
+    'css/accessibility.css',
 ]
 
+html_js_files = [
+    'js/custom.js',
+]
 # Spelling check needs an additional module that is not installed by default.
 # Add it only if spelling check is requested so docs can be generated without it.
 if "spelling" in sys.argv:
