@@ -21,3 +21,63 @@ document.addEventListener("DOMContentLoaded", function() {
     return 1; // Default to level 1 if no context is available
   }
 });
+
+/* Fix accessibility issues with docutils tables */
+function isOnlyArrows(text) {
+  return /^>+$/.test(text.replace(/\s+/g, ''));
+}
+
+function isVisuallyEmpty(node) {
+  // Consider empty if no text or only whitespace/non-breaking spaces/zero-width chars
+  const text = (node.textContent || '')
+    .replace(/\u00A0/g, ' ')     // nbsp
+    .replace(/[\u200B-\u200D\u2060]/g, '') // zero-width chars
+    .trim();
+  return text.length === 0;
+}
+
+function ensureHeaderName(th, fallback) {
+  // If the header is visually empty, give it an accessible name.
+  if (isVisuallyEmpty(th)) {
+    // Prefer aria-label (non-visual), fall back to visually hidden text node.
+    if (!th.hasAttribute('aria-label')) {
+      th.setAttribute('aria-label', fallback);
+    }
+    if (!th.querySelector('.visually-hidden')) {
+      const span = document.createElement('span');
+      span.className = 'visually-hidden';
+      span.textContent = fallback;
+      th.appendChild(span);
+    }
+  }
+  // Make sure it's scoped as a column header.
+  th.setAttribute('scope', 'col');
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  // Target only docutils tables rendered by Sphinx
+  document.querySelectorAll('table.docutils').forEach(function (table) {
+    const thead = table.querySelector('thead');
+    if (thead) {
+      const headers = Array.from(thead.querySelectorAll('tr:first-child > th'));
+      headers.forEach((th, i) => {
+        // Generic fallback: Column N
+        const fallback = ('Column ' + (i + 1));
+        ensureHeaderName(th, fallback);
+      });
+    }
+
+    // Mark purely decorative arrow cells as hidden from AT
+    table.querySelectorAll('tbody tr').forEach(function (tr) {
+      const cells = Array.from(tr.children);
+      if (cells.length === 0) return;
+      cells.forEach(function (cell) {
+        const text = (cell.textContent || '').trim();
+        if (isOnlyArrows(text)) {
+          cell.setAttribute('aria-hidden', 'true');
+          cell.setAttribute('role', 'presentation');
+        }
+      });
+    });
+  });
+});
