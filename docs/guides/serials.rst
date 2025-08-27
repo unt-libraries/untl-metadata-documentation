@@ -307,7 +307,7 @@ Every creator/contributor must include a type and role
 | - photographers                                                               |                                             |
 | - contributing authors                                                        |*Role:* Originator                           |
 |                                                                               +---------------------------------------------+
-|For formal journals, contributing writers are generally listed as contributors |*Name:* Klocko, Barbara A.                   |
+|For formal journals, contributing writers may be listed as contributors        |*Name:* Klocko, Barbara A.                   |
 |(role: author) with the title(s) of their contributions in the info portion of |                                             |
 |the field                                                                      |*Type:* Person                               |
 |                                                                               |                                             |
