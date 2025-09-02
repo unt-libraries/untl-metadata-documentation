@@ -1,6 +1,6 @@
-#########################
-Oral Histories Guidelines
-#########################
+#######################
+Oral History Guidelines
+#######################
 
 Guidelines to create metadata for oral histories and other interviews.
 
