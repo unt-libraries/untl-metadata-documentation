@@ -98,6 +98,7 @@ There are a number of tools built into the metadata editing system to assist wit
 
    /guides/serials
    /guides/correspondence
+   /guides/interviews
    /guides/photos
 
 .. toctree::
