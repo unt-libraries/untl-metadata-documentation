@@ -525,19 +525,18 @@ Note
    -   More :doc:`Note </fields/note>` formatting and examples
  
    
-
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 | **Guideline**                                             | **Examples**                                                      |
 +===========================================================+===================================================================+
-|-  Use a display note for any information not appropriate  | | Summary: Interview with A.W. Dupree, Jr. concerning his         |
-|   for other sections that would be useful for users (not  |   experiences as a resident of Hamilton Park, Texas from 1966 to  |
-|   required)                                               |   1990. Dupree discusses his youth in Dallas, his service in the  |
-|-  For items cataloged at UNT (or another library), catalog|   U.S. military during World War II, his musical career, his      |
-|   record notes may be included with their labels          |   decision to buy a home in Hamilton Park, home improvements,     |
-|                                                           |   church activities, the desegregation of Hamilton Park School,   |
-|                                                           |   Pacesetter, commercial encroachment, and the "Buy Out."         |
-|                                                           |                                                                   |
-|                                                           | | Contents: April 5, 1984 interview [leaves [1]-31] -- February   |
-|                                                           |   21, 1985 interview [leaves [32]-86] -- May 14, 1985 interview   |
-|                                                           |  [leaves [87]-160] -- May 31, 1985 interview [leaves [161]-290]   |
+|-  Use a display note for any information not appropriate  |Summary: Interview with A.W. Dupree, Jr. concerning his            |
+|   for other sections that would be useful for users (not  |experiences as a resident of Hamilton Park, Texas from 1966 to     |
+|   required)                                               |1990. Dupree discusses his youth in Dallas, his service in the     |
+|-  For items cataloged at UNT (or another library), catalog|U.S. military during World War II, his musical career, his         |
+|   record notes may be included with their labels          |decision to buy a home in Hamilton Park, home improvements,        |
+|                                                           |church activities, the desegregation of Hamilton Park School,      |
+|                                                           |Pacesetter, commercial encroachment, and the "Buy Out."            |
+|                                                           +-------------------------------------------------------------------+
+|                                                           |Contents: April 5, 1984 interview [leaves [1]-31] -- February      |
+|                                                           |21, 1985 interview [leaves [32]-86] -- May 14, 1985 interview      |
+|                                                           |[leaves [87]-160] -- May 31, 1985 interview [leaves [161]-290]     |
 +-----------------------------------------------------------+-------------------------------------------------------------------+
