@@ -4,6 +4,27 @@ UNT Technical Guidelines
 
 The pages in this section document technical and administrative aspects of UNT metadata.
 
+
+Identifier Management
+=====================
+UNT mints local identifiers for a number of uses, including all authority records.  For digital objects, 
+UNT uses ARKs (archival resource keys) appended directly to the associated public or administrative URL in the format:
+ark:/67531/{metaid}, where 67531 designates the organization (UNT) generating the ARK.
+
+Every metaid is unique and assigned sequentially, under several domains:
+
++-----------+-------------------------------+
+|Prefix     |Used for:                      |
++===========+===============================+
+|metapth    |The Portal to Texas History    |
++-----------+-------------------------------+
+|metadc     |UNT Digital Library &          |
+|           |Gateway to Oklahoma History    |
++-----------+-------------------------------+
+|coda       |BagIt information records      |
++-----------+-------------------------------+
+
+
 Authority Control
 =================
 UNT maintains a number of controlled vocabularies and authority files to
@@ -16,7 +37,7 @@ augment metadata creation, including:
 
 
 External Links
-==============
+--------------
 
     -   `UNTL Metadata Application Profile <https://github.com/unt-libraries/untl_map>`_
     -   `UNT Controlled Vocabularies <https://digital2.library.unt.edu/vocabularies/>`_
