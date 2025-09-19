@@ -589,7 +589,7 @@ situations that you might see in patents.
 |-  `Metadata summary view                                                |                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth165093/metadata>`__   |                                           |
 +-------------------------------------------------------------------------+-------------------------------------------+
-|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth858133/>` __      |-  two serial numbers                      |
+|`Plow. <https://texashistory.unt.edu/ark:/67531/metapth858133/>`__       |-  two serial numbers                      |
 |                                                                         |-  application/renewal date                |
 |-  `Metadata summary view                                                |                                           |
 |   <https://texashistory.unt.edu/ark:/67531/metapth858133/metadata>`__   |                                           |
