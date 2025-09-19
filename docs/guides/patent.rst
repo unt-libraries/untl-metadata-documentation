@@ -406,8 +406,10 @@ Subject
 |-  Only add LCSH terms if you are familiar with constructing   |-  Rubber stamps                           |
 |   them                                                        |-  Dyes and dyeing -- Equipment and        |
 |-  Note that subdivisions (when applicable) are separated with |   supplies                                |
-|   a double dash ( -- ); do not include "Patents" as a form    |                                           |
-|   subsidivision                                               |                                           |
+|   a double dash ( -- )                                        |                                           |
+|-  Do not include subdivisions that are duplicated in other    |                                           |
+|   fields, e.g., "Patents" as a form subdivision (type) or     |                                           |
+|   U.S./Texas as location subsidivisions (coverage)            |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 |KEYWORDS                                                                                                   |
 +---------------------------------------------------------------+-------------------------------------------+
@@ -421,6 +423,7 @@ Subject
 |   `USPTO Classification                                       |-  escapements                             |
 |   <https://www.uspto.gov/web/patents/classification/>`_       |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
+
 *   :doc:`More subject guidelines </fields/subject>`
 
 .. _patent-psource:
