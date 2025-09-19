@@ -628,3 +628,4 @@ Related Pages/Links
 
 - `Google Patents <https://patents.google.com/>`_
 - `LoC Authorities <https://id.loc.gov/>`_
+- `USPTO Classification <https://www.uspto.gov/web/patents/classification/>`_ (Classification Text Search)
