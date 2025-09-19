@@ -404,7 +404,10 @@ Subject
 +---------------------------------------------------------------+-------------------------------------------+
 |-  When relevant, add additional LCSH terms                    |-  Cotton-picking machinery                |
 |-  Only add LCSH terms if you are familiar with constructing   |-  Rubber stamps                           |
-|   them                                                        |                                           |
+|   them                                                        |-  Dyes and dyeing -- Equipment and        |
+|-  Note that subdivisions (when applicable) are separated with |   supplies                                |
+|   a double dash ( -- ); do not include "Patents" as a form    |                                           |
+|   subsidivision                                               |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
 |KEYWORDS                                                                                                   |
 +---------------------------------------------------------------+-------------------------------------------+
@@ -413,11 +416,11 @@ Subject
 |   proper names                                                |-  washing machines                        |
 |-  Consider using common spelling variations or synonyms for   |-  harvesters                              |
 |   words used in the patent text                               |-  ploughs                                 |
-|                                                               |-  comminution                             |
-|                                                               |-  pendant closures                        |
-|                                                               |-  escapements                             |
+|-  *Optionally* you may search the patent classification scheme|-  comminution                             |
+|   to see if there are terms that are appropriate as keywords: |-  pendant closures                        |
+|   `USPTO Classification                                       |-  escapements                             |
+|   <https://www.uspto.gov/web/patents/classification/>`_       |                                           |
 +---------------------------------------------------------------+-------------------------------------------+
-
 *   :doc:`More subject guidelines </fields/subject>`
 
 .. _patent-psource:
