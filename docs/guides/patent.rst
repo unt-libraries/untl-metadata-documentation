@@ -404,9 +404,9 @@ Subject
 +---------------------------------------------------------------+-------------------------------------------+
 |-  When relevant, add additional LCSH terms                    |-  Cotton-picking machinery                |
 |-  Only add LCSH terms if you are familiar with constructing   |-  Rubber stamps                           |
-|   them                                                        |-  Dyes and dyeing -- Equipment and        |
+|   them                                                        |-  Dyes and dyeing \-- Equipment and       |
 |-  Note that subdivisions (when applicable) are separated with |   supplies                                |
-|   a double dash ( -- )                                        |                                           |
+|   a double dash ( \-- )                                       |                                           |
 |-  Do not include subdivisions that are duplicated in other    |                                           |
 |   fields, e.g., "Patents" as a form subdivision (type) or     |                                           |
 |   U.S./Texas as location subsidivisions (coverage)            |                                           |
