@@ -23,7 +23,7 @@ About the Tools
 	reorganize information to help editors see outliers or values that do not match what is 
 	expected for the selected criteria
 	
--	Data values are compared across the system, but can be limited to specific critera 
+-	Data values are compared across the system, but can be limited to specific criteria 
 	(e.g., a resource type or collection) using the filters on the left side of the screen
 -	All tools provide information based on a field or field-qualifier combination
 

@@ -142,7 +142,7 @@ Related Links
 
 -   `New Record Creator`_
 
-    -   "Generic" templates for material types (not collection specifc)
+    -   "Generic" templates for material types (not collection specific)
     
         -   `Photos <https://edit.texashistory.unt.edu/nrc/new/?t=3691>`_
         -   `Letters <https://edit.texashistory.unt.edu/nrc/new/?t=3689>`_

@@ -443,7 +443,7 @@ Resource Type
 
 .. note::
 
-   -   More :doc:`Resoure Type </fields/resource-type>` formatting and examples
+   -   More :doc:`Resource Type </fields/resource-type>` formatting and examples
    
    
 -   For text: book (if bound) or text (if < 50 p./not bound)

@@ -12,7 +12,7 @@ The "Cluster" tool in the edit interface takes all of the values that match the 
 General Notes
 *************
 
--	Data values are compared across the system, but can be limited to specific critera 
+-	Data values are compared across the system, but can be limited to specific criteria 
 	(e.g., a resource type or collection) using the filters on the left side of the screen
 -	All tools provide information based on a field or field-qualifier combination, e.g.:
 
@@ -75,7 +75,7 @@ Here are some examples of what to check specifically in a collection or set of i
 -	For large collections, using different kinds of length options (e.g., tokens vs. characters) can be helpful, e.g.:
 
 	-	check names for extra components (e.g., educational suffixes like PhD)
-	-	group together long values that need to be reviewd or changed (subjects, titles, etc.)
+	-	group together long values that need to be reviewed or changed (subjects, titles, etc.)
 	-	any field where you expect to have the same number of components but not necessarily the same character length (e.g., names, controlled subject terms, etc.)
 
 

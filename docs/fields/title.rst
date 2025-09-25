@@ -161,8 +161,8 @@ General Title Rules
 
 .. _title-standardized:
 
-Standarized Titles
-------------------
+Standardized Titles
+-------------------
 -   For some materials, we often use a standardized format for convenience and consistency
 
     -   When dates are included in titles, they should be written out in "human readable" form

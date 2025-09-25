@@ -39,7 +39,7 @@ Main Title
 |-  Names may be abbreviated as initials, especially if the |   1874]                                                           |
 |   title is very long or the name is irregular             | | [Letter from Sterling Houston to San Antonio Light Editor -     |
 |-  Dates may be set off with a comma or dash, depending on |   August 15, 1990]                                                |
-|   which is clearer                                        | | [Letter fom T. L. James to D. W. Kempner - August 30, 1949]     |
+|   which is clearer                                        | | [Letter from T. L. James to D. W. Kempner - August 30, 1949]    |
 +-----------------------------------------------------------+-------------------------------------------------------------------+
 |-  When very little or no information is known, the title  | | [Letter from Raymond Cheung Regarding Internship]               |
 |   may include a reference to the content instead          | | [Letter to Jesse Grimes About Personal Topics]                  |
@@ -521,7 +521,7 @@ Resource Type
 
 .. note::
 
-   -   More :doc:`Resoure Type </fields/resource-type>` formatting and examples
+   -   More :doc:`Resource Type </fields/resource-type>` formatting and examples
    
    
 -   Original letters and transcripts should be labeled as "Letter" (text_letter)

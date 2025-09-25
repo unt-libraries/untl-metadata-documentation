@@ -643,7 +643,7 @@ Resources
 - `GeoNames Database <http://www.geonames.org/>`_
 - `Getty Thesaurus of Geographic Names <http://www.getty.edu/research/tools/vocabularies/tgn/>`_
 - `CIA World Factbook`_
-- `Member Countries of the European Union <http://europa.eu/about-eu/countries/member-countries/index_en.htm>`_
+- `Member Countries of the European Union <https://european-union.europa.eu/principles-countries-history/eu-countries_en>`_
 - `U.S. Census Bureau <https://data.census.gov>`_
 
 

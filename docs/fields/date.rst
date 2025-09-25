@@ -297,7 +297,7 @@ Non-Creation Dates
 
     -   For patents, the acceptance/approval date and creation date are the same. This may not be true for all items.
     
--   In certain cases, items cannot be made publicly available due to publisher requirements, privacy issues, or other strictures. The **Embargo Until Date** represents the first date that an item will become accessible to the public or a pre-specified user group. It is used in conjuction with an Embargo note.  See also :ref:`Rights Access <rights-access>`
+-   In certain cases, items cannot be made publicly available due to publisher requirements, privacy issues, or other strictures. The **Embargo Until Date** represents the first date that an item will become accessible to the public or a pre-specified user group. It is used in conjunction with an Embargo note.  See also :ref:`Rights Access <rights-access>`
 
 
 .. _date-examples:
