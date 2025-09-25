@@ -232,7 +232,7 @@ Glossary of Identifier Qualifiers
 |                               |Number                         +---------------------------------------------------------------+
 |                               |                               |ISBNs are defined in ISO Standard 2108                         |
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
-|ISSN                           |International Standard Serial  |An eight-digit number whch identifies periodical publications, |
+|ISSN                           |International Standard Serial  |An eight-digit number which identifies periodical publications,|
 |                               |Number                         |including electronic serials                                   |
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
 |LCCN                           |Library of Congress Control    |Coded numbers assigned by the Library of Congress to item      |
@@ -277,7 +277,7 @@ Glossary of Identifier Qualifiers
 |TXDOC                          |TxDoc Number                   |`Texas Document Classification                                 |
 |                               |                               |<http://www.tsl.state.tx.us/statepubs/classmanual.html>`_      |
 |                               |                               |(TxDoc) numbers are assigned to Texas state documents as unique|
-|                               |                               |identifiers for publications of teh state government           |
+|                               |                               |identifiers for publications of the state government           |
 +-------------------------------+-------------------------------+---------------------------------------------------------------+
 |UNT-TITLE-ID                   |UNT Title Identifier           |A unique number corresponding to a series or serial title      |
 |                               |                               |record in the Digital Collections (primarily used when a       |
