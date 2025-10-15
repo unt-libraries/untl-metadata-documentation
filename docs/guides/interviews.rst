@@ -141,7 +141,7 @@ Publisher
 
    -   Only used when the interview is formally published
 
-   -   More :doc:`Date </fields/date>` formatting and examples 
+   -   More :doc:`Publisher </fields/publisher>` formatting and examples 
 
 
 +-----------------------------------------------------------+-------------------------------------------------------------------+
