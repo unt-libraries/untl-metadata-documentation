@@ -9,7 +9,7 @@ This page is applicable to text materials that are not formally published, which
 -	financial documents, such as receipts, invoices, bills, checks, balance sheets, etc.
 -   legal documents (e.g., affadavits, warrants, deeds, etc.)
 -   personal or organizational notes
--   semi-formal notes or recors (e.g., a ledger or notebook published as a pre-printed 
+-   semi-formal notes or records (e.g., a ledger or notebook published as a pre-printed 
     blank book with handwritten or typewritten entries)
 -   most handwritten notes
 
@@ -91,8 +91,8 @@ Title
 |   This is fairly uncommon, but some text may have a heading   |       appropriateness):                                                       |
 |   or title written by the author; if it is too ambiguous, a   |                                                                               |
 |   clearer title may be added in [square brackets] as the main |       -   [Program: event, date]                                              |
-|   title, with the heading on the text as an added title       |       -   [Invoice/Receipt for item/summary]                                  |
-|                                                               |       -   [Receipt for amount/from date]                                      |
+|   title, with the heading on the text as a second entry,      |       -   [Invoice/Receipt for item/summary]                                  |
+|   labeled "added title"                                       |       -   [Receipt for amount/from date]                                      |
 |                                                               |       -   [Documents Related to name v. name, Cause No. #]                    |
 |                                                               |       -   [Financial Records of organization: YYYY-YYYY]                      |
 |                                                               |                                                                               |
@@ -108,13 +108,20 @@ Title
 |                                                               |-  `[Commencement Program for North Texas State Teachers College, Summer 1942] |
 |                                                               |   <https://digital.library.unt.edu/ark:/67531/metadc174837/>`_                |
 |                                                               |                                                                               |
+|                                                               |-  `[Receipt from Railway Express Agency, December 17, 1953 #2]                |
+|                                                               |   <https://texashistory.unt.edu/ark:/67531/metapth1471854/>`_                 |
 |                                                               |                                                                               |
+|                                                               |-  `[Arrest Warrant: G. A. Staacke]                                            |
+|                                                               |   <https://texashistory.unt.edu/ark:/67531/metapth876025/>`_                  |
+|                                                               |                                                                               |
+|                                                               |-  `[News Script: 6 p.m. Sports - June 2, 1970]                                |
+|                                                               |   <https://texashistory.unt.edu/ark:/67531/metadc1264907/>`_                  |
 +---------------------------------------------------------------+-------------------------------------------------------------------------------+
 
 
 .. admonition:: Question
    
-   **Does the item belong to an archival series?**
+   **Does the item belong to an archival series or a group of items in a formal or informal series?**
 
 
 +---------------------------------------------------------------+-----------------------------------------------------------+
@@ -128,17 +135,23 @@ Title
 |                                                               |                                                           |
 |.. note::                                                      |                                                           |
 |                                                               |                                                           |
-|   It is uncommon to have multiple titles for most text items  |                                                           |
-|   unless they are part of archival collections                |                                                           |
+|   Unpublished text items may occasionally have applicable     |                                                           |
+|   topical series titles if the content relates explicitly to a|                                                           |
+|   specific fiscal or academic year, legislative session, etc. |                                                           |
+|   See: :doc: `series titles </guides/serials>` for more       |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  `Catherine Parker Collection                                |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metapth1177038/>`_ |                                                           |
+|-  `Congregation Beth Yeshurun of Houston records (MS 722)     |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1353599/>`_ |                                                           |
 |                                                               |                                                           |
-|-  `Molly Behannon Collection                                  |                                                           |
-|   <https://texashistory.unt.edu/ark:/67531/metadc1484116/>`_  |                                                           |
+|-  `Academic Year 1924                                         |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth1719034/>`_ |                                                           |
+|                                                               |                                                           |
+|-  `Michael Reed Papers                                        |                                                           |
+|   <https://texashistory.unt.edu/ark:/67531/metapth880948/>`_  |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
+
 
 *   :doc:`More title guidelines </fields/title>`
 
