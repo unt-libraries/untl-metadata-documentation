@@ -81,3 +81,24 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 });
+
+// Make unique titles for header permalinks
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.headerlink').forEach(a => {
+    const parent = a.parentElement;
+    if (!parent) return;
+
+    const clone = parent.cloneNode(true);
+    const cloneLink = clone.querySelector('.headerlink');
+    if (cloneLink) cloneLink.remove();
+
+    let text = (clone.textContent || '').replace(/\s+/g, ' ').trim();
+    if (!text) return;
+
+    if (text.length > 120) text = `${text.slice(0, 117)}...`;
+    const title = `Permalink to "${text}"`;
+
+    a.setAttribute('title', title);
+    a.setAttribute('aria-label', title);
+  });
+});
