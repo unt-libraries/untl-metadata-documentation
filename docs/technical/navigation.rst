@@ -191,7 +191,7 @@ might identify as possible problems.
 +--------------------------------------------------------------------+--------------------------------------------------------------------+
 |.. image:: ../_static/images/flag-5.png                             |The title field is flag due to characters that *may* be placeholders|
 |   :alt: Screenshot of the title field flagged in the overview      |but in this case, the "uniform" title is used to represent the      |
-|                                                                    |general pattern for a serial title and may have gaps for informaiton|
+|                                                                    |general pattern for a serial title and may have gaps for information|
 |.. image:: ../_static/images/highlight-5.png                        |that is different in individual issues/years                        |
 |   :alt: Screenshot of the title field with highlighting            |                                                                    |
 +--------------------------------------------------------------------+--------------------------------------------------------------------+
