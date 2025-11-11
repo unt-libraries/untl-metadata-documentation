@@ -134,8 +134,8 @@ Below the edit timeline there is a full, condensed view of the metadata record; 
    :alt: Screenshot of the summary record
 
 
-At the far right part of each field in the condensed view there is a button to open the record to that field.  
-On the far left there are two buttons to either search for the first instance of the value in the edit view or copy the value to your clipboard:
+At the far left part of each field in the condensed view there is a button to open the record to that field.  
+On the far right there are two buttons to either search for the first instance of the value in the edit view or copy the value to your clipboard:
 
 +----------------------------------------------------------------+--------------------------------------------------------------+---------------------------------------------------------------+
 |.. image:: ../_static/images/summary-edit.png                   |.. image:: ../_static/images/summary-find.png                 |.. image:: ../_static/images/summary-copy.png                  |
