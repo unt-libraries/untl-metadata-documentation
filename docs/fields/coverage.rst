@@ -622,22 +622,23 @@ Based on the browse features in the `CIA World Factbook`_ the following countrie
 |                         |- Vietnam                      |                                       |
 +-------------------------+-------------------------------+---------------------------------------+
 
-The following locations are encompassed within the Australia/Oceania region:
 
 +-------------------------+-------------------------------+---------------------------------------+
-| - American Samoa        |- Guam                         |- Pitcairn Islands                     |
-| - Ashmore and Cartier   |- Kiribati                     |- Samoa                                |
-|   Islands               |- Marshall Islands             |- Solomon Islands                      |
-| - Australia             |- Micronesia (Federated States)|- Tokelau                              |
-| - Christmas Island      |- Nauru                        |- Tonga                                |
-| - Cocos (Keeling)       |- New Caledonia                |- Tuvalu                               |
-|   Islands               |- New Zealand                  |- United States Pacific Island Wildlife|
-| - Cook Islands          |- Niue                         |  Refuges                              |
-| - Coral Sea Islands     |- Norfolk Island               |- Vanuatu                              |
-| - Fiji                  |- Northern Mariana Islands     |- Wake Island                          |
-| - French Polynesia      |- Palau                        |- Wallis and Futuna                    |
+|These locations are included within the Australia/Oceania region:                                |
++=========================+===============================+=======================================+
+| - American Samoa        |- Kiribati                     |- Pitcairn Islands                     |
+| - Ashmore and Cartier   |- Marshall Islands             |- Samoa                                |
+|   Islands               |- Micronesia (Federated States)|- Solomon Islands                      |
+| - Australia             |- Nauru                        |- Tokelau                              |
+| - Christmas Island      |- New Caledonia                |- Tonga                                |
+| - Cocos (Keeling)       |- New Zealand                  |- Tuvalu                               |
+|   Islands               |- Niue                         |- United States Pacific Island Wildlife|
+| - Cook Islands          |- Norfolk Island               |  Refuges                              |
+| - Coral Sea Islands     |- Northern Mariana Islands     |- Vanuatu                              |
+| - Fiji                  |- Palau                        |- Wake Island                          |
+| - French Polynesia      |                               |- Wallis and Futuna                    |
+| - Guam                  |                               |                                       |
 +-------------------------+-------------------------------+---------------------------------------+
-
 
 :ref:`Back <coverage-place>` to Coverage Place Names
 
