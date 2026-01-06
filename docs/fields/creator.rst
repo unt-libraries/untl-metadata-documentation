@@ -255,7 +255,7 @@ Organization Names
 +-----------------------------------------------------------+---------------------------------------+
 |-  Use the name as it appears in the item                  |Dallas Heritage Village                |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Do not invert personal names that are parts of          |R. L. Polk & Co.                       |
+|-  Do not invert personal names that are parts of          |Don Shugart Photography                |
 |   organizational names                                    |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Write out names rather than using acronyms              |Monsoon Asia Integrated Regional Study |
@@ -266,7 +266,8 @@ Organization Names
 |   starting at the highest level and ending with the most  |of Industrial Arts.                    |
 |   specific                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Separate the elements of the hierarchy with periods     |Dallas (Tex.). Police Department.      |
+|-  Separate the elements of the hierarchy with periods and |Dallas (Tex.). Police Department.      |
+|   end with a period if there are multiple parts           |                                       |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Preface the name of government agencies with the name of|Washington (State). State Building Code|
 |   the country or state                                    |Advisory Council. Energy Code          |
