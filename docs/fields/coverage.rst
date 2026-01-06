@@ -622,6 +622,23 @@ Based on the browse features in the `CIA World Factbook`_ the following countrie
 |                         |- Vietnam                      |                                       |
 +-------------------------+-------------------------------+---------------------------------------+
 
+The following locations are encompassed within the Australia/Oceania region:
+
++-------------------------+-------------------------------+---------------------------------------+
+| - American Samoa        |- Guam                         |- Pitcairn Islands                     |
+| - Ashmore and Cartier   |- Kiribati                     |- Samoa                                |
+|   Islands               |- Marshall Islands             |- Solomon Islands                      |
+| - Australia             |- Micronesia (Federated States)|- Tokelau                              |
+| - Christmas Island      |- Nauru                        |- Tonga                                |
+| - Cocos (Keeling)       |- New Caledonia                |- Tuvalu                               |
+|   Islands               |- New Zealand                  |- United States Pacific Island Wildlife|
+| - Cook Islands          |- Niue                         |  Refuges                              |
+| - Coral Sea Islands     |- Norfolk Island               |- Vanuatu                              |
+| - Fiji                  |- Northern Mariana Islands     |- Wake Island                          |
+| - French Polynesia      |- Palau                        |- Wallis and Futuna                    |
++-------------------------+-------------------------------+---------------------------------------+
+
+
 :ref:`Back <coverage-place>` to Coverage Place Names
 
 
