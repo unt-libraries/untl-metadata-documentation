@@ -262,8 +262,8 @@ Organization Names
 |   starting at the highest level and ending with the most  |in the Social Sciences.                |
 |   specific                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Separate the elements of the hierarchy with periods     |Osk Ridge National Laboratory. Chemical|
-|                                                           |Technology Division.                   |
+|-  Separate the elements of the hierarchy with periods and |Oak Ridge National Laboratory. Chemical|
+|   end with a period if there are multiple parts           |Technology Division.                   |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Preface the name of government agencies with the name of|Martin County (Fla.). Board of         |
 |   the country or state                                    |Commissioners.                         |
