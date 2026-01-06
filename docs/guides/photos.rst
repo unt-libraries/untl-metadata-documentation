@@ -883,8 +883,8 @@ Coverage
 |   A single photo can only have content from one location.     |                                                           |
 |   If an image may have been taken in multiple possible        |                                                           |
 |   locations, use a less specific place if there is a          |                                                           |
-|   common denominator and add a display note with more         |                                                           |
-|   details.                                                    |                                                           |
+|   common denominator and explain in the content description or|                                                           |
+|   add a display note with more  details.                      |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Examples of what these values might look like:                                                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
