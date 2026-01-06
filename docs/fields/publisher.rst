@@ -104,8 +104,8 @@ Publisher Names
 |   starting at the highest level and ending with the most  |Primary Helicopter School.             |
 |   specific                                                |                                       |
 +-----------------------------------------------------------+---------------------------------------+
-|-  Separate the elements of the hierarchy with periods     |American Chemical Society. Division of |
-|                                                           |Chemical Information.                  |
+|-  Separate the elements of the hierarchy with periods and |American Chemical Society. Division of |
+|   end with a period if there are multiple parts           |Chemical Information.                  |
 +-----------------------------------------------------------+---------------------------------------+
 |-  Preface the name of government agencies with the name of|Texas. Legislature. Senate. Committee  |
 |   the country or state                                    |on Transportation.                     |
