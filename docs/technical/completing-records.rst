@@ -32,7 +32,7 @@ The primary goal when we create metadata in the Digital Collections is to help u
 
 -   Some information primarily describes what the item is and how it was made -- e.g., creator, contributor, publisher, creation date, resource type
 -   Some fields primarily describe what kind of content the item has and whether it will be useful to the user -- e.g., content description, subjects, coverage
--   We mainly try not keep this information separate and not duplicate it across these fields
+-   We mainly try to keep this information separate and not duplicate it across these fields
 -   *Occasionally* information in could overlap and may be duplicated to reflect that in *specific* cases, e.g.:
 
     -   A self-portrait is made by the person who is in the image (creator and named person would be the same)
@@ -44,7 +44,7 @@ The primary goal when we create metadata in the Digital Collections is to help u
 -   We want information to be added consistently because there may be overlap between items in different collections or we may want to use the values for interface features
 
     -   Values entered in some fields are used for filtering and browsing (e.g., explore by...location, subject, date, etc.), but this relies on standardized formatting
-    -   Many types of values are "clickable" in records if a user wants to find "more items" that have the same subject, the same creator, are in the same series etc. -- 
+    -   Many types of values are "clickable" in records if a user wants to find "more items" that have the same subject, the same creator, from the same series etc. -- 
         but this only works if terms are entered the same way -- and these often apply across items described by many different people
 
 **Where Should I Even Start?**
@@ -106,7 +106,7 @@ General Considerations
 A couple of notes about entering metadata and records in general:
 
 * There is no way to add mark-up or styling to any of the text in metadata fields (e.g., italics or bold)
-* Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.)
+* Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.) -- this does not apply to diacritic markings, if they apply
 * Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed
 
 
@@ -120,7 +120,13 @@ Editing Records
 Completing Records from Templates
 =================================
 
-Most records are uploaded with at least some pre-filled values or placeholders and may also have notes or reminders.  The goal of these values is to save time so that editors don't have to enter the same value frequently (e.g., if all of the items in a collection have the same creator) and placeholders are intended to: [1] highlight information that is required or expected for the record (e.g., titles or descriptions), [2] remind editors to check whether information applies to a specific item, especially for less-frequently-used fields (like source, which may apply to clippings), and [3] to suggest formatting or values for greater consistency (e.g., subject values from controlled vocabularies that may apply).  
+Most records are uploaded with at least some pre-filled values or placeholders and may also have notes or reminders.  The goal of these values is to save time so that editors don't have to enter the same value frequently (e.g., if all of the items in a collection have the same creator) and placeholders are intended to: 
+
+[1] highlight information that is required or expected for the record (e.g., titles or descriptions) 
+
+[2] remind editors to check whether information applies to a specific item, especially for less-frequently-used fields (like source, which may apply for certain items like clippings)
+
+[3] to suggest formatting or values for greater consistency (e.g., subject values from controlled vocabularies that may apply) 
 
 
 
