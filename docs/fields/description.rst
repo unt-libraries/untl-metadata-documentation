@@ -178,7 +178,7 @@ Other suggestions:
 |When referring to a company, organization, school, military installation, etc.,|Photograph of the central stairs inside the North Texas State      |
 |the abbreviated version of the name can be used, but the full name must appear |University A. M. Willis, Jr. Library. The photograph was taken on  |
 |at least once in the record (preferably the content description or as a        |the first floor looking up at the second.                          |
-|:ref:`keyword <subject-keywords>`                                              +-------------------------------------------------------------------+
+|:ref:`keyword <subject-keywords>`)                                             +-------------------------------------------------------------------+
 |                                                                               |*Description:* Postcard of buildings at Ft. McIntosh [...]         |
 |                                                                               |                                                                   |
 |                                                                               |*Keyword:* Fort McIntosh                                           |
@@ -186,7 +186,7 @@ Other suggestions:
 |Regarding contextual information (e.g., about a person or place in an image):  |*Description:* Portrait of Elwin L, Skiles, who was president of   |
 |                                                                               |Hardin-Simmons University from 1966 to 1977.  He is visible from   |
 | - Brief amounts of information may be incorporated into the description,      |from the shoulders up and is wearing a dark-colored suit with a    |
-|   particularly if it si relevant to the specific image/item and if the        |tie that has diagonal stripes.                                     |
+|   particularly if it is relevant to the specific image/item and if the        |tie that has diagonal stripes.                                     |
 |   description is not already lengthy                                          +-------------------------------------------------------------------+
 | - Generally, add contextual statements (e.g., biographies, history of building|*Display Note:* Additional biographical description from           |
 |   ownership, name or location changes, event details, etc.) in a              |accompanying information: Ida Loving Turner was a chosen delegate  |
