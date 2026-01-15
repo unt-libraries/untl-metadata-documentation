@@ -117,7 +117,7 @@ How Should the Content Description be Filled in?
 |For general text                                                                                                                                   |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |Give a brief overview of the topic and what information is included            |Biography of Alexander Gregg, including background information     |
-|                                                                               |about his family sa well as a sketch of his life and involvement in|
+|                                                                               |about his family as well as a sketch of his life and involvement in|
 |                                                                               |the church throughout his career until his death in 1893.          |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |For letters                                                                                                                                        |
@@ -127,7 +127,7 @@ How Should the Content Description be Filled in?
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |For postcards                                                                                                                                      |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
-|Describe them as photographs/images if there is nothing written on the back    |Postcard depicting tents of the New Hampshire camp at Ft. McIntosh |
+|Describe them as photographs/images if there is nothing written on the back    |Postcard image of tents in the New Hampshire camp at Ft. McIntosh  |
 |on the back                                                                    |in Laredo, Texas.                                                  |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 |If the postcard has a message on the back, describe the image and the          |Postcard of the Custom House building in Nuevo Laredo, Mexico.  A  |
@@ -188,9 +188,9 @@ Other suggestions:
 | - Brief amounts of information may be incorporated into the description,      |from the shoulders up and is wearing a dark-colored suit with a    |
 |   particularly if it si relevant to the specific image/item and if the        |tie that has diagonal stripes.                                     |
 |   description is not already lengthy                                          +-------------------------------------------------------------------+
-| - Generally, add contextual statements(e.g., biographies, history of building |*Display Note:* Additional biographical description from           |
-|   ownership, name or location changes, event details, etc.) in a [display     |accompanying information: Ida Loving Turner was a chosen delegate  |
-|   note][] instead of the description                                          |from Texas to represent the Board of Lady Managers at the 1893     |
+| - Generally, add contextual statements (e.g., biographies, history of building|*Display Note:* Additional biographical description from           |
+|   ownership, name or location changes, event details, etc.) in a              |accompanying information: Ida Loving Turner was a chosen delegate  |
+|   :ref:`display note <note-display>` instead of the description               |from Texas to represent the Board of Lady Managers at the 1893     |
 |                                                                               |World's Columbian Exposition in Chicago.  She served as            |
 |                                                                               |Postmistress in Fort Worth; one of the founders of of Fort Worth   |
 |                                                                               |Children's Hospital (now [2018] Cook County Children's Hospital);  |
