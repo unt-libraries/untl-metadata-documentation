@@ -84,7 +84,7 @@ For example, if you only have access to records that are hidden, you won't see t
 Above the list, there is a search box, if you are looking for a specific title, identifier, etc. in a collection.  
 You can also sort the list of items by creation date or upload date or use the radio buttons to change how many records display on each page.
 
-For an outline of the various features and options that display on the Dashboard, see :doc:`Using the UNTL Editing System <technical/navigation>`.
+For an outline of the various features and options that display on the Dashboard, see :doc:`Using the UNTL Editing System </technical/navigation>`.
 
 Once you find a record that you want to look at or edit in the list, you can click on the thumbnail or title to open the summary page or click the "Edit" button to jump directly to the edit screen.
 
@@ -101,12 +101,12 @@ The record summary is an intermediary view that lets you review a record/item wi
 You can skip directly to editing (by clicking the "Edit" button on the Dashboard), 
 but if you are still learning the system or working with a new collection, it may be helpful to look at the summary first.
     
-There is a full explanation of the :ref:`summary page features <technical/navigation.html#record-summary>`.
+There is a full explanation of the :ref:`summary page features </technical/navigation.html#record-summary>`.
 
 One thing that may be helpful is to scroll down and look at the summary record.  What information is already there?  What placeholder values are in the record?  
 Is there any information that looks incorrect/misspelled, etc.?  Has the system flagged anything that needs to be reviewed in the record?
 
-There is an explanation about placeholder values in the :doc:`Completing Metadata <technical/completing-records>` page.
+There is an explanation about placeholder values in the :doc:`Completing Metadata </technical/completing-records>` page.
 
 The record summary is also useful when you complete a record, since the brief record view is sometimes easier to skim, if you want to double-check what you've entered.
 
@@ -125,17 +125,17 @@ This lock will clear if you publish the record, but it will also automatically e
 
 We have more information about editing records in several places:
 
--   For an overview of the features and options in the edit view, see :ref:`Record Edit Form <technical/navigation.html#record-edit-form>`
--   If you want some general information about metadata work in our system, see :doc:`Completing Metadata <technical/completing-records>`
--   To get an introduction to *entering* metadata (i.e., field usage and formatting), see the :doc:`UNTL Metadata Quick Start Guide <guides/quick-start-guide>`
+-   For an overview of the features and options in the edit view, see :ref:`Record Edit Form </technical/navigation.html#record-edit-form>`
+-   If you want some general information about metadata work in our system, see :doc:`Completing Metadata </technical/completing-records>`
+-   To get an introduction to *entering* metadata (i.e., field usage and formatting), see the :doc:`UNTL Metadata Quick Start Guide </guides/quick-start-guide>`
 
 
 Also note that we may have collection- or material-specific guidelines that are a good place to start, when applicable, including:
 
--   :doc:`Serials <guides/serials>` (newsletters, yearbooks, annual reports, etc.)
--   :doc:`Correspondence <guides/correspondence>`
--   :doc:`Oral histories <guides/interviews>` (and interviews)
--   :doc:`Photographs <guides/photos>`
+-   :doc:`Serials </guides/serials>` (newsletters, yearbooks, annual reports, etc.)
+-   :doc:`Correspondence </guides/correspondence>`
+-   :doc:`Oral histories </guides/interviews>` (and interviews)
+-   :doc:`Photographs </guides/photos>`
 
 
 All of the documentation is listed on the left side menu if you scroll down to the section that you're looking for, like "Project-Specific Guidelines" or "Technical Guidelines."
@@ -176,7 +176,7 @@ If there is a problem with an item, it should remain hidden (or be re-hidden dep
 Always add an explanatory note to the main title so that other editors or administrators can see the message from the Dashboard view and easily find these items.
 
 
-For examples of title notes, see :ref:`Issues with Items or Records <technical/completing-records.html#issues-with-items-or-records>`
+For examples of title notes, see :ref:`Issues with Items or Records </technical/completing-records.html#issues-with-items-or-records>`
 
 
 There are a couple of general categories of problems.  In each case, you should include information in the title to explain what the issue is/why the record is hidden.
@@ -200,7 +200,7 @@ Other Information
 This guide provides a very brief overview of the process to edit (getting an account, finding a record, editing the metadata, publishing to save changes), 
 but it will likely be helpful to review other documentation as you become familiar with the system.
 
-Once you have been editing for a while, it may also be helpful to review the documentation about :doc:`Quality Control in Metadata <tools/metadata-tools>` 
+Once you have been editing for a while, it may also be helpful to review the documentation about :doc:`Quality Control in Metadata </tools/metadata-tools>` 
 to learn how the system's edit tools may help you check your work or review records across a collection.
 
 Also note that we add new documentation and update existing pages periodically, so make sure to check back, especially if you have a new project.
