@@ -48,7 +48,7 @@ The text will contain a link to register your account by choosing a password.  N
     username/password is not connected to your euid or any other account
 -   After registering, the link in the e-mail will no longer work
 
-The form will automatically redirect you to the main Dashboard view for the edit system.  It can also be accessed directly by adding "edit." in front of the URL for the particular system where you are editing:
+The form will automatically redirect you to the main Dashboard view for the edit system.  After your account is registered, you can also access the Dashboard directly by adding "edit." in front of the URL for the particular system where you are editing:
 
 -   https://edit.texashistory.unt.edu/  (Portal)
 -   https://edit.digital.library.unt.edu/  (Digital Library)
@@ -74,6 +74,9 @@ Dashboard
 
 The default when you log into the edit system is the Dashboard, or "Search" view, which displays a list of the records that you have permission to edit.  
 
+.. image:: ../_static/images/dashboard.png
+   :alt: Screenshot of the edit Dashboard
+
 The left side of the screen will list "Available Filters" to let you limit the display list by specific criteria, like "only records that are hidden" or "only records for photographs."  
 The filters and criteria only display when there are multiple options, so your view will vary.  
 For example, if you only have access to records that are hidden, you won't see the "Visibility" filter until some records are publicly visible.
@@ -91,7 +94,13 @@ Once you find a record that you want to look at or edit in the list, you can cli
 Record Summary
 ==============
 
-The record summary is an intermediary view that lets you review a record/item without editing the metadata.  You can skip directly to editing (by clicking the "Edit" button on the Dashboard), 
+The record summary is an intermediary view that lets you review a record/item without editing the metadata.  
+
+.. image:: ../_static/images/record-summary.png
+   :alt: Screenshot of a record summary
+
+
+You can skip directly to editing (by clicking the "Edit" button on the Dashboard), 
 but if you are still learning the system or working with a new collection, it may be helpful to look at the summary first.
 
 
@@ -114,6 +123,9 @@ Editing
 *******
 
 When you're ready to edit a record, you can click "Edit this Record" on the summary page, or click the "Edit" button from the Dashboard to open the edit form for that item.
+
+.. image:: ../_static/images/record-edit.png
+   :alt: Screenshot of the top of edit screen for a record
 
 Opening the edit form "locks" the record so that others cannot edit it at the same time.  (A lock icon displays on the Dashboard.)  
 This lock will clear if you publish the record, but it will also automatically expire after about an hour -- whether the record is still open or not.
@@ -142,6 +154,8 @@ Completing a Record
 In the editing form, enter values for all required fields and any relevant information that is available to you.  
 Consult our guidelines (using the Help/Guide links) if you need more information about a specific field -- like how to format an unusual name.
 
+.. image:: ../_static/images/help-link.png          
+   :alt: Screenshot of help links in field title bar
 
 
 .. note::
