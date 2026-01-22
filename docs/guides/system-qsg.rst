@@ -57,7 +57,7 @@ The form will automatically redirect you to the main Dashboard view for the edit
 
 If you ever forget your username or password, you can retrieve it from the the login page (at those edit links) by having an e-mail sent to the address on file for your account.
 
-.. note:
+.. note::
 
     If you have *ever* had an editing account in the UNTL system, your username
     and password still exist.  In some cases, we may deactivate accounts for
@@ -84,9 +84,7 @@ For example, if you only have access to records that are hidden, you won't see t
 Above the list, there is a search box, if you are looking for a specific title, identifier, etc. in a collection.  
 You can also sort the list of items by creation date or upload date or use the radio buttons to change how many records display on each page.
 
-.. note:
-
-    For an outline of the various features and options that display on the Dashboard, see :doc:`Using the UNTL Editing System <technical/navigation>`.
+For an outline of the various features and options that display on the Dashboard, see :doc:`Using the UNTL Editing System <technical/navigation>`.
 
 Once you find a record that you want to look at or edit in the list, you can click on the thumbnail or title to open the summary page or click the "Edit" button to jump directly to the edit screen.
 
@@ -102,18 +100,13 @@ The record summary is an intermediary view that lets you review a record/item wi
 
 You can skip directly to editing (by clicking the "Edit" button on the Dashboard), 
 but if you are still learning the system or working with a new collection, it may be helpful to look at the summary first.
-
-
-.. note::
     
-    There is a full explanation of the :ref:`summary page features <technical/navigation.html#record-summary>`.
+There is a full explanation of the :ref:`summary page features <technical/navigation.html#record-summary>`.
 
 One thing that may be helpful is to scroll down and look at the summary record.  What information is already there?  What placeholder values are in the record?  
 Is there any information that looks incorrect/misspelled, etc.?  Has the system flagged anything that needs to be reviewed in the record?
 
-.. note::
-
-    There is an explanation about placeholder values in the :doc:`Completing Metadata <technical/completing-records>` page.
+There is an explanation about placeholder values in the :doc:`Completing Metadata <technical/completing-records>` page.
 
 The record summary is also useful when you complete a record, since the brief record view is sometimes easier to skim, if you want to double-check what you've entered.
 
@@ -158,8 +151,7 @@ Consult our guidelines (using the Help/Guide links) if you need more information
    :alt: Screenshot of help links in field title bar
 
 
-.. note::
-    The Help/Guide links will open the guidelines for that specific field, but all of the documentation is listed on the left side menu if you scroll down.  
+The Help/Guide links will open the guidelines for that specific field, but all of the documentation is listed on the left side menu if you scroll down.  
 
 
 When you finish editing, you can click "Publish" to save your changes.  Publishing the record *will not* change whether the record is publicly visible:
@@ -183,36 +175,23 @@ Occasionally, you may look at an item and discover that there's a problem (e.g.,
 If there is a problem with an item, it should remain hidden (or be re-hidden depending on the issue).  
 Always add an explanatory note to the main title so that other editors or administrators can see the message from the Dashboard view and easily find these items.
 
-.. note:
 
-    For examples of title notes, see :ref:`Issues with Items or Records <technical/completing-records.html#issues-with-items-or-records>`
+For examples of title notes, see :ref:`Issues with Items or Records <technical/completing-records.html#issues-with-items-or-records>`
 
 
-There are a couple of general categories of problems:
+There are a couple of general categories of problems.  In each case, you should include information in the title to explain what the issue is/why the record is hidden.
 
 -   **There are two copies** of the same item and we only want to have one.  
     In this situation, the duplicated item (usually the one of lesser quality or
-    added later) is marked as a duplicate and left hidden.  If verified by an
-    administrator, the duplicate will be *permanently* deleted.
+    added later) is marked as a duplicate and left hidden.  
 -   **The record and item/s are mismatched**, e.g., pages from two items were 
     grouped together or two pages of a single text were separated by mistake.  
-    In these cases, the titles are marked and an administrator will re-organize the files to replace the items, for example:
-    
-    -   If a two-page document was accidentally uploaded as two items, all of 
-        the images for both pages will be uploaded *in place of* one of the existing items 
-        (that metadata record will not change); the other item will be deleted.
-    -   If two newsletter issues were accidentally uploaded as a single item,
-        the images for all of the pages of the first issue will be uploaded *in place of* the existing item and 
-        the images for all of the pages of the second issue will be uploaded *as a new item* with a new metadata record.
-
 -   **There is an issue with image quality**, for example, a photo is rotated
-    and displays sideways or upside-down.  In this case, an administrator will
-    correct the original file and it will be uploaded *in place of* the existing
-    item (the metadata record will not change).
+    and displays sideways or upside-down.  
 -   **There are permissions issues** with a specific item that contains 
-    personal information, copyrighted material, etc.  Usually, this can be marked in the title 
-    and the record remains hidden until someone in charge
-    of the collection can get more information.
+    personal information, copyrighted material, etc.  
+
+
 
 *****************
 Other Information
