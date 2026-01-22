@@ -62,6 +62,7 @@ There are a number of tools built into the metadata editing system to assist wit
    :caption: Getting Started:
    
    /guides/quick-start-guide
+   /guides/system-qsg
 
 .. toctree::
    :maxdepth: 1
