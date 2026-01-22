@@ -7,7 +7,7 @@ Introduction
 ************
 
 If you’re new to the UNT Libraries (UNTL) system, this document gives a brief overview of how to interact with the edit system.  
-For more information about entering/formatting metadata values, you should review the :doc:`UNTL Metadata Quick Start Guide <guides/quick-start-guide>`. 
+For more information about entering/formatting metadata values, you should review the :doc:`Metadata Quick-Start Guide </guides/quick-start-guide>`. 
 Additionally, links within this overview connect to more specific portions of the documentation for both technical information and metadata guidelines.
 
 The overall process outlined here is:
