@@ -237,6 +237,32 @@ Here are some general guidelines to make things easier for administrators and ot
 |                                                                                   |   information -- and possible copyright issues     |
 +-----------------------------------------------------------------------------------+----------------------------------------------------+
 
+Here are some general categories of problems and how they are handled:
+
+-   **There are two copies** of the same item and we only want to have one.  
+    In this situation, the duplicated item (usually the one of lesser quality or
+    added later) is marked as a duplicate and left hidden.  If verified by an
+    administrator, the duplicate will be *permanently* deleted.
+-   **The record and item/s are mismatched**, e.g., pages from two items were 
+    grouped together or two pages of a single text were separated by mistake.  
+    In these cases, the titles are marked and an administrator will re-organize the files to replace the items, for example:
+    
+    -   If a two-page document was accidentally uploaded as two items, all of 
+        the images for both pages will be uploaded *in place of* one of the existing items 
+        (that metadata record will not change); the other item will be deleted.
+    -   If two newsletter issues were accidentally uploaded as a single item,
+        the images for all of the pages of the first issue will be uploaded *in place of* the existing item and 
+        the images for all of the pages of the second issue will be uploaded *as a new item* with a new metadata record.
+
+-   **There is an issue with image quality**, for example, a photo is rotated
+    and displays sideways or upside-down.  In this case, an administrator will
+    correct the original file and it will be uploaded *in place of* the existing
+    item (the metadata record will not change).
+-   **There are permissions issues** with a specific item that contains 
+    personal information, copyrighted material, etc.  Usually, this can be marked in the title 
+    and the record remains hidden until someone in charge
+    of the collection can get more information.
+
 
 ********************************
 Related Explanations & Tutorials
