@@ -144,8 +144,10 @@ All of the documentation is listed on the left side menu if you scroll down to t
 Completing a Record
 ===================
 
-In the editing form, enter values for all required fields and any relevant information that is available to you.  
-Consult our guidelines (using the Help/Guide links) if you need more information about a specific field -- like how to format an unusual name.
+In the editing form, enter values for all required fields and any relevant information that is available to you according to the UNTL guidelines.  
+Make sure you have reviewed the Metadata Quick-Start Guide and/or more specific guides that are appropriate to your project before starting your first record.
+
+Consult our guidelines at any time (using the Help/Guide links) if you need more information about a specific field -- like how to format an unusual name.
 
 .. image:: ../_static/images/help-link.png          
    :alt: Screenshot of help links in field title bar
