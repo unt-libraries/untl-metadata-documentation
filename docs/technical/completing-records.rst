@@ -52,6 +52,7 @@ The primary goal when we create metadata in the Digital Collections is to help u
 -   This page gives a general overview of what you should think about when doing metadata
 -   The Quick-Start Guide (linked in the left menu) gives a summary of the most important things to know about every field
 
+.. _cm-issues:
 
 Questions or Issues
 ===================
