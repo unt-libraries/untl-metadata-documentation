@@ -8,6 +8,8 @@ Navigating the Editing System
 This provides an overview of some of the features in the editing system; to see context about
 using edit system features for quality control, see the page on :doc:`the Edit Dashboard </tools/dashboard>`.
 
+.. _nav-dash:
+
 Dashboard
 =========
 The Dashboard (also called the "search" interface) is the main interface view when an editor logs in.  
@@ -105,6 +107,7 @@ The brief view shows 99 records per page and only lists the meta id, edit button
 .. image:: ../_static/images/record-brief.png
    :alt: Screenshot of records on in the brief Dashboard view
 
+.. _nav-summ:
 
 Record Summary
 ==============
@@ -202,7 +205,7 @@ might identify as possible problems.
 
 
 
-
+.. _nav-edit:
 
 Record Edit Form
 ================
