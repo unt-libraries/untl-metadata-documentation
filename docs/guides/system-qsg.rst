@@ -101,7 +101,7 @@ The record summary is an intermediary view that lets you review a record/item wi
 You can skip directly to editing (by clicking the "Edit" button on the Dashboard), 
 but if you are still learning the system or working with a new collection, it may be helpful to look at the summary first.
     
-There is a full explanation of the :ref:`summary page features </technical/navigation.html#record-summary>`.
+There is a full explanation of the :doc:`summary page features </technical/navigation.html#record-summary>`.
 
 One thing that may be helpful is to scroll down and look at the summary record.  What information is already there?  What placeholder values are in the record?  
 Is there any information that looks incorrect/misspelled, etc.?  Has the system flagged anything that needs to be reviewed in the record?
@@ -125,7 +125,7 @@ This lock will clear if you publish the record, but it will also automatically e
 
 We have more information about editing records in several places:
 
--   For an overview of the features and options in the edit view, see :ref:`Record Edit Form </technical/navigation.html#record-edit-form>`
+-   For an overview of the features and options in the edit view, see :doc:`Record Edit Form </technical/navigation.html#record-edit-form>`
 -   If you want some general information about metadata work in our system, see :doc:`Completing Metadata </technical/completing-records>`
 -   To get an introduction to *entering* metadata (i.e., field usage and formatting), see the :doc:`UNTL Metadata Quick Start Guide </guides/quick-start-guide>`
 
@@ -178,7 +178,7 @@ If there is a problem with an item, it should remain hidden (or be re-hidden dep
 Always add an explanatory note to the main title so that other editors or administrators can see the message from the Dashboard view and easily find these items.
 
 
-For examples of title notes, see :ref:`Issues with Items or Records </technical/completing-records.html#issues-with-items-or-records>`
+For examples of title notes, see :doc:`Issues with Items or Records </technical/completing-records.html#issues-with-items-or-records>`
 
 
 There are a couple of general categories of problems.  In each case, you should include information in the title to explain what the issue is/why the record is hidden.
