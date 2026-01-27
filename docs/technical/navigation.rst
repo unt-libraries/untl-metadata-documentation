@@ -17,6 +17,9 @@ It will display any records that a user has permission to edit.  The displayed r
 the filters on the left side of the screen (e.g., by resource type, public visibility, etc.), by searching for a 
 particular term in the search box at the top of the screen, or by sorting in various ways.
 
+.. image:: ../_static/images/dashboard.png
+   :alt: Screenshot of the edit Dashboard
+
 
 Changing Views
 --------------
