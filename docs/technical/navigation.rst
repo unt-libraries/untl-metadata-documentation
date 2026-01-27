@@ -249,20 +249,29 @@ There are a number of tools built into the system to make suggestions or highlig
 **Warning Messages**
 For validation, if a field value seems wrong, the field will be highlighted in the sidecar along with a message explaining what needs to be checked:
 
-+-----------------------------------------------------------------------+----------------------------------------------------------------+
-| .. image:: ../_static/images/warning-1.png                            | | This warning appears if a title, creator, contributor, or    |
-|   :alt: Screenshot of a title-case warning                            |   publisher value is more than 50% capitalized.                |
-|                                                                       |                                                                |
-|                                                                       | | In rare instances, these values may be correct               |
-+-----------------------------------------------------------------------+----------------------------------------------------------------+
-| .. image:: ../_static/images/warning-2.png                            |This warning appears if a value in the date or coverage date    |
-|   :alt: Screenshot of a date warning                                  |field does not conform to EDTF specifications (check guidelines |
-|                                                                       |for more info)                                                  |
-+-----------------------------------------------------------------------+----------------------------------------------------------------+
-| .. image:: ../_static/images/warning-3.png                            |This warning appears if a subject value does not match the      |
-|   :alt: Screenshot of a subject warning                               |vocabulary qualifier -- this only works for vocabularies that   |
-|                                                                       |have search modals                                              |
-+-----------------------------------------------------------------------+----------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/warning-1.png                            |
+|   :alt: Screenshot of a title-case warning                            |
+|                                                                       |
+| | This warning appears if a title, creator, contributor, or           |
+|   publisher value is more than 50% capitalized.                       |
+|                                                                       |
+| | In rare instances, these values may be correct                      |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/warning-2.png                            |
+|   :alt: Screenshot of a date warning                                  |
+|                                                                       |
+| | This warning appears if a value in the date or coverage date        |
+|   field does not conform to EDTF specifications (check guidelines     |
+|   for more info)                                                      |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/warning-3.png                            |
+|   :alt: Screenshot of a subject warning                               |
+|                                                                       |
+| | This warning appears if a subject value does not match the          |
+|   vocabulary qualifier -- this only works for vocabularies that       |
+|   have search modals                                                  |
++-----------------------------------------------------------------------+
 
 
 
