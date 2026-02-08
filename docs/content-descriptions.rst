@@ -71,11 +71,12 @@ topic and published items likely have some kind of description already.  The
 challenge is summarizing in a way that is helpful for users.
 
 
+Book, report, article, paper, book chspter, thesis/dissertation
+===============================================================
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Notes                                                          |Examples                                                   |
 +===============================================================+===========================================================+
-|**Book, report, article, paper, book chspter, thesis/dissertation**                                                        |
-+---------------------------------------------------------------+-----------------------------------------------------------+
 |-  In *some* cases, it could make sense to quote or copy a     |Abstract.  A review of all work on uranium hydride         |
 |   published abstract, introduction, or blurb description      |published in the CC, CT, CN and CE reports to January 1,   |
 |-  If you copy information from the item, always label and/or  |1944, is presented.  Some additional information not yet   |
@@ -155,13 +156,17 @@ challenge is summarizing in a way that is helpful for users.
 |       -   Does it have an index and/or any appendices that    |find better ways of allocating resources.  This section    |
 |           seem significant to note?                           |contains an executive summary of the project and results.  |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Yearbooks, newsletters, journals, other serials**                                                                        |
+
+
+Yearbooks, newsletters, journals, other serials
+===============================================
+-  Note that there are guidelines specifically for :doc:`Serials </guides/serials>` and the description for a 
+   serial will generally be essentially the same across item records
+
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  Note that there are guidelines specifically for             |                                                           |
-|   :doc:`Serials </guides/serials>` and the description for a  |                                                           |
-|   serial will generally be essentially the same across item   |                                                           |
-|   records                                                     |                                                           |
-|                                                               |                                                           |
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 |-  It may also be helpful to consider/note:                    |                                                           |
 |                                                               |                                                           |
 |   -   if there is an index                                    |                                                           |
@@ -173,14 +178,19 @@ challenge is summarizing in a way that is helpful for users.
 |   -   if there is a significant topic or if it is a "special  |                                                           |
 |       issue" and may be different than the usual content      |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Pamphlets, booklets, flyers, etc.**                                                                                      |
+
+
+Pamphlets, booklets, flyers, etc.
+=================================
+
+-  For some booklets or pamphlets, it may be appropriate to follow the guidance for book-like items; for our purposes 
+   a "pamphlet" is 50 pages or less and a book is >50 pages, but the content may still be a report or description of a 
+   specific topic (and may have multiple sections or a table of contents)
+
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  For some booklets or pamphlets, it may be appropriate to    |                                                           |
-|   follow the guidance for book-like items; for our purposes   |                                                           |
-|   a "pamphlet" is 50 pages or less and a book is >50 pages,   |                                                           |
-|   but the content may still be a report or description of a   |                                                           |
-|   specific topic (and may have multiple sections or a table   |                                                           |
-|   of contents)                                                |                                                           |
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 |-  More specific types of items:                               |                                                           |
 |                                                               |                                                           |
 |   -   For event programs:                                     |                                                           |
@@ -202,12 +212,17 @@ challenge is summarizing in a way that is helpful for users.
 |       -   Are there important diagrams, maps, etc.?           |                                                           |
 |       -   Is there contact information?                       |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Letters**                                                                                                                |
+
+
+Letters
+=======
+
+-  Note that there is a special guide for general :doc:`correspondence </guides/correspondence>` including
+   letters and materials with similar content (like e-mails and telegrams)
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  Note that there is a special guide for general              |                                                           |
-|   :doc:`correspondence </guides/correspondence>` including    |                                                           |
-|   letters and materials with similar content (like e-mails    |                                                           |
-|   and telegrams)                                              |                                                           |
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 |-  Things to consider:                                         |                                                           |
 |                                                               |                                                           |
 |   -   What is the general content, e.g.: personal news (like  |                                                           |
@@ -223,12 +238,17 @@ challenge is summarizing in a way that is helpful for users.
 |       to the substance of the letter?                         |                                                           |
 |   -   Are there attachments or enclosures?                    |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Clippings**                                                                                                              |
+
+
+Clippings
+=========
+
+-  Clippings can generally refer to any piece that has been removed from a larger text, but can vary in scope, e.g., an
+   article cut out of a newspaper and a whole newspaper page (not a full issue) would both be labeled as clippings
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  Clippings can generally refer to any piece that has been    |                                                           |
-|   removed from a larger text, but can vary in scope, e.g., an |                                                           |
-|   article cut out of a newspaper and a whole newspaper page   |                                                           |
-|   (not a full issue) would both be labeled as clippings       |                                                           |
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 |-  In most cases, if there is a "primary" content (e.g., the   |                                                           |
 |   clipping was removed for a specific image/article), the     |                                                           |
 |   description will be very similar to any other article:      |                                                           |
@@ -250,11 +270,16 @@ challenge is summarizing in a way that is helpful for users.
 |   will likely be a more generic overview unless there is      |                                                           |
 |   something significant                                       |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Patents**                                                                                                                |
+
+
+Patents
+=======
+
+-  Note that there are special guidelines for :doc:`patents </guides/patent>` that include more specific information                                               
+
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|-  Note that there are special guidelines for                  |                                                           |
-|   :doc:`patents </guides/patent>` that include more specific  |                                                           |
-|   information                                                 |                                                           |
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 |-  It *may* be helpful to quote a portion of the description   |                                                           |
 |   if it is clear and succinct; otherwise, it may be more      |                                                           |
 |   appropriate to rephrase/summarize                           |                                                           |
@@ -272,8 +297,13 @@ challenge is summarizing in a way that is helpful for users.
 |       changes to make a device more efficient, easier to      |                                                           |
 |       use/store, etc.?                                        |                                                           |
 +---------------------------------------------------------------+-----------------------------------------------------------+
-|**Legal and legislative documents**                                                                                        |
+
+
+Legal and legislative documents
+===============================
 +---------------------------------------------------------------+-----------------------------------------------------------+
+|Notes                                                          |Examples                                                   |
++===============================================================+===========================================================+
 
 
 
