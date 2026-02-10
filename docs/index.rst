@@ -142,4 +142,5 @@ There are a number of tools built into the metadata editing system to assist wit
    /tools/count-tool
    /tools/facet-tool
    /tools/cluster-tool
+   /tools/editing
    
