@@ -186,31 +186,38 @@ Pamphlets, booklets, flyers, etc.
 -  For some booklets or pamphlets, it may be appropriate to follow the guidance for book-like items; for our purposes 
    a "pamphlet" is 50 pages or less and a book is >50 pages, but the content may still be a report or description of a 
    specific topic (and may have multiple sections or a table of contents)
+-  If the content is more similar to another type (e.g., newsletter, report, catalog, etc.), review the most appropriate section
+   to describe that particular item
+   
 
 
 +---------------------------------------------------------------+-----------------------------------------------------------+
 |Notes                                                          |Examples                                                   |
 +===============================================================+===========================================================+
-|-  More specific types of items:                               |                                                           |
-|                                                               |                                                           |
-|   -   For event programs:                                     |                                                           |
-|                                                               |                                                           |
-|       -   What information is included?  Is it just the       |                                                           |
-|           list of events, or other topics, like: background   |                                                           |
-|           information; biographies of cast/performers;        |                                                           |
-|           synopsis of a play; lists of performers, donors,    |                                                           |
-|           organizers, etc.?                                   |                                                           |
-|       -   Does it contain advertisements?  (This may also be  |                                                           |
-|           handled as subjects)                                |                                                           |
-|       -   Are there multiple dates, locations, etc.?          |                                                           |
-|                                                               |                                                           |
-|                                                               |                                                           |
-|   -   For informational pamphlets:                            |                                                           |
-|                                                               |                                                           |
-|       -   What section headers/information are included?      |                                                           |
-|       -   Does it include data (e.g., tables or graphs)?      |                                                           |
-|       -   Are there important diagrams, maps, etc.?           |                                                           |
-|       -   Is there contact information?                       |                                                           |
+|-  More specific types of items:                               |Program for activities at the Johnson County centennial    |
+|                                                               |including a list of people in the royal procession and a   |
+|   -   For event programs:                                     |summary of the drama about the history of the county, with |
+|                                                               |a list of participants and descriptions of each act.       |
+|       -   What information is included?  Is it just the       +-----------------------------------------------------------+
+|           list of events, or other topics, like: background   |Bulletin listing the order of service for Mother's Day at  |
+|           information; biographies of cast/performers;        |Beth El Congregation in Fort Worth, including prayers and  |
+|           synopsis of a play; lists of performers, donors,    |hymn numbers.                                              |
+|           organizers, etc.?                                   +-----------------------------------------------------------+
+|       -   Does it contain advertisements?  (This may also be  |Funeral program for Mrs. Belzora Teague, born August 13,   |
+|           handled as subjects)                                |1926 and died December 18, 1976. The funeral was held      |
+|       -   Are there multiple dates, locations, etc.?          |December 23, 1976 at Antioch Baptist Church, officiated by |
+|                                                               |Rev. J. J. Rector. Funeral arrangements were made through  |
+|                                                               |Carter-Taylor Mortuary, and she was buried in Fort Sam     |
+|   -   For informational pamphlets:                            |Houston National Cemetery near San Antonio, Texas.         |
+|                                                               +-----------------------------------------------------------+
+|       -   What section headers/information are included?      |Pamphlet providing an overview of the town of El Paso and  |
+|       -   Does it include data (e.g., tables or graphs)?      |brief descriptions of missions and tourist spots in El Paso|
+|       -   Are there important diagrams, maps, etc.?           |and its counterpart, Juarez.                               |
+|       -   Is there contact information?                       +-----------------------------------------------------------+
+|                                                               |Document answering frequently asked questions about        |
+|                                                               |toxicity factors and human health, including air monitoring|
+|                                                               |and other testing methods, cancer rates, and the staff     |
+|                                                               |toxicologists.                                             |
 +---------------------------------------------------------------+-----------------------------------------------------------+
 
 
