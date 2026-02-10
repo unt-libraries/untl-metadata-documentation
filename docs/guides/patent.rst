@@ -19,7 +19,7 @@ Before You Start
     -   Do not choose a record labeled "SKIP" in the title -- these
         records have known problems or special considerations
         
-3.  In the item summary click "View Item" or in the record, click on the 
+3.  In the item summary click "Review Item" or in the record, click on the 
     thumbnail (upper-right side of the screen) to see all of the pages
     
     -   Skim the pages of the patent to make sure that there are no
@@ -66,15 +66,16 @@ Steps
     
     -   Click on the + sign at the bottom of the field to add a new
         entry
-    -   More about adding multiple entries can be found here: `Help
-        Guide <https://edit.texashistory.unt.edu/help/guide/einfo/>`_
+    -   If you want more general information about our system, see: :doc:`Completing
+        Metadata </technical/completing-records>` (information about tempaltes)
+        and :doc:`Using the UNTL Editing System </technical/navigation>`
         
 4.  For each field, read the instructions below and review the examples
 5.  To find more information on formatting for any field, read the
     appropriate page in the :doc:`full guidelines </input-guidelines-descriptive>`
 
     -   Click on the "more guidelines" links on this page *or*
-    -   Click on the "More" link at the top of the field in the editing form
+    -   Click on the "Guide" link at the top of the field in the editing form
 
 .. _patent-title:
 
@@ -538,15 +539,16 @@ Saving the Record
 
 *Notes:* 
 
+    -   Saving the record is separate from the visible/hidden flag; you can publish
+        the record and leave it "hidden."  You can do this to save an incomplete
+        draft of the record, but note that if you have finished the record
+        and left it hidden, it will not be findable by the public.
     -   Clicking publish saves a new version of the record.  Do not publish the 
         record if you have not made changes (the system will save a duplicate copy every time).
-    -   Saving the record is separate from the visible/hidden flag; you can publish
-        the record and leave it "hidden," but it will not be findable by the public.
     -   Records can still be edited after they are visible -- you have the ability
         to edit any records in the collection.  Just note that if you have criteria
         set in the Dashboard (e.g., "only hidden records") you may have to adjust
         them to see previously-edited items.
-
 
 .. _patent-special:
 
