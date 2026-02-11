@@ -210,6 +210,8 @@ Other suggestions:
 |                                                                               |Britannica                                                         |
 +-------------------------------------------------------------------------------+-------------------------------------------------------------------+
 
+-   For more type-specific suggestions and examples, see :doc:`More Guidance for Formulating Content Descriptions </content-descriptions>`
+
 .. _description-cexamples:
 
 Other Content Description Examples
