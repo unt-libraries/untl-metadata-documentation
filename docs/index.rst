@@ -117,6 +117,7 @@ There are a number of tools built into the metadata editing system to assist wit
    /minimally-viable-records
    /primary-sources-definition
    /creator-contributor-definitions
+   /content-descriptions
 
 .. toctree::
    :maxdepth: 1
