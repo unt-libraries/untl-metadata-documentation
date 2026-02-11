@@ -44,7 +44,7 @@ Count
     -   Too few subjects (or no UNTL-BS terms in Portal records)
     -   Multiple photographers for a single photographer (i.e., possible 
         placeholder values left in a record)
-    -   No creation date for items in a collection that have known dates
+    -   No creation dates for items in a collection that have known dates
 
 -   :doc:`More about the count tool </tools/count-tool>`
 
@@ -55,7 +55,7 @@ Count
 
 Facet
 =====
--   The facet tool helps with finding typos or similar values that may be normalized:
+-   The facet tool helps with finding typos or similar values that may be normalized
 -   :doc:`More about the facet tool </tools/facet-tool>`
 
 
@@ -117,3 +117,5 @@ Step 4: Repeat
 -   After a particular value has been changed, the lists in the Dashboard and tools will update 
     (note that values in cluster cache and will take longer to reflect changes)
 -   Find a new issue or value that needs to be changed and follow the same steps
+-   Note that some departments or projects may already have lists of corrections that need to be made;
+    other suggestions may also be found `here <https://edit.texashistory.unt.edu/help/guide/>`_
