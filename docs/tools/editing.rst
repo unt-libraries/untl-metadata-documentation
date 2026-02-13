@@ -1,6 +1,6 @@
-===========================================================
-Guided Instructions: Correct Records During Quality Control
-===========================================================
+=========================================
+Correcting Records During Quality Control
+=========================================
 **How to use these instructions:**
 
 -   This page lists the specific steps for finding and correcting errors in
