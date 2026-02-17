@@ -8,6 +8,7 @@ Before You Start
 1.  **Sign in** to the `editing system <https://edit.texashistory.unt.edu/>`_
 
     -   **Remember:** username is first initial and last name
+    -   (password will be what you entered in the registration form, accessed from the invitation e-mail)
 
 2.  Choose a record that has not been edited by clicking on the
     title/thumbnail
@@ -67,7 +68,7 @@ Steps
     -   Click on the + sign at the bottom of the field to add a new
         entry
     -   If you want more general information about our system, see: :doc:`Completing
-        Metadata </technical/completing-records>` (information about tempaltes)
+        Metadata </technical/completing-records>` (information about templates)
         and :doc:`Using the UNTL Editing System </technical/navigation>`
         
 4.  For each field, read the instructions below and review the examples
