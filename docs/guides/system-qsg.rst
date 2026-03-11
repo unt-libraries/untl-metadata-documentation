@@ -156,7 +156,7 @@ Consult our guidelines at any time (using the Help/Guide links) if you need more
    :alt: Screenshot of help links in field title bar
 
 
-The Help/Guide links will open the guidelines for that specific field, but all of the documentation is listed on the left side menu if you scroll down.  
+The links will open the guidelines for that specific field -- either the quick-start information (Help) or the full field information (Guide) -- but all of the documentation is listed on the left side menu if you want to reference something else.  
 
 
 When you finish editing, you can click "Publish" to save your changes.  Publishing the record *will not* change whether the record is publicly visible:
