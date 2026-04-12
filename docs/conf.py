@@ -9,8 +9,8 @@ import sys
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'UNTL Metadata Documentation'
-copyright = '2022, University of North Texas. This work is licensed under Creative Commons Attribution 4.0 International'
-author = 'UNT Libraries'
+copyright = '2026, University of North Texas. This work is licensed under Creative Commons Attribution 4.0 International'
+author = 'University of North Texas Libraries'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
