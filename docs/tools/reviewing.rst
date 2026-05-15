@@ -8,7 +8,7 @@ This page discusses the kinds of things to look for when you review an individua
 It's a good idea to proofread a record after you complete it, to make sure you didn't miss anything.
 The easiest way to do this is by looking at the item's summary page, which has a compact view of the
 whole record.  It also attempts to flag certain fields that *might* have issues and should be checked.
-More information about the summary page and the warning flags can be found :doc: `here </technical/navigation.html#record-summary>`
+More information about the summary page and the warning flags can be found :doc:`here </technical/navigation.html#record-summary>`
 
 
 ************
@@ -23,12 +23,12 @@ Generally, when you look at a record, you want to evaluate each field on thee ma
 |*  Is there a value in the field?      |*  For fields with qualifiers, does    |*  Does the value match the item?                                          |
 |                                       |   every text value have a qualifier?  |*  Is it formatted and punctuated correctly?                               |
 |   * If no, was information left out   |*  Do the qualifiers match the content?|*  Have all placeholder values been                                        |
-|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :doc:                                 |
-|   * If yes, is it appropriate, or does|   publisher name/location), have all  |   `More about placeholders                                                |
-|     it belong (e.g., information      |   applicable components been included?|   </technical/completing-records.html#completing-records-from-templates>` |
-|     pasted into the wrong field)?     |                                       |*  Has any information that does not apply to the item been removed?       |
-|                                       |                                       |   (e.g., suggested template values that may apply to other items in the   |
-|*  Has all appropriate information been|                                       |   collection but not to the specific item)                                |
+|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :doc:`More about placeholders         |
+|   * If yes, is it appropriate, or does|   publisher name/location), have all  |   </technical/completing-records.html#completing-records-from-templates>` |
+|     it belong (e.g., information      |   applicable components been included?|*  Has any information that does not apply to the item been removed?       |
+|     pasted into the wrong field)?     |                                       |   (e.g., suggested template values that may apply to other items in the   |
+|                                       |                                       |   collection but not to the specific item)                                |
+|*  Has all appropriate information been|                                       |                                                                           |
 |   included?                           |                                       |                                                                           |
 +---------------------------------------+---------------------------------------+---------------------------------------------------------------------------+
 
@@ -56,7 +56,7 @@ Even though it's a good idea to check every field value, there are some general 
 
 
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Title </fields/title.html>`                                                                                     |
+|:doc:`Title </fields/title.html>`                                                                                      |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Does the record have 1 main title?  |*  Does every title entry have an      |*  Does the main title match the item  |
 |*  Does the record have any other      |   appropriate qualifier?              |   (e.g., text on the title page or    |
@@ -71,7 +71,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   left behind, such as identifiers or |
 |                                       |                                       |   {}?                                 |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Creator </fields/creator.html>`                                                                                 |
+|:doc:`Creator </fields/creator.html>`                                                                                  |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are any creator/s listed?           |*  Does every entry have both          |*  Are all of the creator names        |
 |*  If not, do you know who made the    |   -- type and role -- qualifiers?     |   applicable to the item (did they    |
@@ -99,7 +99,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   name authority work may work easier |
 |                                       |                                       |   at the collection level.)           |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Contributor </fields/contributor.html>`                                                                         |
+|:doc:`Contributor </fields/contributor.html>`                                                                          |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are any contributor/s listed?       |*  Does every entry have both          |*  Are all of the contributor names    |
 |*  If not, are any missing (e.g.,      |   -- type and role -- qualifiers?     |   applicable to the item (did they    |
@@ -127,7 +127,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   name authority work may work easier |
 |                                       |                                       |   at the collection level.)           |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Publisher </fields/publisher.html>`                                                                             |
+|:doc:`Publisher </fields/publisher.html>`                                                                              |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is a publisher listed for the item? |*  Have all known parts been entered?  |*  Is the publisher name formatted     |
 |*  Should the item have a publisher    |*  If city is unknown, is there an     |   correctly?                          |
@@ -148,7 +148,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   (i.e., city, state or city, country |
 |                                       |                                       |   with no abbreviations)?             |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Date </fields/date.html>`                                                                                       |
+|:doc:`Date </fields/date.html>`                                                                                        |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there a creation date entered?   |*  Is every date value marked with the |*  Does every date value conform to    |
 |*  Is the creation date (or an         |   correct qualifier?                  |   EDTF (the system will flag invalid  |
@@ -170,7 +170,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |       known month or season (to sort  |
 |                                       |                                       |       issues by publication date)     |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Language </fields/language.html>`                                                                               |
+|:doc:`Language </fields/language.html>`                                                                                |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there at least 1 language value  |N/A                                    |*  Do any languages chosen match any   |
 |   chosen?                             |                                       |   visible written text or audible     |
@@ -183,7 +183,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   A language value is REQUIRED for    |                                       |                                       |
 |   every record.                       |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Content Description </fields/description.html#element-name-content-description>`                                |
+|:doc:`Content Description </fields/description.html#element-name-content-description>`                                 |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there 1 content description?     |* Is the qualifier marked "content"?   |*  Does the text describe the content  |
 |*  Are there additional *content*      |                                       |   of the item?                        |
@@ -198,7 +198,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |*  Is the spelling, spacing, and       |
 |                                       |                                       |   punctuation all correct?            |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Physical Description </fields/description.html#element-name-physical-description>`                              |
+|:doc:`Physical Description </fields/description.html#element-name-physical-description>`                               |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there 1 physical description?    |* Is the qualifier marked "physical"?  |*  Does the description format match   |
 |*  Are there additional *physical*     |                                       |   the material type                   |
@@ -214,7 +214,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   photograph : col. or b&w, without   |                                       |                                       |
 |   format or size; etc.)               |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Subject </fields/subject.html>`                                                                                 |
+|:doc:`Subject </fields/subject.html>`                                                                                  |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Does the record have at least 2     |*  Does every subject entry have a     |*  Are the subjects applicable to the  |
 |   subject entries?                    |   qualifier?                          |   item?  Are they useful if someone   |
@@ -236,7 +236,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   Two subject values of any type are  |                                       |   some collections.)                  |
 |   REQUIRED for every record.          |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Primary Source </fields/primary-source.html>`                                                                   |
+|:doc:`Primary Source </fields/primary-source.html>`                                                                    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  This is a radio button, so one      |N/A                                    |*  If the item is *definitely* a       |
 |   value is always chosen: N/A, Yes,   |                                       |   primary source (like a photo) or    |
@@ -244,7 +244,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   paper), is it marked correctly?     |
 |                                       |                                       |*  When it doubt, N/A is fine          |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Coverage </fields/coverage.html>`                                                                               |
+|:doc:`Coverage </fields/coverage.html>`                                                                                |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there coverage information in the|*  Does every entry have a qualifier?  |*  Do all of the coverage entries      |
 |   field?                              |*  Does every qualifier match the      |   match the content?                  |
@@ -264,7 +264,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   (e.g., a country or state level)?   |                                       |   appropriately, including spacing,   |
 |                                       |                                       |   punctuation, and spelling?          |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Source </fields/source.html>`                                                                                   |
+|:doc:`Source </fields/source.html>`                                                                                    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there a source value?            |*  Does every source entry have an     |*  Does the source apply to the item?  |
 |*  Should there be a source value?     |   appropriate qualifier?              |*  Is everything spelled correctly?    |
@@ -275,7 +275,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   for citing a source event or        |                                       |   left in the record (e.g., for       |
 |   document for the item               |                                       |   clippings)?                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Citation </fields/citation.html>`                                                                               |
+|:doc:`Citation </fields/citation.html>`                                                                                |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Has any citation information been   |*  Does every citation entry have a    |*  Does the citation information apply |
 |   added?                              |   qualifier?                          |   to the item?                        |
@@ -291,7 +291,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   (preferred citations) in certain    |                                       |                                       |
 |   cases                               |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Relation </fields/relation.html>`                                                                               |
+|:doc:`Relation </fields/relation.html>`                                                                                |
 +---------------------------------------+---------------------------------------|---------------------------------------+
 |*  Are there any relation value/s in   |*  Does every relation entry have a    |*  Does every relation apply to the    |
 |   the record?                         |   qualifier?                          |   item?                               |
@@ -304,7 +304,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   only applies in specific situations;|   qualifiers.)                        |                                       |
 |   check the guidelines for more info  |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Collection </fields/collection.html>` & :doc: `Institution </fields/institution.html>`                          |
+|:doc:`Collection </fields/collection.html>` & :doc:`Institution </fields/institution.html>`                            |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Collection and institution should be|N/A                                    |                                       |
 |   pre-set at upload and generally do  |                                       |                                       |
@@ -316,7 +316,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   affect your access to edit those    |                                       |                                       |
 |   records                             |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Rights </fields/rights.html>`                                                                                   |
+|:doc:`Rights </fields/rights.html>`                                                                                    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there any information in the     |*  Does every rights entry have a      |*  Does all of the rights information  |
 |   rights field?                       |   qualifier?                          |   (or quoted statements) match the    |
@@ -329,7 +329,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   spelled and formatted correctly     |
 |                                       |                                       |   (e.g., spacing and punctuation)?    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Resource Type </fields/resource-type.html>`                                                                     |
+|:doc:`Resource Type </fields/resource-type.html>`                                                                      |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there a resource type value?     |N/A                                    |*  Does the resource type match the    |
 |*  If there is no value, choose the    |                                       |   item?                               |
@@ -340,7 +340,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   A single resource type is REQUIRED  |                                       |                                       |
 |   for every record.                   |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Format </fields/format.html>`                                                                                   |
+|:doc:`Format </fields/format.html>`                                                                                    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there a format value?            |N/A                                    |*  Does the format match the item?     |
 |*  If there is no value, choose the    |                                       |                                       |
@@ -351,7 +351,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   A single format is REQUIRED         |                                       |                                       |
 |   for every record.                   |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Identifier </fields/identifier.html>`                                                                           |
+|:doc:`Identifier </fields/identifier.html>`                                                                            |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are there identifier/s listed in the|*  Does every identifier have a        |*  Do the identifiers match the item?  |
 |   record?                             |   qualifier?                          |*  Are the identifiers formatted       |
@@ -361,7 +361,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   left in the identifier field (e.g., |
 |                                       |                                       |   #)?                                 |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Degree </fields/degree.html>`                                                                                   |
+|:doc:`Degree </fields/degree.html>`                                                                                    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are there values in the degree      |*  Does every entry have a qualifier?  |*  Does the degree information match   | 
 |   field?                              |*  Are the qualifiers appropriate?     |   the item?                           |
@@ -376,7 +376,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   to degree-seeking materials and     |                                       |                                       |
 |   items created at UNT                |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc: `Note </fields/note.html>`                                                                                       |
+|:doc:`Note </fields/note.html>`                                                                                        |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are there any notes in the record?  |*  Does every note have a qualifier?   |*  Do the notes match the item?        |
 |*  Should any notes be added?          |*  Are the qualifiers appropriate?     |*  Is everything spelled correctly,    |
@@ -393,8 +393,8 @@ Even though it's a good idea to check every field value, there are some general 
 Other Resources
 ***************
 
-*   :doc: `Quick-Start Guide </guides/quick-start-guide.html>`
-*   :doc: `Input Guidelines <input-guidelines-descriptive.html>`
-*   :doc: `UNTL System features </technical/navigation.html>`
-*   :doc: `Completing Metadata </technical/completing-records.html>`
-*   :doc: `Quality Control in Metadata </tools/metadata-tools.html>`
+*   :doc:`Quick-Start Guide </guides/quick-start-guide.html>`
+*   :doc:`Input Guidelines <input-guidelines-descriptive.html>`
+*   :doc:`UNTL System features </technical/navigation.html>`
+*   :doc:`Completing Metadata </technical/completing-records.html>`
+*   :doc:`Quality Control in Metadata </tools/metadata-tools.html>`
