@@ -62,7 +62,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Does the record have any other      |   appropriate qualifier?              |   (e.g., text on the title page or    |
 |   titles?  (Should it?)               |                                       |   appropriate source)?                |
 |                                       |                                       |*  If the item does not have a formal  |
-|.. warning:                            |                                       |   title, is the assigned main title   |
+|.. warning::                           |                                       |   title, is the assigned main title   |
 |                                       |                                       |   appropriate and formatted in        |
 |   A single main title is REQUIRED for |                                       |   [brackets]?                         |
 |   every record.                       |                                       |*  Do all titles have correct spelling,|
@@ -82,7 +82,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   (Names can only be entered once per |   item and the creator's              |   *   Personal names should be        |
 |   record.)                            |   responsibility?                     |       inverted; applicable suffixes   |
 |                                       |                                       |       (e.g., "Jr.") at the end;       |
-|                                       |.. note:                               |       no nicknames or prefixes        |
+|                                       |.. note::                              |       no nicknames or prefixes        |
 |                                       |                                       |       except in specific cases        |
 |                                       |   When there is a creator name, both  |   *   Organization names are written  |
 |                                       |   qualifiers are required.            |       as they appear; if there is a   |
@@ -110,7 +110,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   twice?  (Names can only be entered  |   item and the contributor's          |   *   Personal names should be        |
 |   once per record.)                   |   responsibility?                     |       inverted; applicable suffixes   |
 |*  Are any contributors *also* listed  |                                       |       (e.g., "Jr.") at the end;       |
-|   in the creator field?  (Names cannot|.. note:                               |       no nicknames or prefixes        |
+|   in the creator field?  (Names cannot|.. note::                              |       no nicknames or prefixes        |
 |   be listed in both creator &         |                                       |       except in specific cases        |
 |   contributor.)                       |   When there is a contributor name,   |   *   Organization names are written  |
 |                                       |   both qualifiers are required.       |       as they appear; if there is a   |
@@ -178,7 +178,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  For photos/images, is there text in |                                       |*  If there is no language (e.g., an   |
 |   or written on the item?             |                                       |   image with no text, handwritten     |
 |                                       |                                       |   mathematical notes with no words,   |
-|.. warning:                            |                                       |   etc.) is "No Language" chosen?      |
+|.. warning::                           |                                       |   etc.) is "No Language" chosen?      |
 |                                       |                                       |                                       |
 |   A language value is REQUIRED for    |                                       |                                       |
 |   every record.                       |                                       |                                       |
@@ -190,7 +190,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   description entries (only 1 is      |                                       |*  Does it start with a statement of   |
 |   allowed per record)?                |                                       |   the type of item (e.g., "Photograph |
 |                                       |                                       |   of..." or "Letter from..." or       |
-|.. warning:                            |                                       |   "Article about...", etc.)           |
+|.. warning::                           |                                       |   "Article about...", etc.)           |
 |                                       |                                       |*  Is the text written in complete     |
 |   A single content description  is    |                                       |   sentences of reasonable lengths     |
 |   REQUIRED for every record.          |                                       |   (e.g., not series of extremely      |
@@ -231,7 +231,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   of subjects expected for the        |                                       |       source authority                |
 |   collection or item type?            |                                       |                                       |
 |                                       |                                       |*  Is there a mix of general and       |
-|.. warning:                            |                                       |   specific terms?  (This is not       |
+|.. warning::                           |                                       |   specific terms?  (This is not       |
 |                                       |                                       |   required, but can be helpful for    |
 |   Two subject values of any type are  |                                       |   some collections.)                  |
 |   REQUIRED for every record.          |                                       |                                       |
@@ -269,7 +269,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Is there a source value?            |*  Does every source entry have an     |*  Does the source apply to the item?  |
 |*  Should there be a source value?     |   appropriate qualifier?              |*  Is everything spelled correctly?    |
 |                                       |                                       |*  Does the value have reasonable      |
-|.. note:                               |                                       |   formatting (spacing, punctuation,   |
+|.. note::                              |                                       |   formatting (spacing, punctuation,   |
 |                                       |                                       |   etc.) and all known info?           |
 |   Source is infrequently used, only   |                                       |*  Have any placeholder values been    |
 |   for citing a source event or        |                                       |   left in the record (e.g., for       |
@@ -282,7 +282,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Should citation information be      |*  Do the qualifiers match the values? |*  Are all of the values formatted     |
 |   added?                              |                                       |   appropriately (e.g., numbers or     |
 |                                       |                                       |   text)?                              |
-|.. note:                               |                                       |*  Are values entered with consistent  |
+|.. note::                              |                                       |*  Are values entered with consistent  |
 |                                       |                                       |   formatting, especially for values   |
 |   Citation is infrequently used; it   |                                       |   that will be repeated (e.g., titles |
 |   applies to serials (e.g., volume    |                                       |   or preferred citations)             |
@@ -298,7 +298,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Should additional relationships be  |*  Is the qualifier appropriate?       |*  Does every value include a title    |
 |   added?                              |*  Does the qualifier have a           |   and ARK for the related item?       |
 |                                       |   reciprocal?  (With few exceptions,  |*  Are values spelled correctly, with  |
-|.. note:                               |   every relationship should be        |   appropriate spacing & punctuation?  |
+|.. note::                              |   every relationship should be        |   appropriate spacing & punctuation?  |
 |                                       |   reciprocal with record A pointing to|                                       |
 |   Relation is infrequently used and   |   B and B to A with opposite          |                                       |
 |   only applies in specific situations;|   qualifiers.)                        |                                       |
@@ -335,7 +335,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  If there is no value, choose the    |                                       |   item?                               |
 |   most appropriate one from the list  |                                       |*  Is the type the most appropriate    |
 |                                       |                                       |   value from the list?                |
-|.. warning:                            |                                       |                                       |
+|.. warning::                           |                                       |                                       |
 |                                       |                                       |                                       |
 |   A single resource type is REQUIRED  |                                       |                                       |
 |   for every record.                   |                                       |                                       |
@@ -346,7 +346,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  If there is no value, choose the    |                                       |                                       |
 |   most appropriate one from the list  |                                       |*  Does the format align with the      |
 |                                       |                                       |   resource type?                      |
-|.. warning:                            |                                       |                                       |
+|.. warning::                           |                                       |                                       |
 |                                       |                                       |                                       |
 |   A single format is REQUIRED         |                                       |                                       |
 |   for every record.                   |                                       |                                       |
@@ -368,7 +368,7 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Is all relevant degree information  |*  Have any qualifiers (except         |*  Are all values formatted            |
 |   included?                           |   department) been repeated?          |   appropriately (including spelling,  |
 |                                       |                                       |   spacing, & punctuation)?            |
-|.. note:                               |                                       |*  Have any placeholder values been    |
+|.. note::                              |                                       |*  Have any placeholder values been    |
 |                                       |                                       |   left in the field?                  |
 |   This is an infrequently-used field  |                                       |                                       |
 |   and only applies to items in the    |                                       |                                       |
