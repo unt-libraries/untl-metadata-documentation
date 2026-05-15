@@ -144,4 +144,5 @@ There are a number of tools built into the metadata editing system to assist wit
    /tools/facet-tool
    /tools/cluster-tool
    /tools/editing
+   /tools/reviewing
    
