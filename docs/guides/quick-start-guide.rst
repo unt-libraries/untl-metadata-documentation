@@ -537,7 +537,7 @@ Formatting Information
 Additional Information
 ======================
 
-* If you want to see the full guidelines for content description, see :ref:`this section <description-physical>` of the :doc:`Description </fields/description>` page
+* If you want to see the full guidelines for physical description, see :ref:`this section <description-physical>` of the :doc:`Description </fields/description>` page
 * For more information about where to find physical information on an object, see :ref:`Where Can the Physical Description Information be Found? <description-psources>`
 * For additional guidelines regarding text materials, see :ref:`Books, pamphlets, handwritten documents, miscellaneous text <description-books>`
 * For additional guidelines regarding graphic materials, see :ref:`Photographs and other “graphic” materials <description-photos>`
