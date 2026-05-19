@@ -60,16 +60,18 @@ Even though it's a good idea to check every field value, there are some general 
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Does the record have 1 main title?  |*  Does every title entry have an      |*  Does the main title match the item  |
 |*  Does the record have any other      |   appropriate qualifier?              |   (e.g., text on the title page or    |
-|   titles?  (Should it?)               |                                       |   appropriate source)?                |
-|                                       |                                       |*  If the item does not have a formal  |
-|.. warning::                           |                                       |   title, is the assigned main title   |
-|                                       |                                       |   appropriate and formatted in        |
-|   A single main title is REQUIRED for |                                       |   [brackets]?                         |
-|   every record.                       |                                       |*  Do all titles have correct spelling,|
-|                                       |                                       |   spacing, and punctuation?           |
+|   titles?                             |*  Are multiple entries labeled "Main  |   appropriate source)?                |
+|*  Should the record have another title|   Title" (only 1 is allowed per       |*  If the item does not have a formal  |
+|   (e.g., a serial title for a         |   record)?                            |   title, is the assigned main title   |
+|   newsletter or regularly-published   |                                       |   appropriate and formatted in        |
+|   report, an archival series title,   |                                       |   [brackets]?                         |
+|   etc.)?  :doc:`More about series &   |                                       |*  Do all titles have correct spelling,|
+|   serials <guides/serials>`           |                                       |   spacing, and punctuation?           |
 |                                       |                                       |*  Are there any placeholder components|
-|                                       |                                       |   left behind, such as identifiers or |
+|.. warning::                           |                                       |   left behind, such as identifiers or |
 |                                       |                                       |   {}?                                 |
+|   A single main title is REQUIRED for |                                       |                                       |
+|   every record.                       |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Creator </fields/creator>`                                                                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -152,8 +154,8 @@ Even though it's a good idea to check every field value, there are some general 
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there a creation date entered?   |*  Is every date value marked with the |*  Does every date value conform to    |
 |*  Is the creation date (or an         |   correct qualifier?                  |   EDTF (the system will flag invalid  |
-|   approximate date/date range) known? |                                       |   dates)?                             |
-|*  Are any other applicable date types |                                       |*  Is the date an appropriate level of |
+|   approximate date/date range) known? |*  Are any qualifier values repeated   |   dates)?                             |
+|*  Are any other applicable date types |   (they shouldn't be)?                |*  Is the date an appropriate level of |
 |   entered?                            |                                       |   specificity (i.e., more specific is |
 |*  If the date is unknown, is there a  |                                       |   generally better, but only if it is |
 |   reasonable way to provide a range   |                                       |   known)?                             |
@@ -197,11 +199,19 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   short, choppy sentences)?           |
 |                                       |                                       |*  Is the spelling, spacing, and       |
 |                                       |                                       |   punctuation all correct?            |
+|                                       |                                       |*  Are any adjectives appropriately    |
+|                                       |                                       |   neutral/factual?                    |
+|                                       |                                       |*  Is the description limited to what  |
+|                                       |                                       |   can actually be known/observed about|
+|                                       |                                       |   the content (without assumptions)?  |
+|                                       |                                       |*  Is there lengthy biographical or    |
+|                                       |                                       |   contextual information that should  |
+|                                       |                                       |   be moved to a note?                 |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:ref:`Physical Description <description-physical>`                                                                     |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there 1 physical description?    |* Is the qualifier marked "physical"?  |*  Does the description format match   |
-|*  Are there additional *physical*     |                                       |   the material type                   |
+|*  Are there additional *physical*     |                                       |   the material type?                  |
 |   description entries (only 1 is      |                                       |*  Do the details (such as pagination  |
 |   allowed per record)?                |                                       |   or color) match the item?           |
 |*  Are all known details (like size)   |                                       |*  Is the description punctuated and   |
@@ -220,21 +230,21 @@ Even though it's a good idea to check every field value, there are some general 
 |   subject entries?                    |   qualifier?                          |   item?  Are they useful if someone   |
 |*  Does the record have at least 1     |*  Do the qualifiers match the         |   wants to find that specific item?   |
 |   UNTL-BS term (unless it is *only*   |   subject types?                      |*  Does the formatting for each value  |
-|   in the Digital Library)             |                                       |   match the type of subject?          |
+|   in the Digital Library)?            |                                       |   match the type of subject?          |
 |*  If there is significant information |                                       |                                       |
 |   about a person -- e.g., physically  |                                       |   *   Keywords should be lowercase    |
 |   visible in a photo, biographical    |                                       |       and plural (except proper       |
 |   text, etc. -- are they listed as    |                                       |       nouns)                          |
-|   a named person?                     |                                       |   *   Persons names are inverted      |
+|   a named person?                     |                                       |   *   Names of persons are inverted   |
 |*  Does the record have (roughly)      |                                       |   *   Terms from controlled           |
 |   the number of subjects or types     |                                       |       vocabularies must match the     |
 |   of subjects expected for the        |                                       |       source authority                |
 |   collection or item type?            |                                       |                                       |
 |                                       |                                       |*  Is there a mix of general and       |
 |.. warning::                           |                                       |   specific terms?  (This is not       |
-|                                       |                                       |   required, but can be helpful for    |
-|   Two subject values of any type are  |                                       |   some collections.)                  |
-|   REQUIRED for every record.          |                                       |                                       |
+|                                       |                                       |   required, but can be helpful to     |
+|   Two subject values of any type are  |                                       |   support both general browsing and   |
+|   REQUIRED for every record.          |                                       |   specific searches.)                 |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Primary Source </fields/primary-source>`                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -259,9 +269,10 @@ Even though it's a good idea to check every field value, there are some general 
 |   *   Place point or box (usually 1)  |                                       |                                       |
 |                                       |                                       |*  If there is a coverage date entry,  |
 |*  If there is no place name, can a    |                                       |   does it conform to EDTF formatting  |
-|   general location be added to        |                                       |   (the system will flag invalid dates?|
-|   support browsing by places          |                                       |*  Are all the values formatted        |
-|   (e.g., a country or state level)?   |                                       |   appropriately, including spacing,   |
+|   general location be added to        |                                       |   (the system will flag invalid       |
+|   support browsing by places          |                                       |   dates)?                             |
+|   (e.g., a country or state level)?   |                                       |*  Are all the values formatted        |
+|                                       |                                       |   appropriately, including spacing,   |
 |                                       |                                       |   punctuation, and spelling?          |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Source </fields/source>`                                                                                         |
@@ -285,7 +296,7 @@ Even though it's a good idea to check every field value, there are some general 
 |.. note::                              |                                       |*  Are values entered with consistent  |
 |                                       |                                       |   formatting, especially for values   |
 |   Citation is infrequently used; it   |                                       |   that will be repeated (e.g., titles |
-|   applies to serials (e.g., volume    |                                       |   or preferred citations)             |
+|   applies to serials (e.g., volume    |                                       |   or preferred citations)?            |
 |   and issue numbers for articles) or  |                                       |*  Is everything spelled correctly?    |
 |   to reference archival collections   |                                       |                                       |
 |   (preferred citations) in certain    |                                       |                                       |
@@ -296,19 +307,19 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Are there any relation value/s in   |*  Does every relation entry have a    |*  Does every relation apply to the    |
 |   the record?                         |   qualifier?                          |   item?                               |
 |*  Should additional relationships be  |*  Is the qualifier appropriate?       |*  Does every value include a title    |
-|   added?                              |*  Does the qualifier have a           |   and ARK for the related item?       |
-|                                       |   reciprocal?  (With few exceptions,  |*  Are values spelled correctly, with  |
-|.. note::                              |   every relationship should be        |   appropriate spacing & punctuation?  |
-|                                       |   reciprocal with record A pointing to|                                       |
-|   Relation is infrequently used and   |   B and B to A with opposite          |                                       |
+|   added?                              |*  Does the qualifier have a           |   and ARK for the related item (an ARK|
+|                                       |   reciprocal?  (With few exceptions,  |   is required to generate the link to |
+|.. note::                              |   every relationship should be        |   the related item)?                  |
+|                                       |   reciprocal with record A pointing to|*  Are values spelled correctly, with  |
+|   Relation is infrequently used and   |   B and B to A with opposite          |   appropriate spacing & punctuation?  |
 |   only applies in specific situations;|   qualifiers.)                        |                                       |
 |   check the guidelines for more info  |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Collection </fields/collection>` & :doc:`Institution </fields/institution>`                                      |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|*  Collection and institution should be|N/A                                    |                                       |
-|   pre-set at upload and generally do  |                                       |                                       |
-|   not need to be changed              |                                       |                                       |
+|*  Collection and institution should be|N/A                                    |*  If there are any issues with the    |
+|   pre-set at upload and generally do  |                                       |   institution or collection/s,        |
+|   not need to be changed              |                                       |   contact system administrators.      |
 |*  Each record can have only 1         |                                       |                                       |
 |   institution but *may* have more     |                                       |                                       |
 |   than 1 collection                   |                                       |                                       |
@@ -319,7 +330,7 @@ Even though it's a good idea to check every field value, there are some general 
 |:doc:`Rights </fields/rights>`                                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there any information in the     |*  Does every rights entry have a      |*  Does all of the rights information  |
-|   rights field?                       |   qualifier?                          |   (or quoted statements) match the    |
+|   rights field?                       |   qualifier?                          |   (or quoted statement) match the     |
 |*  Should there be rights information  |*  Do all of the qualifiers match the  |   item?                               |
 |   (e.g., if there is an explicit      |   information?                        |*  Some sub-fields are controlled; do  |
 |   statement on the item}?             |                                       |   those values come from the          |
