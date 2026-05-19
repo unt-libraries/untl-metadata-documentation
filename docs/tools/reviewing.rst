@@ -8,7 +8,7 @@ This page discusses the kinds of things to look for when you review an individua
 It's a good idea to proofread a record after you complete it, to make sure you didn't miss anything.
 The easiest way to do this is by looking at the item's summary page, which has a compact view of the
 whole record.  It also attempts to flag certain fields that *might* have issues and should be checked.
-More information about the summary page and the warning flags can be found :doc:`here </technical/navigation.html#record-summary>`
+More information about the summary page and the warning flags can be found :ref:`here <nav-summ>`
 
 
 ************
@@ -23,8 +23,8 @@ Generally, when you look at a record, you want to evaluate each field on thee ma
 |*  Is there a value in the field?      |*  For fields with qualifiers, does    |*  Does the value match the item?                                          |
 |                                       |   every text value have a qualifier?  |*  Is it formatted and punctuated correctly?                               |
 |   * If no, was information left out   |*  Do the qualifiers match the content?|*  Have all placeholder values been                                        |
-|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :doc:`More about placeholders         |
-|   * If yes, is it appropriate, or does|   publisher name/location), have all  |   </technical/completing-records.html#completing-records-from-templates>` |
+|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :ref: `More about placeholders        |
+|   * If yes, is it appropriate, or does|   publisher name/location), have all  |   <er-template>`                                                          |
 |     it belong (e.g., information      |   applicable components been included?|*  Has any information that does not apply to the item been removed?       |
 |     pasted into the wrong field)?     |                                       |   (e.g., suggested template values that may apply to other items in the   |
 |                                       |                                       |   collection but not to the specific item)                                |
@@ -183,7 +183,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   A language value is REQUIRED for    |                                       |                                       |
 |   every record.                       |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc:`Content Description </fields/description.html#element-name-content-description>`                                 |
+|:ref:`Content Description <description-content>`                                                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there 1 content description?     |* Is the qualifier marked "content"?   |*  Does the text describe the content  |
 |*  Are there additional *content*      |                                       |   of the item?                        |
@@ -198,7 +198,7 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |*  Is the spelling, spacing, and       |
 |                                       |                                       |   punctuation all correct?            |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|:doc:`Physical Description </fields/description.html#element-name-physical-description>`                               |
+|:ref:`Physical Description <description-physical>`                                                                     |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Is there 1 physical description?    |* Is the qualifier marked "physical"?  |*  Does the description format match   |
 |*  Are there additional *physical*     |                                       |   the material type                   |
