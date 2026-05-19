@@ -303,7 +303,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   cases                               |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Relation </fields/relation>`                                                                                     |
-+---------------------------------------+---------------------------------------|---------------------------------------+
++---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are there any relation value/s in   |*  Does every relation entry have a    |*  Does every relation apply to the    |
 |   the record?                         |   qualifier?                          |   item?                               |
 |*  Should additional relationships be  |*  Is the qualifier appropriate?       |*  Does every value include a title    |
