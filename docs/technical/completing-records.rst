@@ -117,6 +117,7 @@ Editing Records
 ***************
 
 
+.. _er-template:
 
 Completing Records from Templates
 =================================
