@@ -23,7 +23,7 @@ Generally, when you look at a record, you want to evaluate each field on thee ma
 |*  Is there a value in the field?      |*  For fields with qualifiers, does    |*  Does the value match the item?                                          |
 |                                       |   every text value have a qualifier?  |*  Is it formatted and punctuated correctly?                               |
 |   * If no, was information left out   |*  Do the qualifiers match the content?|*  Have all placeholder values been                                        |
-|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :ref: `More about placeholders        |
+|     (e.g., required fields)?          |*  If there are multiple parts (e.g.,  |   replaced or *completely* removed? :ref:`More about placeholders         |
 |   * If yes, is it appropriate, or does|   publisher name/location), have all  |   <er-template>`                                                          |
 |     it belong (e.g., information      |   applicable components been included?|*  Has any information that does not apply to the item been removed?       |
 |     pasted into the wrong field)?     |                                       |   (e.g., suggested template values that may apply to other items in the   |
