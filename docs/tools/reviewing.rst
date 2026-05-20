@@ -405,7 +405,7 @@ Other Resources
 ***************
 
 *   :doc:`Quick-Start Guide </guides/quick-start-guide>`
-*   :doc:`Input Guidelines <input-guidelines-descriptive>`
+*   :doc:`Input Guidelines </input-guidelines-descriptive>`
 *   :doc:`UNTL System features </technical/navigation>`
 *   :doc:`Completing Metadata </technical/completing-records>`
 *   :doc:`Quality Control in Metadata </tools/metadata-tools>`
