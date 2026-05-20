@@ -66,7 +66,7 @@ Even though it's a good idea to check every field value, there are some general 
 |   newsletter or regularly-published   |                                       |   appropriate and formatted in        |
 |   report, an archival series title,   |                                       |   [brackets]?                         |
 |   etc.)?  :doc:`More about series &   |                                       |*  Do all titles have correct spelling,|
-|   serials <guides/serials>`           |                                       |   spacing, and punctuation?           |
+|   serials </guides/serials>`          |                                       |   spacing, and punctuation?           |
 |                                       |                                       |*  Are there any placeholder components|
 |.. warning::                           |                                       |   left behind, such as identifiers or |
 |                                       |                                       |   {}?                                 |
