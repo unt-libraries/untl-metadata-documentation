@@ -408,6 +408,63 @@ Even though it's a good idea to check every field value, there are some general 
 
 
 
+****************
+Quick Check-List
+****************
+This is a general list of priorities/steps.  For any individual fields, check the previous section for more information.
+
+1.  Do all required fields have values?
+
++---------------------------+-----------+-----------+-----------+
+|                           |All info   |Qualifiers |Correct    |
+|                           |complete?  |match?     |formatting?|
++---------------------------+-----------+-----------+-----------+
+|Main Title                 |Y / N      |Y / N      |Y / N      |
++---------------------------+-----------+-----------+-----------+
+|Language                   |Y / N      |                       |
++---------------------------+-----------+-----------+-----------+
+|Content Description        |Y / N      |Y / N      |Y / N      |
++---------------------------+-----------+-----------+-----------+
+|Subject                    |Y / N      |Y / N      |Y / N      |
++---------------------------+-----------+-----------+-----------+
+|Resource Type              |Y / N      |                       |
++---------------------------+-----------+-----------+-----------+
+|Format                     |Y / N      |                       |
++---------------------------+-----------+-----------+-----------+
+
+2.  Have all placeholders been replaced or removed (e.g., {{{name}}} or YYYY}?
+
+    :ref:`More about placeholders <er-template>`
+
+3.  For fields that support browse functionality, are terms appropriate to find the item and scoped at the correct level of specificity?
+
+    For these fields, more specific information is generally better, but only if it’s accurate 
+    (e.g., month or day instead of year only; county or city instead of only state for coverage place)
+
++---------------------------+-----------+-----------+-----------+
+|                           |All info   |Qualifiers |Correct    |
+|                           |complete?  |match?     |formatting?|
++---------------------------+-----------+-----------+-----------+
+|Date                       |   Y / N   |   Y / N   |   Y / N   |
++---------------------------+-----------+-----------+-----------+
+|Subject (2+)               |   Y / N   |   Y / N   |   Y / N   |
++---------------------------+-----------+-----------+-----------+
+|Subject, UNTL-BS (1+)      |   Y / N   |   Y / N   |   Y / N   |
++---------------------------+-----------+-----------+-----------+
+|Coverage                   |   Y / N   |   Y / N   |   Y / N   |
++---------------------------+-----------+-----------+-----------+
+
+4.  If any other fields have values:
+
+    *   Are the values accurate/applicable to the item?
+    *   Do any qualifiers match the values?
+    *   Is the formatting correct (any issues with spelling, punctuation, spacing)?
+
+5.  Is any information missing?
+
+
+
+
 ***************
 Other Resources
 ***************
