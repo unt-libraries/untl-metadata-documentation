@@ -11,7 +11,7 @@ Correcting Records During Quality Control
     may need to identify specific types of problems based on knowledge of a
     particular collection and on relevant documentation:
 
-    -   :doc:`UNTL Metadata Input Guidelines <input-guidelines-descriptive>`
+    -   :doc:`UNTL Metadata Input Guidelines </input-guidelines-descriptive>`
     -   :doc:`Quality Control in Metadata </tools/metadata-tools>`
 
     
