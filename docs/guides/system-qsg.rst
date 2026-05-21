@@ -171,6 +171,8 @@ When you finish editing, you can click "Publish" to save your changes.  Publishi
     Publishing a record will save a new version of the record, even if no changes were made.  
     If you open a record and do not make any changes, close the window or tab without publishing the record to avoid saving duplicate copies.
 
+After you complete a record, it's a good idea to review everything to make sure it looks right.  An easy way to do this is to return to the item's summary page after you publish the record to skim the condensed version of the record.  For more information about what to look for, see :doc:`Reviewing Metadata Records </tools/reviewing>`
+
 
 Potential Problems
 ==================
