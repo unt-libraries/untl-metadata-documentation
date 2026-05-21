@@ -245,6 +245,14 @@ Even though it's a good idea to check every field value, there are some general 
 |                                       |                                       |   required, but can be helpful to     |
 |   Two subject values of any type are  |                                       |   support both general browsing and   |
 |   REQUIRED for every record.          |                                       |   specific searches.)                 |
+|                                       |                                       |*  Do any subject values duplicate the |
+|                                       |                                       |   resource type (e.g., "postcards" or |
+|                                       |                                       |   "photographs") or coverage place    |
+|                                       |                                       |   (e.g., "Dallas, Texas")?  (Generally|
+|                                       |                                       |   prefer terms related to content     |
+|                                       |                                       |   since type and location are already |
+|                                       |                                       |   filterable & searchable in          |
+|                                       |                                       |   the metadata.)                      |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Primary Source </fields/primary-source>`                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -374,7 +382,7 @@ Even though it's a good idea to check every field value, there are some general 
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Degree </fields/degree>`                                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
-|*  Are there values in the degree      |*  Does every entry have a qualifier?  |*  Does the degree information match   | 
+|*  Are there values in the degree      |*  Does every entry have a qualifier?  |*  Does the degree information match   |
 |   field?                              |*  Are the qualifiers appropriate?     |   the item?                           |
 |*  Is all relevant degree information  |*  Have any qualifiers (except         |*  Are all values formatted            |
 |   included?                           |   department) been repeated?          |   appropriately (including spelling,  |
