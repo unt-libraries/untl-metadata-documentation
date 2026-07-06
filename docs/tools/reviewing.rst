@@ -83,8 +83,8 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Are any creator names listed twice? |*  Are the roles appropriate to the    |                                       |
 |   (Names can only be entered once per |   item and the creator's              |   *   Personal names should be        |
 |   record.)                            |   responsibility?                     |       inverted; applicable suffixes   |
-|                                       |                                       |       (e.g., "Jr.") at the end;       |
-|                                       |.. note::                              |       no nicknames or prefixes        |
+|*  If the creator is unknown, has the  |                                       |       (e.g., "Jr.") at the end;       |
+|   field been left blank?              |.. note::                              |       no nicknames or prefixes        |
 |                                       |                                       |       except in specific cases        |
 |                                       |   When there is a creator name, both  |   *   Organization names are written  |
 |                                       |   qualifiers are required.            |       as they appear; if there is a   |
@@ -115,8 +115,8 @@ Even though it's a good idea to check every field value, there are some general 
 |   in the creator field?  (Names cannot|.. note::                              |       no nicknames or prefixes        |
 |   be listed in both creator &         |                                       |       except in specific cases        |
 |   contributor.)                       |   When there is a contributor name,   |   *   Organization names are written  |
-|                                       |   both qualifiers are required.       |       as they appear; if there is a   |
-|                                       |                                       |       hierarchy (e.g., department in  |
+|*  If the contributor is unknown, has  |   both qualifiers are required.       |       as they appear; if there is a   |
+|   the field been left blank?          |                                       |       hierarchy (e.g., department in  |
 |                                       |                                       |       an agency or university), list  |
 |                                       |                                       |       them highest to lowest,         |
 |                                       |                                       |       separated by periods with a     |
@@ -134,8 +134,8 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Is a publisher listed for the item? |*  Have all known parts been entered?  |*  Is the publisher name formatted     |
 |*  Should the item have a publisher    |*  If city is unknown, is there an     |   correctly?                          |
 |   listed?                             |   appropriate general location (e.g., |                                       |
-|                                       |   state or country level)?            |   *   Personal names are *NOT*        |
-|                                       |                                       |       inverted                        |
+|*  If the publisher is unknown, has the|   state or country level)?            |   *   Personal names are *NOT*        |
+|   field been left blank?              |                                       |       inverted                        |
 |                                       |                                       |   *   Organization names are written  |
 |                                       |                                       |       as they appear; if there is a   |
 |                                       |                                       |       hierarchy (e.g., department in  |
@@ -160,8 +160,8 @@ Even though it's a good idea to check every field value, there are some general 
 |*  If the date is unknown, is there a  |                                       |   generally better, but only if it is |
 |   reasonable way to provide a range   |                                       |   known)?                             |
 |   (e.g., lifetime of a photographer)? |                                       |*  Does the date format and specificity|
-|                                       |                                       |   match the item type e.g.:           |
-|                                       |                                       |                                       |
+|*  If no reasonable date is known, has |                                       |   match the item type e.g.:           |
+|   the field been left blank?          |                                       |                                       |
 |                                       |                                       |   *   For photos with known ranges,   |
 |                                       |                                       |       we generally prefer "one of     |
 |                                       |                                       |       a set" notation for photos,     |
@@ -280,8 +280,8 @@ Even though it's a good idea to check every field value, there are some general 
 |   general location be added to        |                                       |   (the system will flag invalid       |
 |   support browsing by places          |                                       |   dates)?                             |
 |   (e.g., a country or state level)?   |                                       |*  Are all the values formatted        |
-|                                       |                                       |   appropriately, including spacing,   |
-|                                       |                                       |   punctuation, and spelling?          |
+|*  If no coverage information is known,|                                       |   appropriately, including spacing,   |
+|   has the field been left blank?      |                                       |   punctuation, and spelling?          |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Source </fields/source>`                                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -300,12 +300,15 @@ Even though it's a good idea to check every field value, there are some general 
 |   added?                              |   qualifier?                          |   to the item?                        |
 |*  Should citation information be      |*  Do the qualifiers match the values? |*  Are all of the values formatted     |
 |   added?                              |                                       |   appropriately (e.g., numbers or     |
-|                                       |                                       |   text)?                              |
-|.. note::                              |                                       |*  Are values entered with consistent  |
-|                                       |                                       |   formatting, especially for values   |
-|   Citation is infrequently used; it   |                                       |   that will be repeated (e.g., titles |
-|   applies to serials (e.g., volume    |                                       |   or preferred citations)?            |
-|   and issue numbers for articles) or  |                                       |*  Is everything spelled correctly?    |
+|*  If no citation information is       |                                       |   text)?                              |
+|   applicable, has the field been left |                                       |*  Are values entered with consistent  |
+|   blank?                              |                                       |   formatting, especially for values   |
+|                                       |                                       |   that will be repeated (e.g., titles |
+|.. note::                              |                                       |   or preferred citations)?            |
+|                                       |                                       |*  Is everything spelled correctly?    |
+|   Citation is infrequently used; it   |                                       |                                       |
+|   applies to serials (e.g., volume    |                                       |                                       |
+|   and issue numbers for articles) or  |                                       |                                       |
 |   to reference archival collections   |                                       |                                       |
 |   (preferred citations) in certain    |                                       |                                       |
 |   cases                               |                                       |                                       |
@@ -316,11 +319,14 @@ Even though it's a good idea to check every field value, there are some general 
 |   the record?                         |   qualifier?                          |   item?                               |
 |*  Should additional relationships be  |*  Is the qualifier appropriate?       |*  Does every value include a title    |
 |   added?                              |*  Does the qualifier have a           |   and ARK for the related item (an ARK|
-|                                       |   reciprocal?  (With few exceptions,  |   is required to generate the link to |
-|.. note::                              |   every relationship should be        |   the related item)?                  |
-|                                       |   reciprocal with record A pointing to|*  Are values spelled correctly, with  |
-|   Relation is infrequently used and   |   B and B to A with opposite          |   appropriate spacing & punctuation?  |
-|   only applies in specific situations;|   qualifiers.)                        |                                       |
+|*  If no relation information is       |   reciprocal?  (With few exceptions,  |   is required to generate the link to |
+|   applicable, has the field been left |   every relationship should be        |   the related item)?                  |
+|   blank?                              |   reciprocal with record A pointing to|*  Are values spelled correctly, with  |
+|                                       |   B and B to A with opposite          |   appropriate spacing & punctuation?  |
+|.. note::                              |   qualifiers.)                        |                                       |
+|                                       |                                       |                                       |
+|   Relation is infrequently used and   |                                       |                                       |
+|   only applies in specific situations;|                                       |                                       |
 |   check the guidelines for more info  |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Collection </fields/collection>` & :doc:`Institution </fields/institution>`                                      |
@@ -342,9 +348,9 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Should there be rights information  |*  Do all of the qualifiers match the  |   item?                               |
 |   (e.g., if there is an explicit      |   information?                        |*  Some sub-fields are controlled; do  |
 |   statement on the item}?             |                                       |   those values come from the          |
-|                                       |                                       |   appropriate lists (these are also   |
-|                                       |                                       |   drop-down menus)?                   |
-|                                       |                                       |*  Are any names or statements         |
+|*  If no rights information is         |                                       |   appropriate lists (these are also   |
+|   applicable, has the field been left |                                       |   drop-down menus)?                   |
+|   blank?                              |                                       |*  Are any names or statements         |
 |                                       |                                       |   spelled and formatted correctly     |
 |                                       |                                       |   (e.g., spacing and punctuation)?    |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -377,8 +383,9 @@ Even though it's a good idea to check every field value, there are some general 
 |*  Should the item have identifiers?   |*  Are the qualifiers appropriate?     |   appropriately (spacing, punctuation,|
 |*  Are all relevant identifiers        |                                       |   etc.)?                              |
 |   included?                           |                                       |*  Have any placeholder values been    |
-|                                       |                                       |   left in the identifier field (e.g., |
-|                                       |                                       |   #)?                                 |
+|*  If no applicable identifiers are    |                                       |   left in the identifier field (e.g., |
+|   known, has the field been left      |                                       |   #)?                                 |
+|   blank?                              |                                       |                                       |
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |:doc:`Degree </fields/degree>`                                                                                         |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -386,9 +393,12 @@ Even though it's a good idea to check every field value, there are some general 
 |   field?                              |*  Are the qualifiers appropriate?     |   the item?                           |
 |*  Is all relevant degree information  |*  Have any qualifiers (except         |*  Are all values formatted            |
 |   included?                           |   department) been repeated?          |   appropriately (including spelling,  |
-|                                       |                                       |   spacing, & punctuation)?            |
-|.. note::                              |                                       |*  Have any placeholder values been    |
-|                                       |                                       |   left in the field?                  |
+|*  If no degree information is         |                                       |   spacing, & punctuation)?            |
+|   applicable, has the field been left |                                       |*  Have any placeholder values been    |
+|   blank?                              |                                       |   left in the field?                  |
+|                                       |                                       |                                       |
+|.. note::                              |                                       |                                       |
+|                                       |                                       |                                       |
 |   This is an infrequently-used field  |                                       |                                       |
 |   and only applies to items in the    |                                       |                                       |
 |   Digital Library related             |                                       |                                       |
@@ -399,9 +409,9 @@ Even though it's a good idea to check every field value, there are some general 
 +---------------------------------------+---------------------------------------+---------------------------------------+
 |*  Are there any notes in the record?  |*  Does every note have a qualifier?   |*  Do the notes match the item?        |
 |*  Should any notes be added?          |*  Are the qualifiers appropriate?     |*  Is everything spelled correctly,    |
-|                                       |                                       |   with appropriate spacing and        |
-|                                       |                                       |   punctuation?                        |
-|                                       |                                       |*  Is there any non-public information |
+|*  If no additional information is     |                                       |   with appropriate spacing and        |
+|   applicable, has the field been left |                                       |   punctuation?                        |
+|   blank?                              |                                       |*  Is there any non-public information |
 |                                       |                                       |   (like e-mail addresses) marked as   |
 |                                       |                                       |   display notes?                      |
 +---------------------------------------+---------------------------------------+---------------------------------------+
@@ -432,7 +442,7 @@ This is a general list of priorities/steps.  For any individual fields, check th
 |Format                     |Y / N      |                       |
 +---------------------------+-----------+-----------+-----------+
 
-2.  Have all placeholders been replaced or removed (e.g., {{{name}}} or YYYY}?
+2.  Have all placeholders been replaced or removed (e.g., {{{name}}} or YYYY)?
 
     :ref:`More about placeholders <er-template>`
 
