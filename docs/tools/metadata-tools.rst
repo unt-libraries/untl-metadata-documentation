@@ -65,7 +65,8 @@ Some options and features apply to all of the tools
 .. image:: ../_static/images/tools-colors.png
    :alt: Screenshot of facet values with different color-coding to highlight lines.
 
-
+.. image:: ../_static/images/tools-dcolor.png
+   :alt: Screenshot of the Dashboard with different color-coding to highlight item records.
 
 	
 ********************************
