@@ -246,6 +246,20 @@ Validation and Helper-Tools
 ---------------------------
 There are a number of tools built into the system to make suggestions or highlight values that do not match expectations.
 
+**Title-Case Button**
+The title case (TC) button appears below the title, creator, contributor, and publisher fields.  It was added to assist with normalizing values written in all-caps by changing the text value to "title case."  For example: "ANALYSIS OF TEXTURE." >> "Analysis of Texture."
+
+There are a couple of things to keep in mind:
+
+-   Acronyms are not recognized, so a term like "DNA" or "FBI" in a title will also be changed (i.e., Dna and Fbi) and may need manual adjustment
+-   Spacing and punctuation will affect when letters remain capitalized; a 
+    letter/initial followed by a space will stay capitalized but if there is no space (e.g., "U.S.") some/all letters will become lowercase:
+    
+    -   MOKHOV,N.V.  >> Mokhov,n.V.
+    -   JOHNSTONE, C.J. >> Johnstone, c.j.
+    -   PARKER, B. L. >> Parker, B. L.
+
+
 **Warning Messages**
 For validation, if a field value seems wrong, the field will be highlighted in the sidecar along with a message explaining what needs to be checked:
 
