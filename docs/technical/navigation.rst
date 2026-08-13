@@ -246,7 +246,8 @@ Validation and Helper-Tools
 ---------------------------
 There are a number of tools built into the system to make suggestions or highlight values that do not match expectations.
 
-**Title-Case Button**
+Title-Case Button
+^^^^^^^^^^^^^^^^^
 The title case (TC) button appears below the title, creator, contributor, and publisher fields.  It was added to assist with normalizing values written in all-caps by changing the text value to "title case."  For example: "ANALYSIS OF TEXTURE." >> "Analysis of Texture."
 
 There are a couple of things to keep in mind:
@@ -262,7 +263,8 @@ There are a couple of things to keep in mind:
 -   Also check for letters that may be capitalized within tokens/words, e.g.: MCLEAN >> Mclean (McLean)
 
 
-**Warning Messages**
+Warning Messages
+^^^^^^^^^^^^^^^^
 For validation, if a field value seems wrong, the field will be highlighted in the sidecar along with a message explaining what needs to be checked:
 
 +-----------------------------------------------------------------------+
@@ -288,6 +290,113 @@ For validation, if a field value seems wrong, the field will be highlighted in t
 |   vocabulary qualifier -- this only works for vocabularies that       |
 |   have search modals                                                  |
 +-----------------------------------------------------------------------+
+
+Suggestion Tools & Modals
+^^^^^^^^^^^^^^^^^^^^^^^^^
+There are roughly three categories of in-record helpers for field values.
+
+[1] *Searchable suggestions.*  For some values, we connect to existing or verified terms that an editor can choose to enter, but do not prevent alternate values (if there are no appropriate suggestions.
+
+
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-1.png                             |
+|   :alt: Screenshot of name suggestions                                |
+|                                                                       |
+| | Creator, contributor, and publisher name values include a           |
+|   type-ahead search for values in the UNT Name App                    |
+|                                                                       |
+| | The "i" icon at right links to the authority file to verify if the  |
+|   name applies                                                        |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-2.png                             |
+|   :alt: Screenshot of a place name suggestions                        |
+|                                                                       |
+| | Coverage place name pops up in a searchable modal that              |
+|   lists terms already used in the system, ordered by frequency        |
++-----------------------------------------------------------------------+
+
+
+[2] *Drop-down menus.*  Certain sub-fields have values that come from a controlled list; these are displayed as a drop-down menu in a pop-up modal when the qualifier is selected.
+
+
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-3.png                             |
+|   :alt: Screenshot of the coverage time period modal                  |
+|                                                                       |
+| | Coverage: Time-Period                                               |
+|                                                                       |
+| | This sub-field only applies to records in the Portal                |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-4.png                             |
+|   :alt: Screenshot of the citation peer-reviewed modal                |
+|                                                                       |
+| | Citation: Peer-Reviewd                                              |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-5.png                             |
+|   :alt: Screenshot of the rights access modal                         |
+|                                                                       |
+| | Rights: Access                                                      |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-6.png                             |
+|   :alt: Screenshot of the rights license modal                        |
+|                                                                       |
+| | Rights: License                                                     |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-7.png                             |
+|   :alt: Screenshot of the degree publication type modal               |
+|                                                                       |
+| | Degree: Publication Type                                            |
++-----------------------------------------------------------------------+
+
+
+
+[3] *Searchable values.*  Some modals force specific kinds of entries to align with more complicated controlled vocabularies or to meet formatting requirements.  
+Note that most modals have usage instructions or links to additional information.
+
+
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-8.png                             |
+|   :alt: Screenshot of the LCGFT subject modal                         |
+|                                                                       |
+| | Subject: Library of Congress Genre/Form Terms                       |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-9.png                             |
+|   :alt: Screenshot of the LCMPT subject modal                         |
+|                                                                       |
+| | Subject: Library of Congress Medium of Performance Thesaurus        |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-10.png                            |
+|   :alt: Screenshot of the Homosaurus subject modal                    |
+|                                                                       |
+| | Subject: Homosaurus Vocabulary Terms                                |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-11.png                            |
+|   :alt: Screenshot of the LIV subject modal                           |
+|                                                                       |
+| | Subject: Legislative Indexing Vocabulary                            |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-12.png                            |
+|   :alt: Screenshot of the LST subject modal                           |
+|                                                                       |
+| | Subject: Legislative Subject Terms                                  |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-13.png                            |
+|   :alt: Screenshot of the TGM subject modal                           |
+|                                                                       |
+| | Subject: Thesaurus of Graphic Materials (LC)                        |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-14.png                            |
+|   :alt: Screenshot of the UNTL-BS subject modal                       |
+|                                                                       |
+| | Subject: University of North Texas Libraries Browse Subjects        |
++-----------------------------------------------------------------------+
+| .. image:: ../_static/images/helper-15.png                            |
+|   :alt: Screenshot of the coverage map modal                          |
+|                                                                       |
+| | Coverage: Place Box & Place Point (Google maps interface to enter   |
+|   geocoordinates)                                                     |
++-----------------------------------------------------------------------+
+
 
 
 
