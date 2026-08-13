@@ -251,13 +251,15 @@ The title case (TC) button appears below the title, creator, contributor, and pu
 
 There are a couple of things to keep in mind:
 
--   Acronyms are not recognized, so a term like "DNA" or "FBI" in a title will also be changed (i.e., Dna and Fbi) and may need manual adjustment
+-   Acronyms are not recognized, so a term like "DNA" or "UNT" in a title will also be changed (i.e., Dna and Unt) and may need manual adjustment
 -   Spacing and punctuation will affect when letters remain capitalized; a 
     letter/initial followed by a space will stay capitalized but if there is no space (e.g., "U.S.") some/all letters will become lowercase:
     
     -   MOKHOV,N.V.  >> Mokhov,n.V.
     -   JOHNSTONE, C.J. >> Johnstone, c.j.
     -   PARKER, B. L. >> Parker, B. L.
+    
+-   Also check for letters that may be capitalized within tokens/words, e.g.: MCLEAN >> Mclean (McLean)
 
 
 **Warning Messages**
