@@ -379,7 +379,7 @@ Language
 
 .. admonition:: Question
    
-   **Is there any language visible in the image or written on the photograph?**
+   **Is there any language visible in the image OR written on the photograph?**
 
 
 
@@ -387,8 +387,8 @@ Language
 |Yes                                                            |No                                                             |
 +===============================================================+===============================================================+
 |-  For any text visible in the image (e.g., signs) or          | | Choose "No Language" from the drop-down menu.               |
-|   written on the back, choose the appropriate language        |                                                               |
-|   from the drop-down menu                                     |                                                               |
+|   written/printed on the back, choose the appropriate         |                                                               |
+|   language from the drop-down menu                            |                                                               |
 |-  Add multiple entries if there is more than one language     |                                                               |
 |                                                               |.. note::                                                      |
 |                                                               |                                                               |
