@@ -379,7 +379,7 @@ Language
 
 .. admonition:: Question
    
-   **Is there any language visible in the image OR written on the photograph?**
+   **Is there any language visible in the image and/or written on the photograph?**
 
 
 
