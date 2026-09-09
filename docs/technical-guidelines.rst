@@ -24,6 +24,8 @@ Every metaid is unique and assigned sequentially, under several domains:
 |coda       |BagIt information records      |
 +-----------+-------------------------------+
 
+Full list of metaid namespaces is available in `this document <https://digital.library.unt.edu/ark:/67531/metadc1132746/m1/36/>`_
+
 
 Authority Control
 =================
