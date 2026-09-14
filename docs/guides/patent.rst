@@ -35,9 +35,6 @@ Before You Start
         and leave the patent hidden without completing the record
 
 
-Note: If you want a general overview of the features in the edit system, see :doc:`Using the UNTL Editing System </technical/navigation>`.
-
-
 Steps
 =====
 
