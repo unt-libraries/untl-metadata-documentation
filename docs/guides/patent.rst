@@ -67,9 +67,9 @@ Steps
     
     -   Click on the + sign at the bottom of the field to add a new
         entry
-    -   If you want more general information about our system, see: :doc:`Completing
-        Metadata </technical/completing-records>` (information about templates)
-        and :doc:`Using the UNTL Editing System </technical/navigation>`
+    -   If you want more general information about our system, see: 
+        :doc:`Using the UNTL Editing System </technical/navigation>` and 
+        :doc:`Completing Metadata </technical/completing-records>` (information about templates)
         
 4.  For each field, read the instructions below and review the examples
 5.  To find more information on formatting for any field, read the
