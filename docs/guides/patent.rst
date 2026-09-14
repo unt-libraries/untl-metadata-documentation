@@ -20,8 +20,8 @@ Before You Start
     -   Do not choose a record labeled "SKIP" in the title -- these
         records have known problems or special considerations
         
-3.  In the item summary click "Review Item" or in the record, click on the 
-    thumbnail (upper-right side of the screen) to see all of the pages
+3.  To see all of the pages in the patent, click "Review Item" from the summary page; 
+    if you have opened the record edit form, click on the thumbnail (upper-right side of the screen)
     
     -   Skim the pages of the patent to make sure that there are no
         problems (e.g., all of the pages are included and the
@@ -33,6 +33,9 @@ Before You Start
         add a note to the title (e.g., "\#\#\#\#\# -- SKIP pages
         mismatched" or "Garden-Hose -- SKIP inventor is not from Texas") 
         and leave the patent hidden without completing the record
+
+
+Note: If you want a general overview of the features in the edit system, see :doc:`Using the UNTL Editing System </technical/navigation>`.
 
 
 Steps
