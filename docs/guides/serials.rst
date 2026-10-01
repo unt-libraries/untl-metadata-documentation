@@ -349,6 +349,17 @@ Common Issues:
 |                                              |    letter/etc.: include them as a contributor    |                                                    |
 |                                              |    (role: author or author of introduction, etc.)|                                                    |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
+|If the role does not exactly match the list,  |- Choose the role that most closely matches the   |- *Name:* McGovern, Brian                           |
+|e.g., art director, business manager, writer, |  actual work of the position -- e.g., editor     |- *Type:* Person                                    |
+|photography editor, graphics & layout, etc.   |  could match various types of editing; designer  |- *Role:* Designer                                  |
+|                                              |  might describe overall graphics or artistic     |- *Info:* Layout                                    |
+|                                              |  responsibility; author is equivalent to writer, |                                                    |
+|                                              |  etc.                                            +----------------------------------------------------+
+|                                              |                                                  |- *Name:* LeMay, Nancy Cochran                      |
+|                                              |- If the role is completely unclear, choose       |- *Type:* Person                                    |
+|                                              |  "Other" and add the statement to the info       |- *Role:* Other                                     |
+|                                              |  portion of the field                            |- *Info:* Marketing Director                        |
++----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 |If the role of persons is vague (e.g.,        |- If a general sense of their contribution can be |                                                    |
 |"Contributors"):                              |  determined -- e.g., in a magazine or journal,   |                                                    |
 |                                              |  staff are most likely writers/authors -- choose |                                                    |
