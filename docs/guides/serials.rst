@@ -346,8 +346,11 @@ Common Issues:
 |                                              |    agency                                        |- *Type:* Person                                    |
 |                                              |  - The director of an agency who has (at least)  |- *Role:* Author or introduction, etc.              |
 |                                              |    written an introductory remark/transmittal    |- *Info:* Manager, Purchased Health Services Unit   |
-|                                              |    letter/etc.: include them as a contributor    |                                                    |
-|                                              |    (role: author or author of introduction, etc.)|                                                    |
+|                                              |    letter/etc.: include them as a contributor    +----------------------------------------------------+
+|                                              |    (role: author or author of introduction, etc.)|- *Name:* Whatley, Tom                              |
+|                                              |  - The director of an agency who is explicitly   |- *Type:* Person                                    |
+|                                              |    listed as "staff" for the item: if no other   |- *Role:* Other                                     |
+|                                              |    appropriate role is included, choose "other"  |- *Info:* Director                                  |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 |If the role does not exactly match the list,  |- Choose the role that most closely matches the   |- *Name:* McGovern, Brian                           |
 |e.g., art director, business manager, writer, |  actual work of the position -- e.g., editor     |- *Type:* Person                                    |
@@ -356,9 +359,9 @@ Common Issues:
 |                                              |  responsibility; author is equivalent to writer, |                                                    |
 |                                              |  etc.                                            +----------------------------------------------------+
 |                                              |                                                  |- *Name:* LeMay, Nancy Cochran                      |
-|                                              |- If no role matches appropriately, choose        |- *Type:* Person                                    |
+|                                              |- If the role is completely unclear, choose       |- *Type:* Person                                    |
 |                                              |  "Other" and add the statement to the info       |- *Role:* Other                                     |
-|                                              |  portion of the field                            |- *Info:* Marketing Director                        |
+|                                              |  portion of the field                            |- *Info:* Marketing Director                        \|
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
 |If the role of persons is vague (e.g.,        |- If a general sense of their contribution can be |                                                    |
 |"Contributors"):                              |  determined -- e.g., in a magazine or journal,   |                                                    |
