@@ -417,6 +417,12 @@ Assigning Roles
 |               |                                                           |                   |               | | *Role:* Author of introduction, etc.   |
 |               |                                                           |(or another        |               | | *Info:* Director of Building           |
 |               |                                                           |appropriate role)  |               |   Inspections                            |
+|               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
+|               |-  sometimes the role/job title is variation, like "Art    |Designer           |Contributor    | | *Name:* Dobbs, Kim                     |
+|               |   Director" or "Publishing Director," etc.                |                   |               | | *Type:* Personal                       |
+|               |                                                           |                   |               | | *Role:* Designer                       |
+|               |-  in this case, choose the closest/most appropriate option|(or another        |               | | *Info:* Art Director                   |
+|               |   that describes the actual role, or default to "other"   |appropriate role)  |               |                                          |
 +---------------+-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
 |"Performer"    |-  musician in a recital or concert                        |Performer          |Creator        | | *Name:* North Texas Wind Symphony      |
 |               |-  actor in a play or movie                                |                   |               | | *Type:* Organization                   |
@@ -434,9 +440,9 @@ Assigning Roles
 |               |                                                           |                   |               | | *Type:* Personal                       |
 |               |                                                           |                   |               | | *Role:* Author                         |
 |               |                                                           |                   |               | | *Info:* Kerley Technical Consultant,   |
-|               |                                                           |                   |               |   Appomattox, VA                         |
+|               |                                                           |                   |               |   Appomattox, VA)                        |
 |               +-----------------------------------------------------------+-------------------+---------------+------------------------------------------+
-|               |-  a consultant who provide information as a contribution  |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
+|               |-  a consultant who provided information as a contribution |Consultant         |Contributor    | | *Name:* Kanto, Leonard E.              |
 |               |   to a report                                             |                   |               | | *Type:* Personal                       |
 |               |-  a consultant who spoke during recorded/transcribed      |                   |               | | *Role:* Consultant                     |
 |               |   proceedings (could also be an "expert" or "witness"     |                   |               | | *Info:* State of Texas Professional    |
