@@ -356,7 +356,7 @@ Common Issues:
 |                                              |  responsibility; author is equivalent to writer, |                                                    |
 |                                              |  etc.                                            +----------------------------------------------------+
 |                                              |                                                  |- *Name:* LeMay, Nancy Cochran                      |
-|                                              |- If the role is completely unclear, choose       |- *Type:* Person                                    |
+|                                              |- If no role matches appropriately, choose        |- *Type:* Person                                    |
 |                                              |  "Other" and add the statement to the info       |- *Role:* Other                                     |
 |                                              |  portion of the field                            |- *Info:* Marketing Director                        |
 +----------------------------------------------+--------------------------------------------------+----------------------------------------------------+
