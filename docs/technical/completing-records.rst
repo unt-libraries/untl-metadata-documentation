@@ -110,7 +110,7 @@ A couple of notes about entering metadata and records in general:
   if you are new to the system, the :doc:`System Quick Start Guide </guides/system-qsg>` can give you an overview of navigating and saving your work
 * There is no way to add mark-up or styling to any of the text in metadata fields (e.g., italics or bold)
 * Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.)
-* Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed (:doc:`more about templates </technical/completing-records>` and completing records)
+* Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed (more about templates below)
 
 
 
