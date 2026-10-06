@@ -50,7 +50,7 @@ The primary goal when we create metadata in the Digital Collections is to help u
 **Where Should I Even Start?**
 
 -   This page gives a general overview of what you should think about when doing metadata
--   The Quick-Start Guide (linked in the left menu) gives a summary of the most important things to know about every field
+-   The :doc:`Quick-Start Guide <guides/quick-start-guide>` (also linked in the left menu) gives a summary of the most important things to know about every field
 
 .. _cm-issues:
 
@@ -106,9 +106,11 @@ General Considerations
 
 A couple of notes about entering metadata and records in general:
 
+* If you open a record and do not end up making changes, DO NOT publish the record (this will save a duplicate copy); 
+  if you are new to the system, the :doc:`System Quick Start Guide </guides/system-qsg>` can give you an overview of navigating and saving your work
 * There is no way to add mark-up or styling to any of the text in metadata fields (e.g., italics or bold)
-* Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.) -- this does not apply to diacritic markings, if they apply
-* Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed
+* Any existing encoding characters or mark-up should be removed if you are pasting text from elsewhere (e.g., MARC sub-fields from catalog records, some PDF punctuation is translated as encoding strings, etc.)
+* Except for non-display notes, all text in all fields will be visible when the record is made public -- any comments or placeholder values in the template or added by editors will display if not removed (:doc:`more about templates </technical/completing-records>` and completing records)
 
 
 
