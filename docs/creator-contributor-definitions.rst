@@ -30,6 +30,9 @@ Some roles suggest, by definition, that a person or organization contributed to 
 -   witnesses (e.g., signed witnesses on patents or documents)
 
 
+See the UNT Creator/Contributor Role `controlled vocabulary <https://digital2.library.unt.edu/vocabularies/agent-qualifiers/>`__ for definitions
+
+
 In some cases it depends on the item.
 =====================================
 
