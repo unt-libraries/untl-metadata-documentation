@@ -155,57 +155,8 @@ each field and highlighting when the system has flagged something as a possible 
    :alt: Screenshot of the overview part of the summary page with flagged fields
 
 
-Flagged fields are also highlighted in the summary view.  Here are some examples of things that the system 
+Flagged fields are also highlighted in the summary view.  :ref:`See examples <er-warnings>` of things that the system 
 might identify as possible problems.
-
-
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|Values in the summary view are highlighted in red when the system finds a problem with validation                                        |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/flag-1.png                             |This is an example of a validation error because there is a         |
-|   :alt: Screenshot of the contributor field flagged in the overview|contributor role with a missing role or type -- all                 |
-|                                                                    |creator/contributor entries must include both a role and a type     |
-|.. image:: ../_static/images/highlight-1.png                        |                                                                    |
-|   :alt: Screenshot of the contributor field with highlighting      |                                                                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/flag-2.png                             |Here, a date value in a date field (either date or coverage date)   |
-|   :alt: Screenshot of the coverage field flagged in the overview   |does not meet EDTF standards, so the date is invalid; this example  |
-|                                                                    |is a placeholder (intended to be replaced with a "real" value) but  |
-|.. image:: ../_static/images/highlight-2.png                        |any date entry that is not formatted correctly will be flagged      |
-|   :alt: Screenshot of the coverage field with highlighting         |                                                                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|Values in the summary view are highlighted in yellow if the system suspects that it *may* be incomplete or incorrect, but needs review   |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/flag-3.png                             |In this case, the record has a number of placeholder values that the|
-|   :alt: Screenshot of the description field flagged in the overview|system has tried to flag based on values like "{{{" in the title and|
-|                                                                    |"#" in the description.  Placeholders should be fixed or removed.   |
-|.. image:: ../_static/images/highlight-3.png                        |                                                                    |
-|   :alt: Screenshot of a record with placeholders highlighted       |                                                                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/flag-4.png                             |Some items are uploaded with very few values or placeholders.  The  |
-|   :alt: Screenshot of multiple fields flagged in the overview      |system also flags missing required fields, like content descriptions|
-|                                                                    |and subjects (explained in the warning text).                       |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|Summaries may have a mix of red and yellow highlighting depending on the conditions                                                      |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/highlight-4.png                        |The contributor placeholder is flagged because of the curly brackets|
-|   :alt: Screenshot of the creator and contributor fields with      |but the type is red because there is a value in the name portion but|
-|         highlighting                                               |not the type (invalid) -- the whole entry would need to be removed  |
-|                                                                    |or updated with a correct name, role, and type                      |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|Some values get flagged but are not incorrect -- when in doubt, consult the relevant field guide for usage/formatting                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/flag-5.png                             |The title field is flag due to characters that *may* be placeholders|
-|   :alt: Screenshot of the title field flagged in the overview      |but in this case, the "uniform" title is used to represent the      |
-|                                                                    |general pattern for a serial title and may have gaps for information|
-|.. image:: ../_static/images/highlight-5.png                        |that is different in individual issues/years                        |
-|   :alt: Screenshot of the title field with highlighting            |                                                                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-|.. image:: ../_static/images/highlight-6.png                        |These subject values were flagged because of the word order, but    |
-|   :alt: Screenshot of the subject field with highlighting          |happen to be valid Library of Congress Subject Headings in this case|
-|                                                                    |                                                                    |
-+--------------------------------------------------------------------+--------------------------------------------------------------------+
-
 
 
 .. _nav-edit:
@@ -244,7 +195,8 @@ There are several links in the title bar and in the bottom-right corner of each 
 
 Validation and Helper-Tools
 ---------------------------
-There are a number of tools built into the system to make suggestions or highlight values that do not match expectations.
+There are a number of tools built into the system to make suggestions or highlight values that do not match expectations.  For example, if a field value seems wrong, the name will be highlighted in the sidecar along with a message explaining what needs to be checked.  :ref:`See examples <er-warnings>` of warning messages.
+
 
 Title-Case Button
 ^^^^^^^^^^^^^^^^^
@@ -262,34 +214,6 @@ There are a couple of things to keep in mind:
     
 -   Also check for letters that may be capitalized within tokens/words, e.g.: MCLEAN >> Mclean (McLean)
 
-
-Warning Messages
-^^^^^^^^^^^^^^^^
-For validation, if a field value seems wrong, the field will be highlighted in the sidecar along with a message explaining what needs to be checked:
-
-+-----------------------------------------------------------------------+
-| .. image:: ../_static/images/warning-1.png                            |
-|   :alt: Screenshot of a title-case warning                            |
-|                                                                       |
-| | This warning appears if a title, creator, contributor, or           |
-|   publisher value is more than 50% capitalized.                       |
-|                                                                       |
-| | In rare instances, these values may be correct                      |
-+-----------------------------------------------------------------------+
-| .. image:: ../_static/images/warning-2.png                            |
-|   :alt: Screenshot of a date warning                                  |
-|                                                                       |
-| | This warning appears if a value in the date or coverage date        |
-|   field does not conform to EDTF specifications (check guidelines     |
-|   for more info)                                                      |
-+-----------------------------------------------------------------------+
-| .. image:: ../_static/images/warning-3.png                            |
-|   :alt: Screenshot of a subject warning                               |
-|                                                                       |
-| | This warning appears if a subject value does not match the          |
-|   vocabulary qualifier -- this only works for vocabularies that       |
-|   have search modals                                                  |
-+-----------------------------------------------------------------------+
 
 Suggestion Tools & Modals
 ^^^^^^^^^^^^^^^^^^^^^^^^^
