@@ -6,7 +6,7 @@ Genre Terms for Tabletop Games
 
 *Version 2 (2024)*
 
-Download this vocabulary as a :download:`MARC file <../Tabletop_Game_Genres.mrc>`.
+Download this vocabulary as a MARC file from the `GitHub repository <https://github.com/unt-libraries/untl-metadata-documentation/blob/main/docs/vocab/Tabletop_Game_Genres.mrc>`_.
 
 +---------------------------------------------------------------------------------------+
 |Key:                                                                                   |
