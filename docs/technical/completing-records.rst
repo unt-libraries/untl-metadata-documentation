@@ -50,13 +50,13 @@ The primary goal when we create metadata in the Digital Collections is to help u
 **Where Should I Even Start?**
 
 -   This page gives a general overview of what you should think about when doing metadata
--   The :doc:`Quick-Start Guide <guides/quick-start-guide>` (also linked in the left menu) gives a summary of the most important things to know about every field
+-   The :doc:`Quick-Start Guide </guides/quick-start-guide>` (also linked in the left menu) gives a summary of the most important things to know about every field
 
 
 **How Do I Know When the Record is Done?**
 
 -   Generally, when you have entered all of the information you have available (and all placeholders are replaced or removed), you have finished the record
--   The page on :doc:`Reviewing Metadata Records <tools/reviewing>` provides information on how to check a record to see if anything is missing/incorrect (the summary view may be useful for this)
+-   The page on :doc:`Reviewing Metadata Records </tools/reviewing>` provides information on how to check a record to see if anything is missing/incorrect (the summary view may be useful for this)
 
 
 .. _cm-issues:
@@ -201,7 +201,7 @@ Some things to keep in mind:
 Helper Tools and Warning Messages
 =================================
 
-The :ref:`record summary view <nav-summ>`includes an overview with fields flagged that may need review.  Here are some examples of things that the system might identify as possible problems.
+The :ref:`record summary view <nav-summ>` includes an overview with fields flagged that may need review.  Here are some examples of things that the system might identify as possible problems.
 
 
 +--------------------------------------------------------------------+--------------------------------------------------------------------+
