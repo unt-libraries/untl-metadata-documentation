@@ -146,3 +146,7 @@ There are a number of tools built into the metadata editing system to assist wit
    /tools/editing
    /tools/reviewing
    
+
+
+
+* See the `source pages in GitHub <https://github.com/unt-libraries/untl-metadata-documentation/tree/main/docs>`_
