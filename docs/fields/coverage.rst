@@ -291,8 +291,11 @@ Historic Place Name
     so that users can still search the location in the coverage field
 -   Generally, historic place name(s) will be added in addition to coverage place value(s) that use
     the current version of the location's name
--   In some cases, it may be more appropriate to put the name in a keyword instead, such as the name for a body
-    of water (which is excluded from place names), even if it is a historic usage
+-   Historic place name values have the same scope as coverage places (e.g., no locations 
+    more specific than a city or town)
+
+    -   In some cases, it may be more appropriate to put the name in a keyword instead, such as the name for a body
+        of water (which is excluded from place names), even if it is a historic usage
 
 +-------------------------------------------------------------------------------+------------------------------------------------+
 |**Guidelines**                                                                 |**Examples**                                    |
